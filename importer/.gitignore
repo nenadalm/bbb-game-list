@@ -1,0 +1,3 @@
+/.cpcache/
+/resources/.cache/url/*
+!/resources/.cache/url/.gitkeep

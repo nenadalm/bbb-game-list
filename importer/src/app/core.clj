@@ -56,7 +56,7 @@
 
 (defn- enrich-games-with-name [games]
   (map (fn [game]
-         (assoc game :game/name (or (:com.bohemiaboardsandbrews/name game) (:name game))))
+         (assoc game :game/name (or (:com.boardgamegeek.boardgame/name game) (:name game))))
        games))
 
 (defn- bbb-games []

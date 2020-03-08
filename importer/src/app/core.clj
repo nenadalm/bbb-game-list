@@ -25,6 +25,8 @@
     :name (if (= (-> item :attrs :type) "primary")
             (assoc game :com.boardgamegeek.boardgame/name (-> item :attrs :value))
             game)
+    :minplaytime (assoc game :com.boardgamegeek.boardgame/min-play-time (Integer/valueOf (-> item :attrs :value)))
+    :maxplaytime (assoc game :com.boardgamegeek.boardgame/max-play-time (Integer/valueOf (-> item :attrs :value)))
     game))
 
 (defn- enrich-games-with-uuid [games]
@@ -78,7 +80,9 @@
    {}
    [:game/name
     :com.boardgamegeek.boardgame/min-players
-    :com.boardgamegeek.boardgame/max-players]))
+    :com.boardgamegeek.boardgame/max-players
+    :com.boardgamegeek.boardgame/min-play-time
+    :com.boardgamegeek.boardgame/max-play-time]))
 
 (defn- games->db [games]
   {:game-list/games (index-by :game/id games)

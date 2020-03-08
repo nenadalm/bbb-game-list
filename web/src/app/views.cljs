@@ -12,6 +12,14 @@
 (defn- max-players [data]
   (:com.boardgamegeek.boardgame/max-players data))
 
+(defn- min-play-time [data]
+  (when-let [x (:com.boardgamegeek.boardgame/min-play-time data)]
+    (str x " min.")))
+
+(defn- max-play-time [data]
+  (when-let [x (:com.boardgamegeek.boardgame/max-play-time data)]
+    (str x " min.")))
+
 (defn- thumbnail [data]
   (when-let [thumbnail (:com.boardgamegeek.boardgame/thumbnail data)]
     [:img {:src thumbnail}]))
@@ -42,7 +50,11 @@
    [:td
     [min-players data]]
    [:td
-    [max-players data]]])
+    [max-players data]]
+   [:td
+    [min-play-time data]]
+   [:td
+    [max-play-time data]]])
 
 (defn sortable-th [{:keys [text key sorting]}]
   (let [current-key-sorted (= key (:app/sort-key sorting))
@@ -73,6 +85,12 @@
                      :sorting sorting}]
        [sortable-th {:text "Max players"
                      :key :com.boardgamegeek.boardgame/max-players
+                     :sorting sorting}]
+       [sortable-th {:text "Min playing time"
+                     :key :com.boardgamegeek.boardgame/min-play-time
+                     :sorting sorting}]
+       [sortable-th {:text "Max playing time"
+                     :key :com.boardgamegeek.boardgame/max-play-time
                      :sorting sorting}]]]
      [:tbody
       (for [g @(re-frame/subscribe [::subsc/game-list])]

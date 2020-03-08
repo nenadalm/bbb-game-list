@@ -8,7 +8,7 @@
 (def ^:private games-list-url "http://bohemiaboardsandbrews.com/games/")
 
 (defn- doc->game-lists [doc]
-  (.select doc ".single_gl"))
+  (rest (.select doc ".single_gl")))
 
 (defn- game->name [game]
   (->> (.text game)

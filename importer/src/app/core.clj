@@ -1,7 +1,10 @@
 (ns app.core
   (:require
+   [clojure.pprint :as pp]
    [app.bbb :as bbb]
-   [app.bbg :as bbg])
+   [app.bbg :as bbg]
+   [app.pprint :refer [clojure-dispatch]]
+   [app.uuid :as uuid])
   (:import
    [org.jsoup Jsoup]))
 
@@ -24,6 +27,11 @@
             game)
     game))
 
+(defn- enrich-games-with-uuid [games]
+  (map (fn [game]
+         (assoc game :game/id (uuid/generate)))
+       games))
+
 (defn- enrich-games-with-id [games]
   (map (fn [game-info]
          (let [found (bbg/search-game (:name game-info))
@@ -44,10 +52,41 @@
            game))
        games))
 
+(defn- enrich-games-with-name [games]
+  (map (fn [game]
+         (assoc game :game/name (or (:com.bohemiaboardsandbrews/name game) (:name game))))
+       games))
+
 (defn- bbb-games []
   (-> (bbb/games)
+      enrich-games-with-uuid
       enrich-games-with-id
-      enrich-games-with-bbg-info))
+      enrich-games-with-bbg-info
+      enrich-games-with-name))
+
+(defn- index-by [f coll]
+  (reduce
+   (fn [m v]
+     (assoc m (f v) v))
+   {}
+   coll))
+
+(defn- games-sorting [games]
+  (reduce
+   (fn [m k]
+     (assoc m k (mapv :game/id (sort-by k games))))
+   {}
+   [:game/name
+    :com.boardgamegeek.boardgame/min-players
+    :com.boardgamegeek.boardgame/max-players]))
+
+(defn- games->db [games]
+  {:game-list/games (index-by :game/id games)
+   :game-list/sorting (games-sorting games)})
 
 (defn -main [& args]
-  (prn (bbb-games)))
+  (println "(ns app.data)")
+  (println "(def game-data")
+  (pp/with-pprint-dispatch clojure-dispatch
+    (pp/pprint (games->db (bbb-games))))
+  (println ")"))

@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "reset-css": "^5.0.1"
+  },
+  "devDependencies": {
+    "css-combine": "^1.0.0"
+  }
+}

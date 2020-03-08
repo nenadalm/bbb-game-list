@@ -4,10 +4,10 @@ Downloads game list http://bohemiaboardsandbrews.com/games/ and enriches it with
 
 ## Import data
 
-First you need to have [cli-tools](https://clojure.org/guides/getting_started#_installation_on_linux) installed. Then run following script to put game data into data.edn.
+First you need to have [cli-tools](https://clojure.org/guides/getting_started#_installation_on_linux) installed. Then run following script to put game data into data.cljs.
 
 ```clojure
-clj -m app.core > data.edn
+clj -m app.core > ../web/src/app/data.clj
 ```
 
 Note that all requests are cached indefinitely and in order to redownload something, cache has to be cleared using:

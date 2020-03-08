@@ -23,8 +23,8 @@ return reagent.dom.render.cljs$core$IFn$_invoke$arity$2(new cljs.core.Persistent
 app.core.init = (function app$core$init(){
 app.core.dev_setup();
 
-var G__13496_13497 = new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [cljs.core.cst$kw$app$events_SLASH_init,app.data.game_data], null);
-(re_frame.core.dispatch_sync.cljs$core$IFn$_invoke$arity$1 ? re_frame.core.dispatch_sync.cljs$core$IFn$_invoke$arity$1(G__13496_13497) : re_frame.core.dispatch_sync.call(null,G__13496_13497));
+var G__13498_13499 = new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [cljs.core.cst$kw$app$events_SLASH_init,app.data.game_data], null);
+(re_frame.core.dispatch_sync.cljs$core$IFn$_invoke$arity$1 ? re_frame.core.dispatch_sync.cljs$core$IFn$_invoke$arity$1(G__13498_13499) : re_frame.core.dispatch_sync.call(null,G__13498_13499));
 
 return app.core.mount_root();
 });

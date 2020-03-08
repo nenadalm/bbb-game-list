@@ -75,14 +75,14 @@
 
 (defn- games-sorting [games]
   (reduce
-   (fn [m k]
-     (assoc m k (mapv :game/id (sort-by k games))))
+   (fn [m [k keyfn]]
+     (assoc m k (mapv :game/id (sort-by keyfn games))))
    {}
-   [:game/name
-    :com.boardgamegeek.boardgame/min-players
-    :com.boardgamegeek.boardgame/max-players
-    :com.boardgamegeek.boardgame/min-play-time
-    :com.boardgamegeek.boardgame/max-play-time]))
+   [[:game/name (comp clojure.string/lower-case :game/name)]
+    [:com.boardgamegeek.boardgame/min-players :com.boardgamegeek.boardgame/min-players]
+    [:com.boardgamegeek.boardgame/max-players :com.boardgamegeek.boardgame/max-players]
+    [:com.boardgamegeek.boardgame/min-play-time :com.boardgamegeek.boardgame/min-play-time]
+    [:com.boardgamegeek.boardgame/max-play-time :com.boardgamegeek.boardgame/max-play-time]]))
 
 (defn- games->db [games]
   {:game-list/games (index-by :game/id games)

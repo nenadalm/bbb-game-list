@@ -18,14 +18,19 @@
   (->> (map game->name (.textNodes game-list))
        (filter seq)))
 
-(defn parse-languages [s]
+(defn- parse-languages [s]
   (map (comp clojure.string/lower-case clojure.string/trim)
        (clojure.string/split s #",")))
+
+(defn- parse-name [s]
+  (-> s
+      (as-> s (clojure.string/trim (re-find (re-matcher #"^[^\(]+" s))))
+      (clojure.string/replace #"′" "'")))
 
 (defn game-name->game-info [name]
   (if-let [groups (re-find (re-matcher #"^(?<name>.+?)(?: \((?<languages>[^\)]+)\))?$" name))]
     (let [[_ pre-parsed-name languages] groups
-          parsed-name (clojure.string/trim (re-find (re-matcher #"^[^\(]+" pre-parsed-name)))]
+          parsed-name (parse-name pre-parsed-name)]
       (cond-> {:com.bohemiaboardsandbrews/name name
                :name parsed-name}
         languages (assoc :languages (parse-languages languages))))

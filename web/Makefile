@@ -1,5 +1,8 @@
 .DEFAULT_GOAL := all
 
+src/app/data.cljs:
+	cd ../importer && clj -m app.core > ../web/$@
+
 resources/public/css/styles.css: resources/private/css/styles.css
 	mkdir -p $(dir $@)
 	./node_modules/.bin/css-combine $^ > $@

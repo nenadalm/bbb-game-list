@@ -1,4 +1,4 @@
-(ns app.bbg
+(ns app.bgg
   (:require
    [clojure.java.io]
    [clojure.xml]

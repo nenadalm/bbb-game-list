@@ -2,7 +2,7 @@
   (:require
    [clojure.pprint :as pp]
    [app.bbb :as bbb]
-   [app.bbg :as bbg]
+   [app.bgg :as bgg]
    [app.pprint :refer [clojure-dispatch]]
    [app.uuid :as uuid])
   (:import
@@ -34,16 +34,16 @@
 
 (defn- enrich-games-with-id [games]
   (map (fn [game-info]
-         (let [found (bbg/search-game (:name game-info))
+         (let [found (bgg/search-game (:name game-info))
                id (game-id found)]
            (cond-> game-info
              id (assoc :com.boardgamegeek.boardgame/id id))))
        games))
 
-(defn- enrich-games-with-bbg-info [games]
+(defn- enrich-games-with-bgg-info [games]
   (map (fn [game]
          (if-let [game-id (:com.boardgamegeek.boardgame/id game)]
-           (let [response (bbg/game-details game-id)
+           (let [response (bgg/game-details game-id)
                  details (get-in response [:content 0 :content])]
              (reduce
               add-game-details
@@ -61,7 +61,7 @@
   (-> (bbb/games)
       enrich-games-with-uuid
       enrich-games-with-id
-      enrich-games-with-bbg-info
+      enrich-games-with-bgg-info
       enrich-games-with-name))
 
 (defn- index-by [f coll]

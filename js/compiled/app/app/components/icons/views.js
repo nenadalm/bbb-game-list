@@ -23,6 +23,26 @@ case "fr":
 return "i-country-fr";
 
 break;
+case "pl":
+return "i-country-pl";
+
+break;
+case "de":
+return "i-country-de";
+
+break;
+case "it":
+return "i-country-it";
+
+break;
+case "ne":
+return "i-country-ne";
+
+break;
+case "ru":
+return "i-country-ru";
+
+break;
 default:
 return null;
 

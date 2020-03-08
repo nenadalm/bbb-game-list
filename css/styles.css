@@ -152,6 +152,16 @@ td {
   content: '\1f1e8 \1f1ff';
 }.i-country-fr::before {
   content: '\1f1eb \1f1f7';
+}.i-country-it::before {
+  content: '\1f1ee \1f1f9';
+}.i-country-de::before {
+  content: '\1f1e9 \1f1ea';
+}.i-country-ne::before {
+  content: '\1f1f3 \1f1ea';
+}.i-country-ru::before {
+  content: '\1f1f7 \1f1fa';
+}.i-country-pl::before {
+  content: '\1f1f5 \1f1f1';
 }.footer {
   margin: 2em auto;
   display: table;

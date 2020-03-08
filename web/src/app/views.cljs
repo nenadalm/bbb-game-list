@@ -1,6 +1,7 @@
 (ns app.views
   (:require
    [re-frame.core :as re-frame]
+   [goog.string :refer [unescapeEntities]]
    [app.subs :as subsc]
    [app.events :as events]
    [app.components.icons.views :as i]))
@@ -15,6 +16,14 @@
   (when-let [thumbnail (:com.boardgamegeek.boardgame/thumbnail data)]
     [:img {:src thumbnail}]))
 
+(defn- languages [data]
+  (when-let [languages (:languages data)]
+    (into [:<> "Languages: "]
+          (interpose (unescapeEntities "&nbsp;")
+                     (map (fn [lang]
+                            [i/language lang])
+                          languages)))))
+
 (defn- title [data]
   (if-let [bbg-title (:com.boardgamegeek.boardgame/name data)]
     [:a {:href (str "https://boardgamegeek.com/boardgame/" (:com.boardgamegeek.boardgame/id data))}
@@ -26,7 +35,10 @@
    [:td
     [thumbnail data]]
    [:td
-    [title data]]
+    [title data]
+    [:br]
+    [:br]
+    [languages data]]
    [:td
     [min-players data]]
    [:td

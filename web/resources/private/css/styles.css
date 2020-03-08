@@ -39,6 +39,18 @@ td {
     content: '\2193';
 }
 
+.i-country-us::before {
+    content: '\1f1fa \1f1f8';
+}
+
+.i-country-cz::before {
+    content: '\1f1e8 \1f1ff';
+}
+
+.i-country-fr::before {
+    content: '\1f1eb \1f1f7';
+}
+
 .footer {
     margin: 2em auto;
     display: table;

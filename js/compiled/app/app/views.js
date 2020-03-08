@@ -52,12 +52,12 @@ return null;
 }
 });
 app.views.title = (function app$views$title(data){
-var temp__5733__auto__ = cljs.core.cst$kw$com$boardgamegeek$boardgame_SLASH_name.cljs$core$IFn$_invoke$arity$1(data);
+var temp__5733__auto__ = cljs.core.cst$kw$com$boardgamegeek$boardgame_SLASH_id.cljs$core$IFn$_invoke$arity$1(data);
 if(cljs.core.truth_(temp__5733__auto__)){
-var bbg_title = temp__5733__auto__;
-return new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [cljs.core.cst$kw$a,new cljs.core.PersistentArrayMap(null, 1, [cljs.core.cst$kw$href,["https://boardgamegeek.com/boardgame/",cljs.core.str.cljs$core$IFn$_invoke$arity$1(cljs.core.cst$kw$com$boardgamegeek$boardgame_SLASH_id.cljs$core$IFn$_invoke$arity$1(data))].join('')], null),bbg_title], null);
+var bgg_id = temp__5733__auto__;
+return new cljs.core.PersistentVector(null, 3, 5, cljs.core.PersistentVector.EMPTY_NODE, [cljs.core.cst$kw$a,new cljs.core.PersistentArrayMap(null, 1, [cljs.core.cst$kw$href,["https://boardgamegeek.com/boardgame/",cljs.core.str.cljs$core$IFn$_invoke$arity$1(bgg_id)].join('')], null),cljs.core.cst$kw$game_SLASH_name.cljs$core$IFn$_invoke$arity$1(data)], null);
 } else {
-return cljs.core.cst$kw$name.cljs$core$IFn$_invoke$arity$1(data);
+return cljs.core.cst$kw$game_SLASH_name.cljs$core$IFn$_invoke$arity$1(data);
 }
 });
 app.views.game = (function app$views$game(data){

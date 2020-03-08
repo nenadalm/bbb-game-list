@@ -33,10 +33,10 @@
                           languages)))))
 
 (defn- title [data]
-  (if-let [bbg-title (:com.boardgamegeek.boardgame/name data)]
-    [:a {:href (str "https://boardgamegeek.com/boardgame/" (:com.boardgamegeek.boardgame/id data))}
-     bbg-title]
-    (:name data)))
+  (if-let [bgg-id (:com.boardgamegeek.boardgame/id data)]
+    [:a {:href (str "https://boardgamegeek.com/boardgame/" bgg-id)}
+     (:game/name data)]
+    (:game/name data)))
 
 (defn- game [data]
   [:tr

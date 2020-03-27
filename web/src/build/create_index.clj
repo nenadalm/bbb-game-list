@@ -21,10 +21,10 @@
   (str
    "<!doctype html>
 <html>
-  <head>
+  <head lang=\"en-US\">
     <meta charset=\"utf-8\">
     <title>Games - Bohemia boards and brews</title>
-    <link rel=\"stylesheet\" href=\"" (asset "css/styles.css") "\"></link>
+    <link rel=\"stylesheet\" href=\"" (asset "css/styles.css") "\">
   </head>
   <body>
     <div id=\"app\"></div>

@@ -20,8 +20,8 @@
 (defn- render []
   (str
    "<!doctype html>
-<html>
-  <head lang=\"en-US\">
+<html lang=\"en-US\">
+  <head>
     <meta charset=\"utf-8\">
     <title>Games - Bohemia boards and brews</title>
     <link rel=\"stylesheet\" href=\"" (asset "css/styles.css") "\">

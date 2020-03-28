@@ -1,17 +1,17 @@
 .DEFAULT_GOAL := all
 
 src/app/data.cljs:
-	cd ../importer && clj -m app.core > ../web/$@
+	cd ../importer && clojure -m app.core > ../web/$@
 
 resources/public/css/styles.css: resources/private/css/styles.css
 	mkdir -p $(dir $@)
 	./node_modules/.bin/css-combine $^ > $@
 
 resources/public/js/app.js:
-	clj -m figwheel.main -bo min
+	clojure -m figwheel.main -bo min
 
 resources/public/index.html: resources/public/js/app.js resources/public/css/styles.css
-	clj -m build.create-index > $@
+	clojure -m build.create-index > $@
 
 .PHONY: clean
 clean:

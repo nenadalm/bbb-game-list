@@ -1,0 +1,30 @@
+language: clojure
+
+env:
+  CLI_TOOLS_VERSION: '1.10.1.536'
+
+jobs:
+  include:
+    - stage: deploy
+      before_install:
+        # cli tools
+        - |
+          curl -O https://download.clojure.org/install/linux-install-${CLI_TOOLS_VERSION}.sh
+          chmod +x linux-install-${CLI_TOOLS_VERSION}.sh
+          sudo ./linux-install-${CLI_TOOLS_VERSION}.sh
+
+        - 'npm install -g yarn'
+      install:
+        - 'cd web'
+        - 'yarn install'
+        - 'clojure -Stree'
+      script:
+        - 'make'
+      deploy:
+        provider: pages
+        skip-cleanup: true
+        github-token: $GITHUB_TOKEN
+        keep-history: true
+        local-dir: web/resources/public
+        on:
+          branch: master

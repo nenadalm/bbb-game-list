@@ -100,8 +100,13 @@
   [:<>
    [game-list]
    [:div.footer
-    "Listed games are taken from "
-    [:a {:href "http://bohemiaboardsandbrews.com/games/"} "bohemiaboardsandbrews.com"]
-    " enriched with info from "
-    [:a {:href "https://boardgamegeek.com/"} "boardgamegeek.com"]
-    "."]])
+    [:p
+     "You can report bugs and request new features on  "
+     [:a {:href "https://github.com/nenadalm/bbb-game-list/issues/new"} "GitHub"]
+     "."]
+    [:p
+     "Listed games are taken from "
+     [:a {:href "http://bohemiaboardsandbrews.com/games/"} "bohemiaboardsandbrews.com"]
+     " enriched with info from "
+     [:a {:href "https://boardgamegeek.com/"} "boardgamegeek.com"]
+     "."]]])

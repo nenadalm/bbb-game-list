@@ -165,4 +165,5 @@ td {
 }.footer {
   margin: 2em auto;
   display: table;
+  text-align: center;
 }

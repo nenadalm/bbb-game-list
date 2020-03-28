@@ -300,6 +300,7 @@ cljs.core.cst$sym$off = new cljs.core.Symbol(null,"off","off",-2047994980,null);
 cljs.core.cst$kw$log = new cljs.core.Keyword(null,"log","log",-1595516004);
 cljs.core.cst$sym$auto_DASH_run = new cljs.core.Symbol(null,"auto-run","auto-run",-696035332,null);
 cljs.core.cst$sym$stack = new cljs.core.Symbol(null,"stack","stack",847125597,null);
+cljs.core.cst$kw$p = new cljs.core.Keyword(null,"p","p",151049309);
 cljs.core.cst$kw$re_DASH_frame$std_DASH_interceptors_SLASH_untrimmed_DASH_event = new cljs.core.Keyword("re-frame.std-interceptors","untrimmed-event","re-frame.std-interceptors/untrimmed-event",-840935075);
 cljs.core.cst$sym$transient_DASH_map = new cljs.core.Symbol(null,"transient-map","transient-map",351764893,null);
 cljs.core.cst$kw$map = new cljs.core.Keyword(null,"map","map",1371690461);

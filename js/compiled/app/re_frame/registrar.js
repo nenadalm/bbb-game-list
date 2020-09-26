@@ -1,14 +1,15 @@
-// Compiled by ClojureScript 1.10.597 {:static-fns true, :optimize-constants true}
+// Compiled by ClojureScript 1.10.773 {:static-fns true, :optimize-constants true}
 goog.provide('re_frame.registrar');
 goog.require('cljs.core');
 goog.require('cljs.core.constants');
 goog.require('re_frame.interop');
 goog.require('re_frame.loggers');
+goog.require('re_frame.settings');
 re_frame.registrar.kinds = new cljs.core.PersistentHashSet(null, new cljs.core.PersistentArrayMap(null, 4, [cljs.core.cst$kw$sub,null,cljs.core.cst$kw$event,null,cljs.core.cst$kw$cofx,null,cljs.core.cst$kw$fx,null], null), null);
 re_frame.registrar.kind__GT_id__GT_handler = cljs.core.atom.cljs$core$IFn$_invoke$arity$1(cljs.core.PersistentArrayMap.EMPTY);
 re_frame.registrar.get_handler = (function re_frame$registrar$get_handler(var_args){
-var G__13007 = arguments.length;
-switch (G__13007) {
+var G__13524 = arguments.length;
+switch (G__13524) {
 case 1:
 return re_frame.registrar.get_handler.cljs$core$IFn$_invoke$arity$1((arguments[(0)]));
 
@@ -38,11 +39,11 @@ return cljs.core.get.cljs$core$IFn$_invoke$arity$2(cljs.core.get.cljs$core$IFn$_
 (re_frame.registrar.get_handler.cljs$core$IFn$_invoke$arity$3 = (function (kind,id,required_QMARK_){
 var handler = re_frame.registrar.get_handler.cljs$core$IFn$_invoke$arity$2(kind,id);
 if(re_frame.interop.debug_enabled_QMARK_){
-if(cljs.core.truth_((function (){var and__4174__auto__ = required_QMARK_;
-if(cljs.core.truth_(and__4174__auto__)){
+if(cljs.core.truth_((function (){var and__4115__auto__ = required_QMARK_;
+if(cljs.core.truth_(and__4115__auto__)){
 return (handler == null);
 } else {
-return and__4174__auto__;
+return and__4115__auto__;
 }
 })())){
 re_frame.loggers.console.cljs$core$IFn$_invoke$arity$variadic(cljs.core.cst$kw$error,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2(["re-frame: no",cljs.core.str.cljs$core$IFn$_invoke$arity$1(kind),"handler registered for:",id], 0));
@@ -58,7 +59,7 @@ return handler;
 
 re_frame.registrar.register_handler = (function re_frame$registrar$register_handler(kind,id,handler_fn){
 if(re_frame.interop.debug_enabled_QMARK_){
-if(cljs.core.truth_(re_frame.registrar.get_handler.cljs$core$IFn$_invoke$arity$3(kind,id,false))){
+if(cljs.core.truth_(((cljs.core.not(re_frame.settings.loaded_QMARK_()))?re_frame.registrar.get_handler.cljs$core$IFn$_invoke$arity$3(kind,id,false):false))){
 re_frame.loggers.console.cljs$core$IFn$_invoke$arity$variadic(cljs.core.cst$kw$warn,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2(["re-frame: overwriting",cljs.core.str.cljs$core$IFn$_invoke$arity$1(kind),"handler for:",id], 0));
 } else {
 }
@@ -70,8 +71,8 @@ cljs.core.swap_BANG_.cljs$core$IFn$_invoke$arity$4(re_frame.registrar.kind__GT_i
 return handler_fn;
 });
 re_frame.registrar.clear_handlers = (function re_frame$registrar$clear_handlers(var_args){
-var G__13010 = arguments.length;
-switch (G__13010) {
+var G__13527 = arguments.length;
+switch (G__13527) {
 case 0:
 return re_frame.registrar.clear_handlers.cljs$core$IFn$_invoke$arity$0();
 

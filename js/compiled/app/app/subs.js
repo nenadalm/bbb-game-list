@@ -1,10 +1,9 @@
-// Compiled by ClojureScript 1.10.597 {:static-fns true, :optimize-constants true}
+// Compiled by ClojureScript 1.10.773 {:static-fns true, :optimize-constants true}
 goog.provide('app.subs');
 goog.require('cljs.core');
 goog.require('cljs.core.constants');
 goog.require('re_frame.core');
-var G__13457_13459 = cljs.core.cst$kw$app$subs_SLASH_game_DASH_list;
-var G__13458_13460 = (function (db,_){
+re_frame.core.reg_sub.cljs$core$IFn$_invoke$arity$variadic(cljs.core.cst$kw$app$subs_SLASH_game_DASH_list,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([(function (db,_){
 var sort_key = cljs.core.cst$kw$app_SLASH_sort_DASH_key.cljs$core$IFn$_invoke$arity$1(db);
 var sort_dir = cljs.core.cst$kw$app_SLASH_sort_DASH_dir.cljs$core$IFn$_invoke$arity$1(db);
 var asc_ordered_ids = cljs.core.get_in.cljs$core$IFn$_invoke$arity$2(db,new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [cljs.core.cst$kw$game_DASH_list_SLASH_sorting,sort_key], null));
@@ -19,10 +18,7 @@ console.error("Cannot sort games properly.");
 
 return cljs.core.vals(games);
 }
-});
-(re_frame.core.reg_sub.cljs$core$IFn$_invoke$arity$2 ? re_frame.core.reg_sub.cljs$core$IFn$_invoke$arity$2(G__13457_13459,G__13458_13460) : re_frame.core.reg_sub.call(null,G__13457_13459,G__13458_13460));
-var G__13461_13463 = cljs.core.cst$kw$app$subs_SLASH_sorting;
-var G__13462_13464 = (function (db,_){
+})], 0));
+re_frame.core.reg_sub.cljs$core$IFn$_invoke$arity$variadic(cljs.core.cst$kw$app$subs_SLASH_sorting,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([(function (db,_){
 return cljs.core.select_keys(db,new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [cljs.core.cst$kw$app_SLASH_sort_DASH_dir,cljs.core.cst$kw$app_SLASH_sort_DASH_key], null));
-});
-(re_frame.core.reg_sub.cljs$core$IFn$_invoke$arity$2 ? re_frame.core.reg_sub.cljs$core$IFn$_invoke$arity$2(G__13461_13463,G__13462_13464) : re_frame.core.reg_sub.call(null,G__13461_13463,G__13462_13464));
+})], 0));

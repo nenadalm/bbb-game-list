@@ -1,4 +1,4 @@
-// Compiled by ClojureScript 1.10.597 {:static-fns true, :optimize-constants true}
+// Compiled by ClojureScript 1.10.773 {:static-fns true, :optimize-constants true}
 goog.provide('app.data');
 goog.require('cljs.core');
 goog.require('cljs.core.constants');

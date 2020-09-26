@@ -1,4 +1,4 @@
-// Compiled by ClojureScript 1.10.597 {:static-fns true, :optimize-constants true}
+// Compiled by ClojureScript 1.10.773 {:static-fns true, :optimize-constants true}
 goog.provide('app.components.icons.views');
 goog.require('cljs.core');
 goog.require('cljs.core.constants');
@@ -9,8 +9,8 @@ app.components.icons.views.arrow_down = (function app$components$icons$views$arr
 return new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [cljs.core.cst$kw$span$i_DASH_arrow_DASH_down], null);
 });
 app.components.icons.views.language = (function app$components$icons$views$language(s){
-var class$ = (function (){var G__13477 = s;
-switch (G__13477) {
+var class$ = (function (){var G__14080 = s;
+switch (G__14080) {
 case "cz":
 return "i-country-cz";
 

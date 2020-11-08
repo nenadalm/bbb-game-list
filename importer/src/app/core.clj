@@ -86,9 +86,10 @@
     [:com.boardgamegeek.boardgame/max-play-time :com.boardgamegeek.boardgame/max-play-time]]))
 
 (defn- games->db [games]
-  {:game-list/games (into (priority-map/priority-map-keyfn :game/name)
-                          (index-by :game/id games))
-   :game-list/sorting (games-sorting games)})
+  (let [games-list (into (priority-map/priority-map-keyfn :game/name)
+                         (index-by :game/id games))]
+    {:game-list/games games-list
+     :game-list/sorting (games-sorting (vals games-list))}))
 
 (defn -main [& args]
   (println "(ns app.data)")

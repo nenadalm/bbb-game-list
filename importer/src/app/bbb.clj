@@ -31,8 +31,9 @@
   (if-let [groups (re-find (re-matcher #"^(?<name>.+?)(?: \((?<languages>[^\)]+)\))?$" name))]
     (let [[_ pre-parsed-name languages] groups
           parsed-name (parse-name pre-parsed-name)]
-      (cond-> {:com.bohemiaboardsandbrews/name name
-               :name parsed-name}
+      (cond-> (sorted-map
+               :com.bohemiaboardsandbrews/name name
+               :name parsed-name)
         languages (assoc :languages (parse-languages languages))))
     (throw (ex-info "Cannot parse game." {:name name}))))
 

@@ -4,7 +4,8 @@
    [app.bbb :as bbb]
    [app.bgg :as bgg]
    [app.pprint :refer [clojure-dispatch]]
-   [app.uuid :as uuid])
+   [app.uuid :as uuid]
+   [clojure.data.priority-map :as priority-map])
   (:import
    [org.jsoup Jsoup]))
 
@@ -85,7 +86,8 @@
     [:com.boardgamegeek.boardgame/max-play-time :com.boardgamegeek.boardgame/max-play-time]]))
 
 (defn- games->db [games]
-  {:game-list/games (index-by :game/id games)
+  {:game-list/games (into (priority-map/priority-map-keyfn :game/name)
+                          (index-by :game/id games))
    :game-list/sorting (games-sorting games)})
 
 (defn -main [& args]

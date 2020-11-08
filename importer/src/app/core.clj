@@ -32,7 +32,7 @@
 
 (defn- enrich-games-with-uuid [games]
   (map (fn [game]
-         (assoc game :game/id (uuid/generate)))
+         (assoc game :game/id (uuid/from-string (:game/name game))))
        games))
 
 (defn- enrich-games-with-id [games]
@@ -62,10 +62,10 @@
 
 (defn- bbb-games []
   (-> (bbb/games)
-      enrich-games-with-uuid
       enrich-games-with-id
       enrich-games-with-bgg-info
-      enrich-games-with-name))
+      enrich-games-with-name
+      enrich-games-with-uuid))
 
 (defn- index-by [f coll]
   (reduce

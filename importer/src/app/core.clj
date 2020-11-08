@@ -30,42 +30,38 @@
     :maxplaytime (assoc game :com.boardgamegeek.boardgame/max-play-time (Integer/valueOf (-> item :attrs :value)))
     game))
 
-(defn- enrich-games-with-uuid [games]
-  (map (fn [game]
-         (assoc game :game/id (uuid/from-string (:game/name game))))
-       games))
+(defn- enrich-game-with-uuid [game]
+  (assoc game :game/id (uuid/from-string (:game/name game))))
 
-(defn- enrich-games-with-id [games]
-  (map (fn [game-info]
-         (let [found (bgg/search-game (:name game-info))
-               id (game-id found)]
-           (cond-> game-info
-             id (assoc :com.boardgamegeek.boardgame/id id))))
-       games))
+(defn- enrich-game-with-id [game]
+  (let [found (bgg/search-game (:name game))
+        id (game-id found)]
+    (cond-> game
+      id (assoc :com.boardgamegeek.boardgame/id id))))
 
-(defn- enrich-games-with-bgg-info [games]
-  (map (fn [game]
-         (if-let [game-id (:com.boardgamegeek.boardgame/id game)]
-           (let [response (bgg/game-details game-id)
-                 details (get-in response [:content 0 :content])]
-             (reduce
-              add-game-details
-              game
-              details))
-           game))
-       games))
+(defn- enrich-game-with-bgg-info [game]
+  (if-let [game-id (:com.boardgamegeek.boardgame/id game)]
+    (let [response (bgg/game-details game-id)
+          details (get-in response [:content 0 :content])]
+      (reduce
+       add-game-details
+       game
+       details))
+    game))
 
-(defn- enrich-games-with-name [games]
-  (map (fn [game]
-         (assoc game :game/name (or (:com.boardgamegeek.boardgame/name game) (:name game))))
-       games))
+(defn- enrich-game-with-name [game]
+  (assoc game :game/name (or (:com.boardgamegeek.boardgame/name game) (:name game))))
+
+(defn- enrich-game [name]
+  (-> name
+      enrich-game-with-id
+      enrich-game-with-bgg-info
+      enrich-game-with-name
+      enrich-game-with-uuid))
 
 (defn- bbb-games []
-  (-> (bbb/games)
-      enrich-games-with-id
-      enrich-games-with-bgg-info
-      enrich-games-with-name
-      enrich-games-with-uuid))
+  (->> (bbb/games)
+       (mapv enrich-game)))
 
 (defn- index-by [f coll]
   (reduce

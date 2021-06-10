@@ -1,49 +1,14 @@
-// Copyright 2006 The Closure Library Authors. All Rights Reserved.
-//
-// Licensed under the Apache License, Version 2.0 (the "License");
-// you may not use this file except in compliance with the License.
-// You may obtain a copy of the License at
-//
-//      http://www.apache.org/licenses/LICENSE-2.0
-//
-// Unless required by applicable law or agreed to in writing, software
-// distributed under the License is distributed on an "AS-IS" BASIS,
-// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-// See the License for the specific language governing permissions and
-// limitations under the License.
+/**
+ * @license
+ * Copyright The Closure Library Authors.
+ * SPDX-License-Identifier: Apache-2.0
+ */
 
 /**
  * @fileoverview Utilities for manipulating objects/maps/hashes.
- * @author arv@google.com (Erik Arvidsson)
  */
 
 goog.provide('goog.object');
-
-
-/**
- * Whether two values are not observably distinguishable. This
- * correctly detects that 0 is not the same as -0 and two NaNs are
- * practically equivalent.
- *
- * The implementation is as suggested by harmony:egal proposal.
- *
- * @param {*} v The first value to compare.
- * @param {*} v2 The second value to compare.
- * @return {boolean} Whether two values are not observably distinguishable.
- * @see http://wiki.ecmascript.org/doku.php?id=harmony:egal
- */
-goog.object.is = function(v, v2) {
-  if (v === v2) {
-    // 0 === -0, but they are not identical.
-    // We need the cast because the compiler requires that v2 is a
-    // number (although 1/v2 works with non-number). We cast to ? to
-    // stop the compiler from type-checking this statement.
-    return v !== 0 || 1 / v === 1 / /** @type {?} */ (v2);
-  }
-
-  // NaN is non-reflexive: NaN !== NaN, although they are identical.
-  return v !== v && v2 !== v2;
-};
 
 
 /**
@@ -57,6 +22,7 @@ goog.object.is = function(v, v2) {
  * @template T,K,V
  */
 goog.object.forEach = function(obj, f, opt_obj) {
+  'use strict';
   for (const key in obj) {
     f.call(/** @type {?} */ (opt_obj), obj[key], key, obj);
   }
@@ -80,6 +46,7 @@ goog.object.forEach = function(obj, f, opt_obj) {
  * @template T,K,V
  */
 goog.object.filter = function(obj, f, opt_obj) {
+  'use strict';
   const res = {};
   for (const key in obj) {
     if (f.call(/** @type {?} */ (opt_obj), obj[key], key, obj)) {
@@ -105,6 +72,7 @@ goog.object.filter = function(obj, f, opt_obj) {
  * @template T,K,V,R
  */
 goog.object.map = function(obj, f, opt_obj) {
+  'use strict';
   const res = {};
   for (const key in obj) {
     res[key] = f.call(/** @type {?} */ (opt_obj), obj[key], key, obj);
@@ -128,6 +96,7 @@ goog.object.map = function(obj, f, opt_obj) {
  * @template T,K,V
  */
 goog.object.some = function(obj, f, opt_obj) {
+  'use strict';
   for (const key in obj) {
     if (f.call(/** @type {?} */ (opt_obj), obj[key], key, obj)) {
       return true;
@@ -152,6 +121,7 @@ goog.object.some = function(obj, f, opt_obj) {
  * @template T,K,V
  */
 goog.object.every = function(obj, f, opt_obj) {
+  'use strict';
   for (const key in obj) {
     if (!f.call(/** @type {?} */ (opt_obj), obj[key], key, obj)) {
       return false;
@@ -169,6 +139,7 @@ goog.object.every = function(obj, f, opt_obj) {
  * @return {number} The number of key-value pairs in the object map.
  */
 goog.object.getCount = function(obj) {
+  'use strict';
   let rv = 0;
   for (const key in obj) {
     rv++;
@@ -186,6 +157,7 @@ goog.object.getCount = function(obj) {
  * @return {string|undefined} The key or undefined if the object is empty.
  */
 goog.object.getAnyKey = function(obj) {
+  'use strict';
   for (const key in obj) {
     return key;
   }
@@ -202,6 +174,7 @@ goog.object.getAnyKey = function(obj) {
  * @template K,V
  */
 goog.object.getAnyValue = function(obj) {
+  'use strict';
   for (const key in obj) {
     return obj[key];
   }
@@ -218,6 +191,7 @@ goog.object.getAnyValue = function(obj) {
  * @template K,V
  */
 goog.object.contains = function(obj, val) {
+  'use strict';
   return goog.object.containsValue(obj, val);
 };
 
@@ -230,6 +204,7 @@ goog.object.contains = function(obj, val) {
  * @template K,V
  */
 goog.object.getValues = function(obj) {
+  'use strict';
   const res = [];
   let i = 0;
   for (const key in obj) {
@@ -246,6 +221,7 @@ goog.object.getValues = function(obj) {
  * @return {!Array<string>} Array of property keys.
  */
 goog.object.getKeys = function(obj) {
+  'use strict';
   const res = [];
   let i = 0;
   for (const key in obj) {
@@ -269,6 +245,7 @@ goog.object.getKeys = function(obj) {
  *     in the current object is null or undefined, returns undefined.
  */
 goog.object.getValueByKeys = function(obj, var_args) {
+  'use strict';
   const isArrayLike = goog.isArrayLike(var_args);
   const keys = isArrayLike ?
       /** @type {!IArrayLike<number|string>} */ (var_args) :
@@ -292,6 +269,7 @@ goog.object.getValueByKeys = function(obj, var_args) {
  * @return {boolean} true If the map contains the key.
  */
 goog.object.containsKey = function(obj, key) {
+  'use strict';
   return obj !== null && key in obj;
 };
 
@@ -305,6 +283,7 @@ goog.object.containsKey = function(obj, key) {
  * @template K,V
  */
 goog.object.containsValue = function(obj, val) {
+  'use strict';
   for (const key in obj) {
     if (obj[key] == val) {
       return true;
@@ -327,6 +306,7 @@ goog.object.containsValue = function(obj, val) {
  * @template T,K,V
  */
 goog.object.findKey = function(obj, f, opt_this) {
+  'use strict';
   for (const key in obj) {
     if (f.call(/** @type {?} */ (opt_this), obj[key], key, obj)) {
       return key;
@@ -349,6 +329,7 @@ goog.object.findKey = function(obj, f, opt_this) {
  * @template T,K,V
  */
 goog.object.findValue = function(obj, f, opt_this) {
+  'use strict';
   const key = goog.object.findKey(obj, f, opt_this);
   return key && obj[key];
 };
@@ -361,6 +342,7 @@ goog.object.findValue = function(obj, f, opt_this) {
  * @return {boolean} true if obj is empty.
  */
 goog.object.isEmpty = function(obj) {
+  'use strict';
   for (const key in obj) {
     return false;
   }
@@ -374,6 +356,7 @@ goog.object.isEmpty = function(obj) {
  * @param {Object} obj The object to clear.
  */
 goog.object.clear = function(obj) {
+  'use strict';
   for (const i in obj) {
     delete obj[i];
   }
@@ -388,6 +371,7 @@ goog.object.clear = function(obj) {
  * @return {boolean} Whether an element was removed.
  */
 goog.object.remove = function(obj, key) {
+  'use strict';
   let rv;
   if (rv = key in /** @type {!Object} */ (obj)) {
     delete obj[key];
@@ -406,6 +390,7 @@ goog.object.remove = function(obj, key) {
  * @template K,V
  */
 goog.object.add = function(obj, key, val) {
+  'use strict';
   if (obj !== null && key in obj) {
     throw new Error('The object already contains the key "' + key + '"');
   }
@@ -424,6 +409,7 @@ goog.object.add = function(obj, key, val) {
  * @template K,V,R
  */
 goog.object.get = function(obj, key, opt_val) {
+  'use strict';
   if (obj !== null && key in obj) {
     return obj[key];
   }
@@ -440,6 +426,7 @@ goog.object.get = function(obj, key, opt_val) {
  * @template K,V
  */
 goog.object.set = function(obj, key, value) {
+  'use strict';
   obj[key] = value;
 };
 
@@ -454,6 +441,7 @@ goog.object.set = function(obj, key, value) {
  * @template K,V
  */
 goog.object.setIfUndefined = function(obj, key, value) {
+  'use strict';
   return key in /** @type {!Object} */ (obj) ? obj[key] : (obj[key] = value);
 };
 
@@ -474,6 +462,7 @@ goog.object.setIfUndefined = function(obj, key, value) {
  * @template K,V
  */
 goog.object.setWithReturnValueIfNotSet = function(obj, key, f) {
+  'use strict';
   if (key in obj) {
     return obj[key];
   }
@@ -493,6 +482,7 @@ goog.object.setWithReturnValueIfNotSet = function(obj, key, f) {
  * @template K,V
  */
 goog.object.equals = function(a, b) {
+  'use strict';
   for (const k in a) {
     if (!(k in b) || a[k] !== b[k]) {
       return false;
@@ -515,15 +505,12 @@ goog.object.equals = function(a, b) {
  * @template K,V
  */
 goog.object.clone = function(obj) {
-  // We cannot use the prototype trick because a lot of methods depend on where
-  // the actual key is set.
-
+  'use strict';
   const res = {};
   for (const key in obj) {
     res[key] = obj[key];
   }
   return res;
-  // We could also use goog.mixin but I wanted this to be independent from that.
 };
 
 
@@ -543,19 +530,19 @@ goog.object.clone = function(obj) {
  * @template T
  */
 goog.object.unsafeClone = function(obj) {
-  const type = goog.typeOf(obj);
-  if (type == 'object' || type == 'array') {
-    if (goog.isFunction(obj.clone)) {
-      return obj.clone();
-    }
-    const clone = type == 'array' ? [] : {};
-    for (const key in obj) {
-      clone[key] = goog.object.unsafeClone(obj[key]);
-    }
-    return clone;
+  'use strict';
+  if (!obj || typeof obj !== 'object') return obj;
+  if (typeof obj.clone === 'function') return obj.clone();
+  const clone = Array.isArray(obj) ? [] :
+      typeof ArrayBuffer === 'function' &&
+          typeof ArrayBuffer.isView === 'function' && ArrayBuffer.isView(obj) &&
+          !(obj instanceof DataView) ?
+                                     new obj.constructor(obj.length) :
+                                     {};
+  for (const key in obj) {
+    clone[key] = goog.object.unsafeClone(obj[key]);
   }
-
-  return obj;
+  return clone;
 };
 
 
@@ -568,6 +555,7 @@ goog.object.unsafeClone = function(obj) {
  * @return {!Object} The transposed object.
  */
 goog.object.transpose = function(obj) {
+  'use strict';
   const transposed = {};
   for (const key in obj) {
     transposed[obj[key]] = key;
@@ -606,6 +594,7 @@ goog.object.PROTOTYPE_FIELDS_ = [
  * @deprecated Prefer Object.assign
  */
 goog.object.extend = function(target, var_args) {
+  'use strict';
   let key;
   let source;
   for (let i = 1; i < arguments.length; i++) {
@@ -640,8 +629,9 @@ goog.object.extend = function(target, var_args) {
  *     non array argument.
  */
 goog.object.create = function(var_args) {
+  'use strict';
   const argLength = arguments.length;
-  if (argLength == 1 && goog.isArray(arguments[0])) {
+  if (argLength == 1 && Array.isArray(arguments[0])) {
     return goog.object.create.apply(null, arguments[0]);
   }
 
@@ -666,8 +656,9 @@ goog.object.create = function(var_args) {
  * @return {!Object} The new object.
  */
 goog.object.createSet = function(var_args) {
+  'use strict';
   const argLength = arguments.length;
-  if (argLength == 1 && goog.isArray(arguments[0])) {
+  if (argLength == 1 && Array.isArray(arguments[0])) {
     return goog.object.createSet.apply(null, arguments[0]);
   }
 
@@ -692,6 +683,7 @@ goog.object.createSet = function(var_args) {
  * @template K,V
  */
 goog.object.createImmutableView = function(obj) {
+  'use strict';
   let result = obj;
   if (Object.isFrozen && !Object.isFrozen(obj)) {
     result = Object.create(obj);
@@ -706,6 +698,7 @@ goog.object.createImmutableView = function(obj) {
  * @return {boolean} Whether this is an immutable view of the object.
  */
 goog.object.isImmutableView = function(obj) {
+  'use strict';
   return !!Object.isFrozen && Object.isFrozen(obj);
 };
 
@@ -727,6 +720,7 @@ goog.object.isImmutableView = function(obj) {
  */
 goog.object.getAllPropertyNames = function(
     obj, opt_includeObjectPrototype, opt_includeFunctionPrototype) {
+  'use strict';
   if (!obj) {
     return [];
   }
@@ -770,6 +764,7 @@ goog.object.getAllPropertyNames = function(
  * @return {?Object}
  */
 goog.object.getSuperClass = function(constructor) {
+  'use strict';
   var proto = Object.getPrototypeOf(constructor.prototype);
   return proto && proto.constructor;
 };

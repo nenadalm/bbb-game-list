@@ -1,20 +1,11 @@
-// Copyright 2005 The Closure Library Authors. All Rights Reserved.
-//
-// Licensed under the Apache License, Version 2.0 (the "License");
-// you may not use this file except in compliance with the License.
-// You may obtain a copy of the License at
-//
-//      http://www.apache.org/licenses/LICENSE-2.0
-//
-// Unless required by applicable law or agreed to in writing, software
-// distributed under the License is distributed on an "AS-IS" BASIS,
-// WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-// See the License for the specific language governing permissions and
-// limitations under the License.
+/**
+ * @license
+ * Copyright The Closure Library Authors.
+ * SPDX-License-Identifier: Apache-2.0
+ */
 
 /**
  * @fileoverview A base class for event objects.
- *
  */
 
 
@@ -46,10 +37,6 @@ goog.events.EventLike;
  * A base class for event objects, so that they can support preventDefault and
  * stopPropagation.
  *
- * @suppress {underscore} Several properties on this class are technically
- *     public, but referencing these properties outside this package is strongly
- *     discouraged.
- *
  * @param {string|!goog.events.EventId} type Event Type.
  * @param {Object=} opt_target Reference to the object that is the target of
  *     this event. It has to implement the `EventTarget` interface
@@ -57,6 +44,7 @@ goog.events.EventLike;
  * @constructor
  */
 goog.events.Event = function(type, opt_target) {
+  'use strict';
   /**
    * Event type.
    * @type {string}
@@ -81,7 +69,7 @@ goog.events.Event = function(type, opt_target) {
   /**
    * Whether to cancel the event in internal capture/bubble processing for IE.
    * @type {boolean}
-   * @public
+   * @private
    */
   this.propagationStopped_ = false;
 
@@ -94,20 +82,21 @@ goog.events.Event = function(type, opt_target) {
    * @type {boolean}
    */
   this.defaultPrevented = false;
-
-  /**
-   * Return value for in internal capture/bubble processing for IE.
-   * @type {boolean}
-   * @public
-   */
-  this.returnValue_ = true;
 };
 
+/**
+ * @return {boolean} true iff internal propagation has been stopped.
+ */
+goog.events.Event.prototype.hasPropagationStopped = function() {
+  'use strict';
+  return this.propagationStopped_;
+};
 
 /**
  * Stops event propagation.
  */
 goog.events.Event.prototype.stopPropagation = function() {
+  'use strict';
   this.propagationStopped_ = true;
 };
 
@@ -116,8 +105,8 @@ goog.events.Event.prototype.stopPropagation = function() {
  * Prevents the default action, for example a link redirecting to a url.
  */
 goog.events.Event.prototype.preventDefault = function() {
+  'use strict';
   this.defaultPrevented = true;
-  this.returnValue_ = false;
 };
 
 
@@ -128,6 +117,7 @@ goog.events.Event.prototype.preventDefault = function() {
  * @param {!goog.events.Event} e An event.
  */
 goog.events.Event.stopPropagation = function(e) {
+  'use strict';
   e.stopPropagation();
 };
 
@@ -139,5 +129,6 @@ goog.events.Event.stopPropagation = function(e) {
  * @param {!goog.events.Event} e An event.
  */
 goog.events.Event.preventDefault = function(e) {
+  'use strict';
   e.preventDefault();
 };

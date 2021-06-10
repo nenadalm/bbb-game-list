@@ -1,4 +1,4 @@
-// Compiled by ClojureScript 1.10.773 {:static-fns true, :optimize-constants true}
+// Compiled by ClojureScript 1.10.866 {:static-fns true, :optimize-constants true, :optimizations :advanced}
 goog.provide('re_frame.utils');
 goog.require('cljs.core');
 goog.require('cljs.core.constants');
@@ -7,20 +7,20 @@ goog.require('re_frame.loggers');
  * Dissociates an entry from a nested associative structure returning a new
  *   nested structure. keys is a sequence of keys. Any empty maps that result
  *   will not be present in the new structure.
- *   The key thing is that 'm' remains identical? to istelf if the path was never present
+ *   The key thing is that 'm' remains identical? to itself if the path was never present
  */
-re_frame.utils.dissoc_in = (function re_frame$utils$dissoc_in(m,p__13535){
-var vec__13536 = p__13535;
-var seq__13537 = cljs.core.seq(vec__13536);
-var first__13538 = cljs.core.first(seq__13537);
-var seq__13537__$1 = cljs.core.next(seq__13537);
-var k = first__13538;
-var ks = seq__13537__$1;
-var keys = vec__13536;
+re_frame.utils.dissoc_in = (function re_frame$utils$dissoc_in(m,p__13372){
+var vec__13373 = p__13372;
+var seq__13374 = cljs.core.seq(vec__13373);
+var first__13375 = cljs.core.first(seq__13374);
+var seq__13374__$1 = cljs.core.next(seq__13374);
+var k = first__13375;
+var ks = seq__13374__$1;
+var keys = vec__13373;
 if(ks){
-var temp__5733__auto__ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(m,k);
-if(cljs.core.truth_(temp__5733__auto__)){
-var nextmap = temp__5733__auto__;
+var temp__5751__auto__ = cljs.core.get.cljs$core$IFn$_invoke$arity$2(m,k);
+if(cljs.core.truth_(temp__5751__auto__)){
+var nextmap = temp__5751__auto__;
 var newmap = (re_frame.utils.dissoc_in.cljs$core$IFn$_invoke$arity$2 ? re_frame.utils.dissoc_in.cljs$core$IFn$_invoke$arity$2(nextmap,ks) : re_frame.utils.dissoc_in.call(null,nextmap,ks));
 if(cljs.core.seq(newmap)){
 return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(m,k,newmap);
@@ -46,23 +46,23 @@ return re_frame.loggers.console.cljs$core$IFn$_invoke$arity$variadic(cljs.core.c
  *   not a seq but a map with the arguments for f
  */
 re_frame.utils.apply_kw = (function re_frame$utils$apply_kw(var_args){
-var args__4742__auto__ = [];
-var len__4736__auto___13541 = arguments.length;
-var i__4737__auto___13542 = (0);
+var args__4835__auto__ = [];
+var len__4829__auto___13378 = arguments.length;
+var i__4830__auto___13379 = (0);
 while(true){
-if((i__4737__auto___13542 < len__4736__auto___13541)){
-args__4742__auto__.push((arguments[i__4737__auto___13542]));
+if((i__4830__auto___13379 < len__4829__auto___13378)){
+args__4835__auto__.push((arguments[i__4830__auto___13379]));
 
-var G__13543 = (i__4737__auto___13542 + (1));
-i__4737__auto___13542 = G__13543;
+var G__13380 = (i__4830__auto___13379 + (1));
+i__4830__auto___13379 = G__13380;
 continue;
 } else {
 }
 break;
 }
 
-var argseq__4743__auto__ = ((((1) < args__4742__auto__.length))?(new cljs.core.IndexedSeq(args__4742__auto__.slice((1)),(0),null)):null);
-return re_frame.utils.apply_kw.cljs$core$IFn$_invoke$arity$variadic((arguments[(0)]),argseq__4743__auto__);
+var argseq__4836__auto__ = ((((1) < args__4835__auto__.length))?(new cljs.core.IndexedSeq(args__4835__auto__.slice((1)),(0),null)):null);
+return re_frame.utils.apply_kw.cljs$core$IFn$_invoke$arity$variadic((arguments[(0)]),argseq__4836__auto__);
 });
 
 (re_frame.utils.apply_kw.cljs$core$IFn$_invoke$arity$variadic = (function (f,args){
@@ -77,10 +77,10 @@ return cljs.core.apply.cljs$core$IFn$_invoke$arity$2(f,cljs.core.apply.cljs$core
 (re_frame.utils.apply_kw.cljs$lang$maxFixedArity = (1));
 
 /** @this {Function} */
-(re_frame.utils.apply_kw.cljs$lang$applyTo = (function (seq13539){
-var G__13540 = cljs.core.first(seq13539);
-var seq13539__$1 = cljs.core.next(seq13539);
-var self__4723__auto__ = this;
-return self__4723__auto__.cljs$core$IFn$_invoke$arity$variadic(G__13540,seq13539__$1);
+(re_frame.utils.apply_kw.cljs$lang$applyTo = (function (seq13376){
+var G__13377 = cljs.core.first(seq13376);
+var seq13376__$1 = cljs.core.next(seq13376);
+var self__4816__auto__ = this;
+return self__4816__auto__.cljs$core$IFn$_invoke$arity$variadic(G__13377,seq13376__$1);
 }));
 

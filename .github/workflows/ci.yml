@@ -1,0 +1,41 @@
+on: [push]
+
+jobs:
+  deploy:
+    if: github.ref == 'refs/heads/master'
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+      - uses: actions/setup-java@v2
+        with:
+          distribution: 'adopt'
+          java-version: '11'
+      - uses: DeLaGuardo/setup-clojure@master
+        with:
+          cli: '1.10.3.855'
+      - uses: actions/cache@v2
+        with:
+          path: '~/.npm'
+          key: "${{ runner.OS }}-node-${{ hashFiles('**/package-lock.json') }}"
+          restore-keys: |
+            ${{ runner.OS }}-node-
+      - uses: actions/cache@v2
+        with:
+          path: '~/.m2'
+          key: "${{ runner.os }}-maven-${{ hashFiles('deps.edn') }}"
+          restore-keys: |
+            ${{ runner.os }}-maven-
+      - name: Build artifacts
+        run: |
+          cd web
+          yarn install
+          clojure -Stree
+          make
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          branch: gh-pages
+          folder: web/resources/public

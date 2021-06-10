@@ -94,7 +94,7 @@
                      :sorting sorting}]]]
      [:tbody
       (for [g @(re-frame/subscribe [::subsc/game-list])]
-        ^{:key (:com.bohemiaboardsandbrews/name g)} [game g])]]))
+        ^{:key (:game/id g)} [game g])]]))
 
 (defn app []
   [:<>

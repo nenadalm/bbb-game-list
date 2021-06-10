@@ -18,6 +18,9 @@
 (defn- game-id [search-result]
   (get-in search-result [:content 0 :attrs :id]))
 
+(defn- non-zero [x]
+  (if (= 0 x) nil x))
+
 (defn- add-game-details [game item]
   (case (:tag item)
     :thumbnail (assoc game :com.boardgamegeek.boardgame/thumbnail (-> item :content first))
@@ -26,8 +29,12 @@
     :name (if (= (-> item :attrs :type) "primary")
             (assoc game :com.boardgamegeek.boardgame/name (-> item :attrs :value))
             game)
-    :minplaytime (assoc game :com.boardgamegeek.boardgame/min-play-time (Integer/valueOf (-> item :attrs :value)))
-    :maxplaytime (assoc game :com.boardgamegeek.boardgame/max-play-time (Integer/valueOf (-> item :attrs :value)))
+    :minplaytime (if-let [time (non-zero (Integer/valueOf (-> item :attrs :value)))]
+                   (assoc game :com.boardgamegeek.boardgame/min-play-time time)
+                   game)
+    :maxplaytime (if-let [time (non-zero (Integer/valueOf (-> item :attrs :value)))]
+                   (assoc game :com.boardgamegeek.boardgame/max-play-time time)
+                   game)
     game))
 
 (defn- enrich-game-with-uuid [game]
@@ -52,16 +59,28 @@
 (defn- enrich-game-with-name [game]
   (assoc game :game/name (or (:com.boardgamegeek.boardgame/name game) (:name game))))
 
-(defn- enrich-game [name]
-  (-> name
+(defn- frontend-game [game]
+  (select-keys game [:languages
+                     :game/id
+                     :game/name
+                     :com.boardgamegeek.boardgame/id
+                     :com.boardgamegeek.boardgame/max-play-time
+                     :com.boardgamegeek.boardgame/max-players
+                     :com.boardgamegeek.boardgame/min-play-time
+                     :com.boardgamegeek.boardgame/min-players
+                     :com.boardgamegeek.boardgame/thumbnail]))
+
+(defn- game-info [bbb-game]
+  (-> bbb-game
       enrich-game-with-id
       enrich-game-with-bgg-info
       enrich-game-with-name
-      enrich-game-with-uuid))
+      enrich-game-with-uuid
+      frontend-game))
 
 (defn- bbb-games []
   (->> (bbb/games)
-       (mapv enrich-game)))
+       (mapv game-info)))
 
 (defn- index-by [f coll]
   (reduce

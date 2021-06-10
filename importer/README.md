@@ -7,7 +7,7 @@ Downloads game list http://bohemiaboardsandbrews.com/games/ and enriches it with
 First you need to have [cli-tools](https://clojure.org/guides/getting_started#_installation_on_linux) installed. Then run following script to put game data into data.cljs.
 
 ```clojure
-clj -m app.core > ../web/src/app/data.cljs
+clj -M -m app.core > ../web/src/app/data.cljs
 ```
 
 Note that all requests are cached indefinitely and in order to redownload something, cache has to be cleared using:

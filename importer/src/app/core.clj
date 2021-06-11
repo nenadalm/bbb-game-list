@@ -35,6 +35,18 @@
     :maxplaytime (if-let [time (non-zero (Integer/valueOf (-> item :attrs :value)))]
                    (assoc game :com.boardgamegeek.boardgame/max-play-time time)
                    game)
+    :link (case (-> item :attrs :type)
+            "boardgamecategory" (update game
+                                        :com.boardgamegeek.boardgame/categories
+                                        conj
+                                        {:com.boardgamegeek.category/id (Integer/valueOf (-> item :attrs :id))
+                                         :com.boardgamegeek.category/name (-> item :attrs :value)})
+            "boardgamemechanic" (update game
+                                        :com.boardgamegeek.boardgame/mechanics
+                                        conj
+                                        {:com.boardgamegeek.mechanic/id (Integer/valueOf (-> item :attrs :id))
+                                         :com.boardgamegeek.mechanic/name (-> item :attrs :value)})
+            game)
     game))
 
 (defn- enrich-game-with-uuid [game]
@@ -68,7 +80,23 @@
                      :com.boardgamegeek.boardgame/max-players
                      :com.boardgamegeek.boardgame/min-play-time
                      :com.boardgamegeek.boardgame/min-players
-                     :com.boardgamegeek.boardgame/thumbnail]))
+                     :com.boardgamegeek.boardgame/thumbnail
+                     :com.boardgamegeek.boardgame/categories
+                     :com.boardgamegeek.boardgame/mechanics]))
+
+(defn- sort-game-mechanics [game]
+  (if (:com.boardgamegeek.boardgame/mechanics game)
+    (update game
+            :com.boardgamegeek.boardgame/mechanics
+            #(sort-by (comp clojure.string/lower-case :com.boardgamegeek.mechanic/name) %))
+    game))
+
+(defn- sort-game-categories [game]
+  (if (:com.boardgamegeek.boardgame/categories game)
+    (update game
+            :com.boardgamegeek.boardgame/categories
+            #(sort-by (comp clojure.string/lower-case :com.boardgamegeek.category/name) %))
+    game))
 
 (defn- game-info [bbb-game]
   (-> bbb-game
@@ -76,6 +104,8 @@
       enrich-game-with-bgg-info
       enrich-game-with-name
       enrich-game-with-uuid
+      sort-game-categories
+      sort-game-mechanics
       frontend-game))
 
 (defn- bbb-games []

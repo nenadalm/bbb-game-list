@@ -4,6 +4,29 @@
             {#uuid "49b5473d-32f5-382b-943a-dda4a1491daf"
              {:game/id #uuid "49b5473d-32f5-382b-943a-dda4a1491daf",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2689,
+                                                 :name "Action Queue"}
+                    #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.mechanic{:id 2011,
+                                                 :name "Modular Board"}
+                    #:com.boardgamegeek.mechanic{:id 2685,
+                                                 :name
+                                                 "Player Elimination"}
+                    #:com.boardgamegeek.mechanic{:id 2016,
+                                                 :name
+                                                 "Secret Unit Deployment"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1040,
+                                                 :name
+                                                 "Murder/Mystery"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 10,
@@ -27,6 +50,23 @@
              #uuid "00dbe22a-358d-364c-aa3e-6da841b451dc"
              {:game/id #uuid "00dbe22a-358d-364c-aa3e-6da841b451dc",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2839,
+                                                 :name
+                                                 "Action Retrieval"}
+                    #:com.boardgamegeek.mechanic{:id 2850,
+                                                 :name "Events"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}
+                    #:com.boardgamegeek.mechanic{:id 2082,
+                                                 :name
+                                                 "Worker Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1029,
+                                                 :name "City Building"}
+                    #:com.boardgamegeek.category{:id 1035,
+                                                 :name "Medieval"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -38,6 +78,22 @@
              #uuid "f8283731-6cf2-3086-8140-494037314bf5"
              {:game/id #uuid "f8283731-6cf2-3086-8140-494037314bf5",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -57,6 +113,24 @@
              #uuid "993ca650-a85e-3e69-b8f7-eaa4809c4862"
              {:game/id #uuid "993ca650-a85e-3e69-b8f7-eaa4809c4862",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2910,
+                                                 :name "Investment"}
+                    #:com.boardgamegeek.mechanic{:id 2900,
+                                                 :name "Market"}
+                    #:com.boardgamegeek.mechanic{:id 2911,
+                                                 :name "Ownership"}
+                    #:com.boardgamegeek.mechanic{:id 2005,
+                                                 :name "Stock Holding"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}),
               :com.boardgamegeek.boardgame/max-play-time 90,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 90,
@@ -68,6 +142,27 @@
              #uuid "d496a066-c36e-3570-99d1-9eedec118dee"
              {:game/id #uuid "d496a066-c36e-3570-99d1-9eedec118dee",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1022,
+                                                 :name "Adventure"}
+                    #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
+                    #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}
+                    #:com.boardgamegeek.category{:id 1094,
+                                                 :name "Educational"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -79,6 +174,32 @@
              #uuid "abe1a4aa-bcd0-3440-8bb5-a57f0dcc37ac"
              {:game/id #uuid "abe1a4aa-bcd0-3440-8bb5-a57f0dcc37ac",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2001,
+                                                 :name "Action Points"}
+                    #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2871,
+                                                 :name "Kill Steal"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}
+                    #:com.boardgamegeek.category{:id 1047,
+                                                 :name "Miniatures"}
+                    #:com.boardgamegeek.category{:id 1016,
+                                                 :name
+                                                 "Science Fiction"}
+                    #:com.boardgamegeek.category{:id 1101,
+                                                 :name
+                                                 "Video Game Theme"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -90,6 +211,42 @@
              #uuid "d82b1470-bb05-3f45-86cb-1e51d8455a3d"
              {:game/id #uuid "d82b1470-bb05-3f45-86cb-1e51d8455a3d",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2847,
+                                                 :name
+                                                 "Advantage Token"}
+                    #:com.boardgamegeek.mechanic{:id 2903,
+                                                 :name
+                                                 "Automatic Resource Growth"}
+                    #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2043,
+                                                 :name "Enclosure"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2914,
+                                                 :name
+                                                 "Increase Value of Unchosen Resources"}
+                    #:com.boardgamegeek.mechanic{:id 2819,
+                                                 :name
+                                                 "Solo / Solitaire Game"}
+                    #:com.boardgamegeek.mechanic{:id 2829,
+                                                 :name
+                                                 "Turn Order: Claim Action"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}
+                    #:com.boardgamegeek.mechanic{:id 2082,
+                                                 :name
+                                                 "Worker Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1013,
+                                                 :name "Farming"}),
               :com.boardgamegeek.boardgame/max-play-time 150,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -101,6 +258,26 @@
              #uuid "af0c5e41-309d-3a83-afb7-76f7378381b2"
              {:game/id #uuid "af0c5e41-309d-3a83-afb7-76f7378381b2",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2910,
+                                                 :name "Investment"}
+                    #:com.boardgamegeek.mechanic{:id 2081,
+                                                 :name
+                                                 "Network and Route Building"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2005,
+                                                 :name
+                                                 "Stock Holding"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 2650,
+                                                 :name
+                                                 "Aviation / Flight"}
+                    #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}),
               :com.boardgamegeek.boardgame/max-play-time 75,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 75,
@@ -112,6 +289,24 @@
              #uuid "effdb9ce-6c5d-34df-b1b8-9d7069c8e0fb"
              {:game/id #uuid "effdb9ce-6c5d-34df-b1b8-9d7069c8e0fb",
               :com.boardgamegeek.boardgame/min-players 4,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2073,
+                                                 :name "Acting"}
+                    #:com.boardgamegeek.mechanic{:id 2078,
+                                                 :name
+                                                 "Point to Point Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1031,
+                                                 :name "Racing"}
+                    #:com.boardgamegeek.category{:id 1027,
+                                                 :name "Trivia"}
+                    #:com.boardgamegeek.category{:id 1025,
+                                                 :name "Word Game"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 12,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -122,12 +317,23 @@
               "https://cf.geekdo-images.com/thumb/img/hG6aNU1hiiXwopQ6XexCM_q9aRI=/fit-in/200x150/filters:strip_icc()/pic451300.jpg"},
              #uuid "110f4e5f-593e-3ca2-819e-29dab8ad6f55"
              {:game/id #uuid "110f4e5f-593e-3ca2-819e-29dab8ad6f55",
-              :game/name "Allies: Realm of Wonder",
-              :com.boardgamegeek.boardgame/id "182172",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2018,
+                                                 :name
+                                                 "Campaign / Battle Card Driven"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 30,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "182172",
+              :game/name "Allies: Realm of Wonder",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/xofGdDpiE2Ll-bnaiOxWunMK5uE=/fit-in/200x150/filters:strip_icc()/pic2728113.jpg"},
              #uuid "df84c72d-301d-30c6-851d-d66630446cc4"
@@ -141,6 +347,17 @@
              #uuid "01c751b5-3d59-3358-a6e3-3ab7ddceb42f"
              {:game/id #uuid "01c751b5-3d59-3358-a6e3-3ab7ddceb42f",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2028,
+                                                 :name
+                                                 "Role Playing"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -152,6 +369,16 @@
              #uuid "0746ccba-be89-3d2f-a4b6-af590e489ff0"
              {:game/id #uuid "0746ccba-be89-3d2f-a4b6-af590e489ff0",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2906,
+                                                 :name
+                                                 "I Cut, You Choose"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -163,6 +390,22 @@
              #uuid "cbed48f7-5fef-3645-9ebc-db33807e504c"
              {:game/id #uuid "cbed48f7-5fef-3645-9ebc-db33807e504c",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2060,
+                                                 :name
+                                                 "Pattern Recognition"}
+                    #:com.boardgamegeek.mechanic{:id 2991,
+                                                 :name
+                                                 "Speed Matching"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}
+                    #:com.boardgamegeek.category{:id 1027,
+                                                 :name "Trivia"}
+                    #:com.boardgamegeek.category{:id 1025,
+                                                 :name "Word Game"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -174,6 +417,25 @@
              #uuid "e3a13cf1-2d4f-3a6a-9791-62315cf53ba2"
              {:game/id #uuid "e3a13cf1-2d4f-3a6a-9791-62315cf53ba2",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2046,
+                                                 :name "Area Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2813,
+                                                 :name "Rondel"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1050,
+                                                 :name "Ancient"}
+                    #:com.boardgamegeek.category{:id 1015,
+                                                 :name "Civilization"}
+                    #:com.boardgamegeek.category{:id 1086,
+                                                 :name
+                                                 "Territory Building"}),
               :com.boardgamegeek.boardgame/max-play-time 75,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 75,
@@ -185,6 +447,22 @@
              #uuid "ac19727b-672c-352f-b393-c52a81b055cb"
              {:game/id #uuid "ac19727b-672c-352f-b393-c52a81b055cb",
               :com.boardgamegeek.boardgame/min-players 4,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2865,
+                                                 :name "Player Judge"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 10,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -196,6 +474,37 @@
              #uuid "109a021a-56f4-3223-ae04-902a1f40db16"
              {:game/id #uuid "109a021a-56f4-3223-ae04-902a1f40db16",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2046,
+                                                 :name "Area Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2078,
+                                                 :name
+                                                 "Point to Point Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}
+                    #:com.boardgamegeek.category{:id 1120,
+                                                 :name
+                                                 "Print & Play"}),
               :com.boardgamegeek.boardgame/max-play-time 360,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 360,
@@ -216,6 +525,22 @@
              #uuid "28e54304-62fc-38c9-9b76-058878323d57"
              {:game/id #uuid "28e54304-62fc-38c9-9b76-058878323d57",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}
+                    #:com.boardgamegeek.mechanic{:id 2028,
+                                                 :name "Role Playing"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1022,
+                                                 :name "Adventure"}
+                    #:com.boardgamegeek.category{:id 1024,
+                                                 :name "Horror"}
+                    #:com.boardgamegeek.category{:id 1093,
+                                                 :name "Novel-based"}),
               :com.boardgamegeek.boardgame/max-play-time 180,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 180,
@@ -227,6 +552,17 @@
              #uuid "7ca15329-76d2-3582-a841-424d17ec0f0b"
              {:game/id #uuid "7ca15329-76d2-3582-a841-424d17ec0f0b",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2078,
+                                                 :name
+                                                 "Point to Point Movement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1093,
+                                                 :name "Novel-based"}
+                    #:com.boardgamegeek.category{:id 1031,
+                                                 :name "Racing"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -238,6 +574,18 @@
              #uuid "a408c9e7-3639-3621-b65f-1f8aeea37b18"
              {:game/id #uuid "a408c9e7-3639-3621-b65f-1f8aeea37b18",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2008,
+                                                 :name "Trading"}
+                    #:com.boardgamegeek.mechanic{:id 2017,
+                                                 :name "Voting"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1026,
+                                                 :name "Negotiation"}
+                    #:com.boardgamegeek.category{:id 1001,
+                                                 :name "Political"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -251,13 +599,31 @@
               :game/id #uuid "cfd23609-37d8-30cb-9d1b-70faf469d50d",
               :game/name "Articulate"},
              #uuid "7d9e8262-8714-332c-9ca9-ac68c68596b5"
-             {:languages (list "en"),
-              :game/id #uuid "7d9e8262-8714-332c-9ca9-ac68c68596b5",
-              :game/name "Artifact Stack",
-              :com.boardgamegeek.boardgame/id "236556",
+             {:game/id #uuid "7d9e8262-8714-332c-9ca9-ac68c68596b5",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2661,
+                                                 :name
+                                                 "Push Your Luck"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1022,
+                                                 :name "Adventure"}
+                    #:com.boardgamegeek.category{:id 1050,
+                                                 :name "Ancient"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1020,
+                                                 :name "Exploration"}),
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 20,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "236556",
+              :languages (list "en"),
+              :game/name "Artifact Stack",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/PN2vWRy9uhQc1FAxFPMF4OXzruM=/fit-in/200x150/filters:strip_icc()/pic3769855.jpg"},
              #uuid "358a9cb1-8677-3a1b-90ac-1c8d6ffa6288"
@@ -271,6 +637,27 @@
              #uuid "da7d7bb0-2a43-3cd7-8ea7-21c4eb8ae388"
              {:game/id #uuid "da7d7bb0-2a43-3cd7-8ea7-21c4eb8ae388",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2008,
+                                                 :name "Trading"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}
+                    #:com.boardgamegeek.category{:id 1064,
+                                                 :name
+                                                 "Movies / TV / Radio theme"}
+                    #:com.boardgamegeek.category{:id 1040,
+                                                 :name
+                                                 "Murder/Mystery"}),
               :com.boardgamegeek.boardgame/max-play-time 75,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -285,27 +672,81 @@
               :game/name "Axis and Allies"},
              #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
              {:game/id #uuid "582d2648-b634-3370-a31e-bef979dab3f3",
-              :game/name "Azul",
-              :com.boardgamegeek.boardgame/id "230802",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2984,
+                                                 :name "Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2875,
+                                                 :name
+                                                 "End Game Bonuses"}
+                    #:com.boardgamegeek.mechanic{:id 2048,
+                                                 :name
+                                                 "Pattern Building"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}
+                    #:com.boardgamegeek.mechanic{:id 2829,
+                                                 :name
+                                                 "Turn Order: Claim Action"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1070,
+                                                 :name "Renaissance"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "230802",
+              :game/name "Azul",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/debo694HgBaIBeNGyxu1ELUbQGA=/fit-in/200x150/filters:strip_icc()/pic3718275.jpg"},
              #uuid "2e89598e-c81e-39d5-bae2-aee451063265"
              {:game/id #uuid "2e89598e-c81e-39d5-bae2-aee451063265",
-              :game/name "Backgammon",
-              :com.boardgamegeek.boardgame/id "2397",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2847,
+                                                 :name
+                                                 "Advantage Token"}
+                    #:com.boardgamegeek.mechanic{:id 2014,
+                                                 :name
+                                                 "Betting and Bluffing"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}
+                    #:com.boardgamegeek.mechanic{:id 2939,
+                                                 :name
+                                                 "Track Movement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 30,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "2397",
+              :game/name "Backgammon",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/FS7YID4DgqMBppP0nhyG52MP7Xk=/fit-in/200x150/filters:strip_icc()/pic1361122.jpg"},
              #uuid "bb8434ca-528e-3b5f-bfc5-5eebbe2c00a0"
              {:game/id #uuid "bb8434ca-528e-3b5f-bfc5-5eebbe2c00a0",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}
+                    #:com.boardgamegeek.category{:id 1025,
+                                                 :name "Word Game"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -338,7 +779,14 @@
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-players 2,
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/thumb/img/6CauS6bPub0en7IPxfYY3P38Jso=/fit-in/200x150/filters:strip_icc()/pic512503.jpg"},
+              "https://cf.geekdo-images.com/thumb/img/6CauS6bPub0en7IPxfYY3P38Jso=/fit-in/200x150/filters:strip_icc()/pic512503.jpg",
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"})},
              #uuid "d5ebb3b9-327c-3738-9129-3f963c8af8f3"
              {:languages (list "en"),
               :game/id #uuid "d5ebb3b9-327c-3738-9129-3f963c8af8f3",
@@ -346,6 +794,21 @@
              #uuid "3e302b86-f47c-3d22-9b4d-c253439d9970"
              {:game/id #uuid "3e302b86-f47c-3d22-9b4d-c253439d9970",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2689,
+                                                 :name "Action Queue"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -356,17 +819,39 @@
               "https://cf.geekdo-images.com/thumb/img/WiuNMDiiM38EHOAdW5MB1ldlEJM=/fit-in/200x150/filters:strip_icc()/pic2241067.jpg"},
              #uuid "941e3f4a-24d8-3841-8144-e9db47d6f92b"
              {:game/id #uuid "941e3f4a-24d8-3841-8144-e9db47d6f92b",
-              :game/name "Beasty Bar 3: Born to Be Wild",
-              :com.boardgamegeek.boardgame/id "286657",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 20,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "286657",
+              :game/name "Beasty Bar 3: Born to Be Wild",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/x3iJI8QoTkK7Ptp_N_tq3-bpb5E=/fit-in/200x150/filters:strip_icc()/pic4909349.jpg"},
              #uuid "660cb8dd-c782-3542-8db8-9e1dc61af856"
              {:game/id #uuid "660cb8dd-c782-3542-8db8-9e1dc61af856",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -378,6 +863,15 @@
              #uuid "c413a292-7a46-3ea3-aa4d-896b4b1e78e0"
              {:game/id #uuid "c413a292-7a46-3ea3-aa4d-896b4b1e78e0",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1032,
+                                                 :name
+                                                 "Action / Dexterity"}
+                    #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}),
               :com.boardgamegeek.boardgame/max-play-time 10,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 10,
@@ -389,6 +883,28 @@
              #uuid "0f2e7cd3-2595-3b1b-b656-cb103be3e521"
              {:game/id #uuid "0f2e7cd3-2595-3b1b-b656-cb103be3e521",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2661,
+                                                 :name
+                                                 "Push Your Luck"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -404,6 +920,21 @@
              #uuid "3c213740-1920-3b32-acb4-a2877cd7aa17"
              {:game/id #uuid "3c213740-1920-3b32-acb4-a2877cd7aa17",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2027,
+                                                 :name "Storytelling"}
+                    #:com.boardgamegeek.mechanic{:id 2017,
+                                                 :name "Voting"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1101,
+                                                 :name
+                                                 "Video Game Theme"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 15,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -419,6 +950,31 @@
              #uuid "c180dcbb-f5dd-3cdf-acb3-dfe83bc594ec"
              {:game/id #uuid "c180dcbb-f5dd-3cdf-acb3-dfe83bc594ec",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2001,
+                                                 :name "Action Points"}
+                    #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2046,
+                                                 :name "Area Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}
+                    #:com.boardgamegeek.category{:id 1082,
+                                                 :name "Mythology"}),
               :com.boardgamegeek.boardgame/max-play-time 90,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -430,6 +986,18 @@
              #uuid "def6402b-3a6f-30cb-aeb3-63cd5cefb20d"
              {:game/id #uuid "def6402b-3a6f-30cb-aeb3-63cd5cefb20d",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2048,
+                                                 :name
+                                                 "Pattern Building"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -445,6 +1013,17 @@
              #uuid "bf684d42-7071-39ee-809d-514bc5ca241a"
              {:game/id #uuid "bf684d42-7071-39ee-809d-514bc5ca241a",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 10,
@@ -456,6 +1035,22 @@
              #uuid "be01908f-633f-35da-be89-80701db8ed25"
              {:game/id #uuid "be01908f-633f-35da-be89-80701db8ed25",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2014,
+                                                 :name
+                                                 "Betting and Bluffing"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}
+                    #:com.boardgamegeek.category{:id 1031,
+                                                 :name "Racing"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -471,6 +1066,27 @@
              #uuid "b551e78e-4f7b-3364-a82b-a57e9c3aec8f"
              {:game/id #uuid "b551e78e-4f7b-3364-a82b-a57e9c3aec8f",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2689,
+                                                 :name "Action Queue"}
+                    #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1032,
+                                                 :name
+                                                 "Action / Dexterity"}
+                    #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}
+                    #:com.boardgamegeek.category{:id 1090,
+                                                 :name "Pirates"}
+                    #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -482,6 +1098,35 @@
              #uuid "06c5d6ce-c062-3ac0-bd43-6186b663fc10"
              {:game/id #uuid "06c5d6ce-c062-3ac0-bd43-6186b663fc10",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2967,
+                                                 :name
+                                                 "Hidden Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2039,
+                                                 :name "Line Drawing"}
+                    #:com.boardgamegeek.mechanic{:id 2831,
+                                                 :name "Real-Time"}
+                    #:com.boardgamegeek.mechanic{:id 2028,
+                                                 :name "Role Playing"}
+                    #:com.boardgamegeek.mechanic{:id 2016,
+                                                 :name
+                                                 "Secret Unit Deployment"}
+                    #:com.boardgamegeek.mechanic{:id 2070,
+                                                 :name "Simulation"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}
+                    #:com.boardgamegeek.category{:id 1008,
+                                                 :name "Nautical"}
+                    #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -492,17 +1137,56 @@
               "https://cf.geekdo-images.com/thumb/img/RavsPCF6el7VEaVR1OG5M2ZGCrk=/fit-in/200x150/filters:strip_icc()/pic3013621.png"},
              #uuid "06e9bd9c-0975-32da-acdf-2b1942d57f1e"
              {:game/id #uuid "06e9bd9c-0975-32da-acdf-2b1942d57f1e",
-              :game/name "Carcassonne",
-              :com.boardgamegeek.boardgame/id "822",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2959,
+                                                 :name "Map Addition"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1029,
+                                                 :name "City Building"}
+                    #:com.boardgamegeek.category{:id 1035,
+                                                 :name "Medieval"}
+                    #:com.boardgamegeek.category{:id 1086,
+                                                 :name
+                                                 "Territory Building"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 30,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "822",
+              :game/name "Carcassonne",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/_C5pWATlaq3uS8u7IlFb0WMi_ak=/fit-in/200x150/filters:strip_icc()/pic2337577.jpg"},
              #uuid "7e7fdd38-98cc-3f0f-a059-308e820a2013"
              {:game/id #uuid "7e7fdd38-98cc-3f0f-a059-308e820a2013",
               :com.boardgamegeek.boardgame/min-players 4,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2865,
+                                                 :name "Player Judge"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}
+                    #:com.boardgamegeek.category{:id 1118,
+                                                 :name
+                                                 "Mature / Adult"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1120,
+                                                 :name
+                                                 "Print & Play"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 30,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -514,6 +1198,17 @@
              #uuid "890488d0-a370-30a4-9788-a44754330b27"
              {:game/id #uuid "890488d0-a370-30a4-9788-a44754330b27",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -529,6 +1224,17 @@
              #uuid "59ccf897-4368-3ab7-ae8e-0ac969872f6e"
              {:game/id #uuid "59ccf897-4368-3ab7-ae8e-0ac969872f6e",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -540,6 +1246,22 @@
              #uuid "d9878711-9bbd-343b-bb79-ba45904cc23c"
              {:game/id #uuid "d9878711-9bbd-343b-bb79-ba45904cc23c",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}
+                    #:com.boardgamegeek.mechanic{:id 2082,
+                                                 :name
+                                                 "Worker Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}),
               :com.boardgamegeek.boardgame/max-play-time 120,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -554,17 +1276,46 @@
               :game/name "Caverna"},
              #uuid "dd86edfc-d85e-3039-9399-5c282a2e3524"
              {:game/id #uuid "dd86edfc-d85e-3039-9399-5c282a2e3524",
-              :game/name "Celestia",
-              :com.boardgamegeek.boardgame/id "130853",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1113,
+                                                 :name
+                                                 "Space Exploration"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 15,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "130853",
+              :game/name "Celestia",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/ur42OT9MelTa6X3lPbnwN5WG-iU=/fit-in/200x150/filters:strip_icc()/pic1475228.png"},
              #uuid "595f5c4f-c267-303b-adf4-1333c70a9460"
              {:game/id #uuid "595f5c4f-c267-303b-adf4-1333c70a9460",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2060,
+                                                 :name
+                                                 "Pattern Recognition"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
+                    #:com.boardgamegeek.category{:id 1120,
+                                                 :name "Print & Play"}
+                    #:com.boardgamegeek.category{:id 1028,
+                                                 :name "Puzzle"}
+                    #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}),
               :com.boardgamegeek.boardgame/max-play-time 25,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -576,6 +1327,13 @@
              #uuid "1a30c214-a750-3e08-97aa-c85a7fa01368"
              {:game/id #uuid "1a30c214-a750-3e08-97aa-c85a7fa01368",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -586,27 +1344,71 @@
               "https://cf.geekdo-images.com/thumb/img/cRlXz4uT63-BkyRJIJX-0vKywKo=/fit-in/200x150/filters:strip_icc()/pic13110.jpg"},
              #uuid "30c12229-f508-341c-9680-149dbdf88523"
              {:game/id #uuid "30c12229-f508-341c-9680-149dbdf88523",
-              :game/name "Checkers",
-              :com.boardgamegeek.boardgame/id "2083",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2946,
+                                                 :name
+                                                 "Pattern Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2940,
+                                                 :name "Square Grid"}
+                    #:com.boardgamegeek.mechanic{:id 2861,
+                                                 :name
+                                                 "Static Capture"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1116,
+                                                 :name
+                                                 "Comic Book / Strip"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 30,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "2083",
+              :game/name "Checkers",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/wxqQxa2--TclJY8n8hzMGXzk1sI=/fit-in/200x150/filters:strip_icc()/pic113720.jpg"},
              #uuid "0727c24e-c484-3017-9850-a0e366a7dd42"
              {:game/id #uuid "0727c24e-c484-3017-9850-a0e366a7dd42",
-              :game/name "Chess",
-              :com.boardgamegeek.boardgame/id "171",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2946,
+                                                 :name
+                                                 "Pattern Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2940,
+                                                 :name "Square Grid"}
+                    #:com.boardgamegeek.mechanic{:id 2861,
+                                                 :name
+                                                 "Static Capture"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 60,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "171",
+              :game/name "Chess",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/kjtoinSrkYV0HZleXMxkJzZwS8k=/fit-in/200x150/filters:strip_icc()/pic260745.jpg"},
              #uuid "f821ee04-f104-3d22-96a6-9bab12eb4c28"
              {:game/id #uuid "f821ee04-f104-3d22-96a6-9bab12eb4c28",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
+                    #:com.boardgamegeek.category{:id 1045,
+                                                 :name "Memory"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -618,6 +1420,20 @@
              #uuid "e0dfaae0-12bd-33ef-94b1-4c34842456b4"
              {:game/id #uuid "e0dfaae0-12bd-33ef-94b1-4c34842456b4",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}
+                    #:com.boardgamegeek.mechanic{:id 2082,
+                                                 :name
+                                                 "Worker Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1016,
+                                                 :name
+                                                 "Science Fiction"}),
               :com.boardgamegeek.boardgame/max-play-time 90,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -629,6 +1445,24 @@
              #uuid "09e49bb6-1f03-33a3-bfbe-8937e2e031e8"
              {:game/id #uuid "09e49bb6-1f03-33a3-bfbe-8937e2e031e8",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2915,
+                                                 :name "Negotiation"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}
+                    #:com.boardgamegeek.mechanic{:id 2008,
+                                                 :name "Trading"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1029,
+                                                 :name "City Building"}
+                    #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1026,
+                                                 :name "Negotiation"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -640,6 +1474,22 @@
              #uuid "99102149-c730-3271-a928-b7549ce07a13"
              {:game/id #uuid "99102149-c730-3271-a928-b7549ce07a13",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1024,
+                                                 :name "Horror"}
+                    #:com.boardgamegeek.category{:id 1082,
+                                                 :name "Mythology"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -651,6 +1501,36 @@
              #uuid "5b349ead-c3fb-374b-bb6c-47fcc3843355"
              {:game/id #uuid "5b349ead-c3fb-374b-bb6c-47fcc3843355",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2838,
+                                                 :name
+                                                 "Action Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2902,
+                                                 :name "Income"}
+                    #:com.boardgamegeek.mechanic{:id 2836,
+                                                 :name "Lose a Turn"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2833,
+                                                 :name
+                                                 "Turn Order: Role Order"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1029,
+                                                 :name "City Building"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1035,
+                                                 :name "Medieval"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -662,6 +1542,31 @@
              #uuid "fb48a85b-84e9-312b-985b-de09b2c0b29f"
              {:game/id #uuid "fb48a85b-84e9-312b-985b-de09b2c0b29f",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 3002,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}
+                    #:com.boardgamegeek.mechanic{:id 2940,
+                                                 :name "Square Grid"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1064,
+                                                 :name
+                                                 "Movies / TV / Radio theme"}
+                    #:com.boardgamegeek.category{:id 1040,
+                                                 :name
+                                                 "Murder/Mystery"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -672,12 +1577,36 @@
               "https://cf.geekdo-images.com/thumb/img/73FO0H7pORdum5ZexMXyrjLhpVU=/fit-in/200x150/filters:strip_icc()/pic5146918.png"},
              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a"
              {:game/id #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a",
-              :game/name "Codenames",
-              :com.boardgamegeek.boardgame/id "178900",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2893,
+                                                 :name
+                                                 "Communication Limits"}
+                    #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.mechanic{:id 2661,
+                                                 :name
+                                                 "Push Your Luck"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1081,
+                                                 :name
+                                                 "Spies/Secret Agents"}
+                    #:com.boardgamegeek.category{:id 1025,
+                                                 :name "Word Game"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 15,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "178900",
+              :game/name "Codenames",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/yl8iXxSNwguMeg3KkmfFO9SMVVc=/fit-in/200x150/filters:strip_icc()/pic2582929.jpg"},
              #uuid "185abfe0-c5de-3ade-adee-5258dc919487"
@@ -687,6 +1616,29 @@
              #uuid "c56337cc-54ed-3e22-8b76-d1092f67310c"
              {:game/id #uuid "c56337cc-54ed-3e22-8b76-d1092f67310c",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2893,
+                                                 :name
+                                                 "Communication Limits"}
+                    #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}
+                    #:com.boardgamegeek.mechanic{:id 2661,
+                                                 :name
+                                                 "Push Your Luck"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1081,
+                                                 :name
+                                                 "Spies/Secret Agents"}
+                    #:com.boardgamegeek.category{:id 1025,
+                                                 :name "Word Game"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -702,6 +1654,27 @@
              #uuid "7d1c07ba-7b59-3e65-b308-f82e4f02765e"
              {:game/id #uuid "7d1c07ba-7b59-3e65-b308-f82e4f02765e",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2001,
+                                                 :name "Action Points"}
+                    #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2046,
+                                                 :name "Area Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2018,
+                                                 :name
+                                                 "Campaign / Battle Card Driven"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1001,
+                                                 :name "Political"}
+                    #:com.boardgamegeek.category{:id 1065,
+                                                 :name "World War I"}),
               :com.boardgamegeek.boardgame/max-play-time 90,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 90,
@@ -713,6 +1686,20 @@
              #uuid "08cddb57-6c00-3836-9593-a0b04fd84141"
              {:game/id #uuid "08cddb57-6c00-3836-9593-a0b04fd84141",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2661,
+                                                 :name
+                                                 "Push Your Luck"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -724,6 +1711,14 @@
              #uuid "e8bffbf9-2f40-3bce-837e-bd9538b19c58"
              {:game/id #uuid "e8bffbf9-2f40-3bce-837e-bd9538b19c58",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2933,
+                                                 :name
+                                                 "Worker Placement, Different Worker Types"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 2710,
+                                                 :name
+                                                 "Post-Napoleonic"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 40,
@@ -735,6 +1730,17 @@
              #uuid "935b4085-0cd3-3875-abe0-2996fb99980b"
              {:game/id #uuid "935b4085-0cd3-3875-abe0-2996fb99980b",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}
+                    #:com.boardgamegeek.mechanic{:id 2017,
+                                                 :name "Voting"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1027,
+                                                 :name "Trivia"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -749,12 +1755,43 @@
               :game/name "Commissioner Victor"},
              #uuid "9353a118-c201-398a-83cc-6d58ccb38f02"
              {:game/id #uuid "9353a118-c201-398a-83cc-6d58ccb38f02",
-              :game/name "Concordia",
-              :com.boardgamegeek.boardgame/id "124361",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2839,
+                                                 :name
+                                                 "Action Retrieval"}
+                    #:com.boardgamegeek.mechanic{:id 2847,
+                                                 :name
+                                                 "Advantage Token"}
+                    #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2947,
+                                                 :name
+                                                 "Movement Points"}
+                    #:com.boardgamegeek.mechanic{:id 2958,
+                                                 :name
+                                                 "Moving Multiple Units"}
+                    #:com.boardgamegeek.mechanic{:id 2078,
+                                                 :name
+                                                 "Point to Point Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2897,
+                                                 :name
+                                                 "Variable Setup"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1050,
+                                                 :name "Ancient"}
+                    #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1008,
+                                                 :name "Nautical"}),
               :com.boardgamegeek.boardgame/max-play-time 100,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 100,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "124361",
+              :game/name "Concordia",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/ESPSltYYSFK-aJw6jOTdQrJGpOc=/fit-in/200x150/filters:strip_icc()/pic3453267.jpg"},
              #uuid "fd3be4f0-d310-39a4-86b8-03524d064ee6"
@@ -767,18 +1804,33 @@
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-players 2,
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/thumb/img/IrzG3AhYwSIeoahynhIV1Ou3ucA=/fit-in/200x150/filters:strip_icc()/pic4821859.jpg"},
+              "https://cf.geekdo-images.com/thumb/img/IrzG3AhYwSIeoahynhIV1Ou3ucA=/fit-in/200x150/filters:strip_icc()/pic4821859.jpg",
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}
+                    #:com.boardgamegeek.category{:id 1088,
+                                                 :name
+                                                 "Industry / Manufacturing"}),
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name
+                                                 "Dice Rolling"})},
              #uuid "701ae3e6-c75d-3e66-ab6a-b255f6fade83"
              #:game{:id #uuid "701ae3e6-c75d-3e66-ab6a-b255f6fade83",
                     :name "Cortex"},
              #uuid "c8ccad85-82a3-3865-8ad8-a3487faedffb"
              {:game/id #uuid "c8ccad85-82a3-3865-8ad8-a3487faedffb",
-              :game/name "Cortex Challenge GEO",
-              :com.boardgamegeek.boardgame/id "203266",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 15,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "203266",
+              :game/name "Cortex Challenge GEO",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/t2UqBSLQXpKNhyoOvpNPE97d51Q=/fit-in/200x150/filters:strip_icc()/pic3190835.jpg"},
              #uuid "2f266ba4-d63b-34be-8400-6b95a3442ff9"
@@ -787,37 +1839,108 @@
               :game/name "Cosmic Enounter"},
              #uuid "dfa418bd-eebc-3c3f-96b6-edaf5e3c4d89"
              {:game/id #uuid "dfa418bd-eebc-3c3f-96b6-edaf5e3c4d89",
-              :game/name "Crazy Karts",
-              :com.boardgamegeek.boardgame/id "195518",
+              :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2689,
+                                                 :name "Action Queue"}
+                    #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2011,
+                                                 :name "Modular Board"}
+                    #:com.boardgamegeek.mechanic{:id 2965,
+                                                 :name "Multiple Maps"}
+                    #:com.boardgamegeek.mechanic{:id 2953,
+                                                 :name
+                                                 "Programmed Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2948,
+                                                 :name
+                                                 "Resource to Move"}
+                    #:com.boardgamegeek.mechanic{:id 2003,
+                                                 :name
+                                                 "Rock-Paper-Scissors"}
+                    #:com.boardgamegeek.mechanic{:id 2892,
+                                                 :name
+                                                 "Roles with Asymmetric Information"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}
+                    #:com.boardgamegeek.category{:id 1031,
+                                                 :name "Racing"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 45,
-              :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/id "195518",
+              :game/name "Crazy Karts",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/ZDIypgSQtMDsqbZVCKf3dcDT8sI=/fit-in/200x150/filters:strip_icc()/pic2935361.jpg"},
              #uuid "cf06db18-725b-36dc-8e9c-5246b40aae01"
              {:game/id #uuid "cf06db18-725b-36dc-8e9c-5246b40aae01",
-              :game/name "Crazy Turf",
-              :com.boardgamegeek.boardgame/id "209258",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1031,
+                                                 :name "Racing"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 15,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "209258",
+              :game/name "Crazy Turf",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/f84XeqVja0Y7bZDoA4G69MY1ooA=/fit-in/200x150/filters:strip_icc()/pic3186921.jpg"},
              #uuid "30933bc2-a19f-3124-9a19-d7b8facdbeeb"
              {:game/id #uuid "30933bc2-a19f-3124-9a19-d7b8facdbeeb",
-              :game/name "Crooks",
-              :com.boardgamegeek.boardgame/id "111172",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1033,
+                                                 :name "Mafia"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 15,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "111172",
+              :game/name "Crooks",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/4WGwUngVtEleBc8MuqU4y6mv6kw=/fit-in/200x150/filters:strip_icc()/pic2844726.jpg"},
              #uuid "accf9b44-d60e-36aa-ab3e-293a0e91aed0"
              {:game/id #uuid "accf9b44-d60e-36aa-ab3e-293a0e91aed0",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -829,6 +1952,19 @@
              #uuid "f72af12f-4736-3bde-84b0-ca91070cf43c"
              {:game/id #uuid "f72af12f-4736-3bde-84b0-ca91070cf43c",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2891,
+                                                 :name "Hidden Roles"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -840,6 +1976,14 @@
              #uuid "648ffc7a-6dd1-39e8-a7f5-7ecb69cc4066"
              {:game/id #uuid "648ffc7a-6dd1-39e8-a7f5-7ecb69cc4066",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1025,
+                                                 :name "Word Game"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -850,12 +1994,19 @@
               "https://cf.geekdo-images.com/thumb/img/5Q1OYKZK7_KgwaMZP6eeCUBuwWI=/fit-in/200x150/filters:strip_icc()/pic802013.jpg"},
              #uuid "054f1270-bf79-32f9-825a-96880e800c9f"
              {:game/id #uuid "054f1270-bf79-32f9-825a-96880e800c9f",
-              :game/name "Der unendliche Fluss",
-              :com.boardgamegeek.boardgame/id "165797",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1032,
+                                                 :name
+                                                 "Action / Dexterity"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 15,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "165797",
+              :game/name "Der unendliche Fluss",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/OaZhWO7VcHKOg6h8xYOrMagcm7c=/fit-in/200x150/filters:strip_icc()/pic2238168.png"},
              #uuid "1991f014-ca60-3452-8b00-a0b79f71e848"
@@ -865,6 +2016,21 @@
              #uuid "86f0bb77-105e-3136-98ae-4837a11ed606"
              {:game/id #uuid "86f0bb77-105e-3136-98ae-4837a11ed606",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2001,
+                                                 :name "Action Points"}
+                    #:com.boardgamegeek.mechanic{:id 2046,
+                                                 :name "Area Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1040,
+                                                 :name
+                                                 "Murder/Mystery"}),
               :com.boardgamegeek.boardgame/max-play-time 150,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -875,17 +2041,43 @@
               "https://cf.geekdo-images.com/thumb/img/wl_YxOhd-S6QbpyHAQZGhV109rw=/fit-in/200x150/filters:strip_icc()/pic3469246.jpg"},
              #uuid "69895ff2-b990-3611-827e-f4f7fd32eb8a"
              {:game/id #uuid "69895ff2-b990-3611-827e-f4f7fd32eb8a",
-              :game/name "Dixit",
-              :com.boardgamegeek.boardgame/id "39856",
+              :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2893,
+                                                 :name
+                                                 "Communication Limits"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}
+                    #:com.boardgamegeek.mechanic{:id 2027,
+                                                 :name "Storytelling"}
+                    #:com.boardgamegeek.mechanic{:id 2866,
+                                                 :name
+                                                 "Targeted Clues"}
+                    #:com.boardgamegeek.mechanic{:id 2017,
+                                                 :name "Voting"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 30,
-              :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/id "39856",
+              :game/name "Dixit",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/iLgQV17c4xezI4ZeN_hmue_jh40=/fit-in/200x150/filters:strip_icc()/pic3483909.jpg"},
              #uuid "664d0a6d-1ba3-3b2b-961f-16ce489ff406"
              {:game/id #uuid "664d0a6d-1ba3-3b2b-961f-16ce489ff406",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -897,6 +2089,26 @@
              #uuid "b2980c72-2a1a-3e7a-b030-3718ce5491d8"
              {:game/id #uuid "b2980c72-2a1a-3e7a-b030-3718ce5491d8",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2664,
+                                                 :name
+                                                 "Deck, Bag, and Pool Building"}
+                    #:com.boardgamegeek.mechanic{:id 2901,
+                                                 :name
+                                                 "Delayed Purchase"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}
+                    #:com.boardgamegeek.mechanic{:id 2897,
+                                                 :name
+                                                 "Variable Setup"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1035,
+                                                 :name "Medieval"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -912,6 +2124,21 @@
              #uuid "3ed6a2fa-a80b-3140-9878-53dd29c238b8"
              {:game/id #uuid "3ed6a2fa-a80b-3140-9878-53dd29c238b8",
               :com.boardgamegeek.boardgame/min-players 4,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -923,6 +2150,10 @@
              #uuid "4d77e635-44ee-324b-b8e1-1cd07bd913a4"
              {:game/id #uuid "4d77e635-44ee-324b-b8e1-1cd07bd913a4",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1032,
+                                                 :name
+                                                 "Action / Dexterity"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -938,6 +2169,27 @@
              #uuid "ffbd4d36-9e2e-3949-8c47-2403ba1b4e8a"
              {:game/id #uuid "ffbd4d36-9e2e-3949-8c47-2403ba1b4e8a",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}
+                    #:com.boardgamegeek.category{:id 1016,
+                                                 :name
+                                                 "Science Fiction"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -949,6 +2201,26 @@
              #uuid "ea25ad16-dccd-378f-afde-9dae72c6b4d9"
              {:game/id #uuid "ea25ad16-dccd-378f-afde-9dae72c6b4d9",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2012,
+                                                 :name
+                                                 "Auction/Bidding"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}
+                    #:com.boardgamegeek.mechanic{:id 2082,
+                                                 :name
+                                                 "Worker Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}),
               :com.boardgamegeek.boardgame/max-play-time 90,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 90,
@@ -959,12 +2231,35 @@
               "https://cf.geekdo-images.com/thumb/img/vySdmxWBad2T5Xrylxv-jYukFmU=/fit-in/200x150/filters:strip_icc()/pic1103979.jpg"},
              #uuid "de3493ea-6e7c-3152-9c99-22e9e501faf8"
              {:game/id #uuid "de3493ea-6e7c-3152-9c99-22e9e501faf8",
-              :game/name "Dust",
-              :com.boardgamegeek.boardgame/id "29109",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2078,
+                                                 :name
+                                                 "Point to Point Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1047,
+                                                 :name "Miniatures"}
+                    #:com.boardgamegeek.category{:id 1016,
+                                                 :name
+                                                 "Science Fiction"}
+                    #:com.boardgamegeek.category{:id 1019,
+                                                 :name "Wargame"}),
               :com.boardgamegeek.boardgame/max-play-time 180,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 60,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "29109",
+              :game/name "Dust",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/BYCvJ8YyMoMM1QtCn64nMs5-HYM=/fit-in/200x150/filters:strip_icc()/pic280668.jpg"},
              #uuid "1ca357d2-0c1d-3ba6-8794-1375e42286a2"
@@ -973,27 +2268,73 @@
               :game/name "Eight minute empire"},
              #uuid "434949a6-89e3-3ba2-8e67-412edc26c71f"
              {:game/id #uuid "434949a6-89e3-3ba2-8e67-412edc26c71f",
-              :game/name "El Capitan",
-              :com.boardgamegeek.boardgame/id "178937",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1032,
+                                                 :name
+                                                 "Action / Dexterity"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
+                    #:com.boardgamegeek.category{:id 1045,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.category{:id 1090,
+                                                 :name "Pirates"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 20,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "178937",
+              :game/name "El Capitan",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/xN-XYFKDwdHSpOXRVcasm7H3iWE=/fit-in/200x150/filters:strip_icc()/pic3488237.jpg"},
              #uuid "35af2b0c-b093-3e74-8ed4-e7589938e8ac"
              {:game/id #uuid "35af2b0c-b093-3e74-8ed4-e7589938e8ac",
-              :game/name "Enigma",
-              :com.boardgamegeek.boardgame/id "9607",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2078,
+                                                 :name
+                                                 "Point to Point Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 60,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "9607",
+              :game/name "Enigma",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/eO5w9imJtJVe0T2XiYbQZkw3JNo=/fit-in/200x150/filters:strip_icc()/pic39888.jpg"},
              #uuid "cd19fd52-bf5e-3ad5-8ccf-0d6664374368"
              {:game/id #uuid "cd19fd52-bf5e-3ad5-8ccf-0d6664374368",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2685,
+                                                 :name
+                                                 "Player Elimination"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -1010,6 +2351,37 @@
              #uuid "34c99f3a-1325-32c3-865d-f7e597f25a8d"
              {:game/id #uuid "34c99f3a-1325-32c3-865d-f7e597f25a8d",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2055,
+                                                 :name
+                                                 "Paper-and-Pencil"}
+                    #:com.boardgamegeek.mechanic{:id 2661,
+                                                 :name
+                                                 "Push Your Luck"}
+                    #:com.boardgamegeek.mechanic{:id 2028,
+                                                 :name "Role Playing"}
+                    #:com.boardgamegeek.mechanic{:id 2819,
+                                                 :name
+                                                 "Solo / Solitaire Game"}
+                    #:com.boardgamegeek.mechanic{:id 2027,
+                                                 :name
+                                                 "Storytelling"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1022,
+                                                 :name "Adventure"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1024,
+                                                 :name "Horror"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -1020,17 +2392,43 @@
               "https://cf.geekdo-images.com/thumb/img/fbbmrfibmcgPqNDbruBOE4-uTkc=/fit-in/200x150/filters:strip_icc()/pic5004159.jpg"},
              #uuid "42f0d762-a858-3dbb-b64d-dde4f6a4fc6d"
              {:game/id #uuid "42f0d762-a858-3dbb-b64d-dde4f6a4fc6d",
-              :game/name "Evolution",
-              :com.boardgamegeek.boardgame/id "1080",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name
+                                                 "Dice Rolling"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1036,
+                                                 :name "Prehistoric"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 45,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "1080",
+              :game/name "Evolution",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/3bQoh-EJxL03Qq6wA0dbVAQrhSQ=/fit-in/200x150/filters:strip_icc()/pic279884.jpg"},
              #uuid "f072aeb8-c5dc-3eb7-9f65-6c8ab7d359a9"
              {:game/id #uuid "f072aeb8-c5dc-3eb7-9f65-6c8ab7d359a9",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2001,
+                                                 :name "Action Points"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2070,
+                                                 :name "Simulation"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1094,
+                                                 :name "Educational"}
+                    #:com.boardgamegeek.category{:id 1084,
+                                                 :name "Environmental"}
+                    #:com.boardgamegeek.category{:id 1036,
+                                                 :name "Prehistoric"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -1042,6 +2440,17 @@
              #uuid "9d8b1773-e579-34ae-9aae-3e3c82f764ce"
              {:game/id #uuid "9d8b1773-e579-34ae-9aae-3e3c82f764ce",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1028,
+                                                 :name "Puzzle"}
+                    #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}),
               :com.boardgamegeek.boardgame/max-play-time 120,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -1053,6 +2462,33 @@
              #uuid "165261a9-0183-3e53-be82-ccc197c354b8"
              {:game/id #uuid "165261a9-0183-3e53-be82-ccc197c354b8",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 3000,
+                                                 :name "Hot Potato"}
+                    #:com.boardgamegeek.mechanic{:id 2685,
+                                                 :name
+                                                 "Player Elimination"}
+                    #:com.boardgamegeek.mechanic{:id 2661,
+                                                 :name
+                                                 "Push Your Luck"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1116,
+                                                 :name
+                                                 "Comic Book / Strip"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -1064,6 +2500,34 @@
              #uuid "a389677b-6118-3815-84fe-c1e75f38984c"
              {:game/id #uuid "a389677b-6118-3815-84fe-c1e75f38984c",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2685,
+                                                 :name
+                                                 "Player Elimination"}
+                    #:com.boardgamegeek.mechanic{:id 2661,
+                                                 :name
+                                                 "Push Your Luck"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1116,
+                                                 :name
+                                                 "Comic Book / Strip"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}
+                    #:com.boardgamegeek.category{:id 1118,
+                                                 :name
+                                                 "Mature / Adult"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 10,
@@ -1075,6 +2539,16 @@
              #uuid "cace91df-d6f2-36fc-a98a-6fa5cde7357d"
              {:game/id #uuid "cace91df-d6f2-36fc-a98a-6fa5cde7357d",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -1086,6 +2560,17 @@
              #uuid "ebe3d298-d25e-3110-8e34-1c079e9455d9"
              {:game/id #uuid "ebe3d298-d25e-3110-8e34-1c079e9455d9",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -1097,6 +2582,15 @@
              #uuid "7faaa1de-90c9-3f60-a58e-46fae6daf77c"
              {:game/id #uuid "7faaa1de-90c9-3f60-a58e-46fae6daf77c",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.mechanic{:id 2027,
+                                                 :name
+                                                 "Storytelling"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}),
               :com.boardgamegeek.boardgame/max-play-time 75,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -1107,22 +2601,38 @@
               "https://cf.geekdo-images.com/thumb/img/G4IZYxp25z-N9UklBdLsA1sQQiw=/fit-in/200x150/filters:strip_icc()/pic4319287.jpg"},
              #uuid "ca5622cb-e7ba-31f7-95df-551ad1bbe80f"
              {:game/id #uuid "ca5622cb-e7ba-31f7-95df-551ad1bbe80f",
-              :game/name "Fast Flip",
-              :com.boardgamegeek.boardgame/id "194088",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2060,
+                                                 :name
+                                                 "Pattern Recognition"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 15,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "194088",
+              :game/name "Fast Flip",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/scLBO4mhJF2lrx9tEEBjcpOzsII=/fit-in/200x150/filters:strip_icc()/pic2904691.jpg"},
              #uuid "06ac533c-6f03-39a8-ae86-a6c373df20f3"
              {:game/id #uuid "06ac533c-6f03-39a8-ae86-a6c373df20f3",
-              :game/name "Faulpelz",
-              :com.boardgamegeek.boardgame/id "153388",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "153388",
+              :game/name "Faulpelz",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/eTDFdl4FA791dm3zSWAFOyeS9iU=/fit-in/200x150/filters:strip_icc()/pic1892559.jpg"},
              #uuid "cedb275c-f7e8-3cf1-9073-41cff22af498"
@@ -1130,12 +2640,24 @@
                     :name "Fifty Shades of Grey"},
              #uuid "b8f4ece4-3fa5-3fc3-9f1d-a34aec906149"
              {:game/id #uuid "b8f4ece4-3fa5-3fc3-9f1d-a34aec906149",
-              :game/name "Finde die Tiere!",
-              :com.boardgamegeek.boardgame/id "40837",
+              :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name
+                                                 "Card Drafting"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 20,
-              :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/id "40837",
+              :game/name "Finde die Tiere!",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/DeFarGFET0ejB6QhmkExlJjmWeA=/fit-in/200x150/filters:strip_icc()/pic445108.jpg"},
              #uuid "0274f55b-5048-3400-8821-0835d59e7ddd"
@@ -1145,6 +2667,24 @@
              #uuid "d55cb47e-7f6c-3de3-afe9-3acfd3bd09af"
              {:game/id #uuid "d55cb47e-7f6c-3de3-afe9-3acfd3bd09af",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2013,
+                                                 :name
+                                                 "Commodity Speculation"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2661,
+                                                 :name
+                                                 "Push Your Luck"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2082,
+                                                 :name
+                                                 "Worker Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1020,
+                                                 :name "Exploration"}),
               :com.boardgamegeek.boardgame/max-play-time 90,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -1156,6 +2696,38 @@
              #uuid "027df389-a20d-3cbe-886e-a91e5b10d58a"
              {:game/id #uuid "027df389-a20d-3cbe-886e-a91e5b10d58a",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2001,
+                                                 :name "Action Points"}
+                    #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}
+                    #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2960,
+                                                 :name "Map Reduction"}
+                    #:com.boardgamegeek.mechanic{:id 2011,
+                                                 :name "Modular Board"}
+                    #:com.boardgamegeek.mechanic{:id 2007,
+                                                 :name
+                                                 "Pick-up and Deliver"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2819,
+                                                 :name
+                                                 "Solo / Solitaire Game"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1022,
+                                                 :name "Adventure"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -1171,6 +2743,21 @@
              #uuid "2752fdce-7879-3086-8e8e-2a54c21ee999"
              {:game/id #uuid "2752fdce-7879-3086-8e8e-2a54c21ee999",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2001,
+                                                 :name "Action Points"}
+                    #:com.boardgamegeek.mechanic{:id 2048,
+                                                 :name
+                                                 "Pattern Building"}
+                    #:com.boardgamegeek.mechanic{:id 2876,
+                                                 :name "Race"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1024,
+                                                 :name "Horror"}
+                    #:com.boardgamegeek.category{:id 1093,
+                                                 :name "Novel-based"}
+                    #:com.boardgamegeek.category{:id 1028,
+                                                 :name "Puzzle"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -1182,6 +2769,27 @@
              #uuid "34946d54-6d22-3af0-afdb-e795b8de802b"
              {:game/id #uuid "34946d54-6d22-3af0-afdb-e795b8de802b",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.mechanic{:id 2016,
+                                                 :name
+                                                 "Secret Unit Deployment"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1098,
+                                                 :name "Number"}
+                    #:com.boardgamegeek.category{:id 1081,
+                                                 :name
+                                                 "Spies/Secret Agents"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 5,
@@ -1192,17 +2800,32 @@
               "https://cf.geekdo-images.com/thumb/img/1cw7pZbdLk2bBFh-tjkwzZXwgmw=/fit-in/200x150/filters:strip_icc()/pic3481216.png"},
              #uuid "ebb7a837-d8f1-3d0c-a149-24e17e4005dc"
              {:game/id #uuid "ebb7a837-d8f1-3d0c-a149-24e17e4005dc",
-              :game/name "Fuji Flush",
-              :com.boardgamegeek.boardgame/id "203430",
+              :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1098,
+                                                 :name "Number"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 10,
-              :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/id "203430",
+              :game/name "Fuji Flush",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/rQmbjRFo3DZhq7ufK3K1UwDI0x0=/fit-in/200x150/filters:strip_icc()/pic3086849.jpg"},
              #uuid "d76c9788-f173-3fff-9b13-9ced6ab67c4a"
              {:game/id #uuid "d76c9788-f173-3fff-9b13-9ced6ab67c4a",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}),
               :com.boardgamegeek.boardgame/max-play-time 10,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 10,
@@ -1218,6 +2841,27 @@
              #uuid "7873a90e-ea1b-3b3b-8ca8-4820dc662976"
              {:game/id #uuid "7873a90e-ea1b-3b3b-8ca8-4820dc662976",
               :com.boardgamegeek.boardgame/min-players 5,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1001,
+                                                 :name "Political"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -1229,6 +2873,26 @@
              #uuid "9ecf0011-c0af-37eb-a590-f247005f0399"
              {:game/id #uuid "9ecf0011-c0af-37eb-a590-f247005f0399",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2915,
+                                                 :name "Negotiation"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1064,
+                                                 :name
+                                                 "Movies / TV / Radio theme"}
+                    #:com.boardgamegeek.category{:id 1026,
+                                                 :name "Negotiation"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -1240,6 +2904,19 @@
              #uuid "af89834e-3251-3aa9-a464-74b8d24a5091"
              {:game/id #uuid "af89834e-3251-3aa9-a464-74b8d24a5091",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2048,
+                                                 :name
+                                                 "Pattern Building"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1028,
+                                                 :name "Puzzle"}
+                    #:com.boardgamegeek.category{:id 1034,
+                                                 :name "Trains"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -1251,6 +2928,19 @@
              #uuid "0aba0975-5e75-3a94-8bfe-fd86797f7ce8"
              {:game/id #uuid "0aba0975-5e75-3a94-8bfe-fd86797f7ce8",
               :com.boardgamegeek.boardgame/min-players 5,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}
+                    #:com.boardgamegeek.mechanic{:id 2017,
+                                                 :name "Voting"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1026,
+                                                 :name "Negotiation"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 9,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -1262,6 +2952,24 @@
              #uuid "6b13ea3b-f083-34f2-adf3-f3dba030f1ef"
              {:game/id #uuid "6b13ea3b-f083-34f2-adf3-f3dba030f1ef",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1050,
+                                                 :name "Ancient"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1019,
+                                                 :name "Wargame"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -1272,17 +2980,48 @@
               "https://cf.geekdo-images.com/thumb/img/sN9Px7o3oogpKe_1qe4glWujOv0=/fit-in/200x150/filters:strip_icc()/pic3130233.png"},
              #uuid "b150a64b-6e6b-3e4b-8784-e6bc946f1fc1"
              {:game/id #uuid "b150a64b-6e6b-3e4b-8784-e6bc946f1fc1",
-              :game/name "Giraf'Fun",
-              :com.boardgamegeek.boardgame/id "213358",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name
+                                                 "Dice Rolling"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 15,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "213358",
+              :game/name "Giraf'Fun",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/KfT4gfFaMBqkLUeNd-grasK1fCo=/fit-in/200x150/filters:strip_icc()/pic3304372.jpg"},
              #uuid "35474b73-b019-37a7-b3d6-ee8eb6df3f8c"
              {:game/id #uuid "35474b73-b019-37a7-b3d6-ee8eb6df3f8c",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2073,
+                                                 :name "Acting"}
+                    #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}
+                    #:com.boardgamegeek.mechanic{:id 2038,
+                                                 :name "Singing"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 40,
               :com.boardgamegeek.boardgame/max-players 99,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -1294,6 +3033,19 @@
              #uuid "4c2d3b0e-9fbd-3faa-9fed-724910231a39"
              {:game/id #uuid "4c2d3b0e-9fbd-3faa-9fed-724910231a39",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2689,
+                                                 :name "Action Queue"}
+                    #:com.boardgamegeek.mechanic{:id 2048,
+                                                 :name
+                                                 "Pattern Building"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1020,
+                                                 :name "Exploration"}
+                    #:com.boardgamegeek.category{:id 1028,
+                                                 :name "Puzzle"}
+                    #:com.boardgamegeek.category{:id 1097,
+                                                 :name "Travel"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -1305,6 +3057,25 @@
              #uuid "b1ea21fb-2177-3fed-af81-0a3967e76069"
              {:game/id #uuid "b1ea21fb-2177-3fed-af81-0a3967e76069",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 3001,
+                                                 :name "Layering"}
+                    #:com.boardgamegeek.mechanic{:id 2836,
+                                                 :name "Lose a Turn"}
+                    #:com.boardgamegeek.mechanic{:id 2027,
+                                                 :name "Storytelling"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1024,
+                                                 :name "Horror"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -1319,17 +3090,43 @@
               :game/name "Glupsch geister"},
              #uuid "5f075ae3-e1f9-3038-abb8-c4632991f96f"
              {:game/id #uuid "5f075ae3-e1f9-3038-abb8-c4632991f96f",
-              :game/name "Go",
-              :com.boardgamegeek.boardgame/id "188",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2043,
+                                                 :name "Enclosure"}
+                    #:com.boardgamegeek.mechanic{:id 2940,
+                                                 :name "Square Grid"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}),
               :com.boardgamegeek.boardgame/max-play-time 180,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 30,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "188",
+              :game/name "Go",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/COT5I3D_0dKWrSRHChb-SnQl3Zc=/fit-in/200x150/filters:strip_icc()/pic1728832.jpg"},
              #uuid "bd4049a7-2730-31a1-bbc9-4a077d75facc"
              {:game/id #uuid "bd4049a7-2730-31a1-bbc9-4a077d75facc",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2060,
+                                                 :name
+                                                 "Pattern Recognition"}
+                    #:com.boardgamegeek.mechanic{:id 2685,
+                                                 :name
+                                                 "Player Elimination"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1032,
+                                                 :name
+                                                 "Action / Dexterity"}
+                    #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 10,
@@ -1349,6 +3146,15 @@
              #uuid "3cad23d1-2f51-3a7b-8a51-4c256db8638d"
              {:game/id #uuid "3cad23d1-2f51-3a7b-8a51-4c256db8638d",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2028,
+                                                 :name
+                                                 "Role Playing"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 10,
@@ -1364,6 +3170,19 @@
              #uuid "7fe2ec37-f762-3f17-b6c0-cc2b097adead"
              {:game/id #uuid "7fe2ec37-f762-3f17-b6c0-cc2b097adead",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
+                    #:com.boardgamegeek.category{:id 1064,
+                                                 :name
+                                                 "Movies / TV / Radio theme"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 35,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -1375,6 +3194,19 @@
              #uuid "5aa42acb-56e5-3325-acc3-e39be2b450a1"
              {:game/id #uuid "5aa42acb-56e5-3325-acc3-e39be2b450a1",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2819,
+                                                 :name
+                                                 "Solo / Solitaire Game"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}
+                    #:com.boardgamegeek.mechanic{:id 2009,
+                                                 :name
+                                                 "Trick-taking"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -1386,6 +3218,29 @@
              #uuid "e5c528dd-2ba9-3a89-ac17-c427f0c00414"
              {:game/id #uuid "e5c528dd-2ba9-3a89-ac17-c427f0c00414",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2664,
+                                                 :name
+                                                 "Deck, Bag, and Pool Building"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2078,
+                                                 :name
+                                                 "Point to Point Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2813,
+                                                 :name "Rondel"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2897,
+                                                 :name
+                                                 "Variable Setup"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1055,
+                                                 :name "American West"}
+                    #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}),
               :com.boardgamegeek.boardgame/max-play-time 150,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 75,
@@ -1397,6 +3252,25 @@
              #uuid "c9e680a4-40fb-3a3e-bc38-6556dd90712b"
              {:game/id #uuid "c9e680a4-40fb-3a3e-bc38-6556dd90712b",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2689,
+                                                 :name "Action Queue"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1031,
+                                                 :name "Racing"}
+                    #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -1411,6 +3285,24 @@
              #uuid "bb2b867a-583d-3e72-adf5-e81bf22baea4"
              {:game/id #uuid "bb2b867a-583d-3e72-adf5-e81bf22baea4",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2689,
+                                                 :name "Action Queue"}
+                    #:com.boardgamegeek.mechanic{:id 2685,
+                                                 :name
+                                                 "Player Elimination"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -1422,6 +3314,26 @@
              #uuid "e8d2a59c-f315-3860-9608-b04f893cbc93"
              {:game/id #uuid "e8d2a59c-f315-3860-9608-b04f893cbc93",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2875,
+                                                 :name
+                                                 "End Game Bonuses"}
+                    #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1029,
+                                                 :name "City Building"}
+                    #:com.boardgamegeek.category{:id 1015,
+                                                 :name
+                                                 "Civilization"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -1433,6 +3345,29 @@
              #uuid "0a995f25-bdf2-358f-bf5a-93e22c9aa05b"
              {:game/id #uuid "0a995f25-bdf2-358f-bf5a-93e22c9aa05b",
               :com.boardgamegeek.boardgame/min-players 5,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}
+                    #:com.boardgamegeek.mechanic{:id 2814,
+                                                 :name "Traitor Game"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1116,
+                                                 :name
+                                                 "Comic Book / Strip"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1081,
+                                                 :name
+                                                 "Spies/Secret Agents"}),
               :com.boardgamegeek.boardgame/max-play-time 75,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 40,
@@ -1443,27 +3378,74 @@
               "https://cf.geekdo-images.com/thumb/img/HlRZwWhjdliHGnxY2x7-pkj-1I8=/fit-in/200x150/filters:strip_icc()/pic4233915.jpg"},
              #uuid "f98b9f16-c08f-3903-9b7f-80481ccce0d0"
              {:game/id #uuid "f98b9f16-c08f-3903-9b7f-80481ccce0d0",
-              :game/name "Halali",
-              :com.boardgamegeek.boardgame/id "1130",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2026,
+                                                 :name "Hexagon Grid"}
+                    #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 45,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "1130",
+              :game/name "Halali",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/kQGmAAkgT5J7ZLgUAxldNxeA1vg=/fit-in/200x150/filters:strip_icc()/pic14240.jpg"},
              #uuid "81cc0f79-3609-346a-8dde-65ed1c9f3c3a"
              {:game/id #uuid "81cc0f79-3609-346a-8dde-65ed1c9f3c3a",
-              :game/name "Hanabi",
-              :com.boardgamegeek.boardgame/id "98778",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2893,
+                                                 :name
+                                                 "Communication Limits"}
+                    #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.mechanic{:id 2892,
+                                                 :name
+                                                 "Roles with Asymmetric Information"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1045,
+                                                 :name "Memory"}),
               :com.boardgamegeek.boardgame/max-play-time 25,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 25,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "98778",
+              :game/name "Hanabi",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/amCeCcEKhYGbVtDvpvIMnu3qTg0=/fit-in/200x150/filters:strip_icc()/pic2007286.jpg"},
              #uuid "4846597b-0309-3cd6-9f05-12f43edf2faf"
              {:game/id #uuid "4846597b-0309-3cd6-9f05-12f43edf2faf",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1013,
+                                                 :name "Farming"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -1475,6 +3457,20 @@
              #uuid "e29fbec4-4c71-3519-8e93-582b67df86f4"
              {:game/id #uuid "e29fbec4-4c71-3519-8e93-582b67df86f4",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}),
               :com.boardgamegeek.boardgame/max-play-time 2,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 2,
@@ -1486,6 +3482,28 @@
              #uuid "d9ff8a5f-72de-3a40-99bd-301e426485bd"
              {:game/id #uuid "d9ff8a5f-72de-3a40-99bd-301e426485bd",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.mechanic{:id 2048,
+                                                 :name
+                                                 "Pattern Building"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1028,
+                                                 :name "Puzzle"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -1496,27 +3514,68 @@
               "https://cf.geekdo-images.com/thumb/img/nwsGruWd-5XPmYPY3RG72-MsQ6g=/fit-in/200x150/filters:strip_icc()/pic2678962.jpg"},
              #uuid "5aac7681-3d33-3350-b4e8-43d1ae9b29e3"
              {:game/id #uuid "5aac7681-3d33-3350-b4e8-43d1ae9b29e3",
-              :game/name "Hat Trick",
-              :com.boardgamegeek.boardgame/id "11153",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name
+                                                 "Dice Rolling"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "11153",
+              :game/name "Hat Trick",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/vNtveDGyNhKtuvZaDrfGXftu-SA=/fit-in/200x150/filters:strip_icc()/pic46136.jpg"},
              #uuid "826863b8-1605-33a8-9169-91ebcb89712b"
              {:game/id #uuid "826863b8-1605-33a8-9169-91ebcb89712b",
-              :game/name "Hey, That's My Fish!",
-              :com.boardgamegeek.boardgame/id "8203",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2026,
+                                                 :name "Hexagon Grid"}
+                    #:com.boardgamegeek.mechanic{:id 2960,
+                                                 :name "Map Reduction"}
+                    #:com.boardgamegeek.mechanic{:id 2011,
+                                                 :name
+                                                 "Modular Board"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 20,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "8203",
+              :game/name "Hey, That's My Fish!",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/6jjUgJWbOMUZ4JIEqJF0MzP6tO8=/fit-in/200x150/filters:strip_icc()/pic1004115.jpg"},
              #uuid "434338bc-9501-334b-adbf-2b3752e9e231"
              {:game/id #uuid "434338bc-9501-334b-adbf-2b3752e9e231",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2026,
+                                                 :name "Hexagon Grid"}
+                    #:com.boardgamegeek.mechanic{:id 2964,
+                                                 :name "Pieces as Map"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -1528,6 +3587,30 @@
              #uuid "08b3b128-c196-3b26-bc2f-d0e5523bc940"
              {:game/id #uuid "08b3b128-c196-3b26-bc2f-d0e5523bc940",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2027,
+                                                 :name "Storytelling"}
+                    #:com.boardgamegeek.mechanic{:id 2082,
+                                                 :name
+                                                 "Worker Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 2145,
+                                                 :name "Medical"}
+                    #:com.boardgamegeek.category{:id 1045,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.category{:id 1040,
+                                                 :name
+                                                 "Murder/Mystery"}
+                    #:com.boardgamegeek.category{:id 1028,
+                                                 :name "Puzzle"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -1547,6 +3630,27 @@
              #uuid "dd1bf333-48e3-3cde-80c2-6fb824ec3563"
              {:game/id #uuid "dd1bf333-48e3-3cde-80c2-6fb824ec3563",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.mechanic{:id 2060,
+                                                 :name
+                                                 "Pattern Recognition"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
+                    #:com.boardgamegeek.category{:id 1084,
+                                                 :name "Environmental"}
+                    #:com.boardgamegeek.category{:id 1098,
+                                                 :name "Number"}
+                    #:com.boardgamegeek.category{:id 1027,
+                                                 :name "Trivia"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 0,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -1558,6 +3662,21 @@
              #uuid "af493a90-a6e6-31a5-966e-beed6fcfe1b4"
              {:game/id #uuid "af493a90-a6e6-31a5-966e-beed6fcfe1b4",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2079,
+                                                 :name
+                                                 "Variable Phase Order"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}
+                    #:com.boardgamegeek.mechanic{:id 2082,
+                                                 :name
+                                                 "Worker Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}
+                    #:com.boardgamegeek.category{:id 2145,
+                                                 :name "Medical"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -1573,6 +3692,20 @@
              #uuid "a6092dda-9d9f-3b45-b148-b73eb5da724a"
              {:game/id #uuid "a6092dda-9d9f-3b45-b148-b73eb5da724a",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.mechanic{:id 2028,
+                                                 :name "Role Playing"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -1587,12 +3720,24 @@
               :game/name "Hravé kroužky"},
              #uuid "1b3840b0-b70d-31c1-be70-014c8537dbba"
              {:game/id #uuid "1b3840b0-b70d-31c1-be70-014c8537dbba",
-              :game/name "Hugo",
-              :com.boardgamegeek.boardgame/id "23435",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1022,
+                                                 :name "Adventure"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1064,
+                                                 :name
+                                                 "Movies / TV / Radio theme"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "23435",
+              :game/name "Hugo",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/flSO_ro1ATTQw5EaCkeaSqa8UvE=/fit-in/200x150/filters:strip_icc()/pic165694.jpg"},
              #uuid "ef1255d2-d317-3f7d-a305-c35d8796be53"
@@ -1602,6 +3747,18 @@
              #uuid "bcfc2af4-495d-3023-83ab-12fb1057166f"
              {:game/id #uuid "bcfc2af4-495d-3023-83ab-12fb1057166f",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2048,
+                                                 :name
+                                                 "Pattern Building"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1098,
+                                                 :name "Number"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -1612,12 +3769,28 @@
               "https://cf.geekdo-images.com/thumb/img/E2XFve6QnxBMsib3rraDVxuPvKw=/fit-in/200x150/filters:strip_icc()/pic2740107.jpg"},
              #uuid "6da53f25-b27b-3c31-8b0d-3928dc46f469"
              {:game/id #uuid "6da53f25-b27b-3c31-8b0d-3928dc46f469",
-              :game/name "Hypergrid",
-              :com.boardgamegeek.boardgame/id "209206",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2048,
+                                                 :name
+                                                 "Pattern Building"}
+                    #:com.boardgamegeek.mechanic{:id 2060,
+                                                 :name
+                                                 "Pattern Recognition"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 30,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "209206",
+              :game/name "Hypergrid",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/ro9Zk2Fj6Ou8JR_S3uDmkVwELi8=/fit-in/200x150/filters:strip_icc()/pic3184914.jpg"},
              #uuid "c693b4c3-9720-303a-836a-8f25b4da698a"
@@ -1626,17 +3799,47 @@
               :game/name "I Know: Hit list"},
              #uuid "aff8862a-8fba-39a6-86f4-ef02a3a228f9"
              {:game/id #uuid "aff8862a-8fba-39a6-86f4-ef02a3a228f9",
-              :game/name "ICECOOL",
-              :com.boardgamegeek.boardgame/id "177524",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2046,
+                                                 :name "Area Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2860,
+                                                 :name "Flicking"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1032,
+                                                 :name
+                                                 "Action / Dexterity"}
+                    #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "177524",
+              :game/name "ICECOOL",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/b6he0ibAdBGM7T_lj918HG1aSbg=/fit-in/200x150/filters:strip_icc()/pic2937209.png"},
              #uuid "b4991e13-f466-39b4-be16-56909272f1cc"
              {:game/id #uuid "b4991e13-f466-39b4-be16-56909272f1cc",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1093,
+                                                 :name "Novel-based"}
+                    #:com.boardgamegeek.category{:id 1001,
+                                                 :name "Political"}
+                    #:com.boardgamegeek.category{:id 1016,
+                                                 :name
+                                                 "Science Fiction"}),
               :com.boardgamegeek.boardgame/max-play-time 120,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -1652,6 +3855,29 @@
              #uuid "0ef8f876-d62a-3535-ae28-410454e3634b"
              {:game/id #uuid "0ef8f876-d62a-3535-ae28-410454e3634b",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2912,
+                                                 :name "Contracts"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2011,
+                                                 :name "Modular Board"}
+                    #:com.boardgamegeek.mechanic{:id 2081,
+                                                 :name
+                                                 "Network and Route Building"}
+                    #:com.boardgamegeek.mechanic{:id 2007,
+                                                 :name
+                                                 "Pick-up and Deliver"}
+                    #:com.boardgamegeek.mechanic{:id 2876,
+                                                 :name "Race"}
+                    #:com.boardgamegeek.mechanic{:id 2897,
+                                                 :name
+                                                 "Variable Setup"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 40,
@@ -1663,6 +3889,14 @@
              #uuid "984c20a2-ad28-3167-b8ae-fcef61acbced"
              {:game/id #uuid "984c20a2-ad28-3167-b8ae-fcef61acbced",
               :com.boardgamegeek.boardgame/min-players 4,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 10,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -1674,6 +3908,20 @@
              #uuid "d701c31b-be98-3228-af7f-aaebd4cb0455"
              {:game/id #uuid "d701c31b-be98-3228-af7f-aaebd4cb0455",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -1688,17 +3936,60 @@
               :game/name "Jak jako jak"},
              #uuid "1add2eb4-1fca-39b2-a15b-4a7d68571409"
              {:game/id #uuid "1add2eb4-1fca-39b2-a15b-4a7d68571409",
-              :game/name "Jamaica",
-              :com.boardgamegeek.boardgame/id "28023",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2876,
+                                                 :name "Race"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1008,
+                                                 :name "Nautical"}
+                    #:com.boardgamegeek.category{:id 1090,
+                                                 :name "Pirates"}
+                    #:com.boardgamegeek.category{:id 1031,
+                                                 :name "Racing"}
+                    #:com.boardgamegeek.category{:id 1011,
+                                                 :name
+                                                 "Transportation"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 30,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "28023",
+              :game/name "Jamaica",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/GrmR2FBxm0O7LK3CVkcPxooXARw=/fit-in/200x150/filters:strip_icc()/pic1502119.jpg"},
              #uuid "647e229b-c07b-3419-a641-254ed8b96dbd"
              {:game/id #uuid "647e229b-c07b-3419-a641-254ed8b96dbd",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2865,
+                                                 :name "Player Judge"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1116,
+                                                 :name
+                                                 "Comic Book / Strip"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}
+                    #:com.boardgamegeek.category{:id 1118,
+                                                 :name
+                                                 "Mature / Adult"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 90,
               :com.boardgamegeek.boardgame/max-players 10,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -1710,6 +4001,30 @@
              #uuid "18594966-e721-3762-8ad4-b4cc663db0b9"
              {:game/id #uuid "18594966-e721-3762-8ad4-b4cc663db0b9",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2046,
+                                                 :name "Area Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2837,
+                                                 :name "Interrupts"}
+                    #:com.boardgamegeek.mechanic{:id 2871,
+                                                 :name "Kill Steal"}
+                    #:com.boardgamegeek.mechanic{:id 2016,
+                                                 :name
+                                                 "Secret Unit Deployment"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1116,
+                                                 :name
+                                                 "Comic Book / Strip"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}
+                    #:com.boardgamegeek.category{:id 1047,
+                                                 :name "Miniatures"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -1720,17 +4035,41 @@
               "https://cf.geekdo-images.com/thumb/img/YgMuh3DbFOp8k2FqPWNkxEbJ0SE=/fit-in/200x150/filters:strip_icc()/pic4973077.jpg"},
              #uuid "a5d7ddea-2e79-3a0f-b248-95af3f6223d4"
              {:game/id #uuid "a5d7ddea-2e79-3a0f-b248-95af3f6223d4",
-              :game/name "Jungle Brunch",
-              :com.boardgamegeek.boardgame/id "130907",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 20,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "130907",
+              :game/name "Jungle Brunch",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/WdokDmJ4wy1iQtfbVtSzaTVU_bo=/fit-in/200x150/filters:strip_icc()/pic1422658.jpg"},
              #uuid "f18187e7-f398-32f0-b73e-625e848d8333"
              {:game/id #uuid "f18187e7-f398-32f0-b73e-625e848d8333",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name
+                                                 "Dice Rolling"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
+                    #:com.boardgamegeek.category{:id 1031,
+                                                 :name "Racing"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -1742,6 +4081,22 @@
              #uuid "6db176b1-017b-3430-a362-e2d6ee99cc67"
              {:game/id #uuid "6db176b1-017b-3430-a362-e2d6ee99cc67",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2685,
+                                                 :name
+                                                 "Player Elimination"}
+                    #:com.boardgamegeek.mechanic{:id 2988,
+                                                 :name
+                                                 "Stacking and Balancing"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1032,
+                                                 :name
+                                                 "Action / Dexterity"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -1753,6 +4108,18 @@
              #uuid "e9e59065-5acd-3d1d-876b-8cb866541534"
              {:game/id #uuid "e9e59065-5acd-3d1d-876b-8cb866541534",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2893,
+                                                 :name
+                                                 "Communication Limits"}
+                    #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1025,
+                                                 :name "Word Game"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 7,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -1763,12 +4130,30 @@
               "https://cf.geekdo-images.com/thumb/img/HhZu2qLp9wyX9PNgvmDE8_hCl-0=/fit-in/200x150/filters:strip_icc()/pic4268499.jpg"},
              #uuid "d94472e2-8880-369b-b2f2-d1d3b83960c6"
              {:game/id #uuid "d94472e2-8880-369b-b2f2-d1d3b83960c6",
-              :game/name "Kahuna",
-              :com.boardgamegeek.boardgame/id "394",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2081,
+                                                 :name
+                                                 "Network and Route Building"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}),
               :com.boardgamegeek.boardgame/max-play-time 40,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 30,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "394",
+              :game/name "Kahuna",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/bc5NxkspfUfPskxlC30SxlwNyxs=/fit-in/200x150/filters:strip_icc()/pic2606165.jpg"},
              #uuid "83f7cd22-e2a0-3e46-b9ba-4358004dc75f"
@@ -1778,10 +4163,44 @@
               :com.boardgamegeek.boardgame/max-players 0,
               :com.boardgamegeek.boardgame/min-players 2,
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/thumb/img/5-NmFZcvHYLlSIpIVeEiE73_v4o=/fit-in/200x150/filters:strip_icc()/pic2634113.jpg"},
+              "https://cf.geekdo-images.com/thumb/img/5-NmFZcvHYLlSIpIVeEiE73_v4o=/fit-in/200x150/filters:strip_icc()/pic2634113.jpg",
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}
+                    #:com.boardgamegeek.category{:id 1082,
+                                                 :name "Mythology"}),
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name
+                                                 "Grid Movement"})},
              #uuid "2293c663-d1bc-3701-9a53-009f457c6940"
              {:game/id #uuid "2293c663-d1bc-3701-9a53-009f457c6940",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2048,
+                                                 :name
+                                                 "Pattern Building"}
+                    #:com.boardgamegeek.mechanic{:id 2661,
+                                                 :name
+                                                 "Push Your Luck"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -1793,6 +4212,15 @@
              #uuid "909332ae-bc74-34a4-8cd5-4ea30edd7930"
              {:game/id #uuid "909332ae-bc74-34a4-8cd5-4ea30edd7930",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2664,
+                                                 :name
+                                                 "Deck, Bag, and Pool Building"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -1804,6 +4232,14 @@
              #uuid "e369d9fd-2ab5-3455-9298-16db19e37fd4"
              {:game/id #uuid "e369d9fd-2ab5-3455-9298-16db19e37fd4",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 3,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -1815,6 +4251,24 @@
              #uuid "1c585f7b-4a5b-3e81-abe0-97ce17218168"
              {:game/id #uuid "1c585f7b-4a5b-3e81-abe0-97ce17218168",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2689,
+                                                 :name "Action Queue"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}
+                    #:com.boardgamegeek.category{:id 1035,
+                                                 :name "Medieval"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -1830,6 +4284,20 @@
              #uuid "c9135569-60ba-391a-a44b-1d8f95a4eb93"
              {:game/id #uuid "c9135569-60ba-391a-a44b-1d8f95a4eb93",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -1840,17 +4308,62 @@
               "https://cf.geekdo-images.com/thumb/img/GUyr4p7NCEVWBB2O0Y5J0kr9JBw=/fit-in/200x150/filters:strip_icc()/pic3126011.jpg"},
              #uuid "b1127074-659b-3102-907a-25a0473a3e98"
              {:game/id #uuid "b1127074-659b-3102-907a-25a0473a3e98",
-              :game/name "King Frog",
-              :com.boardgamegeek.boardgame/id "209849",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2689,
+                                                 :name "Action Queue"}
+                    #:com.boardgamegeek.mechanic{:id 2685,
+                                                 :name
+                                                 "Player Elimination"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
+                    #:com.boardgamegeek.category{:id 1031,
+                                                 :name "Racing"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 15,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "209849",
+              :game/name "King Frog",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/C85uPMQ3exnB5lhL8JPZ4GWj5jc=/fit-in/200x150/filters:strip_icc()/pic3648641.png"},
              #uuid "1b2a1ef5-4042-3ba6-826b-7d8fe796f7ba"
              {:game/id #uuid "1b2a1ef5-4042-3ba6-826b-7d8fe796f7ba",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2046,
+                                                 :name "Area Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2886,
+                                                 :name
+                                                 "King of the Hill"}
+                    #:com.boardgamegeek.mechanic{:id 2685,
+                                                 :name
+                                                 "Player Elimination"}
+                    #:com.boardgamegeek.mechanic{:id 2661,
+                                                 :name
+                                                 "Push Your Luck"}
+                    #:com.boardgamegeek.mechanic{:id 2870,
+                                                 :name
+                                                 "Re-rolling and Locking"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}
+                    #:com.boardgamegeek.category{:id 1064,
+                                                 :name
+                                                 "Movies / TV / Radio theme"}
+                    #:com.boardgamegeek.category{:id 1016,
+                                                 :name
+                                                 "Science Fiction"}),
               :com.boardgamegeek.boardgame/max-play-time 40,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 40,
@@ -1862,6 +4375,34 @@
              #uuid "e1d04b1f-1d94-3006-958a-ee81242dab6d"
              {:game/id #uuid "e1d04b1f-1d94-3006-958a-ee81242dab6d",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2886,
+                                                 :name
+                                                 "King of the Hill"}
+                    #:com.boardgamegeek.mechanic{:id 2685,
+                                                 :name
+                                                 "Player Elimination"}
+                    #:com.boardgamegeek.mechanic{:id 2661,
+                                                 :name
+                                                 "Push Your Luck"}
+                    #:com.boardgamegeek.mechanic{:id 2870,
+                                                 :name
+                                                 "Re-rolling and Locking"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}
+                    #:com.boardgamegeek.category{:id 1064,
+                                                 :name
+                                                 "Movies / TV / Radio theme"}
+                    #:com.boardgamegeek.category{:id 1016,
+                                                 :name
+                                                 "Science Fiction"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -1872,17 +4413,55 @@
               "https://cf.geekdo-images.com/thumb/img/OfgWmkGJj5BgOO0zFHEtP5CHfbU=/fit-in/200x150/filters:strip_icc()/pic3043734.jpg"},
              #uuid "22b3df14-e100-33a6-a098-e396cb523d6a"
              {:game/id #uuid "22b3df14-e100-33a6-a098-e396cb523d6a",
-              :game/name "Kingdom Builder",
-              :com.boardgamegeek.boardgame/id "107529",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2956,
+                                                 :name "Chaining"}
+                    #:com.boardgamegeek.mechanic{:id 2043,
+                                                 :name "Enclosure"}
+                    #:com.boardgamegeek.mechanic{:id 2026,
+                                                 :name "Hexagon Grid"}
+                    #:com.boardgamegeek.mechanic{:id 2011,
+                                                 :name "Modular Board"}
+                    #:com.boardgamegeek.mechanic{:id 2897,
+                                                 :name
+                                                 "Variable Setup"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1035,
+                                                 :name "Medieval"}
+                    #:com.boardgamegeek.category{:id 1086,
+                                                 :name
+                                                 "Territory Building"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 45,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "107529",
+              :game/name "Kingdom Builder",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/KwrWpSRncnCE0cEldldyVQ-0Cdk=/fit-in/200x150/filters:strip_icc()/pic1152359.jpg"},
              #uuid "843ecaf0-bb25-3a67-af63-f8a4bc3708a3"
              {:game/id #uuid "843ecaf0-bb25-3a67-af63-f8a4bc3708a3",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2048,
+                                                 :name
+                                                 "Pattern Building"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1029,
+                                                 :name "City Building"}
+                    #:com.boardgamegeek.category{:id 1035,
+                                                 :name "Medieval"}
+                    #:com.boardgamegeek.category{:id 1086,
+                                                 :name
+                                                 "Territory Building"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -1894,6 +4473,30 @@
              #uuid "114f738d-8858-3e7b-9fdc-41ddb2758725"
              {:game/id #uuid "114f738d-8858-3e7b-9fdc-41ddb2758725",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}
+                    #:com.boardgamegeek.mechanic{:id 2008,
+                                                 :name "Trading"}
+                    #:com.boardgamegeek.mechanic{:id 2009,
+                                                 :name
+                                                 "Trick-taking"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1035,
+                                                 :name "Medieval"}
+                    #:com.boardgamegeek.category{:id 1026,
+                                                 :name "Negotiation"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -1932,10 +4535,42 @@
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-players 2,
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/thumb/img/cwT18Dr8XcStsDfnILK29D_wOpI=/fit-in/200x150/filters:strip_icc()/pic75405.jpg"},
+              "https://cf.geekdo-images.com/thumb/img/cwT18Dr8XcStsDfnILK29D_wOpI=/fit-in/200x150/filters:strip_icc()/pic75405.jpg",
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}),
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2078,
+                                                 :name
+                                                 "Point to Point Movement"})},
              #uuid "ed2baf70-63da-3cbe-9737-466f5a29fe95"
              {:game/id #uuid "ed2baf70-63da-3cbe-9737-466f5a29fe95",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2001,
+                                                 :name "Action Points"}
+                    #:com.boardgamegeek.mechanic{:id 2013,
+                                                 :name
+                                                 "Commodity Speculation"}
+                    #:com.boardgamegeek.mechanic{:id 2008,
+                                                 :name "Trading"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1015,
+                                                 :name "Civilization"}
+                    #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1026,
+                                                 :name "Negotiation"}
+                    #:com.boardgamegeek.category{:id 1016,
+                                                 :name
+                                                 "Science Fiction"}
+                    #:com.boardgamegeek.category{:id 1086,
+                                                 :name
+                                                 "Territory Building"}
+                    #:com.boardgamegeek.category{:id 1101,
+                                                 :name
+                                                 "Video Game Theme"}),
               :com.boardgamegeek.boardgame/max-play-time 90,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 90,
@@ -1947,6 +4582,13 @@
              #uuid "90f166e5-27c4-3684-8865-0a7d63773ce7"
              {:game/id #uuid "90f166e5-27c4-3684-8865-0a7d63773ce7",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name
+                                                 "Dice Rolling"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 12,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -1962,6 +4604,29 @@
              #uuid "aecc77c6-bfad-3a88-b455-19b8d2c86bc8"
              {:game/id #uuid "aecc77c6-bfad-3a88-b455-19b8d2c86bc8",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2961,
+                                                 :name
+                                                 "Map Deformation"}
+                    #:com.boardgamegeek.mechanic{:id 2011,
+                                                 :name "Modular Board"}
+                    #:com.boardgamegeek.mechanic{:id 2081,
+                                                 :name
+                                                 "Network and Route Building"}
+                    #:com.boardgamegeek.mechanic{:id 2078,
+                                                 :name
+                                                 "Point to Point Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
+                    #:com.boardgamegeek.category{:id 1059,
+                                                 :name "Maze"}
+                    #:com.boardgamegeek.category{:id 1028,
+                                                 :name "Puzzle"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -1973,6 +4638,17 @@
              #uuid "5f955ad8-59ca-3215-9cab-4fa839d2a033"
              {:game/id #uuid "5f955ad8-59ca-3215-9cab-4fa839d2a033",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2014,
+                                                 :name
+                                                 "Betting and Bluffing"}
+                    #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -1984,6 +4660,19 @@
              #uuid "0eabf8b7-0bee-38f4-bfd2-cd9ef3624d39"
              {:game/id #uuid "0eabf8b7-0bee-38f4-bfd2-cd9ef3624d39",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1054,
+                                                 :name "Music"}
+                    #:com.boardgamegeek.category{:id 1093,
+                                                 :name "Novel-based"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -1998,6 +4687,21 @@
              #uuid "9a6c960c-a513-3563-bb1f-1783f1aece80"
              {:game/id #uuid "9a6c960c-a513-3563-bb1f-1783f1aece80",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2060,
+                                                 :name
+                                                 "Pattern Recognition"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1032,
+                                                 :name
+                                                 "Action / Dexterity"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
+                    #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}),
               :com.boardgamegeek.boardgame/max-play-time 25,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -2009,6 +4713,22 @@
              #uuid "4921b8e8-521a-3a27-9aac-936218a067c7"
              {:game/id #uuid "4921b8e8-521a-3a27-9aac-936218a067c7",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2893,
+                                                 :name
+                                                 "Communication Limits"}
+                    #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1025,
+                                                 :name "Word Game"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -2020,6 +4740,19 @@
              #uuid "ae9fa216-d3c0-3682-9657-bc2cb71eaa11"
              {:game/id #uuid "ae9fa216-d3c0-3682-9657-bc2cb71eaa11",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2048,
+                                                 :name
+                                                 "Pattern Building"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1032,
+                                                 :name
+                                                 "Action / Dexterity"}
+                    #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -2030,12 +4763,21 @@
               "https://cf.geekdo-images.com/thumb/img/BbmMGq1NLQwWJXrsV-mNs98X3zY=/fit-in/200x150/filters:strip_icc()/pic2568580.jpg"},
              #uuid "5a156002-5793-338e-9399-def9bfd7eca6"
              {:game/id #uuid "5a156002-5793-338e-9399-def9bfd7eca6",
-              :game/name "Ligretto",
-              :com.boardgamegeek.boardgame/id "943",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2048,
+                                                 :name
+                                                 "Pattern Building"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}),
               :com.boardgamegeek.boardgame/max-play-time 10,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 10,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "943",
+              :game/name "Ligretto",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/2dXMh9HI7oiLw7ZGeLcrwfXLtjI=/fit-in/200x150/filters:strip_icc()/pic1306961.jpg"},
              #uuid "53b40008-e2e5-3189-9b82-fd0ba46405e3"
@@ -2044,17 +4786,48 @@
               :game/name "Little Monster who came to tea"},
              #uuid "39af5c41-5927-3dde-8a75-10397211dcda"
              {:game/id #uuid "39af5c41-5927-3dde-8a75-10397211dcda",
-              :game/name "Loch Ness",
-              :com.boardgamegeek.boardgame/id "77076",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2078,
+                                                 :name
+                                                 "Point to Point Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 20,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "77076",
+              :game/name "Loch Ness",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/ZhX_r9YSxxQYWhZ8fnaRw_7EHUo=/fit-in/200x150/filters:strip_icc()/pic775371.jpg"},
              #uuid "cd27a171-5aac-359b-82a4-8a86ed2000c0"
              {:game/id #uuid "cd27a171-5aac-359b-82a4-8a86ed2000c0",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2046,
+                                                 :name "Area Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2007,
+                                                 :name
+                                                 "Pick-up and Deliver"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1055,
+                                                 :name "American West"}
+                    #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1011,
+                                                 :name
+                                                 "Transportation"}),
               :com.boardgamegeek.boardgame/max-play-time 80,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 80,
@@ -2070,6 +4843,29 @@
              #uuid "59bab2ff-b0ef-386f-8db8-ef439320a47e"
              {:game/id #uuid "59bab2ff-b0ef-386f-8db8-ef439320a47e",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2685,
+                                                 :name
+                                                 "Player Elimination"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1032,
+                                                 :name
+                                                 "Action / Dexterity"}
+                    #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 2650,
+                                                 :name
+                                                 "Aviation / Flight"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
+                    #:com.boardgamegeek.category{:id 1072,
+                                                 :name "Electronic"}
+                    #:com.boardgamegeek.category{:id 1064,
+                                                 :name
+                                                 "Movies / TV / Radio theme"}
+                    #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}),
               :com.boardgamegeek.boardgame/max-play-time 10,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 10,
@@ -2081,6 +4877,36 @@
              #uuid "423cb589-88be-336d-ada8-9817b5fe519e"
              {:game/id #uuid "423cb589-88be-336d-ada8-9817b5fe519e",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2046,
+                                                 :name "Area Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2819,
+                                                 :name
+                                                 "Solo / Solitaire Game"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}
+                    #:com.boardgamegeek.mechanic{:id 2082,
+                                                 :name
+                                                 "Worker Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1050,
+                                                 :name "Ancient"}
+                    #:com.boardgamegeek.category{:id 1047,
+                                                 :name "Miniatures"}
+                    #:com.boardgamegeek.category{:id 1082,
+                                                 :name "Mythology"}
+                    #:com.boardgamegeek.category{:id 1086,
+                                                 :name
+                                                 "Territory Building"}),
               :com.boardgamegeek.boardgame/max-play-time 90,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -2091,17 +4917,44 @@
               "https://cf.geekdo-images.com/thumb/img/o7KVJlL45wZxunl0wwwJjqTPl3s=/fit-in/200x150/filters:strip_icc()/pic3592207.jpg"},
              #uuid "35b5c110-f2b0-3562-ae79-b51bd6300690"
              {:game/id #uuid "35b5c110-f2b0-3562-ae79-b51bd6300690",
-              :game/name "Lost Cities: The Board Game",
-              :com.boardgamegeek.boardgame/id "42487",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1022,
+                                                 :name "Adventure"}
+                    #:com.boardgamegeek.category{:id 1020,
+                                                 :name "Exploration"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "42487",
+              :game/name "Lost Cities: The Board Game",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/rI67HKTBZTdqbKaKNiJiowWLWfo=/fit-in/200x150/filters:strip_icc()/pic4597093.jpg"},
              #uuid "deaefe4b-599d-3d42-982f-b0bef3bbb3d3"
              {:game/id #uuid "deaefe4b-599d-3d42-982f-b0bef3bbb3d3",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2079,
+                                                 :name
+                                                 "Variable Phase Order"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1022,
+                                                 :name "Adventure"}
+                    #:com.boardgamegeek.category{:id 1020,
+                                                 :name "Exploration"}
+                    #:com.boardgamegeek.category{:id 1031,
+                                                 :name "Racing"}),
               :com.boardgamegeek.boardgame/max-play-time 40,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 40,
@@ -2113,6 +4966,23 @@
              #uuid "a6480b1c-62dd-3ceb-9f94-fb57c823691e"
              {:game/id #uuid "a6480b1c-62dd-3ceb-9f94-fb57c823691e",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2819,
+                                                 :name
+                                                 "Solo / Solitaire Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}
+                    #:com.boardgamegeek.category{:id 1016,
+                                                 :name
+                                                 "Science Fiction"}),
               :com.boardgamegeek.boardgame/max-play-time 12,
               :com.boardgamegeek.boardgame/max-players 1,
               :com.boardgamegeek.boardgame/min-play-time 6,
@@ -2124,6 +4994,25 @@
              #uuid "b7dd6050-6cb3-352e-9363-36450ff12ddc"
              {:game/id #uuid "b7dd6050-6cb3-352e-9363-36450ff12ddc",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2026,
+                                                 :name "Hexagon Grid"}
+                    #:com.boardgamegeek.mechanic{:id 2685,
+                                                 :name
+                                                 "Player Elimination"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1032,
+                                                 :name
+                                                 "Action / Dexterity"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}
+                    #:com.boardgamegeek.category{:id 1120,
+                                                 :name "Print & Play"}
+                    #:com.boardgamegeek.category{:id 1016,
+                                                 :name
+                                                 "Science Fiction"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 5,
@@ -2133,17 +5022,46 @@
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/NcluPj7hQTHfW-ZM404n-u6SGiI=/fit-in/200x150/filters:strip_icc()/pic2401712.png"},
              #uuid "792a15e4-87a1-362b-8199-5789db4c3b0a"
-             {:languages (list "en"),
-              :game/id #uuid "792a15e4-87a1-362b-8199-5789db4c3b0a",
-              :game/name "MASU",
-              :com.boardgamegeek.boardgame/id "65204",
+             {:game/id #uuid "792a15e4-87a1-362b-8199-5789db4c3b0a",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2005,
+                                                 :name
+                                                 "Stock Holding"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 60,
-              :com.boardgamegeek.boardgame/min-players 2},
+              :com.boardgamegeek.boardgame/id "65204",
+              :languages (list "en"),
+              :game/name "MASU"},
              #uuid "d8ac8dc4-6760-3f12-96c2-e3420b291781"
              {:game/id #uuid "d8ac8dc4-6760-3f12-96c2-e3420b291781",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2909,
+                                                 :name
+                                                 "Random Production"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1029,
+                                                 :name "City Building"}
+                    #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -2155,6 +5073,19 @@
              #uuid "47a720fb-24ff-320b-99ab-77739da99a5a"
              {:game/id #uuid "47a720fb-24ff-320b-99ab-77739da99a5a",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name
+                                                 "Dice Rolling"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1029,
+                                                 :name "City Building"}
+                    #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -2166,6 +5097,24 @@
              #uuid "227fed4b-25cc-316a-b15e-6c9a064702db"
              {:game/id #uuid "227fed4b-25cc-316a-b15e-6c9a064702db",
               :com.boardgamegeek.boardgame/min-players 6,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2028,
+                                                 :name "Role Playing"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1033,
+                                                 :name "Mafia"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 12,
               :com.boardgamegeek.boardgame/min-play-time 10,
@@ -2175,17 +5124,33 @@
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/j82wTfCvi4Cjq3Pa3aJDLS1nuRw=/fit-in/200x150/filters:strip_icc()/pic2519675.jpg"},
              #uuid "1ceaeab6-397f-308a-b02e-6652106f2fbd"
-             {:languages (list "en"),
-              :game/id #uuid "1ceaeab6-397f-308a-b02e-6652106f2fbd",
-              :game/name "Majority Rules",
-              :com.boardgamegeek.boardgame/id "41628",
-              :com.boardgamegeek.boardgame/max-players 4,
+             {:game/id #uuid "1ceaeab6-397f-308a-b02e-6652106f2fbd",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2057,
+                                                 :name
+                                                 "Chit-Pull System"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1001,
+                                                 :name "Political"}),
+              :com.boardgamegeek.boardgame/max-players 4,
+              :com.boardgamegeek.boardgame/id "41628",
+              :languages (list "en"),
+              :game/name "Majority Rules",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/Fd32l5WNDYHUNrE6rJ5kSTbYZIo=/fit-in/200x150/filters:strip_icc()/pic4798299.jpg"},
              #uuid "43f3a349-eec8-3b6a-9947-777f90811c90"
              {:game/id #uuid "43f3a349-eec8-3b6a-9947-777f90811c90",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.mechanic{:id 2048,
+                                                 :name
+                                                 "Pattern Building"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}),
               :com.boardgamegeek.boardgame/max-play-time 25,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 25,
@@ -2197,6 +5162,58 @@
              #uuid "3980f7ea-079b-3741-a713-8494f6bcbb9a"
              {:game/id #uuid "3980f7ea-079b-3741-a713-8494f6bcbb9a",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2912,
+                                                 :name "Contracts"}
+                    #:com.boardgamegeek.mechanic{:id 2875,
+                                                 :name
+                                                 "End Game Bonuses"}
+                    #:com.boardgamegeek.mechanic{:id 2850,
+                                                 :name "Events"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2902,
+                                                 :name "Income"}
+                    #:com.boardgamegeek.mechanic{:id 2824,
+                                                 :name "Legacy Game"}
+                    #:com.boardgamegeek.mechanic{:id 2947,
+                                                 :name
+                                                 "Movement Points"}
+                    #:com.boardgamegeek.mechanic{:id 2851,
+                                                 :name
+                                                 "Narrative Choice / Paragraph"}
+                    #:com.boardgamegeek.mechanic{:id 2078,
+                                                 :name
+                                                 "Point to Point Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2876,
+                                                 :name "Race"}
+                    #:com.boardgamegeek.mechanic{:id 2822,
+                                                 :name
+                                                 "Scenario / Mission / Campaign Game"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2819,
+                                                 :name
+                                                 "Solo / Solitaire Game"}
+                    #:com.boardgamegeek.mechanic{:id 2884,
+                                                 :name
+                                                 "Sudden Death Ending"}
+                    #:com.boardgamegeek.mechanic{:id 2849,
+                                                 :name
+                                                 "Tech Trees / Tech Tracks"}
+                    #:com.boardgamegeek.mechanic{:id 2939,
+                                                 :name
+                                                 "Track Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2897,
+                                                 :name
+                                                 "Variable Setup"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1020,
+                                                 :name "Exploration"}),
               :com.boardgamegeek.boardgame/max-play-time 120,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -2208,6 +5225,30 @@
              #uuid "3384a03c-665a-3116-a474-cf5d4406c85a"
              {:game/id #uuid "3384a03c-665a-3116-a474-cf5d4406c85a",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2007,
+                                                 :name
+                                                 "Pick-up and Deliver"}
+                    #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2008,
+                                                 :name "Trading"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1022,
+                                                 :name "Adventure"}
+                    #:com.boardgamegeek.category{:id 1052,
+                                                 :name "Arabian"}
+                    #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1020,
+                                                 :name "Exploration"}
+                    #:com.boardgamegeek.category{:id 1011,
+                                                 :name
+                                                 "Transportation"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -2219,6 +5260,19 @@
              #uuid "eab3ae9a-3d28-3df8-affc-d917c97d7195"
              {:game/id #uuid "eab3ae9a-3d28-3df8-affc-d917c97d7195",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2073,
+                                                 :name "Acting"}
+                    #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 90,
               :com.boardgamegeek.boardgame/max-players 12,
               :com.boardgamegeek.boardgame/min-play-time 90,
@@ -2238,6 +5292,36 @@
              #uuid "e8f7e1a7-0eb6-3e44-aee0-11dff550f9ee"
              {:game/id #uuid "e8f7e1a7-0eb6-3e44-aee0-11dff550f9ee",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2001,
+                                                 :name "Action Points"}
+                    #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2012,
+                                                 :name
+                                                 "Auction/Bidding"}
+                    #:com.boardgamegeek.mechanic{:id 2016,
+                                                 :name
+                                                 "Secret Unit Deployment"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}
+                    #:com.boardgamegeek.mechanic{:id 2017,
+                                                 :name "Voting"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}
+                    #:com.boardgamegeek.category{:id 1118,
+                                                 :name
+                                                 "Mature / Adult"}
+                    #:com.boardgamegeek.category{:id 1035,
+                                                 :name "Medieval"}
+                    #:com.boardgamegeek.category{:id 1115,
+                                                 :name "Religious"}),
               :com.boardgamegeek.boardgame/max-play-time 90,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 90,
@@ -2249,6 +5333,20 @@
              #uuid "87f8a6ab-85c9-3ed3-b02b-4ea641ad4bb5"
              {:game/id #uuid "87f8a6ab-85c9-3ed3-b02b-4ea641ad4bb5",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2893,
+                                                 :name
+                                                 "Communication Limits"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1025,
+                                                 :name "Word Game"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -2259,17 +5357,57 @@
               "https://cf.geekdo-images.com/thumb/img/85q4rpTU8rQy3n0-agc3YUjda4o=/fit-in/200x150/filters:strip_icc()/pic4912833.png"},
              #uuid "fcbd772e-48c4-307d-bd3b-e13b37a82f5e"
              {:game/id #uuid "fcbd772e-48c4-307d-bd3b-e13b37a82f5e",
-              :game/name "Melee",
-              :com.boardgamegeek.boardgame/id "165657",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2046,
+                                                 :name "Area Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2012,
+                                                 :name
+                                                 "Auction/Bidding"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1035,
+                                                 :name "Medieval"}
+                    #:com.boardgamegeek.category{:id 1086,
+                                                 :name
+                                                 "Territory Building"}
+                    #:com.boardgamegeek.category{:id 1019,
+                                                 :name "Wargame"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 20,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "165657",
+              :game/name "Melee",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/zLMYjsqpHZkWNtlOVuQlMeHZ48k=/fit-in/200x150/filters:strip_icc()/pic2564896.jpg"},
              #uuid "d88a6b63-1a1c-36ea-95d1-2d05210eb706"
              {:game/id #uuid "d88a6b63-1a1c-36ea-95d1-2d05210eb706",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}
+                    #:com.boardgamegeek.mechanic{:id 2988,
+                                                 :name
+                                                 "Stacking and Balancing"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1032,
+                                                 :name
+                                                 "Action / Dexterity"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 10,
@@ -2281,6 +5419,34 @@
              #uuid "530b622e-6e90-30f4-b806-d0cbf74102a5"
              {:game/id #uuid "530b622e-6e90-30f4-b806-d0cbf74102a5",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2046,
+                                                 :name "Area Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2028,
+                                                 :name "Role Playing"}
+                    #:com.boardgamegeek.mechanic{:id 2027,
+                                                 :name "Storytelling"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1022,
+                                                 :name "Adventure"}
+                    #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1020,
+                                                 :name "Exploration"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}
+                    #:com.boardgamegeek.category{:id 1047,
+                                                 :name "Miniatures"}),
               :com.boardgamegeek.boardgame/max-play-time 90,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -2291,17 +5457,44 @@
               "https://cf.geekdo-images.com/thumb/img/nrgg_ID3yq1r5dZ6iWe4de3GW6E=/fit-in/200x150/filters:strip_icc()/pic1312072.jpg"},
              #uuid "4ab65803-6f4f-3742-85c3-84b863fed5c2"
              {:game/id #uuid "4ab65803-6f4f-3742-85c3-84b863fed5c2",
-              :game/name "Milestones",
-              :com.boardgamegeek.boardgame/id "117914",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2081,
+                                                 :name
+                                                 "Network and Route Building"}
+                    #:com.boardgamegeek.mechanic{:id 2813,
+                                                 :name "Rondel"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1086,
+                                                 :name
+                                                 "Territory Building"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 60,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "117914",
+              :game/name "Milestones",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/9Klfq9ORCU3904fVqh9DiJXHDRQ=/fit-in/200x150/filters:strip_icc()/pic1336176.jpg"},
              #uuid "58fb7a8c-d0f1-36b0-b1f5-b7091fbb0ba0"
              {:game/id #uuid "58fb7a8c-d0f1-36b0-b1f5-b7091fbb0ba0",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1031,
+                                                 :name "Racing"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -2313,6 +5506,19 @@
              #uuid "903d8dd1-63cb-3a8b-bcfa-23261d6598b2"
              {:game/id #uuid "903d8dd1-63cb-3a8b-bcfa-23261d6598b2",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2001,
+                                                 :name "Action Points"}
+                    #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2011,
+                                                 :name "Modular Board"}
+                    #:com.boardgamegeek.mechanic{:id 2081,
+                                                 :name
+                                                 "Network and Route Building"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1020,
+                                                 :name "Exploration"}),
               :com.boardgamegeek.boardgame/max-play-time 50,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -2328,6 +5534,36 @@
              #uuid "dce6433a-bef0-3dff-a22e-433b721bfc14"
              {:game/id #uuid "dce6433a-bef0-3dff-a22e-433b721bfc14",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2689,
+                                                 :name "Action Queue"}
+                    #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2664,
+                                                 :name
+                                                 "Deck, Bag, and Pool Building"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2910,
+                                                 :name "Investment"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}
+                    #:com.boardgamegeek.mechanic{:id 2005,
+                                                 :name "Stock Holding"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}
+                    #:com.boardgamegeek.mechanic{:id 2082,
+                                                 :name
+                                                 "Worker Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}),
               :com.boardgamegeek.boardgame/max-play-time 150,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 75,
@@ -2338,77 +5574,214 @@
               "https://cf.geekdo-images.com/thumb/img/_4ZkvkgZey9R2OJOw_TqF426Qew=/fit-in/200x150/filters:strip_icc()/pic2611318.jpg"},
              #uuid "4d6bfce7-c3d0-3def-8625-e405087939ed"
              {:game/id #uuid "4d6bfce7-c3d0-3def-8625-e405087939ed",
-              :game/name "Monopoly",
-              :com.boardgamegeek.boardgame/id "1406",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2012,
+                                                 :name
+                                                 "Auction/Bidding"}
+                    #:com.boardgamegeek.mechanic{:id 2902,
+                                                 :name "Income"}
+                    #:com.boardgamegeek.mechanic{:id 2904,
+                                                 :name "Loans"}
+                    #:com.boardgamegeek.mechanic{:id 2836,
+                                                 :name "Lose a Turn"}
+                    #:com.boardgamegeek.mechanic{:id 2685,
+                                                 :name
+                                                 "Player Elimination"}
+                    #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2939,
+                                                 :name
+                                                 "Track Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2008,
+                                                 :name "Trading"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1026,
+                                                 :name "Negotiation"}),
               :com.boardgamegeek.boardgame/max-play-time 180,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 60,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "1406",
+              :game/name "Monopoly",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/ljf_19LWiw_IsjC2f3vnU8VqReE=/fit-in/200x150/filters:strip_icc()/pic4235383.jpg"},
              #uuid "db5ac01b-b987-3006-8f5a-61d4142920ec"
              {:game/id #uuid "db5ac01b-b987-3006-8f5a-61d4142920ec",
-              :game/name "Monopoly Cheaters Edition",
-              :com.boardgamegeek.boardgame/id "254617",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2008,
+                                                 :name "Trading"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}),
               :com.boardgamegeek.boardgame/max-play-time 180,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 60,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "254617",
+              :game/name "Monopoly Cheaters Edition",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/mOJbxy0j7TRHx4epykdoyKNDEOA=/fit-in/200x150/filters:strip_icc()/pic4187117.jpg"},
              #uuid "0663d3ee-2750-30d4-ad83-aa74a59c87ce"
              {:game/id #uuid "0663d3ee-2750-30d4-ad83-aa74a59c87ce",
-              :game/name "Monopoly Jackpot",
-              :com.boardgamegeek.boardgame/id "201890",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2012,
+                                                 :name
+                                                 "Auction/Bidding"}
+                    #:com.boardgamegeek.mechanic{:id 2685,
+                                                 :name
+                                                 "Player Elimination"}
+                    #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2008,
+                                                 :name "Trading"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1026,
+                                                 :name "Negotiation"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "201890",
+              :game/name "Monopoly Jackpot",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/GmvSu2Qd5T1r6JZRj73DgBOQcsY=/fit-in/200x150/filters:strip_icc()/pic3262276.jpg"},
              #uuid "f8049db2-d889-3677-984e-4e2ce41de578"
              {:game/id #uuid "f8049db2-d889-3677-984e-4e2ce41de578",
-              :game/name "Monopoly:  80th Anniversary Edition",
-              :com.boardgamegeek.boardgame/id "173637",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2012,
+                                                 :name
+                                                 "Auction/Bidding"}
+                    #:com.boardgamegeek.mechanic{:id 2685,
+                                                 :name
+                                                 "Player Elimination"}
+                    #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2008,
+                                                 :name "Trading"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1026,
+                                                 :name "Negotiation"}),
               :com.boardgamegeek.boardgame/max-play-time 180,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 30,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "173637",
+              :game/name "Monopoly:  80th Anniversary Edition",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/Dy7RlFc6nDFo5Re95Rkci6-lfNI=/fit-in/200x150/filters:strip_icc()/pic2427080.jpg"},
              #uuid "042103e1-8bdd-3157-aceb-cca413d78f3b"
              {:game/id #uuid "042103e1-8bdd-3157-aceb-cca413d78f3b",
-              :game/name "Monopoly: Here & Now World Edition",
-              :com.boardgamegeek.boardgame/id "191133",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 15,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "191133",
+              :game/name "Monopoly: Here & Now World Edition",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/wbpOBl1ywZoz8W7o5Kb1nwfIBwE=/fit-in/200x150/filters:strip_icc()/pic2830269.jpg"},
              #uuid "23767cbb-cceb-3686-8a59-f0250c57a1d9"
              {:game/id #uuid "23767cbb-cceb-3686-8a59-f0250c57a1d9",
-              :game/name "Monopoly: Limerick Edition",
-              :com.boardgamegeek.boardgame/id "300801",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2012,
+                                                 :name
+                                                 "Auction/Bidding"}
+                    #:com.boardgamegeek.mechanic{:id 2685,
+                                                 :name
+                                                 "Player Elimination"}
+                    #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2008,
+                                                 :name "Trading"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1026,
+                                                 :name "Negotiation"}),
               :com.boardgamegeek.boardgame/max-play-time 120,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 120,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "300801",
+              :game/name "Monopoly: Limerick Edition",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/ZntaNB4_2mPPc6fibqDq2vhVaaY=/fit-in/200x150/filters:strip_icc()/pic5216777.jpg"},
              #uuid "b17747c8-2344-37e0-af25-4c86481d8b35"
              {:game/id #uuid "b17747c8-2344-37e0-af25-4c86481d8b35",
-              :game/name "Monopoly: Ultimate Banking",
-              :com.boardgamegeek.boardgame/id "207167",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2013,
+                                                 :name
+                                                 "Commodity Speculation"}
+                    #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1072,
+                                                 :name "Electronic"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "207167",
+              :game/name "Monopoly: Ultimate Banking",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/Dw1stW35naEWBlMLHVG8h_P0HJU=/fit-in/200x150/filters:strip_icc()/pic3188674.jpg"},
              #uuid "1309682a-fbd4-3c2b-89cb-11c7d8048013"
              {:game/id #uuid "1309682a-fbd4-3c2b-89cb-11c7d8048013",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2018,
+                                                 :name
+                                                 "Campaign / Battle Card Driven"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2011,
+                                                 :name
+                                                 "Modular Board"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1032,
+                                                 :name
+                                                 "Action / Dexterity"}
+                    #:com.boardgamegeek.category{:id 1050,
+                                                 :name "Ancient"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1082,
+                                                 :name "Mythology"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 10,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -2420,6 +5793,22 @@
              #uuid "e923a27a-48cd-3c06-a494-d0fa119478a8"
              {:game/id #uuid "e923a27a-48cd-3c06-a494-d0fa119478a8",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2001,
+                                                 :name "Action Points"}
+                    #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2011,
+                                                 :name
+                                                 "Modular Board"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1016,
+                                                 :name
+                                                 "Science Fiction"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -2431,6 +5820,23 @@
              #uuid "1fdd0d64-7a70-3a2d-93b1-bbf278454b32"
              {:game/id #uuid "1fdd0d64-7a70-3a2d-93b1-bbf278454b32",
               :com.boardgamegeek.boardgame/min-players 5,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2915,
+                                                 :name "Negotiation"}
+                    #:com.boardgamegeek.mechanic{:id 2017,
+                                                 :name "Voting"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}
+                    #:com.boardgamegeek.category{:id 1118,
+                                                 :name
+                                                 "Mature / Adult"}
+                    #:com.boardgamegeek.category{:id 1026,
+                                                 :name "Negotiation"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 20,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -2442,6 +5848,28 @@
              #uuid "3b726f01-748c-32b9-ac65-408fdb259e18"
              {:game/id #uuid "3b726f01-748c-32b9-ac65-408fdb259e18",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2012,
+                                                 :name
+                                                 "Auction/Bidding"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2048,
+                                                 :name
+                                                 "Pattern Building"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1050,
+                                                 :name "Ancient"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -2457,6 +5885,9 @@
              #uuid "39458645-fcb9-368d-81b6-ad23bbed69cf"
              {:game/id #uuid "39458645-fcb9-368d-81b6-ad23bbed69cf",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -2468,6 +5899,24 @@
              #uuid "6e8ce4f2-3cc4-37b8-9002-721e44843aaf"
              {:game/id #uuid "6e8ce4f2-3cc4-37b8-9002-721e44843aaf",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}),
               :com.boardgamegeek.boardgame/max-play-time 120,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -2479,6 +5928,22 @@
              #uuid "e3ff49f1-3a4e-3be2-9c80-51385adc499c"
              {:game/id #uuid "e3ff49f1-3a4e-3be2-9c80-51385adc499c",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}
+                    #:com.boardgamegeek.mechanic{:id 2017,
+                                                 :name "Voting"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 12,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -2498,6 +5963,39 @@
              #uuid "baf9b7dd-749d-37d7-888f-c84d255e682f"
              {:game/id #uuid "baf9b7dd-749d-37d7-888f-c84d255e682f",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2864,
+                                                 :name
+                                                 "Force Commitment"}
+                    #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2007,
+                                                 :name
+                                                 "Pick-up and Deliver"}
+                    #:com.boardgamegeek.mechanic{:id 2819,
+                                                 :name
+                                                 "Solo / Solitaire Game"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
+                    #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1020,
+                                                 :name "Exploration"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}
+                    #:com.boardgamegeek.category{:id 1104,
+                                                 :name "Math"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -2509,6 +6007,17 @@
              #uuid "df4c4520-3102-33f1-9a51-ee304c193f23"
              {:game/id #uuid "df4c4520-3102-33f1-9a51-ee304c193f23",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}
+                    #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}),
               :com.boardgamegeek.boardgame/max-play-time 25,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -2520,6 +6029,30 @@
              #uuid "2bc22d15-7e2b-3a2d-aaaa-46fe0f8945e2"
              {:game/id #uuid "2bc22d15-7e2b-3a2d-aaaa-46fe0f8945e2",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2664,
+                                                 :name
+                                                 "Deck, Bag, and Pool Building"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1035,
+                                                 :name "Medieval"}
+                    #:com.boardgamegeek.category{:id 1082,
+                                                 :name "Mythology"}
+                    #:com.boardgamegeek.category{:id 1086,
+                                                 :name
+                                                 "Territory Building"}
+                    #:com.boardgamegeek.category{:id 1019,
+                                                 :name "Wargame"}),
               :com.boardgamegeek.boardgame/max-play-time 120,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -2531,6 +6064,37 @@
              #uuid "704d0598-6340-3c49-b5b5-9d0fcf54e1f3"
              {:game/id #uuid "704d0598-6340-3c49-b5b5-9d0fcf54e1f3",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2011,
+                                                 :name "Modular Board"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2082,
+                                                 :name
+                                                 "Worker Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1001,
+                                                 :name "Political"}
+                    #:com.boardgamegeek.category{:id 1081,
+                                                 :name
+                                                 "Spies/Secret Agents"}
+                    #:com.boardgamegeek.category{:id 1086,
+                                                 :name
+                                                 "Territory Building"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 25,
@@ -2542,6 +6106,20 @@
              #uuid "07f37b38-2b05-392e-91fd-d4e76cc7fbf0"
              {:game/id #uuid "07f37b38-2b05-392e-91fd-d4e76cc7fbf0",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2012,
+                                                 :name
+                                                 "Auction/Bidding"}
+                    #:com.boardgamegeek.mechanic{:id 2005,
+                                                 :name
+                                                 "Stock Holding"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1034,
+                                                 :name "Trains"}),
               :com.boardgamegeek.boardgame/max-play-time 90,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -2553,6 +6131,17 @@
              #uuid "5af83e31-96bf-39f4-80f3-1f2e1a6c9afe"
              {:game/id #uuid "5af83e31-96bf-39f4-80f3-1f2e1a6c9afe",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}
+                    #:com.boardgamegeek.category{:id 1082,
+                                                 :name "Mythology"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 10,
@@ -2564,6 +6153,13 @@
              #uuid "17b41f7f-4de8-3fe3-be7f-91fc18e29b8a"
              {:game/id #uuid "17b41f7f-4de8-3fe3-be7f-91fc18e29b8a",
               :com.boardgamegeek.boardgame/min-players 4,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 16,
               :com.boardgamegeek.boardgame/min-play-time 25,
@@ -2575,6 +6171,23 @@
              #uuid "6f243f7a-f0d3-3ed7-8572-4782675ddb75"
              {:game/id #uuid "6f243f7a-f0d3-3ed7-8572-4782675ddb75",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2685,
+                                                 :name
+                                                 "Player Elimination"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1024,
+                                                 :name "Horror"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1016,
+                                                 :name
+                                                 "Science Fiction"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -2585,12 +6198,31 @@
               "https://cf.geekdo-images.com/thumb/img/9wpesj7ruvzdenelqzrkmRAFS-A=/fit-in/200x150/filters:strip_icc()/pic4715194.png"},
              #uuid "b75229d9-66a3-3ee4-86f4-e1e5f353d9a4"
              {:game/id #uuid "b75229d9-66a3-3ee4-86f4-e1e5f353d9a4",
-              :game/name "Oh My Goods!",
-              :com.boardgamegeek.boardgame/id "183840",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2689,
+                                                 :name "Action Queue"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2661,
+                                                 :name
+                                                 "Push Your Luck"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1035,
+                                                 :name "Medieval"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "183840",
+              :game/name "Oh My Goods!",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/MCnURatf0lFmNOVLYEjABfN_uVY=/fit-in/200x150/filters:strip_icc()/pic3032677.jpg"},
              #uuid "6beac3ba-b1b0-3623-b843-a0aa676cec59"
@@ -2598,17 +6230,40 @@
                     :name "Oink"},
              #uuid "a2cce669-b64c-31e7-9afb-63f03c696fee"
              {:game/id #uuid "a2cce669-b64c-31e7-9afb-63f03c696fee",
-              :game/name "Okiya",
-              :com.boardgamegeek.boardgame/id "125311",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2048,
+                                                 :name
+                                                 "Pattern Building"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}),
               :com.boardgamegeek.boardgame/max-play-time 10,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 10,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "125311",
+              :game/name "Okiya",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/jAV9bZYZln9N21DaKOXWRp0e8vA=/fit-in/200x150/filters:strip_icc()/pic3711392.png"},
              #uuid "f46ff3af-0204-348e-9bd0-c1f668f82128"
              {:game/id #uuid "f46ff3af-0204-348e-9bd0-c1f668f82128",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -2623,6 +6278,34 @@
              #uuid "20263815-62ac-3093-af3d-0f4a0f0538bb"
              {:game/id #uuid "20263815-62ac-3093-af3d-0f4a0f0538bb",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2028,
+                                                 :name "Role Playing"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}
+                    #:com.boardgamegeek.mechanic{:id 2017,
+                                                 :name "Voting"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1026,
+                                                 :name "Negotiation"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1016,
+                                                 :name
+                                                 "Science Fiction"}
+                    #:com.boardgamegeek.category{:id 1081,
+                                                 :name
+                                                 "Spies/Secret Agents"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 10,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -2634,6 +6317,32 @@
              #uuid "bddc24af-3739-3b8e-bfcb-17b4a25b7153"
              {:game/id #uuid "bddc24af-3739-3b8e-bfcb-17b4a25b7153",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2891,
+                                                 :name "Hidden Roles"}
+                    #:com.boardgamegeek.mechanic{:id 2028,
+                                                 :name "Role Playing"}
+                    #:com.boardgamegeek.mechanic{:id 2892,
+                                                 :name
+                                                 "Roles with Asymmetric Information"}
+                    #:com.boardgamegeek.mechanic{:id 2814,
+                                                 :name "Traitor Game"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}
+                    #:com.boardgamegeek.mechanic{:id 2017,
+                                                 :name "Voting"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1024,
+                                                 :name "Horror"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 10,
               :com.boardgamegeek.boardgame/max-players 10,
               :com.boardgamegeek.boardgame/min-play-time 10,
@@ -2645,6 +6354,27 @@
              #uuid "189f9b13-158d-379b-9440-05b9bc24a356"
              {:game/id #uuid "189f9b13-158d-379b-9440-05b9bc24a356",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2011,
+                                                 :name "Modular Board"}
+                    #:com.boardgamegeek.mechanic{:id 2028,
+                                                 :name "Role Playing"}
+                    #:com.boardgamegeek.mechanic{:id 2814,
+                                                 :name "Traitor Game"}
+                    #:com.boardgamegeek.mechanic{:id 2017,
+                                                 :name "Voting"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1024,
+                                                 :name "Horror"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 7,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -2672,6 +6402,36 @@
              #uuid "a4eb9598-b375-3f22-8363-e0295ac2f5f2"
              {:game/id #uuid "a4eb9598-b375-3f22-8363-e0295ac2f5f2",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2876,
+                                                 :name "Race"}
+                    #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}
+                    #:com.boardgamegeek.mechanic{:id 2861,
+                                                 :name
+                                                 "Static Capture"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
+                    #:com.boardgamegeek.category{:id 1116,
+                                                 :name
+                                                 "Comic Book / Strip"}
+                    #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}
+                    #:com.boardgamegeek.category{:id 1064,
+                                                 :name
+                                                 "Movies / TV / Radio theme"}
+                    #:com.boardgamegeek.category{:id 1093,
+                                                 :name "Novel-based"}
+                    #:com.boardgamegeek.category{:id 1031,
+                                                 :name "Racing"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -2683,6 +6443,29 @@
              #uuid "d5380d3b-56d5-3783-a863-1af12c39f5c7"
              {:game/id #uuid "d5380d3b-56d5-3783-a863-1af12c39f5c7",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2001,
+                                                 :name "Action Points"}
+                    #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2078,
+                                                 :name
+                                                 "Point to Point Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2008,
+                                                 :name "Trading"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 2145,
+                                                 :name "Medical"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -2698,6 +6481,23 @@
              #uuid "c1fa67fc-99a3-39a4-962b-ba099f84d11c"
              {:game/id #uuid "c1fa67fc-99a3-39a4-962b-ba099f84d11c",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.mechanic{:id 2060,
+                                                 :name
+                                                 "Pattern Recognition"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1028,
+                                                 :name "Puzzle"}
+                    #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 10,
               :com.boardgamegeek.boardgame/min-play-time 10,
@@ -2713,6 +6513,30 @@
              #uuid "44de8c27-9942-39ca-997c-57ff932fc882"
              {:game/id #uuid "44de8c27-9942-39ca-997c-57ff932fc882",
               :com.boardgamegeek.boardgame/min-players 4,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2073,
+                                                 :name "Acting"}
+                    #:com.boardgamegeek.mechanic{:id 2078,
+                                                 :name
+                                                 "Point to Point Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2028,
+                                                 :name "Role Playing"}
+                    #:com.boardgamegeek.mechanic{:id 2027,
+                                                 :name "Storytelling"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1031,
+                                                 :name "Racing"}
+                    #:com.boardgamegeek.category{:id 1027,
+                                                 :name "Trivia"}
+                    #:com.boardgamegeek.category{:id 1025,
+                                                 :name "Word Game"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 24,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -2728,6 +6552,20 @@
              #uuid "1cdae507-3b8e-324b-9d32-0d5c541166f3"
              {:game/id #uuid "1cdae507-3b8e-324b-9d32-0d5c541166f3",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2082,
+                                                 :name
+                                                 "Worker Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1050,
+                                                 :name "Ancient"}
+                    #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -2739,6 +6577,23 @@
              #uuid "33e20383-3807-3414-869c-7a3907d40b75"
              {:game/id #uuid "33e20383-3807-3414-869c-7a3907d40b75",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2001,
+                                                 :name "Action Points"}
+                    #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2914,
+                                                 :name
+                                                 "Increase Value of Unchosen Resources"}
+                    #:com.boardgamegeek.mechanic{:id 2900,
+                                                 :name "Market"}
+                    #:com.boardgamegeek.mechanic{:id 2070,
+                                                 :name "Simulation"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 2725,
+                                                 :name "Pike and Shot"}
+                    #:com.boardgamegeek.category{:id 1070,
+                                                 :name "Renaissance"}),
               :com.boardgamegeek.boardgame/max-play-time 120,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -2750,6 +6605,27 @@
              #uuid "e9de6ee3-1f19-36e8-bdf0-3b24bacd02cc"
              {:game/id #uuid "e9de6ee3-1f19-36e8-bdf0-3b24bacd02cc",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2987,
+                                                 :name
+                                                 "Hidden Victory Points"}
+                    #:com.boardgamegeek.mechanic{:id 2900,
+                                                 :name "Market"}
+                    #:com.boardgamegeek.mechanic{:id 2060,
+                                                 :name
+                                                 "Pattern Recognition"}
+                    #:com.boardgamegeek.mechanic{:id 2884,
+                                                 :name
+                                                 "Sudden Death Ending"}
+                    #:com.boardgamegeek.mechanic{:id 2082,
+                                                 :name
+                                                 "Worker Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1016,
+                                                 :name
+                                                 "Science Fiction"}),
               :com.boardgamegeek.boardgame/max-play-time 150,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -2761,6 +6637,18 @@
              #uuid "f750d160-d009-3c96-a630-eff035abfd6c"
              {:game/id #uuid "f750d160-d009-3c96-a630-eff035abfd6c",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2012,
+                                                 :name
+                                                 "Auction/Bidding"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -2772,6 +6660,19 @@
              #uuid "a4c50ca7-7a49-3873-a656-5ba52bc56488"
              {:game/id #uuid "a4c50ca7-7a49-3873-a656-5ba52bc56488",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2661,
+                                                 :name
+                                                 "Push Your Luck"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -2791,6 +6692,23 @@
              #uuid "c6dfc763-4e0a-33ee-b4b9-efe1ce4f82b3"
              {:game/id #uuid "c6dfc763-4e0a-33ee-b4b9-efe1ce4f82b3",
               :com.boardgamegeek.boardgame/min-players 5,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}
+                    #:com.boardgamegeek.mechanic{:id 2017,
+                                                 :name "Voting"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}
+                    #:com.boardgamegeek.category{:id 1118,
+                                                 :name
+                                                 "Mature / Adult"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 10,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -2802,6 +6720,16 @@
              #uuid "edfa15bc-3235-3696-aaad-09e432fc6662"
              {:game/id #uuid "edfa15bc-3235-3696-aaad-09e432fc6662",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2689,
+                                                 :name "Action Queue"}
+                    #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name
+                                                 "Grid Movement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -2813,6 +6741,18 @@
              #uuid "b11ddc7e-1671-30bd-a2dc-89dd757508d4"
              {:game/id #uuid "b11ddc7e-1671-30bd-a2dc-89dd757508d4",
               :com.boardgamegeek.boardgame/min-players 4,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2039,
+                                                 :name "Line Drawing"}
+                    #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 12,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -2824,6 +6764,22 @@
              #uuid "f81386ae-7767-3f93-a560-c78df55109bb"
              {:game/id #uuid "f81386ae-7767-3f93-a560-c78df55109bb",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2661,
+                                                 :name
+                                                 "Push Your Luck"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}
+                    #:com.boardgamegeek.category{:id 1090,
+                                                 :name "Pirates"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -2835,6 +6791,16 @@
              #uuid "f6be0578-56d6-30b6-ad51-8713fc8f260a"
              {:game/id #uuid "f6be0578-56d6-30b6-ad51-8713fc8f260a",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -2846,6 +6812,15 @@
              #uuid "54b141a9-4bee-378e-b867-fd1d4729f014"
              {:game/id #uuid "54b141a9-4bee-378e-b867-fd1d4729f014",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -2857,6 +6832,15 @@
              #uuid "e1405ecf-c37a-3cdf-9bc0-46ca9df2e685"
              {:game/id #uuid "e1405ecf-c37a-3cdf-9bc0-46ca9df2e685",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2008,
+                                                 :name "Trading"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}),
               :com.boardgamegeek.boardgame/max-play-time 90,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -2868,6 +6852,13 @@
              #uuid "db6d2f3a-d731-3ddd-9e97-4b857d9ac065"
              {:game/id #uuid "db6d2f3a-d731-3ddd-9e97-4b857d9ac065",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2009,
+                                                 :name
+                                                 "Trick-taking"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -2883,6 +6874,34 @@
              #uuid "f7625727-1129-3703-96c0-442c8ac00dae"
              {:game/id #uuid "f7625727-1129-3703-96c0-442c8ac00dae",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2838,
+                                                 :name
+                                                 "Action Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2875,
+                                                 :name
+                                                 "End Game Bonuses"}
+                    #:com.boardgamegeek.mechanic{:id 2843,
+                                                 :name "Follow"}
+                    #:com.boardgamegeek.mechanic{:id 2987,
+                                                 :name
+                                                 "Hidden Victory Points"}
+                    #:com.boardgamegeek.mechanic{:id 2914,
+                                                 :name
+                                                 "Increase Value of Unchosen Resources"}
+                    #:com.boardgamegeek.mechanic{:id 2828,
+                                                 :name
+                                                 "Turn Order: Progressive"}
+                    #:com.boardgamegeek.mechanic{:id 2079,
+                                                 :name
+                                                 "Variable Phase Order"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1029,
+                                                 :name "City Building"}
+                    #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1013,
+                                                 :name "Farming"}),
               :com.boardgamegeek.boardgame/max-play-time 150,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 90,
@@ -2897,12 +6916,23 @@
               :game/name "QE"},
              #uuid "e5279fe2-9e7a-313b-9b5d-e2d1f6a1e8db"
              {:game/id #uuid "e5279fe2-9e7a-313b-9b5d-e2d1f6a1e8db",
-              :game/name "Quoridor",
-              :com.boardgamegeek.boardgame/id "624",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2940,
+                                                 :name "Square Grid"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1059,
+                                                 :name "Maze"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 15,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "624",
+              :game/name "Quoridor",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/9TJaxgoMUkiMhAGSYM8-0o1ICpg=/fit-in/200x150/filters:strip_icc()/pic3488232.jpg"},
              #uuid "b86c48fe-3ed8-3b4e-9369-6d3957a9d311"
@@ -2910,12 +6940,26 @@
                     :name "Quorridor"},
              #uuid "b7c512a7-a3f4-35d4-a416-c10bffb57bb4"
              {:game/id #uuid "b7c512a7-a3f4-35d4-a416-c10bffb57bb4",
-              :game/name "Qwirkle",
-              :com.boardgamegeek.boardgame/id "25669",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2048,
+                                                 :name
+                                                 "Pattern Building"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 45,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "25669",
+              :game/name "Qwirkle",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/APPui4zwBuwAIHXSTW6UxYcY6Ow=/fit-in/200x150/filters:strip_icc()/pic309353.jpg"},
              #uuid "67e88af3-f2d3-3953-9be7-c1b26fefe183"
@@ -2929,6 +6973,27 @@
              #uuid "5e611ca2-e99d-358f-adc6-f3f7bcfb3ad5"
              {:game/id #uuid "5e611ca2-e99d-358f-adc6-f3f7bcfb3ad5",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}
+                    #:com.boardgamegeek.category{:id 1045,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 12,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -2939,17 +7004,54 @@
               "https://cf.geekdo-images.com/thumb/img/p4xMVTX4wWReahsdAE7hMgeP6uk=/fit-in/200x150/filters:strip_icc()/pic3132188.jpg"},
              #uuid "11a2b6fb-2a70-314c-b249-9d7b509352e5"
              {:game/id #uuid "11a2b6fb-2a70-314c-b249-9d7b509352e5",
-              :game/name "Realm of Wonder",
-              :com.boardgamegeek.boardgame/id "162580",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2046,
+                                                 :name "Area Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2012,
+                                                 :name
+                                                 "Auction/Bidding"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1022,
+                                                 :name "Adventure"}
+                    #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}
+                    #:com.boardgamegeek.category{:id 1020,
+                                                 :name "Exploration"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 45,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "162580",
+              :game/name "Realm of Wonder",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/v1T8ZkbbCbLw8o3KQXhNEaUxebY=/fit-in/200x150/filters:strip_icc()/pic2204281.jpg"},
              #uuid "c64e760d-cd41-31b1-9626-a196593146fa"
              {:game/id #uuid "c64e760d-cd41-31b1-9626-a196593146fa",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2685,
+                                                 :name
+                                                 "Player Elimination"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1098,
+                                                 :name "Number"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 5,
@@ -2961,6 +7063,22 @@
              #uuid "edc4787a-b55f-39c5-ab40-a99f7c1a0c80"
              {:game/id #uuid "edc4787a-b55f-39c5-ab40-a99f7c1a0c80",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -2977,7 +7095,13 @@
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-players 2,
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/thumb/img/bBfNJcCvAJWnQPfP4hgbJSyo9xM=/fit-in/200x150/filters:strip_icc()/pic1448389.jpg"},
+              "https://cf.geekdo-images.com/thumb/img/bBfNJcCvAJWnQPfP4hgbJSyo9xM=/fit-in/200x150/filters:strip_icc()/pic1448389.jpg",
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1069,
+                                                 :name
+                                                 "Modern Warfare"})},
              #uuid "ba776ee9-9ebc-3521-9d9d-ce1c6a702748"
              {:languages (list "en"),
               :game/id #uuid "ba776ee9-9ebc-3521-9d9d-ce1c6a702748",
@@ -2985,6 +7109,19 @@
              #uuid "8acfd5b8-b774-39c4-a04c-29420e5631c0"
              {:game/id #uuid "8acfd5b8-b774-39c4-a04c-29420e5631c0",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2001,
+                                                 :name "Action Points"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1064,
+                                                 :name
+                                                 "Movies / TV / Radio theme"}
+                    #:com.boardgamegeek.category{:id 1016,
+                                                 :name
+                                                 "Science Fiction"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -2997,6 +7134,26 @@
              #uuid "e6d5c2ee-6c34-370d-b344-30cc5ee8a749"
              {:game/id #uuid "e6d5c2ee-6c34-370d-b344-30cc5ee8a749",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2046,
+                                                 :name "Area Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2685,
+                                                 :name
+                                                 "Player Elimination"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1064,
+                                                 :name
+                                                 "Movies / TV / Radio theme"}
+                    #:com.boardgamegeek.category{:id 1086,
+                                                 :name
+                                                 "Territory Building"}
+                    #:com.boardgamegeek.category{:id 1019,
+                                                 :name "Wargame"}),
               :com.boardgamegeek.boardgame/max-play-time 240,
               :com.boardgamegeek.boardgame/max-players 7,
               :com.boardgamegeek.boardgame/min-play-time 120,
@@ -3012,6 +7169,16 @@
              #uuid "3da3ce69-4e95-3c15-beec-5d9ec2078260"
              {:game/id #uuid "3da3ce69-4e95-3c15-beec-5d9ec2078260",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
+                    #:com.boardgamegeek.category{:id 1093,
+                                                 :name "Novel-based"}),
               :com.boardgamegeek.boardgame/max-play-time 10,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 10,
@@ -3027,6 +7194,14 @@
              #uuid "7d9f1d6a-539f-3506-a533-6d5ff7e5df57"
              {:game/id #uuid "7d9f1d6a-539f-3506-a533-6d5ff7e5df57",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -3041,17 +7216,38 @@
               :game/name "Rome & Carthrage"},
              #uuid "f77b4d34-54f4-37eb-8a5b-6d8df9e0f66d"
              {:game/id #uuid "f77b4d34-54f4-37eb-8a5b-6d8df9e0f66d",
-              :game/name "Royals",
-              :com.boardgamegeek.boardgame/id "154495",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2689,
+                                                 :name "Action Queue"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 15,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "154495",
+              :game/name "Royals",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/0dDXrkV7wcVHdzbHuZtf-SC21NM=/fit-in/200x150/filters:strip_icc()/pic1917555.png"},
              #uuid "431d180f-b4d4-35f3-8c95-96ad5a7267d6"
              {:game/id #uuid "431d180f-b4d4-35f3-8c95-96ad5a7267d6",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2078,
+                                                 :name
+                                                 "Point to Point Movement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -3062,17 +7258,63 @@
               "https://cf.geekdo-images.com/thumb/img/l-xrZRw-_tORXb9LfkeWLY4a_Z4=/fit-in/200x150/filters:strip_icc()/pic301507.jpg"},
              #uuid "af817d47-9021-3806-800d-7ef8dab08024"
              {:game/id #uuid "af817d47-9021-3806-800d-7ef8dab08024",
-              :game/name "Saboteur",
-              :com.boardgamegeek.boardgame/id "9220",
+              :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2891,
+                                                 :name "Hidden Roles"}
+                    #:com.boardgamegeek.mechanic{:id 2959,
+                                                 :name "Map Addition"}
+                    #:com.boardgamegeek.mechanic{:id 2081,
+                                                 :name
+                                                 "Network and Route Building"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}
+                    #:com.boardgamegeek.mechanic{:id 2814,
+                                                 :name
+                                                 "Traitor Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1020,
+                                                 :name "Exploration"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 10,
               :com.boardgamegeek.boardgame/min-play-time 30,
-              :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/id "9220",
+              :game/name "Saboteur",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/B3j-is62fP09eHP34uFG_gsxNQs=/fit-in/200x150/filters:strip_icc()/pic3989824.jpg"},
              #uuid "bb7745e6-fe51-351f-843c-5012bd13d334"
              {:game/id #uuid "bb7745e6-fe51-351f-843c-5012bd13d334",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2081,
+                                                 :name
+                                                 "Network and Route Building"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1020,
+                                                 :name "Exploration"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -3084,6 +7326,27 @@
              #uuid "1fff84e0-9d09-3677-a846-84f01c21b161"
              {:game/id #uuid "1fff84e0-9d09-3677-a846-84f01c21b161",
               :com.boardgamegeek.boardgame/min-players 4,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2685,
+                                                 :name
+                                                 "Player Elimination"}
+                    #:com.boardgamegeek.mechanic{:id 2814,
+                                                 :name "Traitor Game"}
+                    #:com.boardgamegeek.mechanic{:id 2017,
+                                                 :name "Voting"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1120,
+                                                 :name
+                                                 "Print & Play"}),
               :com.boardgamegeek.boardgame/max-play-time 35,
               :com.boardgamegeek.boardgame/max-players 12,
               :com.boardgamegeek.boardgame/min-play-time 25,
@@ -3095,6 +7358,28 @@
              #uuid "113e202b-52db-3631-b4c4-7027d1edccf5"
              {:game/id #uuid "113e202b-52db-3631-b4c4-7027d1edccf5",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2013,
+                                                 :name
+                                                 "Commodity Speculation"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.mechanic{:id 2011,
+                                                 :name "Modular Board"}
+                    #:com.boardgamegeek.mechanic{:id 2007,
+                                                 :name
+                                                 "Pick-up and Deliver"}
+                    #:com.boardgamegeek.mechanic{:id 2078,
+                                                 :name
+                                                 "Point to Point Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2082,
+                                                 :name
+                                                 "Worker Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}),
               :com.boardgamegeek.boardgame/max-play-time 75,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 40,
@@ -3106,6 +7391,13 @@
              #uuid "20b16954-6c66-3536-b816-f13d464da44c"
              {:game/id #uuid "20b16954-6c66-3536-b816-f13d464da44c",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2009,
+                                                 :name
+                                                 "Trick-taking"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -3117,6 +7409,19 @@
              #uuid "655dd7fb-2048-304d-ac0f-6a354ff76bc2"
              {:game/id #uuid "655dd7fb-2048-304d-ac0f-6a354ff76bc2",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2055,
+                                                 :name
+                                                 "Paper-and-Pencil"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}
+                    #:com.boardgamegeek.category{:id 1025,
+                                                 :name "Word Game"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -3128,6 +7433,16 @@
              #uuid "a65fe9b8-99d0-317b-9c91-7b969001669d"
              {:game/id #uuid "a65fe9b8-99d0-317b-9c91-7b969001669d",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -3138,17 +7453,52 @@
               "https://cf.geekdo-images.com/thumb/img/97DW-2XWDrSSkgy3XnUJ7f7tLiQ=/fit-in/200x150/filters:strip_icc()/pic2932872.jpg"},
              #uuid "e261ac28-9c39-30db-81d4-e7551f8b4fe6"
              {:game/id #uuid "e261ac28-9c39-30db-81d4-e7551f8b4fe6",
-              :game/name "Scopa",
-              :com.boardgamegeek.boardgame/id "15889",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1045,
+                                                 :name "Memory"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 30,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "15889",
+              :game/name "Scopa",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/k6VnPZink59LA3xjUdtZSTmjXzs=/fit-in/200x150/filters:strip_icc()/pic1517475.jpg"},
              #uuid "645ab7f6-09eb-3401-988d-97cd930668c1"
              {:game/id #uuid "645ab7f6-09eb-3401-988d-97cd930668c1",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2967,
+                                                 :name
+                                                 "Hidden Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2078,
+                                                 :name
+                                                 "Point to Point Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2016,
+                                                 :name
+                                                 "Secret Unit Deployment"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1097,
+                                                 :name "Travel"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -3160,6 +7510,18 @@
              #uuid "77933845-adf8-3758-a686-a08ea46f015e"
              {:game/id #uuid "77933845-adf8-3758-a686-a08ea46f015e",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2940,
+                                                 :name "Square Grid"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1025,
+                                                 :name "Word Game"}),
               :com.boardgamegeek.boardgame/max-play-time 90,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 90,
@@ -3173,22 +7535,99 @@
                     :name "Scracker"},
              #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08"
              {:game/id #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08",
-              :game/name "Scythe",
-              :com.boardgamegeek.boardgame/id "169786",
+              :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2864,
+                                                 :name
+                                                 "Force Commitment"}
+                    #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2026,
+                                                 :name "Hexagon Grid"}
+                    #:com.boardgamegeek.mechanic{:id 2886,
+                                                 :name
+                                                 "King of the Hill"}
+                    #:com.boardgamegeek.mechanic{:id 2947,
+                                                 :name
+                                                 "Movement Points"}
+                    #:com.boardgamegeek.mechanic{:id 2958,
+                                                 :name
+                                                 "Moving Multiple Units"}
+                    #:com.boardgamegeek.mechanic{:id 2851,
+                                                 :name
+                                                 "Narrative Choice / Paragraph"}
+                    #:com.boardgamegeek.mechanic{:id 2876,
+                                                 :name "Race"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}
+                    #:com.boardgamegeek.mechanic{:id 2819,
+                                                 :name
+                                                 "Solo / Solitaire Game"}
+                    #:com.boardgamegeek.mechanic{:id 2849,
+                                                 :name
+                                                 "Tech Trees / Tech Tracks"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}
+                    #:com.boardgamegeek.category{:id 1016,
+                                                 :name
+                                                 "Science Fiction"}
+                    #:com.boardgamegeek.category{:id 1086,
+                                                 :name
+                                                 "Territory Building"}),
               :com.boardgamegeek.boardgame/max-play-time 115,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 90,
-              :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/id "169786",
+              :game/name "Scythe",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/eQ69OEDdjYjfKg6q5Navee87skU=/fit-in/200x150/filters:strip_icc()/pic3163924.jpg"},
              #uuid "5b444b22-2047-3124-af08-48687f72a6b5"
              {:game/id #uuid "5b444b22-2047-3124-af08-48687f72a6b5",
-              :game/name "Secret Hitler",
-              :com.boardgamegeek.boardgame/id "188834",
+              :com.boardgamegeek.boardgame/min-players 5,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2891,
+                                                 :name "Hidden Roles"}
+                    #:com.boardgamegeek.mechanic{:id 2685,
+                                                 :name
+                                                 "Player Elimination"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}
+                    #:com.boardgamegeek.mechanic{:id 2814,
+                                                 :name "Traitor Game"}
+                    #:com.boardgamegeek.mechanic{:id 2017,
+                                                 :name "Voting"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1001,
+                                                 :name "Political"}
+                    #:com.boardgamegeek.category{:id 1120,
+                                                 :name
+                                                 "Print & Play"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 10,
               :com.boardgamegeek.boardgame/min-play-time 45,
-              :com.boardgamegeek.boardgame/min-players 5,
+              :com.boardgamegeek.boardgame/id "188834",
+              :game/name "Secret Hitler",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/xA2T7PiwN3Z8pwAksicoCOA1tf0=/fit-in/200x150/filters:strip_icc()/pic5164305.jpg"},
              #uuid "7cd74735-c2f6-352d-8428-474bc1b6b386"
@@ -3204,6 +7643,12 @@
              #uuid "7bd8e302-1270-3448-8815-58d1f6da0834"
              {:game/id #uuid "7bd8e302-1270-3448-8815-58d1f6da0834",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -3215,6 +7660,39 @@
              #uuid "01f7b705-9b33-3897-969b-343e8a6e682e"
              {:game/id #uuid "01f7b705-9b33-3897-969b-343e8a6e682e",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2014,
+                                                 :name
+                                                 "Betting and Bluffing"}
+                    #:com.boardgamegeek.mechanic{:id 2913,
+                                                 :name "Bribery"}
+                    #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2915,
+                                                 :name "Negotiation"}
+                    #:com.boardgamegeek.mechanic{:id 2028,
+                                                 :name "Role Playing"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}
+                    #:com.boardgamegeek.category{:id 1035,
+                                                 :name "Medieval"}
+                    #:com.boardgamegeek.category{:id 1026,
+                                                 :name "Negotiation"}
+                    #:com.boardgamegeek.category{:id 1093,
+                                                 :name "Novel-based"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -3230,6 +7708,20 @@
              #uuid "5610f650-22c6-3571-bffa-cfd6a9d68b2a"
              {:game/id #uuid "5610f650-22c6-3571-bffa-cfd6a9d68b2a",
               :com.boardgamegeek.boardgame/min-players 4,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2073,
+                                                 :name "Acting"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1081,
+                                                 :name
+                                                 "Spies/Secret Agents"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -3241,6 +7733,25 @@
              #uuid "3992d652-f81d-3e86-bd6e-2e685cb351a3"
              {:game/id #uuid "3992d652-f81d-3e86-bd6e-2e685cb351a3",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2664,
+                                                 :name
+                                                 "Deck, Bag, and Pool Building"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}
+                    #:com.boardgamegeek.category{:id 1024,
+                                                 :name "Horror"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -3252,6 +7763,22 @@
              #uuid "a2a3a034-7f0f-301a-8473-dd54dca2462e"
              {:game/id #uuid "a2a3a034-7f0f-301a-8473-dd54dca2462e",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}
+                    #:com.boardgamegeek.mechanic{:id 2082,
+                                                 :name
+                                                 "Worker Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1013,
+                                                 :name "Farming"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -3263,6 +7790,18 @@
              #uuid "c59a448e-a61e-3dad-871d-f3bc7ebe6774"
              {:game/id #uuid "c59a448e-a61e-3dad-871d-f3bc7ebe6774",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1016,
+                                                 :name
+                                                 "Science Fiction"}
+                    #:com.boardgamegeek.category{:id 1038,
+                                                 :name "Sports"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -3274,6 +7813,19 @@
              #uuid "b172271f-a27d-3300-9b46-7f9825f0727e"
              {:game/id #uuid "b172271f-a27d-3300-9b46-7f9825f0727e",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -3285,6 +7837,31 @@
              #uuid "d5fd1c48-4bc6-3542-8805-4964fab16e05"
              {:game/id #uuid "d5fd1c48-4bc6-3542-8805-4964fab16e05",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2046,
+                                                 :name "Area Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2914,
+                                                 :name
+                                                 "Increase Value of Unchosen Resources"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}
+                    #:com.boardgamegeek.mechanic{:id 2874,
+                                                 :name
+                                                 "Victory Points as a Resource"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}
+                    #:com.boardgamegeek.category{:id 1086,
+                                                 :name
+                                                 "Territory Building"}),
               :com.boardgamegeek.boardgame/max-play-time 80,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 40,
@@ -3305,7 +7882,12 @@
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-players 2,
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/thumb/img/SfkJjYEvCG5AQ1tOeZZVFEVfSuA=/fit-in/200x150/filters:strip_icc()/pic88607.jpg"},
+              "https://cf.geekdo-images.com/thumb/img/SfkJjYEvCG5AQ1tOeZZVFEVfSuA=/fit-in/200x150/filters:strip_icc()/pic88607.jpg",
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"})},
              #uuid "b7ae6819-447d-36c3-bb6a-0e7dbe5c17ce"
              {:languages (list "cz"),
               :game/id #uuid "b7ae6819-447d-36c3-bb6a-0e7dbe5c17ce",
@@ -3316,6 +7898,14 @@
              #uuid "6b35d568-0483-3a28-a965-30b88e49b9f5"
              {:game/id #uuid "6b35d568-0483-3a28-a965-30b88e49b9f5",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2060,
+                                                 :name
+                                                 "Pattern Recognition"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1016,
+                                                 :name
+                                                 "Science Fiction"}),
               :com.boardgamegeek.boardgame/max-play-time 35,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 25,
@@ -3327,6 +7917,57 @@
              #uuid "6fe19369-f217-3b8c-a477-7fca8a743df4"
              {:game/id #uuid "6fe19369-f217-3b8c-a477-7fca8a743df4",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2860,
+                                                 :name "Flicking"}
+                    #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.mechanic{:id 2011,
+                                                 :name "Modular Board"}
+                    #:com.boardgamegeek.mechanic{:id 2048,
+                                                 :name
+                                                 "Pattern Building"}
+                    #:com.boardgamegeek.mechanic{:id 2060,
+                                                 :name
+                                                 "Pattern Recognition"}
+                    #:com.boardgamegeek.mechanic{:id 2953,
+                                                 :name
+                                                 "Programmed Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2661,
+                                                 :name
+                                                 "Push Your Luck"}
+                    #:com.boardgamegeek.mechanic{:id 2870,
+                                                 :name
+                                                 "Re-rolling and Locking"}
+                    #:com.boardgamegeek.mechanic{:id 2831,
+                                                 :name "Real-Time"}
+                    #:com.boardgamegeek.mechanic{:id 2822,
+                                                 :name
+                                                 "Scenario / Mission / Campaign Game"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1032,
+                                                 :name
+                                                 "Action / Dexterity"}
+                    #:com.boardgamegeek.category{:id 1028,
+                                                 :name "Puzzle"}
+                    #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}
+                    #:com.boardgamegeek.category{:id 1016,
+                                                 :name
+                                                 "Science Fiction"}
+                    #:com.boardgamegeek.category{:id 1113,
+                                                 :name
+                                                 "Space Exploration"}),
               :com.boardgamegeek.boardgame/max-play-time 120,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -3337,15 +7978,59 @@
               "https://cf.geekdo-images.com/thumb/img/2gOYyhKR6WH8EuemztSCMQvqNbo=/fit-in/200x150/filters:strip_icc()/pic1362404.jpg"},
              #uuid "1c1ad4ae-57a5-38c9-8c80-666849f4eeec"
              {:game/id #uuid "1c1ad4ae-57a5-38c9-8c80-666849f4eeec",
-              :game/name "Spaghetti",
-              :com.boardgamegeek.boardgame/id "60794",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name
+                                                 "Dice Rolling"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1032,
+                                                 :name
+                                                 "Action / Dexterity"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}),
               :com.boardgamegeek.boardgame/max-play-time 5,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 5,
-              :com.boardgamegeek.boardgame/min-players 2},
+              :com.boardgamegeek.boardgame/id "60794",
+              :game/name "Spaghetti"},
              #uuid "106facbb-305a-30f4-afe6-9fe69cfadbdc"
              {:game/id #uuid "106facbb-305a-30f4-afe6-9fe69cfadbdc",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2967,
+                                                 :name
+                                                 "Hidden Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2846,
+                                                 :name
+                                                 "Once-Per-Game Abilities"}
+                    #:com.boardgamegeek.mechanic{:id 2016,
+                                                 :name
+                                                 "Secret Unit Deployment"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}
+                    #:com.boardgamegeek.category{:id 1047,
+                                                 :name "Miniatures"}
+                    #:com.boardgamegeek.category{:id 1016,
+                                                 :name
+                                                 "Science Fiction"}
+                    #:com.boardgamegeek.category{:id 1081,
+                                                 :name
+                                                 "Spies/Secret Agents"}),
               :com.boardgamegeek.boardgame/max-play-time 120,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -3357,6 +8042,23 @@
              #uuid "bdc861dc-6b29-3561-92f7-d53f184e07fc"
              {:game/id #uuid "bdc861dc-6b29-3561-92f7-d53f184e07fc",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2013,
+                                                 :name
+                                                 "Commodity Speculation"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.mechanic{:id 2005,
+                                                 :name
+                                                 "Stock Holding"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -3367,17 +8069,47 @@
               "https://cf.geekdo-images.com/thumb/img/8Bu2i8e03TSByVt95QUy4NoIxpQ=/fit-in/200x150/filters:strip_icc()/pic4029529.jpg"},
              #uuid "2c11257f-a438-3f75-8fac-459a4275e4c1"
              {:game/id #uuid "2c11257f-a438-3f75-8fac-459a4275e4c1",
-              :game/name "Speed Dice",
-              :com.boardgamegeek.boardgame/id "191473",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2048,
+                                                 :name
+                                                 "Pattern Building"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}
+                    #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}
+                    #:com.boardgamegeek.category{:id 1025,
+                                                 :name "Word Game"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 15,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "191473",
+              :game/name "Speed Dice",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/o_ZrVDn3s01Pg50FuWNfjYHLkRM=/fit-in/200x150/filters:strip_icc()/pic2834183.jpg"},
              #uuid "88857068-79d6-3142-9e20-b8c7fd8b986d"
              {:game/id #uuid "88857068-79d6-3142-9e20-b8c7fd8b986d",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2978,
+                                                 :name "Grid Coverage"}
+                    #:com.boardgamegeek.mechanic{:id 2048,
+                                                 :name
+                                                 "Pattern Building"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1028,
+                                                 :name "Puzzle"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -3389,6 +8121,19 @@
              #uuid "d8d090ed-62f4-3521-8f53-6cd65960c06e"
              {:game/id #uuid "d8d090ed-62f4-3521-8f53-6cd65960c06e",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1081,
+                                                 :name
+                                                 "Spies/Secret Agents"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -3400,6 +8145,35 @@
              #uuid "dee45e08-5103-32ec-93b7-17d391b64576"
              {:game/id #uuid "dee45e08-5103-32ec-93b7-17d391b64576",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2073,
+                                                 :name "Acting"}
+                    #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.mechanic{:id 2028,
+                                                 :name "Role Playing"}
+                    #:com.boardgamegeek.mechanic{:id 2892,
+                                                 :name
+                                                 "Roles with Asymmetric Information"}
+                    #:com.boardgamegeek.mechanic{:id 2866,
+                                                 :name
+                                                 "Targeted Clues"}
+                    #:com.boardgamegeek.mechanic{:id 2814,
+                                                 :name "Traitor Game"}
+                    #:com.boardgamegeek.mechanic{:id 2017,
+                                                 :name "Voting"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1079,
+                                                 :name "Humor"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1081,
+                                                 :name
+                                                 "Spies/Secret Agents"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -3411,6 +8185,28 @@
              #uuid "4615cd89-6ac7-3867-a94c-ceb0a15a7b13"
              {:game/id #uuid "4615cd89-6ac7-3867-a94c-ceb0a15a7b13",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2932,
+                                                 :name
+                                                 "Auction: Dutch Priority"}
+                    #:com.boardgamegeek.mechanic{:id 2850,
+                                                 :name "Events"}
+                    #:com.boardgamegeek.mechanic{:id 2902,
+                                                 :name "Income"}
+                    #:com.boardgamegeek.mechanic{:id 2082,
+                                                 :name
+                                                 "Worker Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1029,
+                                                 :name "City Building"}
+                    #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1088,
+                                                 :name
+                                                 "Industry / Manufacturing"}
+                    #:com.boardgamegeek.category{:id 1016,
+                                                 :name
+                                                 "Science Fiction"}),
               :com.boardgamegeek.boardgame/max-play-time 75,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 75,
@@ -3421,17 +8217,43 @@
               "https://cf.geekdo-images.com/thumb/img/opVobJGfklKTacqs512ty9kq5QE=/fit-in/200x150/filters:strip_icc()/pic1808509.jpg"},
              #uuid "9cf42701-85ad-3877-9a0f-cf57a5acf172"
              {:game/id #uuid "9cf42701-85ad-3877-9a0f-cf57a5acf172",
-              :game/name "Squadro",
-              :com.boardgamegeek.boardgame/id "245222",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name
+                                                 "Grid Movement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 20,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "245222",
+              :game/name "Squadro",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/eA6wQK1rtkYLUEk_9Viq940QGpM=/fit-in/200x150/filters:strip_icc()/pic4210130.jpg"},
              #uuid "51817160-093d-3773-957a-662779bebec9"
              {:game/id #uuid "51817160-093d-3773-957a-662779bebec9",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -3455,6 +8277,32 @@
              #uuid "9db165b4-98ba-3935-9f4e-a7bd23beb693"
              {:game/id #uuid "9db165b4-98ba-3935-9f4e-a7bd23beb693",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.mechanic{:id 2016,
+                                                 :name
+                                                 "Secret Unit Deployment"}
+                    #:com.boardgamegeek.mechanic{:id 2940,
+                                                 :name "Square Grid"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}
+                    #:com.boardgamegeek.category{:id 1045,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.category{:id 1051,
+                                                 :name "Napoleonic"}
+                    #:com.boardgamegeek.category{:id 1019,
+                                                 :name "Wargame"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -3466,6 +8314,18 @@
              #uuid "761cd5e5-55ee-39c8-b789-0273d2493fe8"
              {:game/id #uuid "761cd5e5-55ee-39c8-b789-0273d2493fe8",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2008,
+                                                 :name "Trading"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1029,
+                                                 :name
+                                                 "City Building"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -3477,6 +8337,37 @@
              #uuid "12e2d12e-9e19-33ad-b08e-22ab8cc8eac5"
              {:game/id #uuid "12e2d12e-9e19-33ad-b08e-22ab8cc8eac5",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2001,
+                                                 :name "Action Points"}
+                    #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}
+                    #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2959,
+                                                 :name "Map Addition"}
+                    #:com.boardgamegeek.mechanic{:id 2078,
+                                                 :name
+                                                 "Point to Point Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2661,
+                                                 :name
+                                                 "Push Your Luck"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1022,
+                                                 :name "Adventure"}
+                    #:com.boardgamegeek.category{:id 1020,
+                                                 :name "Exploration"}
+                    #:com.boardgamegeek.category{:id 1024,
+                                                 :name "Horror"}
+                    #:com.boardgamegeek.category{:id 1059,
+                                                 :name "Maze"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -3496,6 +8387,28 @@
              #uuid "cb4c3448-07c8-36e6-8cbd-28f45339be1d"
              {:game/id #uuid "cb4c3448-07c8-36e6-8cbd-28f45339be1d",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2001,
+                                                 :name "Action Points"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -3507,6 +8420,15 @@
              #uuid "9db68b1a-dbc5-3564-ab25-1023e94227a1"
              {:game/id #uuid "9db68b1a-dbc5-3564-ab25-1023e94227a1",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 10,
@@ -3518,6 +8440,19 @@
              #uuid "ff75a7b6-d946-39dc-b9cf-69635113e6f4"
              {:game/id #uuid "ff75a7b6-d946-39dc-b9cf-69635113e6f4",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1013,
+                                                 :name "Farming"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -3540,17 +8475,54 @@
               :game/name "Sushi Go"},
              #uuid "2c63539a-a2a5-3415-b3d7-89edc773ac8b"
              {:game/id #uuid "2c63539a-a2a5-3415-b3d7-89edc773ac8b",
-              :game/name "Sushi Go!",
-              :com.boardgamegeek.boardgame/id "133473",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2984,
+                                                 :name "Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2875,
+                                                 :name
+                                                 "End Game Bonuses"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 15,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "133473",
+              :game/name "Sushi Go!",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/6XF493O0tSyLyZP5ArlcZrOTMXQ=/fit-in/200x150/filters:strip_icc()/pic1900075.jpg"},
              #uuid "d80578d7-99b8-36c3-84e7-da04814b80f5"
              {:game/id #uuid "d80578d7-99b8-36c3-84e7-da04814b80f5",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2016,
+                                                 :name
+                                                 "Secret Unit Deployment"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2008,
+                                                 :name "Trading"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1050,
+                                                 :name "Ancient"}
+                    #:com.boardgamegeek.category{:id 1098,
+                                                 :name "Number"}
+                    #:com.boardgamegeek.category{:id 1120,
+                                                 :name
+                                                 "Print & Play"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -3562,6 +8534,20 @@
              #uuid "309ea4eb-582b-3fb9-93ca-87fd54016d3e"
              {:game/id #uuid "309ea4eb-582b-3fb9-93ca-87fd54016d3e",
               :com.boardgamegeek.boardgame/min-players 4,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2893,
+                                                 :name
+                                                 "Communication Limits"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}
+                    #:com.boardgamegeek.category{:id 1025,
+                                                 :name "Word Game"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 10,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -3573,6 +8559,20 @@
              #uuid "1e78ea48-893a-3f8e-91e2-01c9ff0e706e"
              {:game/id #uuid "1e78ea48-893a-3f8e-91e2-01c9ff0e706e",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2060,
+                                                 :name
+                                                 "Pattern Recognition"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 10,
@@ -3584,6 +8584,24 @@
              #uuid "b8909580-a299-3ec5-848c-548f38510b72"
              {:game/id #uuid "b8909580-a299-3ec5-848c-548f38510b72",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2661,
+                                                 :name
+                                                 "Push Your Luck"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
+                    #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}
+                    #:com.boardgamegeek.category{:id 1093,
+                                                 :name "Novel-based"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -3599,6 +8617,19 @@
              #uuid "2b110ae1-40c3-3594-bdfa-8a5bfe402f8b"
              {:game/id #uuid "2b110ae1-40c3-3594-bdfa-8a5bfe402f8b",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1032,
+                                                 :name
+                                                 "Action / Dexterity"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
+                    #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}),
               :com.boardgamegeek.boardgame/max-play-time 10,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 10,
@@ -3617,17 +8648,74 @@
               :game/name "Teraformace Marsu"},
              #uuid "e154f5ce-d498-3840-a559-661a996d4d09"
              {:game/id #uuid "e154f5ce-d498-3840-a559-661a996d4d09",
-              :game/name "Terra Evolution: Tree of Life",
-              :com.boardgamegeek.boardgame/id "111426",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2664,
+                                                 :name
+                                                 "Deck, Bag, and Pool Building"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1094,
+                                                 :name "Educational"}
+                    #:com.boardgamegeek.category{:id 1036,
+                                                 :name "Prehistoric"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 60,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "111426",
+              :game/name "Terra Evolution: Tree of Life",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/iM5YOwWPk2BGRfhb-fRp5gU_cGI=/fit-in/200x150/filters:strip_icc()/pic2621857.jpg"},
              #uuid "0071dfa9-ec41-35e2-befc-ecbe183ff272"
              {:game/id #uuid "0071dfa9-ec41-35e2-befc-ecbe183ff272",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2875,
+                                                 :name
+                                                 "End Game Bonuses"}
+                    #:com.boardgamegeek.mechanic{:id 2026,
+                                                 :name "Hexagon Grid"}
+                    #:com.boardgamegeek.mechanic{:id 2902,
+                                                 :name "Income"}
+                    #:com.boardgamegeek.mechanic{:id 2914,
+                                                 :name
+                                                 "Increase Value of Unchosen Resources"}
+                    #:com.boardgamegeek.mechanic{:id 2081,
+                                                 :name
+                                                 "Network and Route Building"}
+                    #:com.boardgamegeek.mechanic{:id 2830,
+                                                 :name
+                                                 "Turn Order: Pass Order"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}
+                    #:com.boardgamegeek.mechanic{:id 2897,
+                                                 :name
+                                                 "Variable Setup"}
+                    #:com.boardgamegeek.mechanic{:id 2874,
+                                                 :name
+                                                 "Victory Points as a Resource"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1015,
+                                                 :name "Civilization"}
+                    #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1086,
+                                                 :name
+                                                 "Territory Building"}),
               :com.boardgamegeek.boardgame/max-play-time 150,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -3639,6 +8727,53 @@
              #uuid "f944b1ee-72e5-3ea8-832f-4eaf0dde6f09"
              {:game/id #uuid "f944b1ee-72e5-3ea8-832f-4eaf0dde6f09",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2875,
+                                                 :name
+                                                 "End Game Bonuses"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2026,
+                                                 :name "Hexagon Grid"}
+                    #:com.boardgamegeek.mechanic{:id 2902,
+                                                 :name "Income"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2819,
+                                                 :name
+                                                 "Solo / Solitaire Game"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}
+                    #:com.boardgamegeek.mechanic{:id 2828,
+                                                 :name
+                                                 "Turn Order: Progressive"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1084,
+                                                 :name "Environmental"}
+                    #:com.boardgamegeek.category{:id 1088,
+                                                 :name
+                                                 "Industry / Manufacturing"}
+                    #:com.boardgamegeek.category{:id 1016,
+                                                 :name
+                                                 "Science Fiction"}
+                    #:com.boardgamegeek.category{:id 1113,
+                                                 :name
+                                                 "Space Exploration"}
+                    #:com.boardgamegeek.category{:id 1086,
+                                                 :name
+                                                 "Territory Building"}),
               :com.boardgamegeek.boardgame/max-play-time 120,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 120,
@@ -3649,17 +8784,29 @@
               "https://cf.geekdo-images.com/thumb/img/BTxqxgYay5tHJfVoJ2NF5g43_gA=/fit-in/200x150/filters:strip_icc()/pic3536616.jpg"},
              #uuid "3ca4bbbb-2ab4-3ee4-85af-cd73036a4cd3"
              {:game/id #uuid "3ca4bbbb-2ab4-3ee4-85af-cd73036a4cd3",
-              :game/name "Texas Showdown",
-              :com.boardgamegeek.boardgame/id "225482",
+              :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2009,
+                                                 :name
+                                                 "Trick-taking"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1055,
+                                                 :name "American West"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 45,
-              :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/id "225482",
+              :game/name "Texas Showdown",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/fFypu_tK6nMkxDMic_v8rKyFwjw=/fit-in/200x150/filters:strip_icc()/pic3914023.jpg"},
              #uuid "458d2163-a348-30c3-a4ad-8792fa32645c"
              {:game/id #uuid "458d2163-a348-30c3-a4ad-8792fa32645c",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -3671,6 +8818,24 @@
              #uuid "8881688f-f717-3852-a5df-d3c7386562d1"
              {:game/id #uuid "8881688f-f717-3852-a5df-d3c7386562d1",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2082,
+                                                 :name
+                                                 "Worker Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1050,
+                                                 :name "Ancient"}
+                    #:com.boardgamegeek.category{:id 1015,
+                                                 :name "Civilization"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}),
               :com.boardgamegeek.boardgame/max-play-time 90,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 90,
@@ -3682,6 +8847,23 @@
              #uuid "1bd17795-c173-3c75-9489-8343917b819a"
              {:game/id #uuid "1bd17795-c173-3c75-9489-8343917b819a",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2689,
+                                                 :name "Action Queue"}
+                    #:com.boardgamegeek.mechanic{:id 2012,
+                                                 :name
+                                                 "Auction/Bidding"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1022,
+                                                 :name "Adventure"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1016,
+                                                 :name
+                                                 "Science Fiction"}),
               :com.boardgamegeek.boardgame/max-play-time 90,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -3692,17 +8874,54 @@
               "https://cf.geekdo-images.com/thumb/img/l9Z4TQVVnEQomKQUoIqcL8_50eY=/fit-in/200x150/filters:strip_icc()/pic4328782.jpg"},
              #uuid "0d794c9d-d65b-3e94-8ce2-fe8020a2a53c"
              {:game/id #uuid "0d794c9d-d65b-3e94-8ce2-fe8020a2a53c",
-              :game/name "The Boss",
-              :com.boardgamegeek.boardgame/id "7152",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2850,
+                                                 :name "Events"}
+                    #:com.boardgamegeek.mechanic{:id 2005,
+                                                 :name "Stock Holding"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}
+                    #:com.boardgamegeek.mechanic{:id 2017,
+                                                 :name "Voting"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1026,
+                                                 :name "Negotiation"}),
               :com.boardgamegeek.boardgame/max-play-time 90,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 90,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "7152",
+              :game/name "The Boss",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/jqfFM_x3vq7z9B8WlitYmE99dKM=/fit-in/200x150/filters:strip_icc()/pic579157.jpg"},
              #uuid "595f02eb-d247-3d88-95e4-06800f89e71a"
              {:game/id #uuid "595f02eb-d247-3d88-95e4-06800f89e71a",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2893,
+                                                 :name
+                                                 "Communication Limits"}
+                    #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}
+                    #:com.boardgamegeek.mechanic{:id 2822,
+                                                 :name
+                                                 "Scenario / Mission / Campaign Game"}
+                    #:com.boardgamegeek.mechanic{:id 2009,
+                                                 :name
+                                                 "Trick-taking"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1016,
+                                                 :name
+                                                 "Science Fiction"}
+                    #:com.boardgamegeek.category{:id 1113,
+                                                 :name
+                                                 "Space Exploration"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -3714,6 +8933,29 @@
              #uuid "af9c7e15-a449-3e77-9dcf-1fed9a676d1f"
              {:game/id #uuid "af9c7e15-a449-3e77-9dcf-1fed9a676d1f",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2011,
+                                                 :name "Modular Board"}
+                    #:com.boardgamegeek.mechanic{:id 2007,
+                                                 :name
+                                                 "Pick-up and Deliver"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2008,
+                                                 :name "Trading"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1020,
+                                                 :name "Exploration"}
+                    #:com.boardgamegeek.category{:id 1008,
+                                                 :name "Nautical"}
+                    #:com.boardgamegeek.category{:id 1090,
+                                                 :name "Pirates"}
+                    #:com.boardgamegeek.category{:id 1011,
+                                                 :name
+                                                 "Transportation"}),
               :com.boardgamegeek.boardgame/max-play-time 90,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -3725,6 +8967,33 @@
              #uuid "5e679cbb-17a6-3355-9ddc-017e474ea5a9"
              {:game/id #uuid "5e679cbb-17a6-3355-9ddc-017e474ea5a9",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2847,
+                                                 :name
+                                                 "Advantage Token"}
+                    #:com.boardgamegeek.mechanic{:id 2046,
+                                                 :name "Area Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2014,
+                                                 :name
+                                                 "Betting and Bluffing"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2016,
+                                                 :name
+                                                 "Secret Unit Deployment"}
+                    #:com.boardgamegeek.mechanic{:id 2884,
+                                                 :name
+                                                 "Sudden Death Ending"}
+                    #:com.boardgamegeek.mechanic{:id 2826,
+                                                 :name
+                                                 "Turn Order: Stat-Based"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1049,
+                                                 :name
+                                                 "World War II"}),
               :com.boardgamegeek.boardgame/max-play-time 120,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 90,
@@ -3736,6 +9005,18 @@
              #uuid "62326243-6ea0-3ce1-aef6-c1d285dbdc80"
              {:game/id #uuid "62326243-6ea0-3ce1-aef6-c1d285dbdc80",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}
+                    #:com.boardgamegeek.mechanic{:id 2070,
+                                                 :name "Simulation"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
+                    #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -3751,6 +9032,30 @@
              #uuid "d8b44a4f-28ae-353d-adeb-b3fd26fc143b"
              {:game/id #uuid "d8b44a4f-28ae-353d-adeb-b3fd26fc143b",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2893,
+                                                 :name
+                                                 "Communication Limits"}
+                    #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2962,
+                                                 :name
+                                                 "Move Through Deck"}
+                    #:com.boardgamegeek.mechanic{:id 2661,
+                                                 :name
+                                                 "Push Your Luck"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1065,
+                                                 :name "World War I"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -3762,6 +9067,22 @@
              #uuid "72e2061f-c210-3f0c-bdd2-68d09fb15b98"
              {:game/id #uuid "72e2061f-c210-3f0c-bdd2-68d09fb15b98",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2984,
+                                                 :name "Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}
+                    #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}),
               :com.boardgamegeek.boardgame/max-play-time 90,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -3773,6 +9094,18 @@
              #uuid "134c5416-16b9-3118-a547-774f6df7bbcd"
              {:game/id #uuid "134c5416-16b9-3118-a547-774f6df7bbcd",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2893,
+                                                 :name
+                                                 "Communication Limits"}
+                    #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1098,
+                                                 :name "Number"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -3784,6 +9117,16 @@
              #uuid "5140d848-4910-3017-8f45-c2851658966b"
              {:game/id #uuid "5140d848-4910-3017-8f45-c2851658966b",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}
+                    #:com.boardgamegeek.mechanic{:id 2082,
+                                                 :name
+                                                 "Worker Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1020,
+                                                 :name "Exploration"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -3795,6 +9138,22 @@
              #uuid "928c51b9-1ca6-3be5-b2f1-e665e90fab70"
              {:game/id #uuid "928c51b9-1ca6-3be5-b2f1-e665e90fab70",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1035,
+                                                 :name "Medieval"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -3806,6 +9165,19 @@
              #uuid "ebb89386-c539-37db-b4a7-972b931256f7"
              {:game/id #uuid "ebb89386-c539-37db-b4a7-972b931256f7",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2012,
+                                                 :name
+                                                 "Auction/Bidding"}
+                    #:com.boardgamegeek.mechanic{:id 2932,
+                                                 :name
+                                                 "Auction: Dutch Priority"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -3828,12 +9200,34 @@
               :game/name "Thunderstone Advance"},
              #uuid "7b1d9fe4-27bb-3db5-af9b-89f0785afc59"
              {:game/id #uuid "7b1d9fe4-27bb-3db5-af9b-89f0785afc59",
-              :game/name "Ticket to Ride",
-              :com.boardgamegeek.boardgame/id "9209",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2883,
+                                                 :name "Connections"}
+                    #:com.boardgamegeek.mechanic{:id 2875,
+                                                 :name
+                                                 "End Game Bonuses"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2960,
+                                                 :name "Map Reduction"}
+                    #:com.boardgamegeek.mechanic{:id 2081,
+                                                 :name
+                                                 "Network and Route Building"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1034,
+                                                 :name "Trains"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 30,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "9209",
+              :game/name "Ticket to Ride",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/a9rsFV6KR0aun8GobhRU16aU8Kc=/fit-in/200x150/filters:strip_icc()/pic38668.jpg"},
              #uuid "99e2b0c0-aeb2-331a-8aac-98ab9dc86bb0"
@@ -3846,17 +9240,37 @@
               :game/name "Time Stories"},
              #uuid "c3fa9226-9cf9-3afa-8844-dff274cc446d"
              {:game/id #uuid "c3fa9226-9cf9-3afa-8844-dff274cc446d",
-              :game/name "Time's Up! Family",
-              :com.boardgamegeek.boardgame/id "88126",
+              :com.boardgamegeek.boardgame/min-players 4,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2073,
+                                                 :name "Acting"}
+                    #:com.boardgamegeek.mechanic{:id 2893,
+                                                 :name
+                                                 "Communication Limits"}
+                    #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1045,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 12,
               :com.boardgamegeek.boardgame/min-play-time 30,
-              :com.boardgamegeek.boardgame/min-players 4,
+              :com.boardgamegeek.boardgame/id "88126",
+              :game/name "Time's Up! Family",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/t3qrVwTjF04gioPupyc7gfnqDis=/fit-in/200x150/filters:strip_icc()/pic903503.jpg"},
              #uuid "3d1f92a5-65d3-31a6-9880-236e33c49bf3"
              {:game/id #uuid "3d1f92a5-65d3-31a6-9880-236e33c49bf3",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -3872,6 +9286,42 @@
              #uuid "05e84109-515f-3f98-8ab8-872a8a1a9cb2"
              {:game/id #uuid "05e84109-515f-3f98-8ab8-872a8a1a9cb2",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2080,
+                                                 :name
+                                                 "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2046,
+                                                 :name "Area Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2012,
+                                                 :name
+                                                 "Auction/Bidding"}
+                    #:com.boardgamegeek.mechanic{:id 2843,
+                                                 :name "Follow"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}
+                    #:com.boardgamegeek.mechanic{:id 2079,
+                                                 :name
+                                                 "Variable Phase Order"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}
+                    #:com.boardgamegeek.mechanic{:id 2082,
+                                                 :name
+                                                 "Worker Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1015,
+                                                 :name "Civilization"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}
+                    #:com.boardgamegeek.category{:id 1035,
+                                                 :name "Medieval"}
+                    #:com.boardgamegeek.category{:id 1120,
+                                                 :name
+                                                 "Print & Play"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -3887,6 +9337,24 @@
              #uuid "24689901-b879-3cd9-9b75-5dd7dd2b8f2d"
              {:game/id #uuid "24689901-b879-3cd9-9b75-5dd7dd2b8f2d",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2875,
+                                                 :name
+                                                 "End Game Bonuses"}
+                    #:com.boardgamegeek.mechanic{:id 2078,
+                                                 :name
+                                                 "Point to Point Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2663,
+                                                 :name "Time Track"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1097,
+                                                 :name "Travel"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -3898,6 +9366,24 @@
              #uuid "39063899-ef80-383a-97b7-38b8c778cc24"
              {:game/id #uuid "39063899-ef80-383a-97b7-38b8c778cc24",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2046,
+                                                 :name "Area Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}
+                    #:com.boardgamegeek.mechanic{:id 2017,
+                                                 :name "Voting"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1090,
+                                                 :name "Pirates"}),
               :com.boardgamegeek.boardgame/max-play-time 40,
               :com.boardgamegeek.boardgame/max-players 9,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -3909,6 +9395,10 @@
              #uuid "8107587f-5b81-3b66-9d13-2fa6e9a887df"
              {:game/id #uuid "8107587f-5b81-3b66-9d13-2fa6e9a887df",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1015,
+                                                 :name
+                                                 "Civilization"}),
               :com.boardgamegeek.boardgame/max-play-time 90,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 90,
@@ -3920,6 +9410,25 @@
              #uuid "c31af57c-a315-3610-b455-9d5f386f31e0"
              {:game/id #uuid "c31af57c-a315-3610-b455-9d5f386f31e0",
               :com.boardgamegeek.boardgame/min-players 4,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2011,
+                                                 :name "Modular Board"}
+                    #:com.boardgamegeek.mechanic{:id 2027,
+                                                 :name "Storytelling"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}
+                    #:com.boardgamegeek.mechanic{:id 2663,
+                                                 :name "Time Track"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1020,
+                                                 :name "Exploration"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1025,
+                                                 :name "Word Game"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -3931,6 +9440,19 @@
              #uuid "8ae6e417-a5fe-36fa-9be3-bd2c6ac61840"
              {:game/id #uuid "8ae6e417-a5fe-36fa-9be3-bd2c6ac61840",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1032,
+                                                 :name
+                                                 "Action / Dexterity"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
+                    #:com.boardgamegeek.category{:id 1093,
+                                                 :name "Novel-based"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -3942,6 +9464,15 @@
              #uuid "08240ccd-42ce-3242-b2f3-7bf5b24420fe"
              {:game/id #uuid "08240ccd-42ce-3242-b2f3-7bf5b24420fe",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -3957,6 +9488,13 @@
              #uuid "f4afb893-6f91-3389-8606-9c088ff6ea75"
              {:game/id #uuid "f4afb893-6f91-3389-8606-9c088ff6ea75",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 10,
@@ -3971,7 +9509,10 @@
               :game/name "Triviador",
               :com.boardgamegeek.boardgame/id "135082",
               :com.boardgamegeek.boardgame/max-players 10,
-              :com.boardgamegeek.boardgame/min-players 2},
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1027,
+                                                 :name "Trivia"})},
              #uuid "4a258e17-e0e8-335f-b403-5e3ac28b5ff4"
              {:languages (list "en"),
               :game/id #uuid "4a258e17-e0e8-335f-b403-5e3ac28b5ff4",
@@ -3979,6 +9520,25 @@
              #uuid "64b81638-f97f-36d4-ad33-08e915a1750e"
              {:game/id #uuid "64b81638-f97f-36d4-ad33-08e915a1750e",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.mechanic{:id 2048,
+                                                 :name
+                                                 "Pattern Building"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}
+                    #:com.boardgamegeek.category{:id 1045,
+                                                 :name "Memory"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -3990,6 +9550,25 @@
              #uuid "aacb653d-e587-34a7-a360-4c3956b4f677"
              {:game/id #uuid "aacb653d-e587-34a7-a360-4c3956b4f677",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2081,
+                                                 :name
+                                                 "Network and Route Building"}
+                    #:com.boardgamegeek.mechanic{:id 2685,
+                                                 :name
+                                                 "Player Elimination"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -4001,6 +9580,19 @@
              #uuid "c377afb2-e46b-30b6-968e-71cb449ac3ea"
              {:game/id #uuid "c377afb2-e46b-30b6-968e-71cb449ac3ea",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1094,
+                                                 :name "Educational"}
+                    #:com.boardgamegeek.category{:id 1093,
+                                                 :name "Novel-based"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -4012,6 +9604,20 @@
              #uuid "77926e55-5ca9-34b7-8f65-009dd92da63b"
              {:game/id #uuid "77926e55-5ca9-34b7-8f65-009dd92da63b",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1035,
+                                                 :name "Medieval"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -4023,6 +9629,19 @@
              #uuid "91934e02-f64d-3aab-9536-19f592307a91"
              {:game/id #uuid "91934e02-f64d-3aab-9536-19f592307a91",
               :com.boardgamegeek.boardgame/min-players 6,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2891,
+                                                 :name "Hidden Roles"}
+                    #:com.boardgamegeek.mechanic{:id 2028,
+                                                 :name "Role Playing"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 15,
               :com.boardgamegeek.boardgame/min-play-time 5,
@@ -4038,6 +9657,27 @@
              #uuid "59f822bc-aa8e-319b-9e63-eb00919b367a"
              {:game/id #uuid "59f822bc-aa8e-319b-9e63-eb00919b367a",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2836,
+                                                 :name "Lose a Turn"}
+                    #:com.boardgamegeek.mechanic{:id 3007,
+                                                 :name "Matching"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1116,
+                                                 :name
+                                                 "Comic Book / Strip"}
+                    #:com.boardgamegeek.category{:id 1064,
+                                                 :name
+                                                 "Movies / TV / Radio theme"}
+                    #:com.boardgamegeek.category{:id 1098,
+                                                 :name "Number"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 10,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -4049,6 +9689,20 @@
              #uuid "63e5002f-f8a6-36bd-81b5-2f817477eecf"
              {:game/id #uuid "63e5002f-f8a6-36bd-81b5-2f817477eecf",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2978,
+                                                 :name "Grid Coverage"}
+                    #:com.boardgamegeek.mechanic{:id 2048,
+                                                 :name
+                                                 "Pattern Building"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1028,
+                                                 :name "Puzzle"}
+                    #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}),
               :com.boardgamegeek.boardgame/max-play-time 25,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 25,
@@ -4059,12 +9713,17 @@
               "https://cf.geekdo-images.com/thumb/img/2_damZx35g1mE8kgWUpIXoHybW8=/fit-in/200x150/filters:strip_icc()/pic4597123.jpg"},
              #uuid "9b45f563-8b03-34d4-9d30-5134ab5e657e"
              {:game/id #uuid "9b45f563-8b03-34d4-9d30-5134ab5e657e",
-              :game/name "Ubongo Trigo",
-              :com.boardgamegeek.boardgame/id "118553",
+              :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1028,
+                                                 :name "Puzzle"}
+                    #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 20,
-              :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/id "118553",
+              :game/name "Ubongo Trigo",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/7tsV5bv_FDMvRBUuAQvn6mR119k=/fit-in/200x150/filters:strip_icc()/pic1210953.jpg"},
              #uuid "e7f6d5cc-0f30-3578-8282-cdc5bdbef1c8"
@@ -4073,6 +9732,41 @@
              #uuid "7c823c08-2b3e-3613-bf68-fde60227450d"
              {:game/id #uuid "7c823c08-2b3e-3613-bf68-fde60227450d",
               :com.boardgamegeek.boardgame/min-players 5,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2891,
+                                                 :name "Hidden Roles"}
+                    #:com.boardgamegeek.mechanic{:id 2028,
+                                                 :name "Role Playing"}
+                    #:com.boardgamegeek.mechanic{:id 2027,
+                                                 :name "Storytelling"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}
+                    #:com.boardgamegeek.mechanic{:id 2814,
+                                                 :name "Traitor Game"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}
+                    #:com.boardgamegeek.mechanic{:id 2017,
+                                                 :name "Voting"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1024,
+                                                 :name "Horror"}
+                    #:com.boardgamegeek.category{:id 1040,
+                                                 :name
+                                                 "Murder/Mystery"}
+                    #:com.boardgamegeek.category{:id 1026,
+                                                 :name "Negotiation"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 90,
               :com.boardgamegeek.boardgame/max-players 30,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -4084,6 +9778,22 @@
              #uuid "074edbaf-ed58-3f43-ad67-8af6ba4fcefe"
              {:game/id #uuid "074edbaf-ed58-3f43-ad67-8af6ba4fcefe",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2664,
+                                                 :name
+                                                 "Deck, Bag, and Pool Building"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2011,
+                                                 :name "Modular Board"}
+                    #:com.boardgamegeek.mechanic{:id 2070,
+                                                 :name "Simulation"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1019,
+                                                 :name "Wargame"}
+                    #:com.boardgamegeek.category{:id 1049,
+                                                 :name
+                                                 "World War II"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -4103,6 +9813,26 @@
              #uuid "6b8723ed-8ce2-3285-963d-9682f60b0287"
              {:game/id #uuid "6b8723ed-8ce2-3285-963d-9682f60b0287",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2001,
+                                                 :name "Action Points"}
+                    #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2011,
+                                                 :name "Modular Board"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1084,
+                                                 :name "Environmental"}
+                    #:com.boardgamegeek.category{:id 1031,
+                                                 :name "Racing"}),
               :com.boardgamegeek.boardgame/max-play-time 40,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 25,
@@ -4113,17 +9843,65 @@
               "https://cf.geekdo-images.com/thumb/img/9hx4WYZfrvM_EFxaYL2oVpJEBuU=/fit-in/200x150/filters:strip_icc()/pic3674313.png"},
              #uuid "d3c432b4-bac7-3974-8e6c-60ce1f8b528f"
              {:game/id #uuid "d3c432b4-bac7-3974-8e6c-60ce1f8b528f",
-              :game/name "Valley of the Kings: Afterlife",
-              :com.boardgamegeek.boardgame/id "175223",
+              :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2664,
+                                                 :name
+                                                 "Deck, Bag, and Pool Building"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1050,
+                                                 :name "Ancient"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1082,
+                                                 :name "Mythology"}
+                    #:com.boardgamegeek.category{:id 1115,
+                                                 :name "Religious"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 45,
-              :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/id "175223",
+              :game/name "Valley of the Kings: Afterlife",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/cA12z4bxPWLRHGcZ8FduT8kcLGE=/fit-in/200x150/filters:strip_icc()/pic2456554.jpg"},
              #uuid "14d13fd2-bd65-3d26-a969-71f5cec92764"
              {:game/id #uuid "14d13fd2-bd65-3d26-a969-71f5cec92764",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1029,
+                                                 :name "City Building"}
+                    #:com.boardgamegeek.category{:id 1015,
+                                                 :name "Civilization"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1026,
+                                                 :name "Negotiation"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -4145,6 +9923,19 @@
              #uuid "6ad0df6a-ac90-3fc1-a6fc-cdd155147a92"
              {:game/id #uuid "6ad0df6a-ac90-3fc1-a6fc-cdd155147a92",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2043,
+                                                 :name "Enclosure"}
+                    #:com.boardgamegeek.mechanic{:id 2011,
+                                                 :name
+                                                 "Modular Board"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1029,
+                                                 :name "City Building"}
+                    #:com.boardgamegeek.category{:id 1028,
+                                                 :name "Puzzle"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -4160,6 +9951,27 @@
              #uuid "9cfc3b97-43a7-3c0f-a7c6-2b42b62c90f6"
              {:game/id #uuid "9cfc3b97-43a7-3c0f-a7c6-2b42b62c90f6",
               :com.boardgamegeek.boardgame/min-players 4,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2012,
+                                                 :name
+                                                 "Auction/Bidding"}
+                    #:com.boardgamegeek.mechanic{:id 2685,
+                                                 :name
+                                                 "Player Elimination"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}
+                    #:com.boardgamegeek.mechanic{:id 2017,
+                                                 :name "Voting"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1015,
+                                                 :name "Civilization"}
+                    #:com.boardgamegeek.category{:id 1026,
+                                                 :name "Negotiation"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 10,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -4171,6 +9983,11 @@
              #uuid "32288419-57f9-3b53-a2df-4b3393930c5a"
              {:game/id #uuid "32288419-57f9-3b53-a2df-4b3393930c5a",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1027,
+                                                 :name "Trivia"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 20,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -4182,6 +9999,24 @@
              #uuid "44ca4f9f-417c-3200-b21f-4ae33fae9646"
              {:game/id #uuid "44ca4f9f-417c-3200-b21f-4ae33fae9646",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.mechanic{:id 2685,
+                                                 :name
+                                                 "Player Elimination"}
+                    #:com.boardgamegeek.mechanic{:id 2661,
+                                                 :name
+                                                 "Push Your Luck"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -4193,6 +10028,26 @@
              #uuid "2d7c2d23-5fac-3ff4-8aac-33c2ce47eb1c"
              {:game/id #uuid "2d7c2d23-5fac-3ff4-8aac-33c2ce47eb1c",
               :com.boardgamegeek.boardgame/min-players 4,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2892,
+                                                 :name
+                                                 "Roles with Asymmetric Information"}
+                    #:com.boardgamegeek.mechanic{:id 2814,
+                                                 :name "Traitor Game"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}
+                    #:com.boardgamegeek.mechanic{:id 2017,
+                                                 :name "Voting"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}
+                    #:com.boardgamegeek.category{:id 1025,
+                                                 :name "Word Game"}),
               :com.boardgamegeek.boardgame/max-play-time 10,
               :com.boardgamegeek.boardgame/max-players 10,
               :com.boardgamegeek.boardgame/min-play-time 10,
@@ -4204,6 +10059,33 @@
              #uuid "ae7bda5b-fa73-3e1b-b30b-c81fd70b93f5"
              {:game/id #uuid "ae7bda5b-fa73-3e1b-b30b-c81fd70b93f5",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2001,
+                                                 :name "Action Points"}
+                    #:com.boardgamegeek.mechanic{:id 2046,
+                                                 :name "Area Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2014,
+                                                 :name
+                                                 "Betting and Bluffing"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2007,
+                                                 :name
+                                                 "Pick-up and Deliver"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1022,
+                                                 :name "Adventure"}
+                    #:com.boardgamegeek.category{:id 1055,
+                                                 :name
+                                                 "American West"}),
               :com.boardgamegeek.boardgame/max-play-time 90,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -4215,6 +10097,15 @@
              #uuid "97fc6923-396a-3ad8-8a4c-70879893f4b7"
              {:game/id #uuid "97fc6923-396a-3ad8-8a4c-70879893f4b7",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name
+                                                 "Card Drafting"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 10,
@@ -4226,6 +10117,9 @@
              #uuid "3f9e8eb6-bc1b-357a-949e-643f14a3cedf"
              {:game/id #uuid "3f9e8eb6-bc1b-357a-949e-643f14a3cedf",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -4244,7 +10138,16 @@
               :game/name "Whatcha Say",
               :com.boardgamegeek.boardgame/id "232658",
               :com.boardgamegeek.boardgame/max-players 10,
-              :com.boardgamegeek.boardgame/min-players 2},
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"})},
              #uuid "95fa375b-2ca6-3d95-aad0-4f1610e2d50f"
              #:game{:id #uuid "95fa375b-2ca6-3d95-aad0-4f1610e2d50f",
                     :name "What’s Up"},
@@ -4254,27 +10157,86 @@
               :game/name "Who’s the traitor"},
              #uuid "abe58998-3062-3866-9238-314af7ba0265"
              {:game/id #uuid "abe58998-3062-3866-9238-314af7ba0265",
-              :game/name "Wild Fun West",
-              :com.boardgamegeek.boardgame/id "120781",
+              :com.boardgamegeek.boardgame/min-players 4,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2012,
+                                                 :name
+                                                 "Auction/Bidding"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1055,
+                                                 :name "American West"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1026,
+                                                 :name "Negotiation"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 45,
-              :com.boardgamegeek.boardgame/min-players 4,
+              :com.boardgamegeek.boardgame/id "120781",
+              :game/name "Wild Fun West",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/BJy5bJ4IBj3K0tobl3pIMLWijbo=/fit-in/200x150/filters:strip_icc()/pic1391887.png"},
              #uuid "6fe16b2e-cfb7-3be8-8013-6c163b70120b"
              {:game/id #uuid "6fe16b2e-cfb7-3be8-8013-6c163b70120b",
-              :game/name "Wilderness",
-              :com.boardgamegeek.boardgame/id "108637",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2001,
+                                                 :name "Action Points"}
+                    #:com.boardgamegeek.mechanic{:id 2046,
+                                                 :name "Area Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2011,
+                                                 :name
+                                                 "Modular Board"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1022,
+                                                 :name "Adventure"}
+                    #:com.boardgamegeek.category{:id 1020,
+                                                 :name "Exploration"}
+                    #:com.boardgamegeek.category{:id 1031,
+                                                 :name "Racing"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 8,
               :com.boardgamegeek.boardgame/min-play-time 60,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "108637",
+              :game/name "Wilderness",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/dtOnPBhmW9j-UkAFCRkoXjAdchk=/fit-in/200x150/filters:strip_icc()/pic1097184.jpg"},
              #uuid "e5f11979-9a30-30ec-8084-92dd584b1214"
              {:game/id #uuid "e5f11979-9a30-30ec-8084-92dd584b1214",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2984,
+                                                 :name "Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2875,
+                                                 :name
+                                                 "End Game Bonuses"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2819,
+                                                 :name
+                                                 "Solo / Solitaire Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1094,
+                                                 :name "Educational"}),
               :com.boardgamegeek.boardgame/max-play-time 70,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 40,
@@ -4286,6 +10248,23 @@
              #uuid "02b25657-6abc-3080-8fb9-16100cb17ad5"
              {:game/id #uuid "02b25657-6abc-3080-8fb9-16100cb17ad5",
               :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2014,
+                                                 :name
+                                                 "Betting and Bluffing"}
+                    #:com.boardgamegeek.mechanic{:id 2055,
+                                                 :name
+                                                 "Paper-and-Pencil"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
+                    #:com.boardgamegeek.category{:id 1094,
+                                                 :name "Educational"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1027,
+                                                 :name "Trivia"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 10,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -4300,17 +10279,43 @@
               :game/name "Wits and Wagers"},
              #uuid "0a4d7b38-fbbc-3f6c-88fe-b09fc35ad1a6"
              {:game/id #uuid "0a4d7b38-fbbc-3f6c-88fe-b09fc35ad1a6",
-              :game/name "Wordquest",
-              :com.boardgamegeek.boardgame/id "39180",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2060,
+                                                 :name
+                                                 "Pattern Recognition"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}
+                    #:com.boardgamegeek.category{:id 1025,
+                                                 :name "Word Game"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "39180",
+              :game/name "Wordquest",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/BRfR57UmJzTqxcN-4-kGN9Qu-qg=/fit-in/200x150/filters:strip_icc()/pic622198.jpg"},
              #uuid "161dfda2-bf83-3041-ae10-e2410340abd1"
              {:game/id #uuid "161dfda2-bf83-3041-ae10-e2410340abd1",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2055,
+                                                 :name
+                                                 "Paper-and-Pencil"}
+                    #:com.boardgamegeek.mechanic{:id 2831,
+                                                 :name "Real-Time"}
+                    #:com.boardgamegeek.mechanic{:id 2819,
+                                                 :name
+                                                 "Solo / Solitaire Game"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1037,
+                                                 :name "Real-time"}
+                    #:com.boardgamegeek.category{:id 1025,
+                                                 :name "Word Game"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -4322,6 +10327,17 @@
              #uuid "3463c066-922f-3864-93bd-b87bb1286679"
              {:game/id #uuid "3463c066-922f-3864-93bd-b87bb1286679",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}
+                    #:com.boardgamegeek.category{:id 1013,
+                                                 :name "Farming"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -4333,6 +10349,23 @@
              #uuid "d993f311-557a-391d-ab21-677ab586a01b"
              {:game/id #uuid "d993f311-557a-391d-ab21-677ab586a01b",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Card Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2664,
+                                                 :name
+                                                 "Deck, Bag, and Pool Building"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1088,
+                                                 :name
+                                                 "Industry / Manufacturing"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -4343,32 +10376,77 @@
               "https://cf.geekdo-images.com/thumb/img/BIsI2thXlVPfY30qfyftZCsNnY0=/fit-in/200x150/filters:strip_icc()/pic2537665.jpg"},
              #uuid "191e854e-b00d-3d80-8fa1-fed83b373be7"
              {:game/id #uuid "191e854e-b00d-3d80-8fa1-fed83b373be7",
-              :game/name "Yak",
-              :com.boardgamegeek.boardgame/id "21877",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2035,
+                                                 :name
+                                                 "Roll / Spin and Move"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 15,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "21877",
+              :game/name "Yak",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/tUZvD8FZq4STp8HXkjz509ngCtY=/fit-in/200x150/filters:strip_icc()/pic218963.jpg"},
              #uuid "9cb073d5-2081-32d7-9991-a6077288e01e"
              {:game/id #uuid "9cb073d5-2081-32d7-9991-a6077288e01e",
-              :game/name "Yeti",
-              :com.boardgamegeek.boardgame/id "189294",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2661,
+                                                 :name
+                                                 "Push Your Luck"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1022,
+                                                 :name "Adventure"}
+                    #:com.boardgamegeek.category{:id 1017,
+                                                 :name "Dice"}),
               :com.boardgamegeek.boardgame/max-play-time 40,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 20,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "189294",
+              :game/name "Yeti",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/EUMiXkxa6LeNKD9UEpdgJGM0kPo=/fit-in/200x150/filters:strip_icc()/pic2817129.jpg"},
              #uuid "36749cc5-01bd-3292-aaaf-44525fc6ed7b"
              {:game/id #uuid "36749cc5-01bd-3292-aaaf-44525fc6ed7b",
-              :game/name "Yomi",
-              :com.boardgamegeek.boardgame/id "43022",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2003,
+                                                 :name
+                                                 "Rock-Paper-Scissors"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1023,
+                                                 :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}
+                    #:com.boardgamegeek.category{:id 1101,
+                                                 :name
+                                                 "Video Game Theme"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 30,
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/id "43022",
+              :game/name "Yomi",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/thumb/img/0jN0d9qt3YM2DN9MnG1-v6qI2VM=/fit-in/200x150/filters:strip_icc()/pic885442.jpg"},
              #uuid "2b90736f-b969-3564-a2f5-efd9254fdb62"
@@ -4378,6 +10456,15 @@
              #uuid "05ae57bb-e135-3a41-87f7-2bc52f18bff4"
              {:game/id #uuid "05ae57bb-e135-3a41-87f7-2bc52f18bff4",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1104,
+                                                 :name "Math"}
+                    #:com.boardgamegeek.category{:id 1082,
+                                                 :name "Mythology"}
+                    #:com.boardgamegeek.category{:id 1098,
+                                                 :name "Number"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -4389,6 +10476,35 @@
              #uuid "0b0ba83c-ba8f-3c56-8b3e-a2fc3bc7f5a4"
              {:game/id #uuid "0b0ba83c-ba8f-3c56-8b3e-a2fc3bc7f5a4",
               :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2018,
+                                                 :name
+                                                 "Campaign / Battle Card Driven"}
+                    #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2011,
+                                                 :name "Modular Board"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1022,
+                                                 :name "Adventure"}
+                    #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1046,
+                                                 :name "Fighting"}
+                    #:com.boardgamegeek.category{:id 1024,
+                                                 :name "Horror"}
+                    #:com.boardgamegeek.category{:id 1035,
+                                                 :name "Medieval"}
+                    #:com.boardgamegeek.category{:id 1047,
+                                                 :name "Miniatures"}
+                    #:com.boardgamegeek.category{:id 2481,
+                                                 :name "Zombies"}),
               :com.boardgamegeek.boardgame/max-play-time 180,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 60,
@@ -4400,6 +10516,16 @@
              #uuid "30fe5e0d-e895-3a87-87df-7cdfbdd1f7ab"
              {:game/id #uuid "30fe5e0d-e895-3a87-87df-7cdfbdd1f7ab",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
               :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -4415,6 +10541,17 @@
              #uuid "7369ff3a-fe64-30e3-8363-9067a97ac8b4"
              {:game/id #uuid "7369ff3a-fe64-30e3-8363-9067a97ac8b4",
               :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2014,
+                                                 :name
+                                                 "Betting and Bluffing"}),
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1027,
+                                                 :name "Trivia"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 60,

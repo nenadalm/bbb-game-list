@@ -162,6 +162,8 @@ td {
   content: '\1f1f7 \1f1fa';
 }.i-country-pl::before {
   content: '\1f1f5 \1f1f1';
+}.game-list {
+  max-width: 1024px;
 }.footer {
   margin: 2em auto;
   display: table;

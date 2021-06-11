@@ -32,6 +32,26 @@
                             [i/language lang])
                           languages)))))
 
+(defn- categories [data]
+  (when-let [categories (:com.boardgamegeek.boardgame/categories data)]
+    (into [:<> "Categories: "]
+          (interpose (unescapeEntities ", ")
+                     (mapv (fn [category]
+                             [:a {:href (str "https://boardgamegeek.com/boardgamecategory/"
+                                             (:com.boardgamegeek.category/id category))}
+                              (:com.boardgamegeek.category/name category)])
+                           categories)))))
+
+(defn- mechanics [data]
+  (when-let [mechanics (:com.boardgamegeek.boardgame/mechanics data)]
+    (into [:<> "Mechanics: "]
+          (interpose (unescapeEntities ", ")
+                     (mapv (fn [mechanic]
+                             [:a {:href (str "https://boardgamegeek.com/boardgamemechanic/"
+                                             (:com.boardgamegeek.mechanic/id mechanic))}
+                              (:com.boardgamegeek.mechanic/name mechanic)])
+                           mechanics)))))
+
 (defn- title [data]
   (if-let [bgg-id (:com.boardgamegeek.boardgame/id data)]
     [:a {:href (str "https://boardgamegeek.com/boardgame/" bgg-id)}
@@ -46,7 +66,11 @@
     [title data]
     [:br]
     [:br]
-    [languages data]]
+    [languages data]
+    [:br]
+    [categories data]
+    [:br]
+    [mechanics data]]
    [:td
     [min-players data]]
    [:td
@@ -73,7 +97,7 @@
 
 (defn game-list []
   (let [sorting @(re-frame/subscribe [::subsc/sorting])]
-    [:table
+    [:table.game-list
      [:thead
       [:tr
        [:th]

@@ -21,8 +21,18 @@
                                "/thing?type=boardgame&id="
                                game-id)))
 
+(defn- game-item->game [game-item]
+  (reduce
+   (fn [game item]
+     (case (:tag item)
+       :name (assoc game :name (-> item :attrs :value))
+       game))
+   {:id (-> game-item :attrs :id)
+    :type (-> game-item :attrs :type)}
+   (:content game-item)))
+
 (defn- result->games [result]
-  (:content result))
+  (not-empty (mapv game-item->game (:content result))))
 
 (defn- search-game-exact [name]
   (let [url (search-game-url name)]
@@ -35,13 +45,13 @@
       (result->games (clojure.xml/parse xin)))))
 
 (defn- name-length [game]
-  (count (get-in game [:content 0 :attrs :value])))
+  (count (:name game)))
 
-(defn- one-game-result [result name]
-  (if (= 1 (count result))
-    result
+(defn- one-game-result [games name]
+  (if (= 1 (count games))
+    games
     (let [name-length* (count name)
-          by-name-length (group-by name-length result)
+          by-name-length (group-by name-length games)
           exact-length (get by-name-length name-length*)
           length-1 (get by-name-length (dec name-length*))
           length+1 (get by-name-length (inc name-length*))]
@@ -58,9 +68,9 @@
         ;; probably missing colon, bang or something
         (= 1 (count length+1)) length+1))))
 
-(defn- some-game-result [result]
-  (when (< 0 (count result))
-    result))
+(defn- some-game-result [games]
+  (when (< 0 (count games))
+    games))
 
 (def ^:private name-fixers
   [#(clojure.string/replace % " and " " & ")
@@ -70,19 +80,61 @@
   (let [fixed-names (into #{} (map #(% name)) name-fixers)]
     (into [name] (disj fixed-names name))))
 
-(defn search-game [name]
-  (or
-   (first
-    (into
-     []
-     (comp
-      (keep #(some-game-result (search-game-exact %)))
-      (take 1))
-     (possible-names name)))
-   (some-game-result (search-game-exact name))
-   (one-game-result (search-game-non-exact name) name)))
+(defn find-game
+  "Returns game with keys `:id`, `:type`, `:name` or `nil`."
+  [name]
+  (first
+   (or
+    (first
+     (into
+      []
+      (comp
+       (keep #(some-game-result (search-game-exact %)))
+       (take 1))
+      (possible-names name)))
+    (some-game-result (search-game-exact name))
+    (one-game-result (search-game-non-exact name) name))))
+
+(defn- non-zero [x]
+  (if (= 0 x) nil x))
+
+(defn- detail-item->game [detail-item]
+  (when detail-item
+    (reduce
+     (fn [game item]
+       (case (:tag item)
+         :thumbnail (assoc game :com.boardgamegeek.boardgame/thumbnail (-> item :content first))
+         :minplayers (assoc game :com.boardgamegeek.boardgame/min-players (Integer/valueOf (-> item :attrs :value)))
+         :maxplayers (assoc game :com.boardgamegeek.boardgame/max-players (Integer/valueOf (-> item :attrs :value)))
+         :name (if (= (-> item :attrs :type) "primary")
+                 (assoc game :com.boardgamegeek.boardgame/name (-> item :attrs :value))
+                 game)
+         :minplaytime (if-let [time (non-zero (Integer/valueOf (-> item :attrs :value)))]
+                        (assoc game :com.boardgamegeek.boardgame/min-play-time time)
+                        game)
+         :maxplaytime (if-let [time (non-zero (Integer/valueOf (-> item :attrs :value)))]
+                        (assoc game :com.boardgamegeek.boardgame/max-play-time time)
+                        game)
+         :link (case (-> item :attrs :type)
+                 "boardgamecategory" (update game
+                                             :com.boardgamegeek.boardgame/categories
+                                             conj
+                                             {:com.boardgamegeek.category/id (Integer/valueOf (-> item :attrs :id))
+                                              :com.boardgamegeek.category/name (-> item :attrs :value)})
+                 "boardgamemechanic" (update game
+                                             :com.boardgamegeek.boardgame/mechanics
+                                             conj
+                                             {:com.boardgamegeek.mechanic/id (Integer/valueOf (-> item :attrs :id))
+                                              :com.boardgamegeek.mechanic/name (-> item :attrs :value)})
+                 game)
+         game))
+     {:com.boardgamegeek.boardgame/id (-> detail-item :attrs :id)}
+     (:content detail-item))))
 
 (defn game-details [game-id]
   (let [url (game-details-url game-id)]
     (with-open [xin (url/->cached-stream url)]
-      (clojure.xml/parse xin))))
+      (-> (clojure.xml/parse xin)
+          :content
+          first
+          detail-item->game))))

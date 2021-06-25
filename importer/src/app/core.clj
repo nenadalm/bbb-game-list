@@ -15,57 +15,19 @@
 
 (add-tap tap)
 
-(defn- game-id [search-result]
-  (get-in search-result [0 :attrs :id]))
-
-(defn- non-zero [x]
-  (if (= 0 x) nil x))
-
-(defn- add-game-details [game item]
-  (case (:tag item)
-    :thumbnail (assoc game :com.boardgamegeek.boardgame/thumbnail (-> item :content first))
-    :minplayers (assoc game :com.boardgamegeek.boardgame/min-players (Integer/valueOf (-> item :attrs :value)))
-    :maxplayers (assoc game :com.boardgamegeek.boardgame/max-players (Integer/valueOf (-> item :attrs :value)))
-    :name (if (= (-> item :attrs :type) "primary")
-            (assoc game :com.boardgamegeek.boardgame/name (-> item :attrs :value))
-            game)
-    :minplaytime (if-let [time (non-zero (Integer/valueOf (-> item :attrs :value)))]
-                   (assoc game :com.boardgamegeek.boardgame/min-play-time time)
-                   game)
-    :maxplaytime (if-let [time (non-zero (Integer/valueOf (-> item :attrs :value)))]
-                   (assoc game :com.boardgamegeek.boardgame/max-play-time time)
-                   game)
-    :link (case (-> item :attrs :type)
-            "boardgamecategory" (update game
-                                        :com.boardgamegeek.boardgame/categories
-                                        conj
-                                        {:com.boardgamegeek.category/id (Integer/valueOf (-> item :attrs :id))
-                                         :com.boardgamegeek.category/name (-> item :attrs :value)})
-            "boardgamemechanic" (update game
-                                        :com.boardgamegeek.boardgame/mechanics
-                                        conj
-                                        {:com.boardgamegeek.mechanic/id (Integer/valueOf (-> item :attrs :id))
-                                         :com.boardgamegeek.mechanic/name (-> item :attrs :value)})
-            game)
-    game))
-
 (defn- enrich-game-with-uuid [game]
   (assoc game :game/id (uuid/from-string (:game/name game))))
 
 (defn- enrich-game-with-id [game]
-  (let [found (bgg/search-game (:name game))
-        id (game-id found)]
+  (let [found-game (bgg/find-game (:name game))
+        id (:id found-game)]
     (cond-> game
       id (assoc :com.boardgamegeek.boardgame/id id))))
 
 (defn- enrich-game-with-bgg-info [game]
   (if-let [game-id (:com.boardgamegeek.boardgame/id game)]
-    (let [response (bgg/game-details game-id)
-          details (get-in response [:content 0 :content])]
-      (reduce
-       add-game-details
-       game
-       details))
+    (let [details (bgg/game-details game-id)]
+      (merge game details))
     game))
 
 (defn- enrich-game-with-name [game]

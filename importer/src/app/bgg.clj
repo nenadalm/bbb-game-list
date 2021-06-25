@@ -42,9 +42,21 @@
     result
     (let [name-length* (count name)
           by-name-length (group-by name-length result)
-          exact-length (get by-name-length name-length*)]
-      (when (= 1 (count exact-length))
-        exact-length))))
+          exact-length (get by-name-length name-length*)
+          length-1 (get by-name-length (dec name-length*))
+          length+1 (get by-name-length (inc name-length*))]
+      (cond
+        ;; if there is more matches, we have no idea which is correct
+        (< 1 (count exact-length)) nil
+
+        ;; probably some typo or swapped words
+        (= 1 (count exact-length)) exact-length
+
+        ;; probably extra dot, comma or something
+        (= 1 (count length-1)) length-1
+
+        ;; probably missing colon, bang or something
+        (= 1 (count length+1)) length+1))))
 
 (defn- some-game-result [result]
   (when (< 0 (count result))

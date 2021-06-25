@@ -34,14 +34,33 @@
     (with-open [xin (url/->cached-stream url)]
       (clojure.xml/parse xin))))
 
+(defn- one-game-result [result]
+  (when (= 1 (results-count result))
+    result))
+
+(defn- some-game-result [result]
+  (when (< 0 (results-count result))
+    result))
+
+(def ^:private name-fixers
+  [#(clojure.string/replace % " and " " & ")
+   #(clojure.string/replace % "’" "'")])
+
+(defn- possible-names [name]
+  (let [fixed-names (into #{} (map #(% name)) name-fixers)]
+    (into [name] (disj fixed-names name))))
+
 (defn search-game [name]
-  (let [exact (search-game-exact name)]
-    (if (= 0 (results-count exact))
-      (let [non-exact (search-game-non-exact name)]
-        (if (= 1 (results-count non-exact))
-          non-exact
-          exact))
-      exact)))
+  (or
+   (first
+    (into
+     []
+     (comp
+      (keep #(some-game-result (search-game-exact %)))
+      (take 1))
+     (possible-names name)))
+   (some-game-result (search-game-exact name))
+   (one-game-result (search-game-non-exact name))))
 
 (defn game-details [game-id]
   (let [url (game-details-url game-id)]

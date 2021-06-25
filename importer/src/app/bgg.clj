@@ -21,25 +21,33 @@
                                "/thing?type=boardgame&id="
                                game-id)))
 
-(defn- results-count [response]
-  (Integer/valueOf (get-in response [:attrs :total])))
+(defn- result->games [result]
+  (:content result))
 
 (defn- search-game-exact [name]
   (let [url (search-game-url name)]
     (with-open [xin (url/->cached-stream url)]
-      (clojure.xml/parse xin))))
+      (result->games (clojure.xml/parse xin)))))
 
 (defn- search-game-non-exact [name]
   (let [url (search-game-non-exact-url name)]
     (with-open [xin (url/->cached-stream url)]
-      (clojure.xml/parse xin))))
+      (result->games (clojure.xml/parse xin)))))
 
-(defn- one-game-result [result]
-  (when (= 1 (results-count result))
-    result))
+(defn- name-length [game]
+  (count (get-in game [:content 0 :attrs :value])))
+
+(defn- one-game-result [result name]
+  (if (= 1 (count result))
+    result
+    (let [name-length* (count name)
+          by-name-length (group-by name-length result)
+          exact-length (get by-name-length name-length*)]
+      (when (= 1 (count exact-length))
+        exact-length))))
 
 (defn- some-game-result [result]
-  (when (< 0 (results-count result))
+  (when (< 0 (count result))
     result))
 
 (def ^:private name-fixers
@@ -60,7 +68,7 @@
       (take 1))
      (possible-names name)))
    (some-game-result (search-game-exact name))
-   (one-game-result (search-game-non-exact name))))
+   (one-game-result (search-game-non-exact name) name)))
 
 (defn game-details [game-id]
   (let [url (game-details-url game-id)]

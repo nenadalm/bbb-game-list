@@ -16,7 +16,7 @@
 (add-tap tap)
 
 (defn- game-id [search-result]
-  (get-in search-result [:content 0 :attrs :id]))
+  (get-in search-result [0 :attrs :id]))
 
 (defn- non-zero [x]
   (if (= 0 x) nil x))

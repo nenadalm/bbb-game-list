@@ -26,7 +26,7 @@
 
 (defn- languages [data]
   (when-let [languages (:languages data)]
-    (into [:<> "Languages: "]
+    (into [:div "Languages: "]
           (interpose (unescapeEntities "&nbsp;")
                      (map (fn [lang]
                             [i/language lang])
@@ -34,7 +34,7 @@
 
 (defn- categories [data]
   (when-let [categories (:com.boardgamegeek.boardgame/categories data)]
-    (into [:<> "Categories: "]
+    (into [:div "Categories: "]
           (interpose (unescapeEntities ", ")
                      (mapv (fn [category]
                              [:a {:href (str "https://boardgamegeek.com/boardgamecategory/"
@@ -44,7 +44,7 @@
 
 (defn- mechanics [data]
   (when-let [mechanics (:com.boardgamegeek.boardgame/mechanics data)]
-    (into [:<> "Mechanics: "]
+    (into [:div "Mechanics: "]
           (interpose (unescapeEntities ", ")
                      (mapv (fn [mechanic]
                              [:a {:href (str "https://boardgamegeek.com/boardgamemechanic/"
@@ -54,8 +54,13 @@
 
 (defn- title [data]
   (if-let [bgg-id (:com.boardgamegeek.boardgame/id data)]
-    [:a {:href (str "https://boardgamegeek.com/boardgame/" bgg-id)}
-     (:game/name data)]
+    [:<>
+     [:a {:href (str "https://boardgamegeek.com/boardgame/" bgg-id)}
+      (:game/name data)]
+     (when-not (= (:game/name data) (:name data))
+       [:<>
+        [:br]
+        "(" (:name data) ")"])]
     (:game/name data)))
 
 (defn- game [data]
@@ -67,9 +72,7 @@
     [:br]
     [:br]
     [languages data]
-    [:br]
     [categories data]
-    [:br]
     [mechanics data]]
    [:td
     [min-players data]]

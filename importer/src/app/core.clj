@@ -35,6 +35,7 @@
 
 (defn- frontend-game [game]
   (select-keys game [:languages
+                     :name
                      :game/id
                      :game/name
                      :com.boardgamegeek.boardgame/id

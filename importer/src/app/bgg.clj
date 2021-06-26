@@ -2,6 +2,7 @@
   (:require
    [clojure.java.io]
    [clojure.xml]
+   [clojure.string]
    [app.url :as url]))
 
 (def ^:private api-root "https://www.boardgamegeek.com/xmlapi2")
@@ -47,26 +48,41 @@
 (defn- name-length [game]
   (count (:name game)))
 
+(defn- remove-duplicates [games]
+  (mapv first (vals (group-by :name games))))
+
+(defn- remove-special-chars [name]
+  (clojure.string/replace name #"(?U)\W" ""))
+
 (defn- one-game-result [games name]
-  (if (= 1 (count games))
-    games
-    (let [name-length* (count name)
-          by-name-length (group-by name-length games)
-          exact-length (get by-name-length name-length*)
-          length-1 (get by-name-length (dec name-length*))
-          length+1 (get by-name-length (inc name-length*))]
-      (cond
-        ;; if there is more matches, we have no idea which is correct
-        (< 1 (count exact-length)) nil
+  (let [games (remove-duplicates games)]
+    (if (= 1 (count games))
+      games
+      (let [name-length* (count name)
+            by-name-length (group-by name-length games)
+            exact-length (get by-name-length name-length*)
+            length-1 (get by-name-length (dec name-length*))
+            length+1 (get by-name-length (inc name-length*))]
+        (cond
+          ;; if there is more matches, we have no idea which is correct
+          (< 1 (count exact-length)) nil
 
-        ;; probably some typo or swapped words
-        (= 1 (count exact-length)) exact-length
+          ;; probably some typo or swapped words
+          (= 1 (count exact-length)) exact-length
 
-        ;; probably extra dot, comma or something
-        (= 1 (count length-1)) length-1
+          ;; probably extra dot, comma or something
+          (= 1 (count length-1)) length-1
 
-        ;; probably missing colon, bang or something
-        (= 1 (count length+1)) length+1))))
+          ;; probably missing colon, bang or something
+          (= 1 (count length+1)) length+1
+
+          ;; many mistakes like missing many special characters or excessive special characters
+          :else (let [name-without-special-chars (remove-special-chars name)
+                      games-without-special-chars (mapv #(update % :name remove-special-chars) games)]
+                  (when-not (= games games-without-special-chars)
+                    (let [match (first (one-game-result games-without-special-chars name-without-special-chars))
+                          id->games (group-by :id games)]
+                      (id->games (:id match))))))))))
 
 (defn- some-game-result [games]
   (when (< 0 (count games))

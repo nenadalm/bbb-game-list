@@ -90,26 +90,33 @@
 
 (def ^:private name-fixers
   [#(clojure.string/replace % " and " " & ")
-   #(clojure.string/replace % "’" "'")])
+   #(clojure.string/replace % "’" "'")
+   #(clojure.string/replace % ":" "")
+   #(clojure.string/replace % "," "")
+   #(clojure.string/replace % "!" "")
+   #(clojure.string/replace % "–" "")])
 
 (defn- possible-names [name]
   (let [fixed-names (into #{} (map #(% name)) name-fixers)]
     (into [name] (disj fixed-names name))))
 
+(defn- first-result [f names]
+  (first
+   (into
+    []
+    (comp
+     (keep f)
+     (take 1))
+    names)))
+
 (defn find-game
   "Returns game with keys `:id`, `:type`, `:name` or `nil`."
   [name]
-  (first
-   (or
+  (let [pn (possible-names name)]
     (first
-     (into
-      []
-      (comp
-       (keep #(some-game-result (search-game-exact %)))
-       (take 1))
-      (possible-names name)))
-    (some-game-result (search-game-exact name))
-    (one-game-result (search-game-non-exact name) name))))
+     (or
+      (first-result #(some-game-result (search-game-exact %)) pn)
+      (first-result #(one-game-result (search-game-non-exact %) %) pn)))))
 
 (defn- non-zero [x]
   (if (= 0 x) nil x))

@@ -1,7 +1,7 @@
 (ns app.bbb
   (:require
    [clojure.string]
-   [app.url :as url])
+   [clojure.java.io])
   (:import
    [org.jsoup Jsoup]))
 
@@ -38,7 +38,7 @@
     (throw (ex-info "Cannot parse game." {:name name}))))
 
 (defn- game-list-doc []
-  (with-open [xin (url/->cached-stream (java.net.URL. games-list-url))]
+  (with-open [xin (clojure.java.io/input-stream (java.net.URL. games-list-url))]
     (Jsoup/parse xin "utf-8" games-list-url)))
 
 (defn games []

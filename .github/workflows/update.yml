@@ -21,6 +21,15 @@ jobs:
           key: "${{ runner.os }}-maven-${{ hashFiles('deps.edn') }}"
           restore-keys: |
             ${{ runner.os }}-maven-
+      - name: Get month
+        id: get-month
+        run: |
+          echo "::set-output name=day::$(date +%Y-%m)"
+        shell: bash
+      - uses: actions/cache@v2
+        with:
+          path: './importer/resources/.cache/url'
+          key: "url-${{ steps.get-month.outputs.day }}"
       - name:
         run: |
           cd ./importer/

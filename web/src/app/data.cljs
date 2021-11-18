@@ -4436,6 +4436,8 @@
                     #:com.boardgamegeek.mechanic{:id 2078,
                                                  :name
                                                  "Point to Point Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2813,
+                                                 :name "Rondel"}
                     #:com.boardgamegeek.mechanic{:id 2004,
                                                  :name
                                                  "Set Collection"}
@@ -6023,7 +6025,10 @@
                                                  :name "Drafting"}
                     #:com.boardgamegeek.mechanic{:id 2002,
                                                  :name
-                                                 "Tile Placement"}),
+                                                 "Tile Placement"}
+                    #:com.boardgamegeek.mechanic{:id 2826,
+                                                 :name
+                                                 "Turn Order: Stat-Based"}),
               :name "Kingdomino",
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1029,

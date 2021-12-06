@@ -1606,7 +1606,7 @@
               :com.boardgamegeek.boardgame/id "822",
               :game/name "Carcassonne",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/Z3upN53-fsVPUDimN9SpOA__thumb/img/_C5pWATlaq3uS8u7IlFb0WMi_ak=/fit-in/200x150/filters:strip_icc()/pic2337577.jpg"},
+              "https://cf.geekdo-images.com/okM0dq_bEXnbyQTOvHfwRA__thumb/img/88274KiOg94wziybVHyW8AeOiXg=/fit-in/200x150/filters:strip_icc()/pic6544250.png"},
              #uuid "7e7fdd38-98cc-3f0f-a059-308e820a2013"
              {:game/id #uuid "7e7fdd38-98cc-3f0f-a059-308e820a2013",
               :com.boardgamegeek.boardgame/min-players 4,
@@ -2177,10 +2177,7 @@
                                                  "Cooperative Game"}
                     #:com.boardgamegeek.mechanic{:id 2661,
                                                  :name
-                                                 "Push Your Luck"}
-                    #:com.boardgamegeek.mechanic{:id 2019,
-                                                 :name
-                                                 "Team-Based Game"}),
+                                                 "Push Your Luck"}),
               :name "Krycí Jména: Duet",
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1002,
@@ -8575,9 +8572,7 @@
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1009,
                                                  :name
-                                                 "Abstract Strategy"}
-                    #:com.boardgamegeek.category{:id 1050,
-                                                 :name "Ancient"}),
+                                                 "Abstract Strategy"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 2,
               :com.boardgamegeek.boardgame/min-play-time 15,
@@ -9081,8 +9076,6 @@
                                                  :name "Party Game"}
                     #:com.boardgamegeek.category{:id 1036,
                                                  :name "Prehistoric"}
-                    #:com.boardgamegeek.category{:id 1037,
-                                                 :name "Real-time"}
                     #:com.boardgamegeek.category{:id 1025,
                                                  :name "Word Game"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
@@ -11493,7 +11486,7 @@
                                                  "City Building"}),
               :com.boardgamegeek.boardgame/max-play-time 120,
               :com.boardgamegeek.boardgame/max-players 4,
-              :com.boardgamegeek.boardgame/min-play-time 60,
+              :com.boardgamegeek.boardgame/min-play-time 120,
               :com.boardgamegeek.boardgame/id "316786",
               :languages (list "en"),
               :game/name "Tabannusi: Builders of Ur",
@@ -12531,6 +12524,9 @@
                                                  "Auction/Bidding"}
                     #:com.boardgamegeek.mechanic{:id 2843,
                                                  :name "Follow"}
+                    #:com.boardgamegeek.mechanic{:id 2858,
+                                                 :name
+                                                 "Prisoner's Dilemma"}
                     #:com.boardgamegeek.mechanic{:id 2686,
                                                  :name "Take That"}
                     #:com.boardgamegeek.mechanic{:id 2079,
@@ -16371,7 +16367,6 @@
               #uuid "6fe19369-f217-3b8c-a477-7fca8a743df4"
               #uuid "106facbb-305a-30f4-afe6-9fe69cfadbdc"
               #uuid "12e2d12e-9e19-33ad-b08e-22ab8cc8eac5"
-              #uuid "5f91981d-882c-3f44-8727-83bfa1a74c55"
               #uuid "e154f5ce-d498-3840-a559-661a996d4d09"
               #uuid "0071dfa9-ec41-35e2-befc-ecbe183ff272"
               #uuid "62326243-6ea0-3ce1-aef6-c1d285dbdc80"
@@ -16411,6 +16406,7 @@
               #uuid "91a5169d-5877-3642-9a52-54c4f01655da"
               #uuid "23767cbb-cceb-3686-8a59-f0250c57a1d9"
               #uuid "e6d5c2ee-6c34-370d-b344-30cc5ee8a749"
+              #uuid "5f91981d-882c-3f44-8727-83bfa1a74c55"
               #uuid "f944b1ee-72e5-3ea8-832f-4eaf0dde6f09"
               #uuid "28e54304-62fc-38c9-9b76-058878323d57"
               #uuid "79a39a92-dda9-376e-b337-e86bdbbc3864"

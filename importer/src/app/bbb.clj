@@ -8,7 +8,7 @@
 (def ^:private games-list-url "http://bohemiaboardsandbrews.com/games/")
 
 (defn- doc->game-lists [doc]
-  (rest (.select doc ".single_gl")))
+  (rest (.select doc ".single_gl span")))
 
 (defn- game->name [game]
   (->> (.text game)
@@ -52,13 +52,12 @@
 ;; => {:com.bohemia-boards-and-brews/name
 ;;     "Game of Thrones: Oathbreaker (EN)",
 ;;     :name "Game of Thrones: Oathbreaker",
-;;     :languages ("en")}  
+;;     :languages ("en")}
   (game-name->game-info "Game of Thrones: Oathbreaker")
 ;; => {:com.bohemia-boards-and-brews/name "Game of Thrones: Oathbreaker",
-;;     :name "Game of Thrones: Oathbreaker"}  
+;;     :name "Game of Thrones: Oathbreaker"}
   (game-name->game-info "Penguins (tucnaci) (CZ)")
 ;; => {:com.bohemia-boards-and-brews/name "Penguins (tucnaci) (CZ)",
 ;;     :name "Penguins",
 ;;     :languages ("cz")}
   )
-

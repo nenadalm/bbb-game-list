@@ -1,5 +1,10 @@
 @import url('../../../node_modules/reset-css/reset.css');
 
+sup {
+    vertical-align: super;
+    font-size: smaller;
+}
+
 table {
     margin: 0 auto;
 }

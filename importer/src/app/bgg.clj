@@ -121,23 +121,30 @@
 (defn- non-zero [x]
   (if (= 0 x) nil x))
 
+(defn- int-value [item]
+  (-> item :attrs :value))
+
+(defn- pos-int-value [item]
+  (non-zero (Integer/valueOf (int-value item))))
+
+(defn- assoc-some [game key val]
+  (if (some? val)
+    (assoc game key val)
+    game))
+
 (defn- detail-item->game [detail-item]
   (when detail-item
     (reduce
      (fn [game item]
        (case (:tag item)
          :thumbnail (assoc game :com.boardgamegeek.boardgame/thumbnail (-> item :content first))
-         :minplayers (assoc game :com.boardgamegeek.boardgame/min-players (Integer/valueOf (-> item :attrs :value)))
-         :maxplayers (assoc game :com.boardgamegeek.boardgame/max-players (Integer/valueOf (-> item :attrs :value)))
+         :minplayers (assoc-some game :com.boardgamegeek.boardgame/min-players (pos-int-value item))
+         :maxplayers (assoc-some game :com.boardgamegeek.boardgame/max-players (pos-int-value item))
          :name (if (= (-> item :attrs :type) "primary")
                  (assoc game :com.boardgamegeek.boardgame/name (-> item :attrs :value))
                  game)
-         :minplaytime (if-let [time (non-zero (Integer/valueOf (-> item :attrs :value)))]
-                        (assoc game :com.boardgamegeek.boardgame/min-play-time time)
-                        game)
-         :maxplaytime (if-let [time (non-zero (Integer/valueOf (-> item :attrs :value)))]
-                        (assoc game :com.boardgamegeek.boardgame/max-play-time time)
-                        game)
+         :minplaytime (assoc-some game :com.boardgamegeek.boardgame/min-play-time (pos-int-value item))
+         :maxplaytime (assoc-some game :com.boardgamegeek.boardgame/max-play-time (pos-int-value item))
          :link (case (-> item :attrs :type)
                  "boardgamecategory" (update game
                                              :com.boardgamegeek.boardgame/categories

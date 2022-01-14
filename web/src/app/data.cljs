@@ -5035,7 +5035,6 @@
                     #:com.boardgamegeek.category{:id 1027,
                                                  :name "Trivia"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
-              :com.boardgamegeek.boardgame/max-players 0,
               :com.boardgamegeek.boardgame/min-play-time 20,
               :com.boardgamegeek.boardgame/id "131414",
               :languages (list "cz"),
@@ -5687,13 +5686,13 @@
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/UdhhVlmQihMbvlNSvY1lUA__thumb/img/bc5NxkspfUfPskxlC30SxlwNyxs=/fit-in/200x150/filters:strip_icc()/pic2606165.jpg"},
              #uuid "83f7cd22-e2a0-3e46-b9ba-4358004dc75f"
-             {:game/id #uuid "83f7cd22-e2a0-3e46-b9ba-4358004dc75f",
+             {:name "Kaleva",
+              :game/id #uuid "83f7cd22-e2a0-3e46-b9ba-4358004dc75f",
+              :game/name "Kaleva",
+              :com.boardgamegeek.boardgame/id "182174",
               :com.boardgamegeek.boardgame/min-players 2,
-              :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2676,
-                                                 :name
-                                                 "Grid Movement"}),
-              :name "Kaleva",
+              :com.boardgamegeek.boardgame/thumbnail
+              "https://cf.geekdo-images.com/sdnIpVpAqsZyckQmnql0fg__thumb/img/5-NmFZcvHYLlSIpIVeEiE73_v4o=/fit-in/200x150/filters:strip_icc()/pic2634113.jpg",
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1009,
                                                  :name
@@ -5704,11 +5703,10 @@
                                                  :name "Fighting"}
                     #:com.boardgamegeek.category{:id 1082,
                                                  :name "Mythology"}),
-              :com.boardgamegeek.boardgame/max-players 0,
-              :com.boardgamegeek.boardgame/id "182174",
-              :game/name "Kaleva",
-              :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/sdnIpVpAqsZyckQmnql0fg__thumb/img/5-NmFZcvHYLlSIpIVeEiE73_v4o=/fit-in/200x150/filters:strip_icc()/pic2634113.jpg"},
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name
+                                                 "Grid Movement"})},
              #uuid "2293c663-d1bc-3701-9a53-009f457c6940"
              {:game/id #uuid "2293c663-d1bc-3701-9a53-009f457c6940",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -15292,10 +15290,12 @@
               #uuid "c8835178-b83e-3ef2-84d6-ed36804309c8"
               #uuid "2ffb14ad-8e1d-3f3c-9df9-133b523d8287"
               #uuid "0d22fe23-de11-3728-9634-4b0114313a9f"
+              #uuid "dd1bf333-48e3-3cde-80c2-6fb824ec3563"
               #uuid "d803129a-da52-3403-b88a-1331f9bf89b1"
               #uuid "0d600bac-e4d6-3227-b4bf-b0d9fee001c6"
               #uuid "c693b4c3-9720-303a-836a-8f25b4da698a"
               #uuid "e74ac58d-7a69-3b4b-9cff-6dc08fd9f434"
+              #uuid "83f7cd22-e2a0-3e46-b9ba-4358004dc75f"
               #uuid "d8b5d495-0030-372f-8b5b-3131d1bcddc1"
               #uuid "3b11574d-ac04-3356-aa1c-eb3ac5ef4c6f"
               #uuid "a673ace7-74a3-384d-823b-f8131295d6d1"
@@ -15352,8 +15352,6 @@
               #uuid "e214a1ce-1929-3835-b502-4510ef89f940"
               #uuid "1f3e8c8e-59ab-34e2-a92f-cf6dc3e47daa"
               #uuid "fab76503-1b94-3d49-8b17-1336fababeec"
-              #uuid "dd1bf333-48e3-3cde-80c2-6fb824ec3563"
-              #uuid "83f7cd22-e2a0-3e46-b9ba-4358004dc75f"
               #uuid "a6480b1c-62dd-3ceb-9f94-fb57c823691e"
               #uuid "54b7d1a4-f4c9-3dfb-a3cf-e94ce0c9d660"
               #uuid "1d4dffda-8368-3060-a077-e7937437d6f7"

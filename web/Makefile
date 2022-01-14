@@ -1,7 +1,8 @@
 .DEFAULT_GOAL := all
 
+.PHONY: src/app/data.cljs
 src/app/data.cljs:
-	cd ../importer && clojure -m app.core > ../web/$@
+	cd ../importer && clojure -M -m app.core > ../web/$@
 
 resources/public/css/styles.css: resources/private/css/styles.css
 	mkdir -p $(dir $@)

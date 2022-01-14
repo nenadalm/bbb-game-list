@@ -88,6 +88,7 @@ cljs.core.cst$kw$div$footer = new cljs.core.Keyword(null,"div.footer","div.foote
 cljs.core.cst$kw$default = new cljs.core.Keyword(null,"default","default",-1987822328);
 cljs.core.cst$kw$sequential = new cljs.core.Keyword(null,"sequential","sequential",-1082983960);
 cljs.core.cst$sym$prefer_DASH_table = new cljs.core.Symbol(null,"prefer-table","prefer-table",462168584,null);
+cljs.core.cst$kw$new = new cljs.core.Keyword(null,"new","new",-2085437848);
 cljs.core.cst$sym$loop_STAR_ = new cljs.core.Symbol(null,"loop*","loop*",615029416,null);
 cljs.core.cst$sym$watches = new cljs.core.Symbol(null,"watches","watches",1367433992,null);
 cljs.core.cst$kw$ns = new cljs.core.Keyword(null,"ns","ns",441598760);

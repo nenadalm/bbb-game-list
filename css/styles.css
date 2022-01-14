@@ -126,6 +126,8 @@ q:after {
 }sup {
   vertical-align: super;
   font-size: smaller;
+}input {
+  vertical-align: middle;
 }table {
   margin: 0 auto;
 }table,

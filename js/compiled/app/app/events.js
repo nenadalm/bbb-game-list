@@ -16,3 +16,9 @@ var key = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__13948,(1),null);
 var dir = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__13948,(2),null);
 return cljs.core.assoc.cljs$core$IFn$_invoke$arity$variadic(db,cljs.core.cst$kw$app_SLASH_sort_DASH_key,key,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([cljs.core.cst$kw$app_SLASH_sort_DASH_dir,dir], 0));
 }));
+re_frame.core.reg_event_db.cljs$core$IFn$_invoke$arity$2(cljs.core.cst$kw$app$events_SLASH_show_DASH_only_DASH_new,(function (db,p__13951){
+var vec__13952 = p__13951;
+var _ = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__13952,(0),null);
+var only_new = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__13952,(1),null);
+return cljs.core.assoc.cljs$core$IFn$_invoke$arity$3(db,cljs.core.cst$kw$app$filter_SLASH_only_DASH_new,only_new);
+}));

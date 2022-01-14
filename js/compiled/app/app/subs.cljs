@@ -11,11 +11,15 @@
          ordered-ids (if (= :asc sort-dir)
                        asc-ordered-ids
                        (rseq asc-ordered-ids))
-         games (:game-list/games db)]
+         games (:game-list/games db)
+         filter-f (if (:app.filter/only-new db) :new (constantly true))]
      (if ordered-ids
        (reduce
         (fn [sorted-list next-game-id]
-          (conj sorted-list (games next-game-id)))
+          (let [game (games next-game-id)]
+            (if (filter-f game)
+              (conj sorted-list game)
+              sorted-list)))
         []
         ordered-ids)
        (do

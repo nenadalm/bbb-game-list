@@ -5,9 +5,8 @@
    [app.bgg :as bgg]
    [app.pprint :refer [clojure-dispatch]]
    [app.uuid :as uuid]
-   [clojure.data.priority-map :as priority-map])
-  (:import
-   [org.jsoup Jsoup]))
+   [clojure.data.priority-map :as priority-map]
+   [clojure.string]))
 
 (defn- tap [x]
   (binding [*out* *err*]
@@ -36,6 +35,7 @@
 (defn- frontend-game [game]
   (select-keys game [:languages
                      :name
+                     :new
                      :game/id
                      :game/name
                      :com.boardgamegeek.boardgame/id
@@ -99,7 +99,7 @@
     {:game-list/games games-list
      :game-list/sorting (games-sorting (vals games-list))}))
 
-(defn -main [& args]
+(defn -main [& _]
   (println "(ns app.data)")
   (println "(def game-data")
   (pp/with-pprint-dispatch clojure-dispatch

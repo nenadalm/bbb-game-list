@@ -108,7 +108,9 @@
     [:table.game-list
      [:thead
       [:tr
-       [:th]
+       [:th
+        [:label [:input {:type "checkbox"
+                         :on-change #(re-frame/dispatch [::events/show-only-new (.-target.checked %)])}] "only new"]]
        [sortable-th {:text "Title"
                      :key :game/name
                      :sorting sorting}]

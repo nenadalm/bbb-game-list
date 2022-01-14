@@ -57,11 +57,16 @@
     [:<>
      [:a {:href (str "https://boardgamegeek.com/boardgame/" bgg-id)}
       (:game/name data)]
+     (when (:new data)
+       [:sup "new"])
      (when-not (= (:game/name data) (:name data))
        [:<>
         [:br]
         "(" (:name data) ")"])]
-    (:game/name data)))
+    [:<>
+     (:game/name data)
+     (when (:new data)
+       [:sup "new"])]))
 
 (defn- game [data]
   [:tr

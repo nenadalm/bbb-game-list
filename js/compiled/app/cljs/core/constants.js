@@ -62,6 +62,7 @@ cljs.core.cst$sym$comp = new cljs.core.Symbol(null,"comp","comp",-1462482139,nul
 cljs.core.cst$kw$app$subs_SLASH_game_DASH_list = new cljs.core.Keyword("app.subs","game-list","app.subs/game-list",271868709);
 cljs.core.cst$sym$dispatch_DASH_fn = new cljs.core.Symbol(null,"dispatch-fn","dispatch-fn",-1401088155,null);
 cljs.core.cst$sym$buffer = new cljs.core.Symbol(null,"buffer","buffer",-2037140571,null);
+cljs.core.cst$kw$sup = new cljs.core.Keyword(null,"sup","sup",-2039492346);
 cljs.core.cst$kw$com$boardgamegeek$boardgame_SLASH_mechanics = new cljs.core.Keyword("com.boardgamegeek.boardgame","mechanics","com.boardgamegeek.boardgame/mechanics",711510438);
 cljs.core.cst$kw$else = new cljs.core.Keyword(null,"else","else",-1508377146);
 cljs.core.cst$kw$app_SLASH_sort_DASH_dir = new cljs.core.Keyword("app","sort-dir","app/sort-dir",35321510);

@@ -1,5 +1,9 @@
 @import url('../../../node_modules/reset-css/reset.css');
 
+img {
+    display: block;
+}
+
 sup {
     vertical-align: super;
     font-size: smaller;

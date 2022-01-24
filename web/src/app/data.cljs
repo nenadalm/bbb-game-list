@@ -853,10 +853,7 @@
              {:game/id #uuid "2e89598e-c81e-39d5-bae2-aee451063265",
               :com.boardgamegeek.boardgame/min-players 2,
               :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2847,
-                                                 :name
-                                                 "Advantage Token"}
-                    #:com.boardgamegeek.mechanic{:id 2014,
+              (list #:com.boardgamegeek.mechanic{:id 2014,
                                                  :name
                                                  "Betting and Bluffing"}
                     #:com.boardgamegeek.mechanic{:id 2072,
@@ -909,7 +906,9 @@
                                                  "Tile Placement"}),
               :name "Bananagrams",
               :com.boardgamegeek.boardgame/categories
-              (list #:com.boardgamegeek.category{:id 1037,
+              (list #:com.boardgamegeek.category{:id 1031,
+                                                 :name "Racing"}
+                    #:com.boardgamegeek.category{:id 1037,
                                                  :name "Real-time"}
                     #:com.boardgamegeek.category{:id 1025,
                                                  :name "Word Game"}),
@@ -988,7 +987,7 @@
               :languages (list "en"),
               :game/name "Bears vs Babies",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/iJpO2VOezeMXuclGqR_mXg__thumb/img/GrVBkH_kUoL5lszRkFTOZFMCEVg=/fit-in/200x150/filters:strip_icc()/pic3231155.png"},
+              "https://cf.geekdo-images.com/2BZROogBECvPPF2780wlvg__thumb/img/sdoR62wTU6mKAKrZY96_zhPWy3c=/fit-in/200x150/filters:strip_icc()/pic5521191.jpg"},
              #uuid "3e302b86-f47c-3d22-9b4d-c253439d9970"
              {:game/id #uuid "3e302b86-f47c-3d22-9b4d-c253439d9970",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -4059,7 +4058,9 @@
                                                  :name "Dice Rolling"}
                     #:com.boardgamegeek.mechanic{:id 2040,
                                                  :name
-                                                 "Hand Management"}),
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}),
               :name "Germania Magna",
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1050,
@@ -4518,10 +4519,15 @@
                                                  :name "Card Game"}
                     #:com.boardgamegeek.category{:id 1010,
                                                  :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1047,
+                                                 :name "Miniatures"}
                     #:com.boardgamegeek.category{:id 1031,
                                                  :name "Racing"}
                     #:com.boardgamegeek.category{:id 1037,
-                                                 :name "Real-time"}),
+                                                 :name "Real-time"}
+                    #:com.boardgamegeek.category{:id 1016,
+                                                 :name
+                                                 "Science Fiction"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -5245,14 +5251,22 @@
                                                  :name "Contracts"}
                     #:com.boardgamegeek.mechanic{:id 2984,
                                                  :name "Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2875,
+                                                 :name
+                                                 "End Game Bonuses"}
                     #:com.boardgamegeek.mechanic{:id 2040,
                                                  :name
                                                  "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2902,
+                                                 :name "Income"}
                     #:com.boardgamegeek.mechanic{:id 2819,
                                                  :name
                                                  "Solo / Solitaire Game"}
                     #:com.boardgamegeek.mechanic{:id 2686,
                                                  :name "Take That"}
+                    #:com.boardgamegeek.mechanic{:id 2828,
+                                                 :name
+                                                 "Turn Order: Progressive"}
                     #:com.boardgamegeek.mechanic{:id 2015,
                                                  :name
                                                  "Variable Player Powers"}),
@@ -5736,11 +5750,15 @@
              {:game/id #uuid "909332ae-bc74-34a4-8cd5-4ea30edd7930",
               :com.boardgamegeek.boardgame/min-players 2,
               :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2912,
+              (list #:com.boardgamegeek.mechanic{:id 2689,
+                                                 :name "Action Queue"}
+                    #:com.boardgamegeek.mechanic{:id 2912,
                                                  :name "Contracts"}
                     #:com.boardgamegeek.mechanic{:id 2664,
                                                  :name
-                                                 "Deck, Bag, and Pool Building"}),
+                                                 "Deck, Bag, and Pool Building"}
+                    #:com.boardgamegeek.mechanic{:id 2876,
+                                                 :name "Race"}),
               :name "Kashgar",
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1002,
@@ -6045,7 +6063,7 @@
                     #:com.boardgamegeek.category{:id 1086,
                                                  :name
                                                  "Territory Building"}),
-              :com.boardgamegeek.boardgame/max-play-time 15,
+              :com.boardgamegeek.boardgame/max-play-time 25,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 15,
               :com.boardgamegeek.boardgame/id "204583",
@@ -9107,7 +9125,9 @@
              {:game/id #uuid "e1405ecf-c37a-3cdf-9bc0-46ca9df2e685",
               :com.boardgamegeek.boardgame/min-players 3,
               :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2004,
+              (list #:com.boardgamegeek.mechanic{:id 2904,
+                                                 :name "Loans"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
                                                  :name
                                                  "Set Collection"}
                     #:com.boardgamegeek.mechanic{:id 2008,
@@ -9570,7 +9590,10 @@
                                                  "Variable Phase Order"}
                     #:com.boardgamegeek.mechanic{:id 2015,
                                                  :name
-                                                 "Variable Player Powers"}),
+                                                 "Variable Player Powers"}
+                    #:com.boardgamegeek.mechanic{:id 2935,
+                                                 :name
+                                                 "Worker Placement with Dice Workers"}),
               :new true,
               :name "Roll for the Galaxy",
               :com.boardgamegeek.boardgame/categories
@@ -9889,9 +9912,15 @@
              {:game/id #uuid "a65fe9b8-99d0-317b-9c91-7b969001669d",
               :com.boardgamegeek.boardgame/min-players 2,
               :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2040,
+              (list #:com.boardgamegeek.mechanic{:id 2857,
+                                                 :name
+                                                 "Card Play Conflict Resolution"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
                                                  :name
                                                  "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2981,
+                                                 :name
+                                                 "Melding and Splaying"}
                     #:com.boardgamegeek.mechanic{:id 2004,
                                                  :name
                                                  "Set Collection"}),
@@ -10412,6 +10441,9 @@
                     #:com.boardgamegeek.mechanic{:id 2987,
                                                  :name
                                                  "Hidden Victory Points"}
+                    #:com.boardgamegeek.mechanic{:id 2914,
+                                                 :name
+                                                 "Increase Value of Unchosen Resources"}
                     #:com.boardgamegeek.mechanic{:id 2015,
                                                  :name
                                                  "Variable Player Powers"}
@@ -11220,6 +11252,42 @@
               :game/name "Summoner Wars",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/EWi-utp09EIJnwia_o_Taw__thumb/img/vEFkO1QccS2LQpL7fgX7-v1hZhg=/fit-in/200x150/filters:strip_icc()/pic5152378.png"},
+             #uuid "9db68b1a-dbc5-3564-ab25-1023e94227a1"
+             {:game/id #uuid "9db68b1a-dbc5-3564-ab25-1023e94227a1",
+              :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2003,
+                                                 :name
+                                                 "Rock-Paper-Scissors"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}),
+              :name "Super Cats",
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1032,
+                                                 :name
+                                                 "Action / Dexterity"}
+                    #:com.boardgamegeek.category{:id 1089,
+                                                 :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
+                    #:com.boardgamegeek.category{:id 1116,
+                                                 :name
+                                                 "Comic Book / Strip"}
+                    #:com.boardgamegeek.category{:id 1064,
+                                                 :name
+                                                 "Movies / TV / Radio theme"}
+                    #:com.boardgamegeek.category{:id 1030,
+                                                 :name "Party Game"}),
+              :com.boardgamegeek.boardgame/max-play-time 15,
+              :com.boardgamegeek.boardgame/max-players 6,
+              :com.boardgamegeek.boardgame/min-play-time 10,
+              :com.boardgamegeek.boardgame/id "279014",
+              :languages (list "en" "fr"),
+              :game/name "Super Cats",
+              :com.boardgamegeek.boardgame/thumbnail
+              "https://cf.geekdo-images.com/bgjK-BduP2X3lgMmz1UjIg__thumb/img/uFUYESFRF06ugeLajX5nY9_rWww=/fit-in/200x150/filters:strip_icc()/pic6480478.jpg"},
              #uuid "ff75a7b6-d946-39dc-b9cf-69635113e6f4"
              {:game/id #uuid "ff75a7b6-d946-39dc-b9cf-69635113e6f4",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -11578,43 +11646,6 @@
               :game/name "Team UP!",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/6hqatvV_uhGWebNPWzj4lA__thumb/img/Ja6pyHziaDDIi_2_jRCXUGNKWm0=/fit-in/200x150/filters:strip_icc()/pic3788130.jpg"},
-             #uuid "6b9a2464-282c-396d-a918-afde2db81cde"
-             {:game/id #uuid "6b9a2464-282c-396d-a918-afde2db81cde",
-              :com.boardgamegeek.boardgame/min-players 3,
-              :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2003,
-                                                 :name
-                                                 "Rock-Paper-Scissors"}
-                    #:com.boardgamegeek.mechanic{:id 2020,
-                                                 :name
-                                                 "Simultaneous Action Selection"}),
-              :name "Super Cats",
-              :com.boardgamegeek.boardgame/categories
-              (list #:com.boardgamegeek.category{:id 1032,
-                                                 :name
-                                                 "Action / Dexterity"}
-                    #:com.boardgamegeek.category{:id 1089,
-                                                 :name "Animals"}
-                    #:com.boardgamegeek.category{:id 1041,
-                                                 :name
-                                                 "Children's Game"}
-                    #:com.boardgamegeek.category{:id 1116,
-                                                 :name
-                                                 "Comic Book / Strip"}
-                    #:com.boardgamegeek.category{:id 1064,
-                                                 :name
-                                                 "Movies / TV / Radio theme"}
-                    #:com.boardgamegeek.category{:id 1030,
-                                                 :name "Party Game"}),
-              :com.boardgamegeek.boardgame/max-play-time 15,
-              :com.boardgamegeek.boardgame/max-players 6,
-              :com.boardgamegeek.boardgame/min-play-time 10,
-              :com.boardgamegeek.boardgame/id "279014",
-              :languages (list "en" "fr"),
-              :game/name
-              "Teenage Mutant Ninja Turtles: Turtle Power Card Game",
-              :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/bgjK-BduP2X3lgMmz1UjIg__thumb/img/uFUYESFRF06ugeLajX5nY9_rWww=/fit-in/200x150/filters:strip_icc()/pic6480478.jpg"},
              #uuid "2b110ae1-40c3-3594-bdfa-8a5bfe402f8b"
              {:game/id #uuid "2b110ae1-40c3-3594-bdfa-8a5bfe402f8b",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -12080,7 +12111,9 @@
              {:game/id #uuid "62326243-6ea0-3ce1-aef6-c1d285dbdc80",
               :com.boardgamegeek.boardgame/min-players 2,
               :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2035,
+              (list #:com.boardgamegeek.mechanic{:id 2850,
+                                                 :name "Events"}
+                    #:com.boardgamegeek.mechanic{:id 2035,
                                                  :name
                                                  "Roll / Spin and Move"}
                     #:com.boardgamegeek.mechanic{:id 2070,
@@ -12276,7 +12309,9 @@
              {:game/id #uuid "5140d848-4910-3017-8f45-c2851658966b",
               :com.boardgamegeek.boardgame/min-players 2,
               :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2002,
+              (list #:com.boardgamegeek.mechanic{:id 2912,
+                                                 :name "Contracts"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
                                                  :name
                                                  "Tile Placement"}
                     #:com.boardgamegeek.mechanic{:id 2082,
@@ -13085,6 +13120,9 @@
                                                  "Deck, Bag, and Pool Building"}
                     #:com.boardgamegeek.mechanic{:id 2072,
                                                  :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
                     #:com.boardgamegeek.mechanic{:id 2011,
                                                  :name "Modular Board"}
                     #:com.boardgamegeek.mechanic{:id 2070,
@@ -14577,6 +14615,7 @@
               #uuid "f5c8ba24-2c49-3844-8721-5cf4e518c90f"
               #uuid "875b8289-de41-3672-8c92-95b6a689ff43"
               #uuid "cb4c3448-07c8-36e6-8cbd-28f45339be1d"
+              #uuid "9db68b1a-dbc5-3564-ab25-1023e94227a1"
               #uuid "ff75a7b6-d946-39dc-b9cf-69635113e6f4"
               #uuid "653e0f82-5aec-3cf2-86d0-4422c6b2f8cd"
               #uuid "edcee0da-2a9f-3e86-ab60-5a78ad6f26ee"
@@ -14589,7 +14628,6 @@
               #uuid "1e78ea48-893a-3f8e-91e2-01c9ff0e706e"
               #uuid "b8909580-a299-3ec5-848c-548f38510b72"
               #uuid "f00e2b92-434d-31e6-8a25-1b16618b5ab5"
-              #uuid "6b9a2464-282c-396d-a918-afde2db81cde"
               #uuid "2b110ae1-40c3-3594-bdfa-8a5bfe402f8b"
               #uuid "66437274-239d-371f-a5d1-71102dca56e3"
               #uuid "ccfd0e0f-749f-3a3a-a9cc-7c01a70ea5fd"
@@ -15207,8 +15245,8 @@
               #uuid "d2d5cb9d-1faa-3a1e-9c8b-0175fdae6604"
               #uuid "bdc861dc-6b29-3561-92f7-d53f184e07fc"
               #uuid "dee45e08-5103-32ec-93b7-17d391b64576"
+              #uuid "9db68b1a-dbc5-3564-ab25-1023e94227a1"
               #uuid "d80578d7-99b8-36c3-84e7-da04814b80f5"
-              #uuid "6b9a2464-282c-396d-a918-afde2db81cde"
               #uuid "3ca4bbbb-2ab4-3ee4-85af-cd73036a4cd3"
               #uuid "458d2163-a348-30c3-a4ad-8792fa32645c"
               #uuid "5678a343-960a-3fec-b75a-c87abb8ba77f"
@@ -15696,9 +15734,9 @@
               #uuid "51817160-093d-3773-957a-662779bebec9"
               #uuid "56be7020-8ac5-312f-9c02-a912103646d9"
               #uuid "12e2d12e-9e19-33ad-b08e-22ab8cc8eac5"
+              #uuid "9db68b1a-dbc5-3564-ab25-1023e94227a1"
               #uuid "ff75a7b6-d946-39dc-b9cf-69635113e6f4"
               #uuid "78076ce7-92c4-340b-b99c-598c92bd69e7"
-              #uuid "6b9a2464-282c-396d-a918-afde2db81cde"
               #uuid "9c557202-449d-3095-b805-89c2e6e0fe50"
               #uuid "3ca4bbbb-2ab4-3ee4-85af-cd73036a4cd3"
               #uuid "458d2163-a348-30c3-a4ad-8792fa32645c"
@@ -15935,8 +15973,8 @@
               #uuid "3da3ce69-4e95-3c15-beec-5d9ec2078260"
               #uuid "71e79ef8-0600-3398-990c-febe3b0b758d"
               #uuid "56be7020-8ac5-312f-9c02-a912103646d9"
+              #uuid "9db68b1a-dbc5-3564-ab25-1023e94227a1"
               #uuid "1e78ea48-893a-3f8e-91e2-01c9ff0e706e"
-              #uuid "6b9a2464-282c-396d-a918-afde2db81cde"
               #uuid "2b110ae1-40c3-3594-bdfa-8a5bfe402f8b"
               #uuid "f4afb893-6f91-3389-8606-9c088ff6ea75"
               #uuid "2d7c2d23-5fac-3ff4-8aac-33c2ce47eb1c"
@@ -16495,7 +16533,6 @@
               #uuid "cdd0afaf-944b-3605-ab9e-990704f79409"
               #uuid "f18187e7-f398-32f0-b73e-625e848d8333"
               #uuid "b1127074-659b-3102-907a-25a0473a3e98"
-              #uuid "843ecaf0-bb25-3a67-af63-f8a4bc3708a3"
               #uuid "1fdd0d64-7a70-3a2d-93b1-bbf278454b32"
               #uuid "51c249b0-90c8-3a66-8732-f796a82e5382"
               #uuid "df4c4520-3102-33f1-9a51-ee304c193f23"
@@ -16508,8 +16545,8 @@
               #uuid "1560dd3d-f5bc-3f5f-b365-ead27369cda1"
               #uuid "2c11257f-a438-3f75-8fac-459a4275e4c1"
               #uuid "dee45e08-5103-32ec-93b7-17d391b64576"
+              #uuid "9db68b1a-dbc5-3564-ab25-1023e94227a1"
               #uuid "2c63539a-a2a5-3415-b3d7-89edc773ac8b"
-              #uuid "6b9a2464-282c-396d-a918-afde2db81cde"
               #uuid "77926e55-5ca9-34b7-8f65-009dd92da63b"
               #uuid "9cfc3b97-43a7-3c0f-a7c6-2b42b62c90f6"
               #uuid "191e854e-b00d-3d80-8fa1-fed83b373be7"
@@ -16589,6 +16626,7 @@
               #uuid "161dfda2-bf83-3041-ae10-e2410340abd1"
               #uuid "595f5c4f-c267-303b-adf4-1333c70a9460"
               #uuid "81cc0f79-3609-346a-8dde-65ed1c9f3c3a"
+              #uuid "843ecaf0-bb25-3a67-af63-f8a4bc3708a3"
               #uuid "9a6c960c-a513-3563-bb1f-1783f1aece80"
               #uuid "43f3a349-eec8-3b6a-9947-777f90811c90"
               #uuid "133c22e7-c259-3256-a323-5b88f0b6a645"

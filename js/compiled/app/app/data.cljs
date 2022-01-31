@@ -2302,7 +2302,7 @@
               :languages (list "cz" "de" "en"),
               :game/name "Coloretto",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/Z_C3ujE0BcRpbQjDd1Vatg__thumb/img/40jfO9cNXB20z1fm6FfSkGf5qVQ=/fit-in/200x150/filters:strip_icc()/pic149765.jpg"},
+              "https://cf.geekdo-images.com/pd3qaiROSgTJ5js_0e4Nhw__thumb/img/SveyL9J1DT0hX4ucYWjRR6DMrbk=/fit-in/200x150/filters:strip_icc()/pic6653783.png"},
              #uuid "e8bffbf9-2f40-3bce-837e-bd9538b19c58"
              {:game/id #uuid "e8bffbf9-2f40-3bce-837e-bd9538b19c58",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -2704,7 +2704,10 @@
                                                  "Cooperative Game"}
                     #:com.boardgamegeek.mechanic{:id 2019,
                                                  :name
-                                                 "Team-Based Game"}),
+                                                 "Team-Based Game"}
+                    #:com.boardgamegeek.mechanic{:id 2814,
+                                                 :name
+                                                 "Traitor Game"}),
               :name "Detective: City of Angels",
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1040,
@@ -11287,7 +11290,7 @@
               :languages (list "en" "fr"),
               :game/name "Super Cats",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/bgjK-BduP2X3lgMmz1UjIg__thumb/img/uFUYESFRF06ugeLajX5nY9_rWww=/fit-in/200x150/filters:strip_icc()/pic6480478.jpg"},
+              "https://cf.geekdo-images.com/S1M8WlVRN0RPPy6xEbTuqg__thumb/img/1Jlkul86Rg0S21JUN5SuX_tQqxU=/fit-in/200x150/filters:strip_icc()/pic5657355.jpg"},
              #uuid "ff75a7b6-d946-39dc-b9cf-69635113e6f4"
              {:game/id #uuid "ff75a7b6-d946-39dc-b9cf-69635113e6f4",
               :com.boardgamegeek.boardgame/min-players 2,

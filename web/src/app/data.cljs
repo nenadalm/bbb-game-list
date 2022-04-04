@@ -162,15 +162,9 @@
              {:game/id #uuid "d82b1470-bb05-3f45-86cb-1e51d8455a3d",
               :com.boardgamegeek.boardgame/min-players 1,
               :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2847,
-                                                 :name
-                                                 "Advantage Token"}
-                    #:com.boardgamegeek.mechanic{:id 2903,
+              (list #:com.boardgamegeek.mechanic{:id 2903,
                                                  :name
                                                  "Automatic Resource Growth"}
-                    #:com.boardgamegeek.mechanic{:id 2984,
-                                                 :name
-                                                 "Closed Drafting"}
                     #:com.boardgamegeek.mechanic{:id 2043,
                                                  :name "Enclosure"}
                     #:com.boardgamegeek.mechanic{:id 2040,
@@ -597,8 +591,6 @@
                     #:com.boardgamegeek.mechanic{:id 2040,
                                                  :name
                                                  "Hand Management"}
-                    #:com.boardgamegeek.mechanic{:id 2041,
-                                                 :name "Open Drafting"}
                     #:com.boardgamegeek.mechanic{:id 2008,
                                                  :name "Trading"}),
               :name "Awkward Guests",
@@ -1092,6 +1084,8 @@
                     #:com.boardgamegeek.mechanic{:id 2040,
                                                  :name
                                                  "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2960,
+                                                 :name "Map Reduction"}
                     #:com.boardgamegeek.mechanic{:id 2047,
                                                  :name "Memory"}
                     #:com.boardgamegeek.mechanic{:id 2041,
@@ -1215,8 +1209,13 @@
               :com.boardgamegeek.boardgame/mechanics
               (list #:com.boardgamegeek.mechanic{:id 2043,
                                                  :name "Enclosure"}
+                    #:com.boardgamegeek.mechanic{:id 2875,
+                                                 :name
+                                                 "End Game Bonuses"}
                     #:com.boardgamegeek.mechanic{:id 2026,
                                                  :name "Hexagon Grid"}
+                    #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Open Drafting"}
                     #:com.boardgamegeek.mechanic{:id 2048,
                                                  :name
                                                  "Pattern Building"}
@@ -2075,9 +2074,15 @@
                     #:com.boardgamegeek.mechanic{:id 2664,
                                                  :name
                                                  "Deck, Bag, and Pool Building"}
+                    #:com.boardgamegeek.mechanic{:id 2875,
+                                                 :name
+                                                 "End Game Bonuses"}
                     #:com.boardgamegeek.mechanic{:id 2040,
                                                  :name
                                                  "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2987,
+                                                 :name
+                                                 "Hidden Victory Points"}
                     #:com.boardgamegeek.mechanic{:id 2947,
                                                  :name
                                                  "Movement Points"}
@@ -2405,7 +2410,7 @@
               :com.boardgamegeek.boardgame/id "39856",
               :game/name "Dixit",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/uSgzS-SClISqDkYRCdUq6g__thumb/img/iLgQV17c4xezI4ZeN_hmue_jh40=/fit-in/200x150/filters:strip_icc()/pic3483909.jpg"},
+              "https://cf.geekdo-images.com/J0PlHArkZDJ57H-brXW2Fw__thumb/img/QVwPXskFikQwBQlrdLJBAiRGgdg=/fit-in/200x150/filters:strip_icc()/pic6738336.jpg"},
              #uuid "eb9ce38e-9186-383e-8a18-3f574ec0615f"
              {:game/id #uuid "eb9ce38e-9186-383e-8a18-3f574ec0615f",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -4798,9 +4803,6 @@
               :com.boardgamegeek.boardgame/mechanics
               (list #:com.boardgamegeek.mechanic{:id 2999,
                                                  :name "Bingo"}
-                    #:com.boardgamegeek.mechanic{:id 2984,
-                                                 :name
-                                                 "Closed Drafting"}
                     #:com.boardgamegeek.mechanic{:id 2040,
                                                  :name
                                                  "Hand Management"}
@@ -4810,8 +4812,6 @@
                     #:com.boardgamegeek.mechanic{:id 2685,
                                                  :name
                                                  "Player Elimination"}
-                    #:com.boardgamegeek.mechanic{:id 2876,
-                                                 :name "Race"}
                     #:com.boardgamegeek.mechanic{:id 2821,
                                                  :name
                                                  "Single Loser Game"}
@@ -5689,7 +5689,7 @@
                     #:com.boardgamegeek.category{:id 1016,
                                                  :name
                                                  "Science Fiction"}),
-              :com.boardgamegeek.boardgame/max-play-time 12,
+              :com.boardgamegeek.boardgame/max-play-time 15,
               :com.boardgamegeek.boardgame/max-players 1,
               :com.boardgamegeek.boardgame/min-play-time 6,
               :com.boardgamegeek.boardgame/id "282439",
@@ -6312,7 +6312,13 @@
              {:game/id #uuid "db5ac01b-b987-3006-8f5a-61d4142920ec",
               :com.boardgamegeek.boardgame/min-players 2,
               :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2661,
+              (list #:com.boardgamegeek.mechanic{:id 2012,
+                                                 :name
+                                                 "Auction/Bidding"}
+                    #:com.boardgamegeek.mechanic{:id 2685,
+                                                 :name
+                                                 "Player Elimination"}
+                    #:com.boardgamegeek.mechanic{:id 2661,
                                                  :name
                                                  "Push Your Luck"}
                     #:com.boardgamegeek.mechanic{:id 2035,
@@ -6966,26 +6972,30 @@
              {:game/id #uuid "36f8c047-0a0d-34e8-920b-337b779969ab",
               :com.boardgamegeek.boardgame/min-players 1,
               :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2984,
-                                                 :name
-                                                 "Closed Drafting"}
-                    #:com.boardgamegeek.mechanic{:id 2912,
+              (list #:com.boardgamegeek.mechanic{:id 2912,
                                                  :name "Contracts"}
+                    #:com.boardgamegeek.mechanic{:id 2875,
+                                                 :name
+                                                 "End Game Bonuses"}
+                    #:com.boardgamegeek.mechanic{:id 2026,
+                                                 :name "Hexagon Grid"}
+                    #:com.boardgamegeek.mechanic{:id 2987,
+                                                 :name
+                                                 "Hidden Victory Points"}
                     #:com.boardgamegeek.mechanic{:id 2041,
                                                  :name "Open Drafting"}
                     #:com.boardgamegeek.mechanic{:id 2004,
                                                  :name
-                                                 "Set Collection"}
-                    #:com.boardgamegeek.mechanic{:id 2082,
-                                                 :name
-                                                 "Worker Placement"}),
+                                                 "Set Collection"}),
               :name "Noctiluca",
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1009,
                                                  :name
                                                  "Abstract Strategy"}
                     #:com.boardgamegeek.category{:id 1017,
-                                                 :name "Dice"}),
+                                                 :name "Dice"}
+                    #:com.boardgamegeek.category{:id 1028,
+                                                 :name "Puzzle"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -7320,7 +7330,7 @@
               :languages (list "en"),
               :game/name "Onitama",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/FZdihu8SibqQYtwfo77BdQ__thumb/img/3fX3AN6UMOIASL3Qev3zsQ6Uxy8=/fit-in/200x150/filters:strip_icc()/pic5032361.jpg"},
+              "https://cf.geekdo-images.com/GOarKyLbcThpfVD6j7h-NQ__thumb/img/tD0SmzS3gD-POMbNZXTGekTDK7E=/fit-in/200x150/filters:strip_icc()/pic6749514.jpg"},
              #uuid "0dd28a2a-30d5-3d29-97ba-3e8bfa086f0f"
              {:languages (list "cz"),
               :name "Opraski Scenski Historie",
@@ -9623,8 +9633,6 @@
                     #:com.boardgamegeek.mechanic{:id 2040,
                                                  :name
                                                  "Hand Management"}
-                    #:com.boardgamegeek.mechanic{:id 2041,
-                                                 :name "Open Drafting"}
                     #:com.boardgamegeek.mechanic{:id 2004,
                                                  :name
                                                  "Set Collection"}
@@ -9641,7 +9649,7 @@
               :com.boardgamegeek.boardgame/id "133473",
               :game/name "Sushi Go!",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/EPdI2KbLVtpGWLgL_eJLFg__thumb/img/6fDvIObIG-oxTDWNaf8l9mchWMk=/fit-in/200x150/filters:strip_icc()/pic5885690.jpg"},
+              "https://cf.geekdo-images.com/Fn3PSPZVxa3YurlorITQ1Q__thumb/img/6XF493O0tSyLyZP5ArlcZrOTMXQ=/fit-in/200x150/filters:strip_icc()/pic1900075.jpg"},
              #uuid "78076ce7-92c4-340b-b99c-598c92bd69e7"
              {:game/id #uuid "78076ce7-92c4-340b-b99c-598c92bd69e7",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -9707,6 +9715,9 @@
               :com.boardgamegeek.boardgame/mechanics
               (list #:com.boardgamegeek.mechanic{:id 2912,
                                                  :name "Contracts"}
+                    #:com.boardgamegeek.mechanic{:id 2875,
+                                                 :name
+                                                 "End Game Bonuses"}
                     #:com.boardgamegeek.mechanic{:id 2011,
                                                  :name "Modular Board"}
                     #:com.boardgamegeek.mechanic{:id 2078,
@@ -9742,17 +9753,20 @@
                     #:com.boardgamegeek.mechanic{:id 2080,
                                                  :name
                                                  "Area Majority / Influence"}
-                    #:com.boardgamegeek.mechanic{:id 2984,
-                                                 :name
-                                                 "Closed Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2912,
+                                                 :name "Contracts"}
                     #:com.boardgamegeek.mechanic{:id 2072,
                                                  :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2875,
+                                                 :name
+                                                 "End Game Bonuses"}
+                    #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Open Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2911,
+                                                 :name "Ownership"}
                     #:com.boardgamegeek.mechanic{:id 2002,
                                                  :name
-                                                 "Tile Placement"}
-                    #:com.boardgamegeek.mechanic{:id 2939,
-                                                 :name
-                                                 "Track Movement"}),
+                                                 "Tile Placement"}),
               :name "Tabannusi: Builders of Ur",
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1050,
@@ -10708,7 +10722,9 @@
               :com.boardgamegeek.boardgame/min-play-time 30,
               :com.boardgamegeek.boardgame/id "357268",
               :languages (list "cz"),
-              :game/name "Tipni si!: Česko"},
+              :game/name "Tipni si!: Česko",
+              :com.boardgamegeek.boardgame/thumbnail
+              "https://cf.geekdo-images.com/6dentCMWT0sbBGT9XbbFFQ__thumb/img/K7JB1L38PBNIs76I8qu91WgFsgc=/fit-in/200x150/filters:strip_icc()/pic6691728.jpg"},
              #uuid "24689901-b879-3cd9-9b75-5dd7dd2b8f2d"
              {:game/id #uuid "24689901-b879-3cd9-9b75-5dd7dd2b8f2d",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -13894,7 +13910,6 @@
               #uuid "3da3ce69-4e95-3c15-beec-5d9ec2078260"
               #uuid "71e79ef8-0600-3398-990c-febe3b0b758d"
               #uuid "2d7c2d23-5fac-3ff4-8aac-33c2ce47eb1c"
-              #uuid "a6480b1c-62dd-3ceb-9f94-fb57c823691e"
               #uuid "49b5473d-32f5-382b-943a-dda4a1491daf"
               #uuid "5af4832c-3c6d-3e4b-883d-4fbba7190317"
               #uuid "bb8434ca-528e-3b5f-bfc5-5eebbe2c00a0"
@@ -13908,6 +13923,7 @@
               #uuid "3cad23d1-2f51-3a7b-8a51-4c256db8638d"
               #uuid "cdd0afaf-944b-3605-ab9e-990704f79409"
               #uuid "f18187e7-f398-32f0-b73e-625e848d8333"
+              #uuid "a6480b1c-62dd-3ceb-9f94-fb57c823691e"
               #uuid "1fdd0d64-7a70-3a2d-93b1-bbf278454b32"
               #uuid "51c249b0-90c8-3a66-8732-f796a82e5382"
               #uuid "df4c4520-3102-33f1-9a51-ee304c193f23"

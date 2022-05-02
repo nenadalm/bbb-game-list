@@ -376,6 +376,9 @@
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1089,
                                                  :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
                     #:com.boardgamegeek.category{:id 1030,
                                                  :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
@@ -2303,6 +2306,11 @@
               (list #:com.boardgamegeek.category{:id 1032,
                                                  :name
                                                  "Action / Dexterity"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
                     #:com.boardgamegeek.category{:id 1030,
                                                  :name "Party Game"}),
               :com.boardgamegeek.boardgame/max-play-time 20,
@@ -6041,6 +6049,8 @@
                                                  :name "Card Game"}
                     #:com.boardgamegeek.category{:id 1030,
                                                  :name "Party Game"}
+                    #:com.boardgamegeek.category{:id 1120,
+                                                 :name "Print & Play"}
                     #:com.boardgamegeek.category{:id 1025,
                                                  :name "Word Game"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
@@ -11168,7 +11178,7 @@
               :game/name "Unlock"},
              #uuid "bc6235a4-d8ed-3225-86d0-ce30fcb2da6a"
              {:game/id #uuid "bc6235a4-d8ed-3225-86d0-ce30fcb2da6a",
-              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/min-players 1,
               :com.boardgamegeek.boardgame/mechanics
               (list #:com.boardgamegeek.mechanic{:id 2023,
                                                  :name
@@ -12556,6 +12566,7 @@
               #uuid "63e5002f-f8a6-36bd-81b5-2f817477eecf"
               #uuid "9b45f563-8b03-34d4-9d30-5134ab5e657e"
               #uuid "54b7d1a4-f4c9-3dfb-a3cf-e94ce0c9d660"
+              #uuid "bc6235a4-d8ed-3225-86d0-ce30fcb2da6a"
               #uuid "d3c432b4-bac7-3974-8e6c-60ce1f8b528f"
               #uuid "e5ce3771-79d2-3202-b053-1561d6d093be"
               #uuid "14d13fd2-bd65-3d26-a969-71f5cec92764"
@@ -12797,7 +12808,6 @@
               #uuid "7416a104-a4b4-3c68-895e-98e989dce7de"
               #uuid "59f822bc-aa8e-319b-9e63-eb00919b367a"
               #uuid "074edbaf-ed58-3f43-ad67-8af6ba4fcefe"
-              #uuid "bc6235a4-d8ed-3225-86d0-ce30fcb2da6a"
               #uuid "7a51eb3c-d160-3393-b631-9ae87020b9db"
               #uuid "32288419-57f9-3b53-a2df-4b3393930c5a"
               #uuid "44ca4f9f-417c-3200-b21f-4ae33fae9646"

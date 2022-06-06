@@ -618,11 +618,34 @@
               :game/name "Awkward Guests",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/Awopfw5_5Qyh-7YcSbtudA__thumb/img/HHn3So0Mum6VZliDmEnB2LwfeQ0=/fit-in/200x150/filters:strip_icc()/pic4870482.jpg"},
-             #uuid "d2a62a6a-ab6b-3709-b7d4-3e758a82c50b"
-             {:languages (list "en"),
+             #uuid "79a39a92-dda9-376e-b337-e86bdbbc3864"
+             {:game/id #uuid "79a39a92-dda9-376e-b337-e86bdbbc3864",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2046,
+                                                 :name "Area Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}),
               :name "Axis and Allies",
-              :game/id #uuid "d2a62a6a-ab6b-3709-b7d4-3e758a82c50b",
-              :game/name "Axis and Allies"},
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1019,
+                                                 :name "Wargame"}
+                    #:com.boardgamegeek.category{:id 1049,
+                                                 :name
+                                                 "World War II"}),
+              :com.boardgamegeek.boardgame/max-play-time 240,
+              :com.boardgamegeek.boardgame/max-players 5,
+              :com.boardgamegeek.boardgame/min-play-time 240,
+              :com.boardgamegeek.boardgame/id "10093",
+              :languages (list "en"),
+              :game/name "Axis & Allies",
+              :com.boardgamegeek.boardgame/thumbnail
+              "https://cf.geekdo-images.com/pyOrqfD3MpoR9vAZz4asLA__thumb/img/drhe3o98IrwKsIaGhB440PV1PUI=/fit-in/200x150/filters:strip_icc()/pic42246.jpg"},
              #uuid "650e8694-e08b-3d12-9f50-cd2a84abd5b0"
              {:game/id #uuid "650e8694-e08b-3d12-9f50-cd2a84abd5b0",
               :com.boardgamegeek.boardgame/min-players 4,
@@ -1201,6 +1224,45 @@
               :game/name "CABO (Second Edition)",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/UXg5z353Vs3aI90_TfL4pQ__thumb/img/rDg9t7gP1iqNcy3NZxAWGVoWYok=/fit-in/200x150/filters:strip_icc()/pic4572408.jpg"},
+             #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7"
+             {:game/id #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7",
+              :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2026,
+                                                 :name "Hexagon Grid"}
+                    #:com.boardgamegeek.mechanic{:id 2902,
+                                                 :name "Income"}
+                    #:com.boardgamegeek.mechanic{:id 2011,
+                                                 :name "Modular Board"}
+                    #:com.boardgamegeek.mechanic{:id 2081,
+                                                 :name
+                                                 "Network and Route Building"}
+                    #:com.boardgamegeek.mechanic{:id 2876,
+                                                 :name "Race"}
+                    #:com.boardgamegeek.mechanic{:id 2909,
+                                                 :name
+                                                 "Random Production"}
+                    #:com.boardgamegeek.mechanic{:id 2008,
+                                                 :name "Trading"}
+                    #:com.boardgamegeek.mechanic{:id 2897,
+                                                 :name
+                                                 "Variable Set-up"}),
+              :name "Osadnici z Katanu",
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1021,
+                                                 :name "Economic"}
+                    #:com.boardgamegeek.category{:id 1026,
+                                                 :name "Negotiation"}),
+              :com.boardgamegeek.boardgame/max-play-time 120,
+              :com.boardgamegeek.boardgame/max-players 4,
+              :com.boardgamegeek.boardgame/min-play-time 60,
+              :com.boardgamegeek.boardgame/id "13",
+              :languages (list "cz"),
+              :game/name "CATAN",
+              :com.boardgamegeek.boardgame/thumbnail
+              "https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__thumb/img/8a9HeqFydO7Uun_le9bXWPnidcA=/fit-in/200x150/filters:strip_icc()/pic2419375.jpg"},
              #uuid "56c98771-eaf0-34fe-8f66-156041739594"
              {:languages (list "en"),
               :name "Caesar!: Sieze Rome in 20 minutes",
@@ -1308,7 +1370,7 @@
               :languages (list "en"),
               :game/name "Can't Stop",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/JZpo3AnyFH4TqxKWFSFKGQ__thumb/img/KxfmwuPAgmmNACBQkxIaYUxKdLI=/fit-in/200x150/filters:strip_icc()/pic1046518.jpg"},
+              "https://cf.geekdo-images.com/nMitZr9Lu4Ux7LLqBy7Z8A__thumb/img/mLHWOFfdxrWljImkFZ2ulIhHt7A=/fit-in/200x150/filters:strip_icc()/pic6875169.png"},
              #uuid "a4a4e5f6-a7ab-31b8-8ec1-0983b264ed4b"
              {:languages (list "en"),
               :name "Captain Dice",
@@ -1475,45 +1537,6 @@
               :game/name "Cat Lady",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/tnx6ExxyUmIlga9tFSrR6g__thumb/img/jHvb__-N4QCSB8rhTKXzCxWOWcU=/fit-in/200x150/filters:strip_icc()/pic3864115.jpg"},
-             #uuid "48309f49-6981-3784-80f4-f8b7cff15c98"
-             {:game/id #uuid "48309f49-6981-3784-80f4-f8b7cff15c98",
-              :com.boardgamegeek.boardgame/min-players 3,
-              :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2072,
-                                                 :name "Dice Rolling"}
-                    #:com.boardgamegeek.mechanic{:id 2026,
-                                                 :name "Hexagon Grid"}
-                    #:com.boardgamegeek.mechanic{:id 2902,
-                                                 :name "Income"}
-                    #:com.boardgamegeek.mechanic{:id 2011,
-                                                 :name "Modular Board"}
-                    #:com.boardgamegeek.mechanic{:id 2081,
-                                                 :name
-                                                 "Network and Route Building"}
-                    #:com.boardgamegeek.mechanic{:id 2876,
-                                                 :name "Race"}
-                    #:com.boardgamegeek.mechanic{:id 2909,
-                                                 :name
-                                                 "Random Production"}
-                    #:com.boardgamegeek.mechanic{:id 2008,
-                                                 :name "Trading"}
-                    #:com.boardgamegeek.mechanic{:id 2897,
-                                                 :name
-                                                 "Variable Set-up"}),
-              :name "Osadnici z Katanu",
-              :com.boardgamegeek.boardgame/categories
-              (list #:com.boardgamegeek.category{:id 1021,
-                                                 :name "Economic"}
-                    #:com.boardgamegeek.category{:id 1026,
-                                                 :name "Negotiation"}),
-              :com.boardgamegeek.boardgame/max-play-time 120,
-              :com.boardgamegeek.boardgame/max-players 4,
-              :com.boardgamegeek.boardgame/min-play-time 60,
-              :com.boardgamegeek.boardgame/id "13",
-              :languages (list "cz"),
-              :game/name "Catan",
-              :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__thumb/img/8a9HeqFydO7Uun_le9bXWPnidcA=/fit-in/200x150/filters:strip_icc()/pic2419375.jpg"},
              #uuid "d9878711-9bbd-343b-bb79-ba45904cc23c"
              {:game/id #uuid "d9878711-9bbd-343b-bb79-ba45904cc23c",
               :com.boardgamegeek.boardgame/min-players 1,
@@ -4665,8 +4688,6 @@
                     #:com.boardgamegeek.mechanic{:id 2040,
                                                  :name
                                                  "Hand Management"}
-                    #:com.boardgamegeek.mechanic{:id 2876,
-                                                 :name "Race"}
                     #:com.boardgamegeek.mechanic{:id 2035,
                                                  :name
                                                  "Roll / Spin and Move"}
@@ -6112,6 +6133,9 @@
                                                  :name "Dice Rolling"}
                     #:com.boardgamegeek.mechanic{:id 2028,
                                                  :name "Role Playing"}
+                    #:com.boardgamegeek.mechanic{:id 2822,
+                                                 :name
+                                                 "Scenario / Mission / Campaign Game"}
                     #:com.boardgamegeek.mechanic{:id 2027,
                                                  :name "Storytelling"}
                     #:com.boardgamegeek.mechanic{:id 2015,
@@ -7837,25 +7861,36 @@
               :game/name "Puerto Rico",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/QFiIRd2kimaMqTyWsX0aUg__thumb/img/5fLo89ChZH6Wzukk36bhZ-EpBS0=/fit-in/200x150/filters:strip_icc()/pic158548.jpg"},
-             #uuid "4fce228a-9d44-32fe-ac24-659f263ee51e"
-             {:game/id #uuid "4fce228a-9d44-32fe-ac24-659f263ee51e",
+             #uuid "3e850aae-9e73-3e9f-ae41-3f5219abd997"
+             {:game/id #uuid "3e850aae-9e73-3e9f-ae41-3f5219abd997",
               :com.boardgamegeek.boardgame/min-players 3,
               :com.boardgamegeek.boardgame/mechanics
               (list #:com.boardgamegeek.mechanic{:id 2012,
                                                  :name
-                                                 "Auction/Bidding"}),
+                                                 "Auction/Bidding"}
+                    #:com.boardgamegeek.mechanic{:id 2920,
+                                                 :name
+                                                 "Auction: Sealed Bid"}
+                    #:com.boardgamegeek.mechanic{:id 2875,
+                                                 :name
+                                                 "End Game Bonuses"}
+                    #:com.boardgamegeek.mechanic{:id 2047,
+                                                 :name "Memory"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}),
               :name "QE",
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1021,
                                                  :name "Economic"}),
-              :com.boardgamegeek.boardgame/max-play-time 60,
-              :com.boardgamegeek.boardgame/max-players 4,
+              :com.boardgamegeek.boardgame/max-play-time 45,
+              :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 45,
-              :com.boardgamegeek.boardgame/id "209136",
+              :com.boardgamegeek.boardgame/id "266830",
               :languages (list "en"),
-              :game/name "Q.E.",
+              :game/name "QE",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/taTddHmWN-n7BZbKWsmsKQ__thumb/img/V9sMeg-nlSiTMj4bFviRLBlY50E=/fit-in/200x150/filters:strip_icc()/pic4116760.jpg"},
+              "https://cf.geekdo-images.com/47o_swlkRbfpMH3hnFZgtA__thumb/img/gT07BJ5Ynlopp-UIQRIySERKUmI=/fit-in/200x150/filters:strip_icc()/pic4383594.png"},
              #uuid "e5279fe2-9e7a-313b-9b5d-e2d1f6a1e8db"
              {:game/id #uuid "e5279fe2-9e7a-313b-9b5d-e2d1f6a1e8db",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -8158,6 +8193,9 @@
                                                  "Action Retrieval"}
                     #:com.boardgamegeek.mechanic{:id 2912,
                                                  :name "Contracts"}
+                    #:com.boardgamegeek.mechanic{:id 2664,
+                                                 :name
+                                                 "Deck, Bag, and Pool Building"}
                     #:com.boardgamegeek.mechanic{:id 2072,
                                                  :name "Dice Rolling"}
                     #:com.boardgamegeek.mechanic{:id 2843,
@@ -8536,10 +8574,7 @@
              {:game/id #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08",
               :com.boardgamegeek.boardgame/min-players 1,
               :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2838,
-                                                 :name
-                                                 "Action Drafting"}
-                    #:com.boardgamegeek.mechanic{:id 2857,
+              (list #:com.boardgamegeek.mechanic{:id 2857,
                                                  :name
                                                  "Card Play Conflict Resolution"}
                     #:com.boardgamegeek.mechanic{:id 2912,
@@ -10004,8 +10039,6 @@
                     #:com.boardgamegeek.mechanic{:id 2875,
                                                  :name
                                                  "End Game Bonuses"}
-                    #:com.boardgamegeek.mechanic{:id 2850,
-                                                 :name "Events"}
                     #:com.boardgamegeek.mechanic{:id 2040,
                                                  :name
                                                  "Hand Management"}
@@ -11786,8 +11819,13 @@
              {:game/id #uuid "3463c066-922f-3864-93bd-b87bb1286679",
               :com.boardgamegeek.boardgame/min-players 2,
               :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2072,
+              (list #:com.boardgamegeek.mechanic{:id 2912,
+                                                 :name "Contracts"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
                                                  :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2870,
+                                                 :name
+                                                 "Re-rolling and Locking"}
                     #:com.boardgamegeek.mechanic{:id 2004,
                                                  :name
                                                  "Set Collection"}),
@@ -12010,7 +12048,7 @@
               #uuid "7d9e8262-8714-332c-9ca9-ac68c68596b5"
               #uuid "358a9cb1-8677-3a1b-90ac-1c8d6ffa6288"
               #uuid "da7d7bb0-2a43-3cd7-8ea7-21c4eb8ae388"
-              #uuid "d2a62a6a-ab6b-3709-b7d4-3e758a82c50b"
+              #uuid "79a39a92-dda9-376e-b337-e86bdbbc3864"
               #uuid "650e8694-e08b-3d12-9f50-cd2a84abd5b0"
               #uuid "6d8aa71d-1531-3019-ac35-ea2463485268"
               #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
@@ -12045,7 +12083,7 @@
               #uuid "890488d0-a370-30a4-9788-a44754330b27"
               #uuid "8ec8175e-8c92-3f65-a885-97c16ca93454"
               #uuid "59ccf897-4368-3ab7-ae8e-0ac969872f6e"
-              #uuid "48309f49-6981-3784-80f4-f8b7cff15c98"
+              #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7"
               #uuid "d9878711-9bbd-343b-bb79-ba45904cc23c"
               #uuid "7b6a839b-181c-3d7e-a88a-1115d8a027c2"
               #uuid "dd86edfc-d85e-3039-9399-5c282a2e3524"
@@ -12286,7 +12324,7 @@
               #uuid "77a96823-3d71-3ac3-bc22-8ab7f1044beb"
               #uuid "cba95a42-c53b-3c6f-bf3d-df9bf10a4069"
               #uuid "f7625727-1129-3703-96c0-442c8ac00dae"
-              #uuid "4fce228a-9d44-32fe-ac24-659f263ee51e"
+              #uuid "3e850aae-9e73-3e9f-ae41-3f5219abd997"
               #uuid "e5279fe2-9e7a-313b-9b5d-e2d1f6a1e8db"
               #uuid "b7c512a7-a3f4-35d4-a416-c10bffb57bb4"
               #uuid "67e88af3-f2d3-3953-9be7-c1b26fefe183"
@@ -12451,7 +12489,6 @@
               #uuid "780cd613-d706-3945-8ef3-6d59c16c2312"
               #uuid "46abbae9-5fbc-3520-9ed2-16c2901bdbae"
               #uuid "358a9cb1-8677-3a1b-90ac-1c8d6ffa6288"
-              #uuid "d2a62a6a-ab6b-3709-b7d4-3e758a82c50b"
               #uuid "526e6774-4f0b-3073-9ec1-7c191c62d24c"
               #uuid "24380876-a0ae-3b46-a8c6-a092619bef37"
               #uuid "6f074a1d-f38a-33df-b9d8-d724a8ed3410"
@@ -12584,6 +12621,7 @@
               #uuid "e3a13cf1-2d4f-3a6a-9791-62315cf53ba2"
               #uuid "7ca15329-76d2-3582-a841-424d17ec0f0b"
               #uuid "7d9e8262-8714-332c-9ca9-ac68c68596b5"
+              #uuid "79a39a92-dda9-376e-b337-e86bdbbc3864"
               #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
               #uuid "2e89598e-c81e-39d5-bae2-aee451063265"
               #uuid "86fc7c00-7653-3e31-b5c5-4617a0ea8c97"
@@ -12826,7 +12864,7 @@
               #uuid "5af4832c-3c6d-3e4b-883d-4fbba7190317"
               #uuid "13d1736e-1583-3651-b1fe-12dc754ba2b0"
               #uuid "897ee373-c9e4-32f9-a323-fe188494520b"
-              #uuid "48309f49-6981-3784-80f4-f8b7cff15c98"
+              #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7"
               #uuid "09e49bb6-1f03-33a3-bfbe-8937e2e031e8"
               #uuid "f72af12f-4736-3bde-84b0-ca91070cf43c"
               #uuid "ef81a392-af64-3668-81ff-2c3b7736919f"
@@ -12857,7 +12895,7 @@
               #uuid "e1405ecf-c37a-3cdf-9bc0-46ca9df2e685"
               #uuid "db6d2f3a-d731-3ddd-9e97-4b857d9ac065"
               #uuid "f7625727-1129-3703-96c0-442c8ac00dae"
-              #uuid "4fce228a-9d44-32fe-ac24-659f263ee51e"
+              #uuid "3e850aae-9e73-3e9f-ae41-3f5219abd997"
               #uuid "19535233-a101-36d7-b9a9-1645b868cb29"
               #uuid "edc4787a-b55f-39c5-ab40-a99f7c1a0c80"
               #uuid "af817d47-9021-3806-800d-7ef8dab08024"
@@ -12911,7 +12949,6 @@
               #uuid "780cd613-d706-3945-8ef3-6d59c16c2312"
               #uuid "46abbae9-5fbc-3520-9ed2-16c2901bdbae"
               #uuid "358a9cb1-8677-3a1b-90ac-1c8d6ffa6288"
-              #uuid "d2a62a6a-ab6b-3709-b7d4-3e758a82c50b"
               #uuid "526e6774-4f0b-3073-9ec1-7c191c62d24c"
               #uuid "24380876-a0ae-3b46-a8c6-a092619bef37"
               #uuid "6f074a1d-f38a-33df-b9d8-d724a8ed3410"
@@ -13039,10 +13076,10 @@
               #uuid "a23c0834-6452-3e1b-b089-338c68ac06e8"
               #uuid "557482bd-c397-30d7-af1b-afbb6c763124"
               #uuid "414bbf5b-1083-3275-9983-4133937db58b"
+              #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7"
               #uuid "d51dd20c-a05f-3ab4-94c7-9020d535e5b3"
               #uuid "7c1ada9b-f78c-379d-a6a7-b3018581aab9"
               #uuid "59ccf897-4368-3ab7-ae8e-0ac969872f6e"
-              #uuid "48309f49-6981-3784-80f4-f8b7cff15c98"
               #uuid "dd86edfc-d85e-3039-9399-5c282a2e3524"
               #uuid "f821ee04-f104-3d22-96a6-9bab12eb4c28"
               #uuid "e0dfaae0-12bd-33ef-94b1-4c34842456b4"
@@ -13111,7 +13148,6 @@
               #uuid "33e20383-3807-3414-869c-7a3907d40b75"
               #uuid "e9de6ee3-1f19-36e8-bdf0-3b24bacd02cc"
               #uuid "db6d2f3a-d731-3ddd-9e97-4b857d9ac065"
-              #uuid "4fce228a-9d44-32fe-ac24-659f263ee51e"
               #uuid "e5279fe2-9e7a-313b-9b5d-e2d1f6a1e8db"
               #uuid "b7c512a7-a3f4-35d4-a416-c10bffb57bb4"
               #uuid "c64e760d-cd41-31b1-9626-a196593146fa"
@@ -13152,6 +13188,7 @@
               #uuid "d993f311-557a-391d-ab21-677ab586a01b"
               #uuid "d82b1470-bb05-3f45-86cb-1e51d8455a3d"
               #uuid "af0c5e41-309d-3a83-afb7-76f7378381b2"
+              #uuid "79a39a92-dda9-376e-b337-e86bdbbc3864"
               #uuid "a0969dfc-5294-3b41-82bf-220e859197db"
               #uuid "0f2e7cd3-2595-3b1b-b656-cb103be3e521"
               #uuid "897ee373-c9e4-32f9-a323-fe188494520b"
@@ -13193,6 +13230,7 @@
               #uuid "f81386ae-7767-3f93-a560-c78df55109bb"
               #uuid "e1405ecf-c37a-3cdf-9bc0-46ca9df2e685"
               #uuid "f7625727-1129-3703-96c0-442c8ac00dae"
+              #uuid "3e850aae-9e73-3e9f-ae41-3f5219abd997"
               #uuid "edc4787a-b55f-39c5-ab40-a99f7c1a0c80"
               #uuid "4e6a41b4-aabd-37d9-9d10-9dfd1d11e5c7"
               #uuid "abcdf625-6664-306b-88db-9848e46fc0e8"
@@ -13371,7 +13409,6 @@
               #uuid "780cd613-d706-3945-8ef3-6d59c16c2312"
               #uuid "46abbae9-5fbc-3520-9ed2-16c2901bdbae"
               #uuid "358a9cb1-8677-3a1b-90ac-1c8d6ffa6288"
-              #uuid "d2a62a6a-ab6b-3709-b7d4-3e758a82c50b"
               #uuid "526e6774-4f0b-3073-9ec1-7c191c62d24c"
               #uuid "24380876-a0ae-3b46-a8c6-a092619bef37"
               #uuid "d8ebf6a0-f01a-377d-82c8-e903e801973b"
@@ -13733,7 +13770,7 @@
               #uuid "189f9b13-158d-379b-9440-05b9bc24a356"
               #uuid "d5380d3b-56d5-3783-a863-1af12c39f5c7"
               #uuid "b11ddc7e-1671-30bd-a2dc-89dd757508d4"
-              #uuid "4fce228a-9d44-32fe-ac24-659f263ee51e"
+              #uuid "3e850aae-9e73-3e9f-ae41-3f5219abd997"
               #uuid "b7c512a7-a3f4-35d4-a416-c10bffb57bb4"
               #uuid "4e6a41b4-aabd-37d9-9d10-9dfd1d11e5c7"
               #uuid "645ab7f6-09eb-3401-988d-97cd930668c1"
@@ -13759,7 +13796,7 @@
               #uuid "13d1736e-1583-3651-b1fe-12dc754ba2b0"
               #uuid "3c213740-1920-3b32-acb4-a2877cd7aa17"
               #uuid "c180dcbb-f5dd-3cdf-acb3-dfe83bc594ec"
-              #uuid "48309f49-6981-3784-80f4-f8b7cff15c98"
+              #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7"
               #uuid "d9878711-9bbd-343b-bb79-ba45904cc23c"
               #uuid "e0dfaae0-12bd-33ef-94b1-4c34842456b4"
               #uuid "09e49bb6-1f03-33a3-bfbe-8937e2e031e8"
@@ -13822,7 +13859,8 @@
               #uuid "e6d5c2ee-6c34-370d-b344-30cc5ee8a749"
               #uuid "5f91981d-882c-3f44-8727-83bfa1a74c55"
               #uuid "f944b1ee-72e5-3ea8-832f-4eaf0dde6f09"
-              #uuid "28e54304-62fc-38c9-9b76-058878323d57"],
+              #uuid "28e54304-62fc-38c9-9b76-058878323d57"
+              #uuid "79a39a92-dda9-376e-b337-e86bdbbc3864"],
              :com.boardgamegeek.boardgame/max-play-time
              [#uuid "4a3e0096-1a08-379c-b4f9-1ca0070ea2f5"
               #uuid "64581d49-5b7a-3952-b129-c64b56c406ed"
@@ -13832,7 +13870,6 @@
               #uuid "46abbae9-5fbc-3520-9ed2-16c2901bdbae"
               #uuid "7d9e8262-8714-332c-9ca9-ac68c68596b5"
               #uuid "358a9cb1-8677-3a1b-90ac-1c8d6ffa6288"
-              #uuid "d2a62a6a-ab6b-3709-b7d4-3e758a82c50b"
               #uuid "526e6774-4f0b-3073-9ec1-7c191c62d24c"
               #uuid "24380876-a0ae-3b46-a8c6-a092619bef37"
               #uuid "d8ebf6a0-f01a-377d-82c8-e903e801973b"
@@ -14143,6 +14180,7 @@
               #uuid "17b41f7f-4de8-3fe3-be7f-91fc18e29b8a"
               #uuid "d5380d3b-56d5-3783-a863-1af12c39f5c7"
               #uuid "b11ddc7e-1671-30bd-a2dc-89dd757508d4"
+              #uuid "3e850aae-9e73-3e9f-ae41-3f5219abd997"
               #uuid "b7c512a7-a3f4-35d4-a416-c10bffb57bb4"
               #uuid "5e611ca2-e99d-358f-adc6-f3f7bcfb3ad5"
               #uuid "8acfd5b8-b774-39c4-a04c-29420e5631c0"
@@ -14194,7 +14232,6 @@
               #uuid "fca4c654-eb32-38e1-bcaf-ff34fac77213"
               #uuid "189f9b13-158d-379b-9440-05b9bc24a356"
               #uuid "db6d2f3a-d731-3ddd-9e97-4b857d9ac065"
-              #uuid "4fce228a-9d44-32fe-ac24-659f263ee51e"
               #uuid "19535233-a101-36d7-b9a9-1645b868cb29"
               #uuid "01f7b705-9b33-3897-969b-343e8a6e682e"
               #uuid "88857068-79d6-3142-9e20-b8c7fd8b986d"
@@ -14251,7 +14288,7 @@
               #uuid "9353a118-c201-398a-83cc-6d58ccb38f02"
               #uuid "77ab2f28-991d-3991-b961-d7e72b4943d5"
               #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08"
-              #uuid "48309f49-6981-3784-80f4-f8b7cff15c98"
+              #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7"
               #uuid "d9878711-9bbd-343b-bb79-ba45904cc23c"
               #uuid "d2f54329-7bef-301f-8f4e-bdac47c6f6d3"
               #uuid "91a5169d-5877-3642-9a52-54c4f01655da"
@@ -14282,5 +14319,6 @@
               #uuid "db5ac01b-b987-3006-8f5a-61d4142920ec"
               #uuid "f8049db2-d889-3677-984e-4e2ce41de578"
               #uuid "0b0ba83c-ba8f-3c56-8b3e-a2fc3bc7f5a4"
+              #uuid "79a39a92-dda9-376e-b337-e86bdbbc3864"
               #uuid "e6d5c2ee-6c34-370d-b344-30cc5ee8a749"]}}
 )

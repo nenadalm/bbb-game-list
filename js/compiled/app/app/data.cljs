@@ -10273,6 +10273,8 @@
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1023,
                                                  :name "Bluffing"}
+                    #:com.boardgamegeek.category{:id 1019,
+                                                 :name "Wargame"}
                     #:com.boardgamegeek.category{:id 1049,
                                                  :name
                                                  "World War II"}),

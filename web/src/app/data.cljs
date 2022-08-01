@@ -132,6 +132,9 @@
               (list #:com.boardgamegeek.mechanic{:id 2903,
                                                  :name
                                                  "Automatic Resource Growth"}
+                    #:com.boardgamegeek.mechanic{:id 2984,
+                                                 :name
+                                                 "Closed Drafting"}
                     #:com.boardgamegeek.mechanic{:id 2043,
                                                  :name "Enclosure"}
                     #:com.boardgamegeek.mechanic{:id 2040,
@@ -647,7 +650,7 @@
               :com.boardgamegeek.boardgame/id "230802",
               :game/name "Azul",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/tz19PfklMdAdjxV9WArraA__thumb/img/debo694HgBaIBeNGyxu1ELUbQGA=/fit-in/200x150/filters:strip_icc()/pic3718275.jpg"},
+              "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__thumb/img/ccsXKrdGJw-YSClWwzVUwk5Nh9Y=/fit-in/200x150/filters:strip_icc()/pic6973671.png"},
              #uuid "5af4832c-3c6d-3e4b-883d-4fbba7190317"
              {:game/id #uuid "5af4832c-3c6d-3e4b-883d-4fbba7190317",
               :com.boardgamegeek.boardgame/min-players 3,
@@ -3248,7 +3251,7 @@
               :languages (list "en"),
               :game/name "Fantasy Realms",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/A7IOpPt-lHrMYsbRmxXWdQ__thumb/img/XoD3fXgApfY7-dfYyFeE6FVkbfY=/fit-in/200x150/filters:strip_icc()/pic6177962.jpg"},
+              "https://cf.geekdo-images.com/gD1kqShFGb0GivKc4xU3OQ__thumb/img/by0fWdo3wkLm8SEBRT3AHJgGtYA=/fit-in/200x150/filters:strip_icc()/pic6985186.jpg"},
              #uuid "06f02042-ed2e-321d-8dfe-bcae21cb322e"
              {:game/id #uuid "06f02042-ed2e-321d-8dfe-bcae21cb322e",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -3573,6 +3576,8 @@
               :com.boardgamegeek.boardgame/mechanics
               (list #:com.boardgamegeek.mechanic{:id 2041,
                                                  :name "Open Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 3101,
+                                                 :name "Ordering"}
                     #:com.boardgamegeek.mechanic{:id 2048,
                                                  :name
                                                  "Pattern Building"}),
@@ -3883,8 +3888,6 @@
                     #:com.boardgamegeek.mechanic{:id 2078,
                                                  :name
                                                  "Point to Point Movement"}
-                    #:com.boardgamegeek.mechanic{:id 2813,
-                                                 :name "Rondel"}
                     #:com.boardgamegeek.mechanic{:id 2004,
                                                  :name
                                                  "Set Collection"}
@@ -6823,18 +6826,10 @@
               (list #:com.boardgamegeek.category{:id 1041,
                                                  :name
                                                  "Children's Game"}
-                    #:com.boardgamegeek.category{:id 1021,
-                                                 :name "Economic"}
                     #:com.boardgamegeek.category{:id 1020,
                                                  :name "Exploration"}
                     #:com.boardgamegeek.category{:id 1010,
-                                                 :name "Fantasy"}
-                    #:com.boardgamegeek.category{:id 1046,
-                                                 :name "Fighting"}
-                    #:com.boardgamegeek.category{:id 1104,
-                                                 :name "Math"}
-                    #:com.boardgamegeek.category{:id 1047,
-                                                 :name "Miniatures"}),
+                                                 :name "Fantasy"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 45,
@@ -8611,8 +8606,6 @@
                                                  :name "Economic"}
                     #:com.boardgamegeek.category{:id 1046,
                                                  :name "Fighting"}
-                    #:com.boardgamegeek.category{:id 1047,
-                                                 :name "Miniatures"}
                     #:com.boardgamegeek.category{:id 1016,
                                                  :name
                                                  "Science Fiction"}
@@ -10027,9 +10020,6 @@
                                                  :name "Hexagon Grid"}
                     #:com.boardgamegeek.mechanic{:id 2902,
                                                  :name "Income"}
-                    #:com.boardgamegeek.mechanic{:id 2846,
-                                                 :name
-                                                 "Once-Per-Game Abilities"}
                     #:com.boardgamegeek.mechanic{:id 2004,
                                                  :name
                                                  "Set Collection"}
@@ -10096,6 +10086,9 @@
                     #:com.boardgamegeek.mechanic{:id 2020,
                                                  :name
                                                  "Simultaneous Action Selection"}
+                    #:com.boardgamegeek.mechanic{:id 2819,
+                                                 :name
+                                                 "Solo / Solitaire Game"}
                     #:com.boardgamegeek.mechanic{:id 2079,
                                                  :name
                                                  "Variable Phase Order"}
@@ -11564,7 +11557,7 @@
               :languages (list "cz"),
               :game/name "Western Legends",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/_FnP28QChh-8uFh6ZvpJhA__thumb/img/iq5peG7h6fe8_-nY_MJkG3QrYCg=/fit-in/200x150/filters:strip_icc()/pic3837503.jpg"},
+              "https://cf.geekdo-images.com/lZwgk3_MqyAmROjkz4v8Wg__thumb/img/pI0Bnq7hO-Msonh7OJkKiHGnmfI=/fit-in/200x150/filters:strip_icc()/pic6974323.png"},
              #uuid "97fc6923-396a-3ad8-8a4c-70879893f4b7"
              {:game/id #uuid "97fc6923-396a-3ad8-8a4c-70879893f4b7",
               :com.boardgamegeek.boardgame/min-players 3,

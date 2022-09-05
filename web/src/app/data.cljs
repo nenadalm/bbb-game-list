@@ -708,6 +708,9 @@
                     #:com.boardgamegeek.mechanic{:id 2035,
                                                  :name
                                                  "Roll / Spin and Move"}
+                    #:com.boardgamegeek.mechanic{:id 2823,
+                                                 :name
+                                                 "Score-and-Reset Game"}
                     #:com.boardgamegeek.mechanic{:id 2939,
                                                  :name
                                                  "Track Movement"}),
@@ -1401,7 +1404,7 @@
               :languages (list "cz" "en"),
               :game/name "Captain Sonar",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/eVy9IyAVtzzKv2VvPHFPbA__thumb/img/RavsPCF6el7VEaVR1OG5M2ZGCrk=/fit-in/200x150/filters:strip_icc()/pic3013621.png"},
+              "https://cf.geekdo-images.com/MhGaoWk173DY9Cre2QFY7g__thumb/img/9XdgpsWpJH-mWrTnmf2iliUJYs8=/fit-in/200x150/filters:strip_icc()/pic7020007.png"},
              #uuid "06e9bd9c-0975-32da-acdf-2b1942d57f1e"
              {:game/id #uuid "06e9bd9c-0975-32da-acdf-2b1942d57f1e",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -2347,6 +2350,9 @@
               :com.boardgamegeek.boardgame/mechanics
               (list #:com.boardgamegeek.mechanic{:id 2001,
                                                  :name "Action Points"}
+                    #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}
                     #:com.boardgamegeek.mechanic{:id 2072,
                                                  :name "Dice Rolling"}
                     #:com.boardgamegeek.mechanic{:id 2850,
@@ -3206,7 +3212,7 @@
               :languages (list "en"),
               :game/name "Exploding Kittens: NSFW Deck",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/q1fHQMYtU-aajQKTYDlx7w__thumb/img/Az8jEnRuHEbXSn2TWVO4i2rE6ZQ=/fit-in/200x150/filters:strip_icc()/pic2815278.jpg"},
+              "https://cf.geekdo-images.com/qsvkRPq0sPATRiieLMKiQQ__thumb/img/RCdrPqv7PZ9cIsQmwXvaHbUlpC4=/fit-in/200x150/filters:strip_icc()/pic7022744.jpg"},
              #uuid "cace91df-d6f2-36fc-a98a-6fa5cde7357d"
              {:game/id #uuid "cace91df-d6f2-36fc-a98a-6fa5cde7357d",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -6907,6 +6913,9 @@
               (list #:com.boardgamegeek.mechanic{:id 2080,
                                                  :name
                                                  "Area Majority / Influence"}
+                    #:com.boardgamegeek.mechanic{:id 2014,
+                                                 :name
+                                                 "Betting and Bluffing"}
                     #:com.boardgamegeek.mechanic{:id 2676,
                                                  :name "Grid Movement"}
                     #:com.boardgamegeek.mechanic{:id 2040,
@@ -6917,6 +6926,11 @@
                     #:com.boardgamegeek.mechanic{:id 2004,
                                                  :name
                                                  "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2819,
+                                                 :name
+                                                 "Solo / Solitaire Game"}
+                    #:com.boardgamegeek.mechanic{:id 2940,
+                                                 :name "Square Grid"}
                     #:com.boardgamegeek.mechanic{:id 2082,
                                                  :name
                                                  "Worker Placement"}),
@@ -6925,13 +6939,6 @@
               (list #:com.boardgamegeek.category{:id 1009,
                                                  :name
                                                  "Abstract Strategy"}
-                    #:com.boardgamegeek.category{:id 1023,
-                                                 :name "Bluffing"}
-                    #:com.boardgamegeek.category{:id 1001,
-                                                 :name "Political"}
-                    #:com.boardgamegeek.category{:id 1081,
-                                                 :name
-                                                 "Spies/Secret Agents"}
                     #:com.boardgamegeek.category{:id 1086,
                                                  :name
                                                  "Territory Building"}),
@@ -7414,18 +7421,8 @@
               (list #:com.boardgamegeek.category{:id 1041,
                                                  :name
                                                  "Children's Game"}
-                    #:com.boardgamegeek.category{:id 1116,
-                                                 :name
-                                                 "Comic Book / Strip"}
                     #:com.boardgamegeek.category{:id 1017,
-                                                 :name "Dice"}
-                    #:com.boardgamegeek.category{:id 1064,
-                                                 :name
-                                                 "Movies / TV / Radio theme"}
-                    #:com.boardgamegeek.category{:id 1093,
-                                                 :name "Novel-based"}
-                    #:com.boardgamegeek.category{:id 1031,
-                                                 :name "Racing"}),
+                                                 :name "Dice"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 6,
               :com.boardgamegeek.boardgame/min-play-time 30,
@@ -7920,6 +7917,9 @@
               (list #:com.boardgamegeek.category{:id 1009,
                                                  :name
                                                  "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
                     #:com.boardgamegeek.category{:id 1059,
                                                  :name "Maze"}),
               :com.boardgamegeek.boardgame/max-play-time 15,
@@ -7988,6 +7988,9 @@
                     #:com.boardgamegeek.mechanic{:id 2685,
                                                  :name
                                                  "Player Elimination"}
+                    #:com.boardgamegeek.mechanic{:id 2823,
+                                                 :name
+                                                 "Score-and-Reset Game"}
                     #:com.boardgamegeek.mechanic{:id 2004,
                                                  :name
                                                  "Set Collection"}
@@ -9744,9 +9747,8 @@
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1022,
                                                  :name "Adventure"}
-                    #:com.boardgamegeek.category{:id 1118,
-                                                 :name
-                                                 "Mature / Adult"}
+                    #:com.boardgamegeek.category{:id 1052,
+                                                 :name "Arabian"}
                     #:com.boardgamegeek.category{:id 1028,
                                                  :name "Puzzle"}
                     #:com.boardgamegeek.category{:id 1016,
@@ -10991,6 +10993,9 @@
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1002,
                                                  :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1041,
+                                                 :name
+                                                 "Children's Game"}
                     #:com.boardgamegeek.category{:id 1116,
                                                  :name
                                                  "Comic Book / Strip"}

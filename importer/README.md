@@ -1,13 +1,14 @@
 # Importer
 
-Downloads game list http://bohemiaboardsandbrews.com/games/ and enriches it with data from https://boardgamegeek.com/
+Downloads game list from various sites and enriches it with data from https://boardgamegeek.com/
 
 ## Import data
 
 First you need to have [cli-tools](https://clojure.org/guides/getting_started#_installation_on_linux) installed. Then run following script to put game data into data.cljs.
 
 ```shell
-clojure -M -m app.core > ../web/src/app/data.cljs
+clojure -X app.core/print-bbb-games > ../web/src/app/bbb_data.cljs
+clojure -X app.core/print-hp-games > ../web/src/app/hp_data.cljs
 ```
 
 Note that all requests are cached indefinitely and in order to redownload something, cache has to be cleared using:

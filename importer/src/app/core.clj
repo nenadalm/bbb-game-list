@@ -2,6 +2,7 @@
   (:require
    [clojure.pprint :as pp]
    [app.bbb :as bbb]
+   [app.hp :as hp]
    [app.bgg :as bgg]
    [app.pprint :refer [clojure-dispatch]]
    [app.uuid :as uuid]
@@ -61,8 +62,8 @@
             #(sort-by (comp clojure.string/lower-case :com.boardgamegeek.category/name) %))
     game))
 
-(defn- game-info [bbb-game]
-  (-> bbb-game
+(defn- game-info [game]
+  (-> game
       enrich-game-with-id
       enrich-game-with-bgg-info
       enrich-game-with-name
@@ -73,6 +74,10 @@
 
 (defn- bbb-games []
   (->> (bbb/games)
+       (mapv game-info)))
+
+(defn- hp-games []
+  (->> (hp/games)
        (mapv game-info)))
 
 (defn- index-by [f coll]
@@ -99,9 +104,16 @@
     {:game-list/games games-list
      :game-list/sorting (games-sorting (vals games-list))}))
 
-(defn -main [& _]
-  (println "(ns app.data)")
+(defn print-bbb-games [_]
+  (println "(ns app.bbb_data)")
   (println "(def game-data")
   (pp/with-pprint-dispatch clojure-dispatch
     (pp/pprint (games->db (bbb-games))))
+  (println ")"))
+
+(defn print-hp-games [_]
+  (println "(ns app.hp_data)")
+  (println "(def game-data")
+  (pp/with-pprint-dispatch clojure-dispatch
+    (pp/pprint (games->db (hp-games))))
   (println ")"))

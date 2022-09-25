@@ -130,7 +130,7 @@
       (for [g @(re-frame/subscribe [::subsc/game-list])]
         ^{:key (:game/id g)} [game g])]]))
 
-(defn app []
+(defn app [{:keys [source-label source-url]}]
   [:<>
    [game-list]
    [:div.footer
@@ -140,7 +140,7 @@
      "."]
     [:p
      "Listed games are taken from "
-     [:a {:href "http://bohemiaboardsandbrews.com/games/"} "bohemiaboardsandbrews.com"]
+     [:a {:href source-url} source-label]
      " enriched with info from "
      [:a {:href "https://boardgamegeek.com/"} "boardgamegeek.com"]
      "."]]])

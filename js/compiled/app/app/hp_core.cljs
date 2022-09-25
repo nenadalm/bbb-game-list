@@ -1,11 +1,11 @@
-(ns ^:figwheel-hooks app.core
+(ns ^:figwheel-hooks app.hp-core
   (:require
    [re-frame.core :as re-frame]
    [reagent.dom :as reagent-dom]
    [app.config :as config]
    [app.views :as views]
    [app.events :as events]
-   [app.data :as data]))
+   [app.hp-data :as data]))
 
 (defn- dev-setup []
   (when config/debug?
@@ -13,7 +13,8 @@
 
 (defn mount-root []
   (re-frame/clear-subscription-cache!)
-  (reagent-dom/render [views/app]
+  (reagent-dom/render [views/app {:source-label "herniprostor.cz"
+                                  :source-url "https://www.herniprostor.cz/pujcovna/"}]
                       (.getElementById js/document "app")))
 
 (defn ^:export init []

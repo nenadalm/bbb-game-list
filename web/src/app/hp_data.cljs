@@ -860,7 +860,7 @@
               :com.boardgamegeek.boardgame/id "171131",
               :game/name "Captain Sonar",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/Dpu5nFJu4UUJ4Y50WyKueg__thumb/img/tRPNrLtteyfINpaFLLqEjyfTA10=/fit-in/200x150/filters:strip_icc()/pic7069368.jpg"},
+              "https://cf.geekdo-images.com/MhGaoWk173DY9Cre2QFY7g__thumb/img/9XdgpsWpJH-mWrTnmf2iliUJYs8=/fit-in/200x150/filters:strip_icc()/pic7020007.png"},
              #uuid "06e9bd9c-0975-32da-acdf-2b1942d57f1e"
              {:game/id #uuid "06e9bd9c-0975-32da-acdf-2b1942d57f1e",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -2732,9 +2732,12 @@
                     #:com.boardgamegeek.mechanic{:id 2906,
                                                  :name
                                                  "I Cut, You Choose"}
-                    #:com.boardgamegeek.mechanic{:id 2823,
+                    #:com.boardgamegeek.mechanic{:id 2685,
                                                  :name
-                                                 "Score-and-Reset Game"}
+                                                 "Player Elimination"}
+                    #:com.boardgamegeek.mechanic{:id 2821,
+                                                 :name
+                                                 "Single Loser Game"}
                     #:com.boardgamegeek.mechanic{:id 2988,
                                                  :name
                                                  "Stacking and Balancing"}),

@@ -1404,7 +1404,7 @@
               :languages (list "cz" "en"),
               :game/name "Captain Sonar",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/Dpu5nFJu4UUJ4Y50WyKueg__thumb/img/tRPNrLtteyfINpaFLLqEjyfTA10=/fit-in/200x150/filters:strip_icc()/pic7069368.jpg"},
+              "https://cf.geekdo-images.com/MhGaoWk173DY9Cre2QFY7g__thumb/img/9XdgpsWpJH-mWrTnmf2iliUJYs8=/fit-in/200x150/filters:strip_icc()/pic7020007.png"},
              #uuid "06e9bd9c-0975-32da-acdf-2b1942d57f1e"
              {:game/id #uuid "06e9bd9c-0975-32da-acdf-2b1942d57f1e",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -2936,9 +2936,6 @@
               (list #:com.boardgamegeek.mechanic{:id 2664,
                                                  :name
                                                  "Deck, Bag, and Pool Building"}
-                    #:com.boardgamegeek.mechanic{:id 2901,
-                                                 :name
-                                                 "Delayed Purchase"}
                     #:com.boardgamegeek.mechanic{:id 2843,
                                                  :name "Follow"}
                     #:com.boardgamegeek.mechanic{:id 2040,
@@ -3636,13 +3633,6 @@
              #uuid "781ebc9b-0afe-3ab7-97b1-e80975dc0ee4"
              {:game/id #uuid "781ebc9b-0afe-3ab7-97b1-e80975dc0ee4",
               :com.boardgamegeek.boardgame/min-players 1,
-              :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2023,
-                                                 :name
-                                                 "Cooperative Game"}
-                    #:com.boardgamegeek.mechanic{:id 2822,
-                                                 :name
-                                                 "Scenario / Mission / Campaign Game"}),
               :name "Ghost Adventure",
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1032,
@@ -4259,7 +4249,7 @@
               :com.boardgamegeek.boardgame/id "8203",
               :game/name "Hey, That's My Fish!",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/oi1nyVI5imIhnRHGVxAfBQ__thumb/img/oAY5qIeZ_IlaBYg1RGiM_anGgZw=/fit-in/200x150/filters:strip_icc()/pic3611752.jpg"},
+              "https://cf.geekdo-images.com/CR2jXsbmCdhDYo2zI6cJFQ__thumb/img/6jjUgJWbOMUZ4JIEqJF0MzP6tO8=/fit-in/200x150/filters:strip_icc()/pic1004115.jpg"},
              #uuid "75466a84-a8e4-3539-bad7-a8f56097c633"
              {:game/id #uuid "75466a84-a8e4-3539-bad7-a8f56097c633",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -4914,9 +4904,12 @@
                     #:com.boardgamegeek.mechanic{:id 2906,
                                                  :name
                                                  "I Cut, You Choose"}
-                    #:com.boardgamegeek.mechanic{:id 2823,
+                    #:com.boardgamegeek.mechanic{:id 2685,
                                                  :name
-                                                 "Score-and-Reset Game"}
+                                                 "Player Elimination"}
+                    #:com.boardgamegeek.mechanic{:id 2821,
+                                                 :name
+                                                 "Single Loser Game"}
                     #:com.boardgamegeek.mechanic{:id 2988,
                                                  :name
                                                  "Stacking and Balancing"}),
@@ -5149,7 +5142,9 @@
              {:game/id #uuid "1b2a1ef5-4042-3ba6-826b-7d8fe796f7ba",
               :com.boardgamegeek.boardgame/min-players 2,
               :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2072,
+              (list #:com.boardgamegeek.mechanic{:id 2046,
+                                                 :name "Area Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
                                                  :name "Dice Rolling"}
                     #:com.boardgamegeek.mechanic{:id 2856,
                                                  :name
@@ -7393,7 +7388,7 @@
               :languages (list "en"),
               :game/name "Onitama",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/GJKuOCy5HGAYgVH_Rei5mA__thumb/img/Q3W4poMS4btD-HZLervgqbSCtmE=/fit-in/200x150/filters:strip_icc()/pic7070194.jpg"},
+              "https://cf.geekdo-images.com/GOarKyLbcThpfVD6j7h-NQ__thumb/img/tD0SmzS3gD-POMbNZXTGekTDK7E=/fit-in/200x150/filters:strip_icc()/pic6749514.jpg"},
              #uuid "0dd28a2a-30d5-3d29-97ba-3e8bfa086f0f"
              {:languages (list "cz"),
               :name "Opraski Scenski Historie",
@@ -10548,9 +10543,7 @@
              {:game/id #uuid "7b1d9fe4-27bb-3db5-af9b-89f0785afc59",
               :com.boardgamegeek.boardgame/min-players 2,
               :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2883,
-                                                 :name "Connections"}
-                    #:com.boardgamegeek.mechanic{:id 2912,
+              (list #:com.boardgamegeek.mechanic{:id 2912,
                                                  :name "Contracts"}
                     #:com.boardgamegeek.mechanic{:id 2875,
                                                  :name

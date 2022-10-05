@@ -860,7 +860,7 @@
               :com.boardgamegeek.boardgame/id "171131",
               :game/name "Captain Sonar",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/MhGaoWk173DY9Cre2QFY7g__thumb/img/9XdgpsWpJH-mWrTnmf2iliUJYs8=/fit-in/200x150/filters:strip_icc()/pic7020007.png"},
+              "https://cf.geekdo-images.com/Dpu5nFJu4UUJ4Y50WyKueg__thumb/img/tRPNrLtteyfINpaFLLqEjyfTA10=/fit-in/200x150/filters:strip_icc()/pic7069368.jpg"},
              #uuid "06e9bd9c-0975-32da-acdf-2b1942d57f1e"
              {:game/id #uuid "06e9bd9c-0975-32da-acdf-2b1942d57f1e",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -1830,6 +1830,9 @@
                     #:com.boardgamegeek.mechanic{:id 2864,
                                                  :name
                                                  "Force Commitment"}
+                    #:com.boardgamegeek.mechanic{:id 2914,
+                                                 :name
+                                                 "Increase Value of Unchosen Resources"}
                     #:com.boardgamegeek.mechanic{:id 2041,
                                                  :name "Open Drafting"}
                     #:com.boardgamegeek.mechanic{:id 2819,
@@ -2194,9 +2197,6 @@
                                                  :name "Map Reduction"}
                     #:com.boardgamegeek.mechanic{:id 2011,
                                                  :name "Modular Board"}
-                    #:com.boardgamegeek.mechanic{:id 2007,
-                                                 :name
-                                                 "Pick-up and Deliver"}
                     #:com.boardgamegeek.mechanic{:id 2004,
                                                  :name
                                                  "Set Collection"}
@@ -2295,13 +2295,17 @@
                                                  :name "Dice"}
                     #:com.boardgamegeek.category{:id 1079,
                                                  :name "Humor"}
-                    #:com.boardgamegeek.category{:id 1030,
-                                                 :name "Party Game"}
                     #:com.boardgamegeek.category{:id 1037,
                                                  :name "Real-time"}
                     #:com.boardgamegeek.category{:id 1016,
                                                  :name
-                                                 "Science Fiction"}),
+                                                 "Science Fiction"}
+                    #:com.boardgamegeek.category{:id 1113,
+                                                 :name
+                                                 "Space Exploration"}
+                    #:com.boardgamegeek.category{:id 1011,
+                                                 :name
+                                                 "Transportation"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 20,
@@ -2732,12 +2736,9 @@
                     #:com.boardgamegeek.mechanic{:id 2906,
                                                  :name
                                                  "I Cut, You Choose"}
-                    #:com.boardgamegeek.mechanic{:id 2685,
+                    #:com.boardgamegeek.mechanic{:id 2823,
                                                  :name
-                                                 "Player Elimination"}
-                    #:com.boardgamegeek.mechanic{:id 2821,
-                                                 :name
-                                                 "Single Loser Game"}
+                                                 "Score-and-Reset Game"}
                     #:com.boardgamegeek.mechanic{:id 2988,
                                                  :name
                                                  "Stacking and Balancing"}),
@@ -3452,7 +3453,10 @@
              {:game/id #uuid "6e8ce4f2-3cc4-37b8-9002-721e44843aaf",
               :com.boardgamegeek.boardgame/min-players 3,
               :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2040,
+              (list #:com.boardgamegeek.mechanic{:id 3004,
+                                                 :name
+                                                 "Deck Construction"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
                                                  :name
                                                  "Hand Management"}
                     #:com.boardgamegeek.mechanic{:id 2686,
@@ -5260,6 +5264,8 @@
                     #:com.boardgamegeek.mechanic{:id 2819,
                                                  :name
                                                  "Solo / Solitaire Game"}
+                    #:com.boardgamegeek.mechanic{:id 3100,
+                                                 :name "Tags"}
                     #:com.boardgamegeek.mechanic{:id 2686,
                                                  :name "Take That"}
                     #:com.boardgamegeek.mechanic{:id 2849,

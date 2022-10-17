@@ -25,10 +25,10 @@ JSCompiler_StaticMethods_setCreateObjectFn:Gp
 JSCompiler_StaticMethods_sval:bf
 JSCompiler_StaticMethods_toTraceString:Mp
 JSCompiler_inline_result$jscomp$237:sn
-JSCompiler_prototypeAlias:b
+JSCompiler_prototypeAlias:a
 JSCompiler_temp$jscomp$1782:xn
 JSCompiler_temp$jscomp$236:vn
-L 0:a
+L 0:b
 L 1:e
 L 10:J
 L 11:K
@@ -36,39 +36,39 @@ L 12:N
 L 13:S
 L 14:V
 L 15:ba
-L 16:qa
-L 17:Ca
-L 18:La
-L 19:Wa
+L 16:ra
+L 17:Da
+L 18:Ma
+L 19:Xa
 L 2:f
-L 20:Ea
+L 20:Fa
 L 21:T
 L 22:aa
 L 23:ea
 L 24:ha
 L 25:ja
-L 26:pa
-L 27:ra
-L 28:ta
-L 29:ua
-L 3:k
-L 30:va
-L 31:Ba
-L 32:Da
-L 33:Ha
-L 34:Ma
-L 35:Ra
-L 36:db
-L 37:pb
-L 38:Eb
+L 26:qa
+L 27:sa
+L 28:ua
+L 29:va
+L 3:m
+L 30:wa
+L 31:Ca
+L 32:Ea
+L 33:Ia
+L 34:Na
+L 35:Sa
+L 36:eb
+L 37:qb
+L 38:Fb
 L 39:oc
 L 4:n
 L 40:Ld
 L 41:Ih
 L 42:Pm
 L 5:p
-L 6:x
-L 7:F
+L 6:E
+L 7:G
 L 8:H
 L 9:I
 app$bbb_data$game_data:Rp
@@ -148,7 +148,7 @@ cljs$core$IndexedSeqIterator:Zd
 cljs$core$IntegerRange:Hh
 cljs$core$IntegerRangeChunk:Fh
 cljs$core$KeySeq:th
-cljs$core$Keyword:l
+cljs$core$Keyword:k
 cljs$core$LazySeq:af
 cljs$core$List:u
 cljs$core$List$EMPTY:Ad
@@ -166,7 +166,7 @@ cljs$core$PersistentArrayMapIterator:Tg
 cljs$core$PersistentArrayMapSeq:Sg
 cljs$core$PersistentHashMap:qh
 cljs$core$PersistentHashMap$EMPTY:Yg
-cljs$core$PersistentHashMap$fromArrays:z
+cljs$core$PersistentHashMap$fromArrays:y
 cljs$core$PersistentHashSet:zh
 cljs$core$PersistentHashSet$EMPTY:Bh
 cljs$core$PersistentQueue:Kg
@@ -175,7 +175,7 @@ cljs$core$PersistentQueueIter:Ig
 cljs$core$PersistentQueueSeq:Jg
 cljs$core$PersistentVector:w
 cljs$core$PersistentVector$EMPTY:he
-cljs$core$PersistentVector$EMPTY_NODE:y
+cljs$core$PersistentVector$EMPTY_NODE:x
 cljs$core$PersistentVector$fromArray:yg
 cljs$core$RSeq:$d
 cljs$core$Range:Jh
@@ -192,7 +192,7 @@ cljs$core$TransientArrayMap:Wg
 cljs$core$TransientHashMap:rh
 cljs$core$TransientHashSet:Ah
 cljs$core$TransientVector:wg
-cljs$core$UUID:A
+cljs$core$UUID:z
 cljs$core$ValSeq:uh
 cljs$core$VectorNode:hg
 cljs$core$_EQ_:Bd
@@ -319,13 +319,13 @@ cljs$core$cst$0kw$0cljs$0core_SLASH_not_DASH_found:xh
 cljs$core$cst$0kw$0cljsLegacyRender:vi
 cljs$core$cst$0kw$0coeffects:ek
 cljs$core$cst$0kw$0cofx:pk
-cljs$core$cst$0kw$0com$0boardgamegeek$0boardgame_SLASH_categories:G
+cljs$core$cst$0kw$0com$0boardgamegeek$0boardgame_SLASH_categories:F
 cljs$core$cst$0kw$0com$0boardgamegeek$0boardgame_SLASH_id:W
 cljs$core$cst$0kw$0com$0boardgamegeek$0boardgame_SLASH_max_DASH_play_DASH_time:M
 cljs$core$cst$0kw$0com$0boardgamegeek$0boardgame_SLASH_max_DASH_players:O
-cljs$core$cst$0kw$0com$0boardgamegeek$0boardgame_SLASH_mechanics:D
+cljs$core$cst$0kw$0com$0boardgamegeek$0boardgame_SLASH_mechanics:C
 cljs$core$cst$0kw$0com$0boardgamegeek$0boardgame_SLASH_min_DASH_play_DASH_time:Q
-cljs$core$cst$0kw$0com$0boardgamegeek$0boardgame_SLASH_min_DASH_players:C
+cljs$core$cst$0kw$0com$0boardgamegeek$0boardgame_SLASH_min_DASH_players:B
 cljs$core$cst$0kw$0com$0boardgamegeek$0boardgame_SLASH_thumbnail:Z
 cljs$core$cst$0kw$0com$0boardgamegeek$0category_SLASH_id:U
 cljs$core$cst$0kw$0com$0boardgamegeek$0category_SLASH_name:L
@@ -366,7 +366,7 @@ cljs$core$cst$0kw$0function_DASH_components:Hj
 cljs$core$cst$0kw$0fx:tk
 cljs$core$cst$0kw$0game_DASH_list_SLASH_games:qk
 cljs$core$cst$0kw$0game_DASH_list_SLASH_sorting:Ij
-cljs$core$cst$0kw$0game_SLASH_id:B
+cljs$core$cst$0kw$0game_SLASH_id:A
 cljs$core$cst$0kw$0game_SLASH_name:Y
 cljs$core$cst$0kw$0getDerivedStateFromError:hj
 cljs$core$cst$0kw$0getDerivedStateFromProps:gj
@@ -390,7 +390,7 @@ cljs$core$cst$0kw$0map:yk
 cljs$core$cst$0kw$0meta:Bb
 cljs$core$cst$0kw$0more_DASH_marker:Nh
 cljs$core$cst$0kw$0ms:sk
-cljs$core$cst$0kw$0name:E
+cljs$core$cst$0kw$0name:D
 cljs$core$cst$0kw$0new:Ti
 cljs$core$cst$0kw$0no_DASH_cache:Bj
 cljs$core$cst$0kw$0on_DASH_change:ok
@@ -527,7 +527,7 @@ cljs$core$never_equiv:Ng
 cljs$core$new_path:lg
 cljs$core$next:r
 cljs$core$next_STAR_:nf
-cljs$core$nil_QMARK_:Fb
+cljs$core$nil_QMARK_:Eb
 cljs$core$nil_iter:yf
 cljs$core$not:Hb
 cljs$core$not_empty:xf
@@ -567,7 +567,7 @@ cljs$core$repeat$cljs$0core$0IFn$0_invoke$0arity$02:Vf
 cljs$core$reset_BANG_:Of
 cljs$core$rest:zd
 cljs$core$select_keys:wh
-cljs$core$seq:m
+cljs$core$seq:l
 cljs$core$seq_QMARK_:Ee
 cljs$core$seq_reduce$cljs$0core$0IFn$0_invoke$0arity$02:de
 cljs$core$seq_reduce$cljs$0core$0IFn$0_invoke$0arity$03:ee
@@ -631,8 +631,8 @@ goog$Disposable$instances_:Dn
 goog$UID_PROPERTY_:na
 goog$async$nextTick:co
 goog$bind:xa
-goog$bindJs_:wa
-goog$bindNative_:sa
+goog$bindJs_:ta
+goog$bindNative_:pa
 goog$debug$Trace_:Jp
 goog$debug$Trace_$Event_:Kp
 goog$debug$Trace_$Stat_:Lp
@@ -670,7 +670,7 @@ goog$exportPath_:da
 goog$getUid:ma
 goog$global:ca
 goog$html$SafeHtml:Ya
-goog$html$SafeHtml$CONSTRUCTOR_TOKEN_PRIVATE_:Xa
+goog$html$SafeHtml$CONSTRUCTOR_TOKEN_PRIVATE_:Wa
 goog$html$SafeHtml$EMPTY:$a
 goog$html$SafeHtml$unwrapTrustedHTML:Za
 goog$html$trustedtypes$cachedPolicy_:Oa
@@ -684,20 +684,20 @@ goog$iter$forEach:jb
 goog$iter$toIterator:ib
 goog$labs$userAgent$platform$isIphone:en
 goog$labs$userAgent$util$matchUserAgent:Va
-goog$labs$userAgent$util$userAgent_:Sa
+goog$labs$userAgent$util$userAgent_:Ra
 goog$nullFunction:fa
 goog$object$PROTOTYPE_FIELDS_:Ka
-goog$object$extend:Na
+goog$object$extend:La
 goog$object$get:Ja
-goog$object$getKeys:Ia
+goog$object$getKeys:Ha
 goog$reflect$sinkValue:ob
 goog$string$HTML_ENTITY_PATTERN_:fb
-goog$string$StringBuffer:qb
+goog$string$StringBuffer:pb
 goog$string$internal$compareElements_:Qa
 goog$string$internal$trim:Pa
 goog$string$unescapeEntities:bb
 goog$string$unescapeEntitiesUsingDom_:cb
-goog$string$unescapePureXmlEntities_:eb
+goog$string$unescapePureXmlEntities_:db
 goog$structs$Map:kb
 goog$structs$Map$hasKey_:nb
 goog$structs$SimplePool:Fp
@@ -713,7 +713,7 @@ goog$userAgent$WEBKIT:kn
 goog$userAgent$getDocumentMode_:mn
 goog$userAgent$isVersionOrHigherCache_:rn
 listener$jscomp$inline_1285:uo
-module$contents$goog$array_forEach:Fa
+module$contents$goog$array_forEach:Ba
 module$contents$goog$array_indexOf:Aa
 module$contents$goog$array_toArray:Ga
 navigator$jscomp$inline_1220:ln

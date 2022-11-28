@@ -470,52 +470,6 @@
               :game/name "Black Orchestra",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/mvE22ut60-N5qzhE9guINw__thumb/img/Z2A_CL-vc5wS4_hUN2RhtGzMiC4=/fit-in/200x150/filters:strip_icc()/pic6973676.png"},
-             #uuid "c180dcbb-f5dd-3cdf-acb3-dfe83bc594ec"
-             {:game/id #uuid "c180dcbb-f5dd-3cdf-acb3-dfe83bc594ec",
-              :com.boardgamegeek.boardgame/min-players 2,
-              :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2001,
-                                                 :name "Action Points"}
-                    #:com.boardgamegeek.mechanic{:id 2080,
-                                                 :name
-                                                 "Area Majority / Influence"}
-                    #:com.boardgamegeek.mechanic{:id 2046,
-                                                 :name "Area Movement"}
-                    #:com.boardgamegeek.mechanic{:id 2857,
-                                                 :name
-                                                 "Card Play Conflict Resolution"}
-                    #:com.boardgamegeek.mechanic{:id 2984,
-                                                 :name
-                                                 "Closed Drafting"}
-                    #:com.boardgamegeek.mechanic{:id 2040,
-                                                 :name
-                                                 "Hand Management"}
-                    #:com.boardgamegeek.mechanic{:id 2960,
-                                                 :name "Map Reduction"}
-                    #:com.boardgamegeek.mechanic{:id 2047,
-                                                 :name "Memory"}
-                    #:com.boardgamegeek.mechanic{:id 2041,
-                                                 :name "Open Drafting"}
-                    #:com.boardgamegeek.mechanic{:id 2020,
-                                                 :name
-                                                 "Simultaneous Action Selection"}),
-              :name "Blood Rage",
-              :com.boardgamegeek.boardgame/categories
-              (list #:com.boardgamegeek.category{:id 1010,
-                                                 :name "Fantasy"}
-                    #:com.boardgamegeek.category{:id 1046,
-                                                 :name "Fighting"}
-                    #:com.boardgamegeek.category{:id 1047,
-                                                 :name "Miniatures"}
-                    #:com.boardgamegeek.category{:id 1082,
-                                                 :name "Mythology"}),
-              :com.boardgamegeek.boardgame/max-play-time 90,
-              :com.boardgamegeek.boardgame/max-players 4,
-              :com.boardgamegeek.boardgame/min-play-time 60,
-              :com.boardgamegeek.boardgame/id "170216",
-              :game/name "Blood Rage",
-              :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__thumb/img/NLhVdU8xazrgS5dA6nVCYmN2DNI=/fit-in/200x150/filters:strip_icc()/pic2439223.jpg"},
              #uuid "7bf39893-aba0-3507-bdb6-5bb4b2b4c6fa"
              {:name "Bobří klan",
               :game/id #uuid "7bf39893-aba0-3507-bdb6-5bb4b2b4c6fa",
@@ -4520,6 +4474,35 @@
               :game/id #uuid "9d55ecf5-bba5-39c9-8576-0febd2b9548d",
               :game/name "Scythe: Titáni nebes",
               :com.boardgamegeek.boardgame/id "223555"},
+             #uuid "3ff39d3a-cb32-3553-870a-64ef0cb321d5"
+             {:game/id #uuid "3ff39d3a-cb32-3553-870a-64ef0cb321d5",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2048,
+                                                 :name
+                                                 "Pattern Building"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}
+                    #:com.boardgamegeek.mechanic{:id 2019,
+                                                 :name
+                                                 "Team-Based Game"}),
+              :name "Sequence",
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1009,
+                                                 :name
+                                                 "Abstract Strategy"}
+                    #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}),
+              :com.boardgamegeek.boardgame/max-play-time 30,
+              :com.boardgamegeek.boardgame/max-players 12,
+              :com.boardgamegeek.boardgame/min-play-time 10,
+              :com.boardgamegeek.boardgame/id "2375",
+              :game/name "Sequence",
+              :com.boardgamegeek.boardgame/thumbnail
+              "https://cf.geekdo-images.com/VosGBqkOjkhgC2QFS1o3_g__thumb/img/PNwWrQIQNo757BtoW6Hniy3P-cw=/fit-in/200x150/filters:strip_icc()/pic212893.jpg"},
              #uuid "fa8d9ffe-434f-36b3-89cc-67f4a73054a9"
              {:name "Sheep ZZZ",
               :game/id #uuid "fa8d9ffe-434f-36b3-89cc-67f4a73054a9",
@@ -6650,7 +6633,6 @@
               #uuid "eaa9b08c-9718-39e9-84e8-e09ccf855ef0"
               #uuid "3e302b86-f47c-3d22-9b4d-c253439d9970"
               #uuid "52666523-7b49-34f0-aa87-c130e8f25a41"
-              #uuid "c180dcbb-f5dd-3cdf-acb3-dfe83bc594ec"
               #uuid "7bf39893-aba0-3507-bdb6-5bb4b2b4c6fa"
               #uuid "8a55d10a-eaaf-3da1-8c97-baec9e64e35f"
               #uuid "014f4da6-7752-3558-b762-f9b4104f16db"
@@ -6804,6 +6786,7 @@
               #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08"
               #uuid "5b71a1ec-7b41-3e9c-bd35-c6b3f502d097"
               #uuid "9d55ecf5-bba5-39c9-8576-0febd2b9548d"
+              #uuid "3ff39d3a-cb32-3553-870a-64ef0cb321d5"
               #uuid "fa8d9ffe-434f-36b3-89cc-67f4a73054a9"
               #uuid "01f7b705-9b33-3897-969b-343e8a6e682e"
               #uuid "3992d652-f81d-3e86-bd6e-2e685cb351a3"
@@ -6994,7 +6977,6 @@
               #uuid "0746ccba-be89-3d2f-a4b6-af590e489ff0"
               #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
               #uuid "3e302b86-f47c-3d22-9b4d-c253439d9970"
-              #uuid "c180dcbb-f5dd-3cdf-acb3-dfe83bc594ec"
               #uuid "8a55d10a-eaaf-3da1-8c97-baec9e64e35f"
               #uuid "dca1df6f-0d07-3c90-bedf-dd4f86caf822"
               #uuid "414bbf5b-1083-3275-9983-4133937db58b"
@@ -7073,6 +7055,7 @@
               #uuid "0691c252-5813-3cc2-80ca-1c030047cd4f"
               #uuid "03073139-0dab-349e-a8d2-e3fa11a3b6f3"
               #uuid "98f21854-baa2-356c-8d3f-bc39eb43f485"
+              #uuid "3ff39d3a-cb32-3553-870a-64ef0cb321d5"
               #uuid "3992d652-f81d-3e86-bd6e-2e685cb351a3"
               #uuid "1121199f-e1d9-3b01-869d-476f8147b7c3"
               #uuid "568da493-2833-3009-ad26-7108e0683081"
@@ -7238,7 +7221,6 @@
               #uuid "0746ccba-be89-3d2f-a4b6-af590e489ff0"
               #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
               #uuid "3e302b86-f47c-3d22-9b4d-c253439d9970"
-              #uuid "c180dcbb-f5dd-3cdf-acb3-dfe83bc594ec"
               #uuid "414bbf5b-1083-3275-9983-4133937db58b"
               #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7"
               #uuid "d51dd20c-a05f-3ab4-94c7-9020d535e5b3"
@@ -7399,6 +7381,7 @@
               #uuid "7e153c29-583c-3f68-85d8-1ed02112af37"
               #uuid "c1fa67fc-99a3-39a4-962b-ba099f84d11c"
               #uuid "af817d47-9021-3806-800d-7ef8dab08024"
+              #uuid "3ff39d3a-cb32-3553-870a-64ef0cb321d5"
               #uuid "c3fa9226-9cf9-3afa-8844-dff274cc446d"
               #uuid "53522ad6-7a42-3c5c-8f4a-c9fc089fbbb4"
               #uuid "70b3f625-6197-3a53-a3b0-26bcc7a1ec50"
@@ -7482,6 +7465,7 @@
               #uuid "be88402c-5149-3063-ab79-7e0e257de370"
               #uuid "c1fa67fc-99a3-39a4-962b-ba099f84d11c"
               #uuid "0ec60d5c-8917-3f40-b112-a6c42456b59a"
+              #uuid "3ff39d3a-cb32-3553-870a-64ef0cb321d5"
               #uuid "7bae0b38-0a96-3ecc-b46e-2fb84ebd8dd8"
               #uuid "7f5189ca-4731-3666-98c6-d9971b474aa1"
               #uuid "057abd33-3d4e-3b86-910f-0222e183f56e"
@@ -7627,7 +7611,6 @@
               #uuid "38af37ce-841a-38a4-a7e4-c543267b49f1"
               #uuid "70b3f625-6197-3a53-a3b0-26bcc7a1ec50"
               #uuid "0c4d773a-4f7d-3480-a72a-f0b466ccd9eb"
-              #uuid "c180dcbb-f5dd-3cdf-acb3-dfe83bc594ec"
               #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7"
               #uuid "fdb07892-a50b-3405-8eb2-8a5429a70ee8"
               #uuid "74d868fa-fa8c-37d0-8565-f672807e7ef7"
@@ -7816,6 +7799,7 @@
               #uuid "81828b40-f940-3ba2-999a-df65d1ece450"
               #uuid "af817d47-9021-3806-800d-7ef8dab08024"
               #uuid "98f21854-baa2-356c-8d3f-bc39eb43f485"
+              #uuid "3ff39d3a-cb32-3553-870a-64ef0cb321d5"
               #uuid "3992d652-f81d-3e86-bd6e-2e685cb351a3"
               #uuid "14a7749e-31ee-3b66-af79-5bf4b407a824"
               #uuid "347be2ac-80a7-3752-9e45-7a5d226c5886"
@@ -7885,7 +7869,6 @@
               #uuid "1121199f-e1d9-3b01-869d-476f8147b7c3"
               #uuid "fbbaa2e3-599e-3480-bf8a-64ef97ee61c2"
               #uuid "52666523-7b49-34f0-aa87-c130e8f25a41"
-              #uuid "c180dcbb-f5dd-3cdf-acb3-dfe83bc594ec"
               #uuid "014f4da6-7752-3558-b762-f9b4104f16db"
               #uuid "04131825-c690-3fb4-b915-f0666907e59c"
               #uuid "fdb07892-a50b-3405-8eb2-8a5429a70ee8"

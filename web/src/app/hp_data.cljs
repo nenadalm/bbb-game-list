@@ -147,7 +147,7 @@
               :com.boardgamegeek.boardgame/id "173346",
               :game/name "7 Wonders Duel",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/7BL8N4-Qqo0RrAVEfBhfrQ__thumb/img/NyEfOiEeV0MeNwaCOOb1uefWQtU=/fit-in/200x150/filters:strip_icc()/pic7149683.jpg"},
+              "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__thumb/img/gV1-ckZSIC-dCxxpq1Y7GmPITzQ=/fit-in/200x150/filters:strip_icc()/pic2576399.jpg"},
              #uuid "fbbaa2e3-599e-3480-bf8a-64ef97ee61c2"
              {:game/id #uuid "fbbaa2e3-599e-3480-bf8a-64ef97ee61c2",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -708,10 +708,7 @@
                                                  "Tile Placement"}),
               :name "Pelíšek",
               :com.boardgamegeek.boardgame/categories
-              (list #:com.boardgamegeek.category{:id 1009,
-                                                 :name
-                                                 "Abstract Strategy"}
-                    #:com.boardgamegeek.category{:id 1089,
+              (list #:com.boardgamegeek.category{:id 1089,
                                                  :name "Animals"}
                     #:com.boardgamegeek.category{:id 1028,
                                                  :name "Puzzle"}),
@@ -3006,6 +3003,23 @@
               :game/name "Machi Koro",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/_lI2eUDHfesfe5SswJiFAg__thumb/img/tCTP0XMMmsAfNqzb0iYmp0b-YUc=/fit-in/200x150/filters:strip_icc()/pic4783831.png"},
+             #uuid "141c9f39-27f9-3e84-b303-58ac1f2e96ac"
+             {:game/id #uuid "141c9f39-27f9-3e84-b303-58ac1f2e96ac",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2060,
+                                                 :name
+                                                 "Pattern Recognition"}),
+              :name "Makroskop",
+              :com.boardgamegeek.boardgame/max-play-time 30,
+              :com.boardgamegeek.boardgame/max-players 6,
+              :com.boardgamegeek.boardgame/min-play-time 30,
+              :com.boardgamegeek.boardgame/id "193164",
+              :game/name "Macroscope",
+              :com.boardgamegeek.boardgame/thumbnail
+              "https://cf.geekdo-images.com/DLvipcPOyO6M2hkZLDMCFQ__thumb/img/_8SW9_nz__0DD0V1vaPM3mylmac=/fit-in/200x150/filters:strip_icc()/pic3563058.jpg"},
              #uuid "207ce45d-a4c3-30dc-80c6-3241182256e7"
              {:game/id #uuid "207ce45d-a4c3-30dc-80c6-3241182256e7",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -3099,10 +3113,6 @@
               :game/name "Majesty: For the Realm",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/BsNE-w6bttGZ-JPLcY95mA__thumb/img/GGVPDJErC7vPEb6zHJUasEXwIBk=/fit-in/200x150/filters:strip_icc()/pic3742410.jpg"},
-             #uuid "ca42cb70-5643-39a7-8693-09b152b753a2"
-             {:name "Makroskop",
-              :game/id #uuid "ca42cb70-5643-39a7-8693-09b152b753a2",
-              :game/name "Makroskop"},
              #uuid "4826529c-5845-347a-a7ca-e6a1f5e56fed"
              {:name "Mars: rozšíření 2 - Venuše",
               :game/id #uuid "4826529c-5845-347a-a7ca-e6a1f5e56fed",
@@ -6732,10 +6742,10 @@
               #uuid "423cb589-88be-336d-ada8-9817b5fe519e"
               #uuid "820f4af2-311d-382a-8fdb-6bfe520f83a0"
               #uuid "d8ac8dc4-6760-3f12-96c2-e3420b291781"
+              #uuid "141c9f39-27f9-3e84-b303-58ac1f2e96ac"
               #uuid "207ce45d-a4c3-30dc-80c6-3241182256e7"
               #uuid "cdb9785e-e723-341e-933e-9853dce18179"
               #uuid "f9d69482-936d-3195-9705-beedee2957b2"
-              #uuid "ca42cb70-5643-39a7-8693-09b152b753a2"
               #uuid "4826529c-5845-347a-a7ca-e6a1f5e56fed"
               #uuid "6b70da59-d0a6-31d8-9041-742a15bad6c0"
               #uuid "0579d3ee-c46f-3638-934b-1acd5670d79c"
@@ -6896,7 +6906,6 @@
               #uuid "b7c76af1-3344-35ca-a32b-e3d28bf2dd81"
               #uuid "e99493a2-bc96-34c6-9e6b-29c01bbeacc4"
               #uuid "cfddf326-3ac8-3020-822d-e5e72f982284"
-              #uuid "ca42cb70-5643-39a7-8693-09b152b753a2"
               #uuid "4826529c-5845-347a-a7ca-e6a1f5e56fed"
               #uuid "6b70da59-d0a6-31d8-9041-742a15bad6c0"
               #uuid "a43c9b65-f63b-3725-a1aa-7f2c1acb9cd7"
@@ -7029,6 +7038,7 @@
               #uuid "cea0708e-9ebc-3fdf-b81f-ace3b0f3f138"
               #uuid "820f4af2-311d-382a-8fdb-6bfe520f83a0"
               #uuid "d8ac8dc4-6760-3f12-96c2-e3420b291781"
+              #uuid "141c9f39-27f9-3e84-b303-58ac1f2e96ac"
               #uuid "207ce45d-a4c3-30dc-80c6-3241182256e7"
               #uuid "f9d69482-936d-3195-9705-beedee2957b2"
               #uuid "c99cde22-b6f1-33af-8b53-93e358341985"
@@ -7156,7 +7166,6 @@
               #uuid "b7c76af1-3344-35ca-a32b-e3d28bf2dd81"
               #uuid "e99493a2-bc96-34c6-9e6b-29c01bbeacc4"
               #uuid "cfddf326-3ac8-3020-822d-e5e72f982284"
-              #uuid "ca42cb70-5643-39a7-8693-09b152b753a2"
               #uuid "4826529c-5845-347a-a7ca-e6a1f5e56fed"
               #uuid "6b70da59-d0a6-31d8-9041-742a15bad6c0"
               #uuid "a43c9b65-f63b-3725-a1aa-7f2c1acb9cd7"
@@ -7330,6 +7339,7 @@
               #uuid "b637cb61-ad5a-38ad-a7c2-bb785678af37"
               #uuid "e29fbec4-4c71-3519-8e93-582b67df86f4"
               #uuid "6db176b1-017b-3430-a362-e2d6ee99cc67"
+              #uuid "141c9f39-27f9-3e84-b303-58ac1f2e96ac"
               #uuid "0579d3ee-c46f-3638-934b-1acd5670d79c"
               #uuid "ecaa1394-0a12-3a94-b41e-949fe306eccd"
               #uuid "6e8ce4f2-3cc4-37b8-9002-721e44843aaf"
@@ -7412,7 +7422,6 @@
               #uuid "b7c76af1-3344-35ca-a32b-e3d28bf2dd81"
               #uuid "e99493a2-bc96-34c6-9e6b-29c01bbeacc4"
               #uuid "cfddf326-3ac8-3020-822d-e5e72f982284"
-              #uuid "ca42cb70-5643-39a7-8693-09b152b753a2"
               #uuid "4826529c-5845-347a-a7ca-e6a1f5e56fed"
               #uuid "6b70da59-d0a6-31d8-9041-742a15bad6c0"
               #uuid "a43c9b65-f63b-3725-a1aa-7f2c1acb9cd7"
@@ -7559,6 +7568,7 @@
               #uuid "e4b769db-2a42-392d-b311-b02c3545d07d"
               #uuid "6db176b1-017b-3430-a362-e2d6ee99cc67"
               #uuid "d8ac8dc4-6760-3f12-96c2-e3420b291781"
+              #uuid "141c9f39-27f9-3e84-b303-58ac1f2e96ac"
               #uuid "3286f411-3994-392d-8f40-b33c3e8a2e24"
               #uuid "9e9da29c-5207-3cc2-8277-db0c9cb05c25"
               #uuid "9a217965-2908-38f8-8853-e9ee91b394e1"
@@ -7670,7 +7680,6 @@
               #uuid "b7c76af1-3344-35ca-a32b-e3d28bf2dd81"
               #uuid "e99493a2-bc96-34c6-9e6b-29c01bbeacc4"
               #uuid "cfddf326-3ac8-3020-822d-e5e72f982284"
-              #uuid "ca42cb70-5643-39a7-8693-09b152b753a2"
               #uuid "4826529c-5845-347a-a7ca-e6a1f5e56fed"
               #uuid "6b70da59-d0a6-31d8-9041-742a15bad6c0"
               #uuid "a43c9b65-f63b-3725-a1aa-7f2c1acb9cd7"
@@ -7790,6 +7799,7 @@
               #uuid "e4b769db-2a42-392d-b311-b02c3545d07d"
               #uuid "6db176b1-017b-3430-a362-e2d6ee99cc67"
               #uuid "d8ac8dc4-6760-3f12-96c2-e3420b291781"
+              #uuid "141c9f39-27f9-3e84-b303-58ac1f2e96ac"
               #uuid "c99cde22-b6f1-33af-8b53-93e358341985"
               #uuid "4e734e9c-177f-37f2-8df6-2eddace65994"
               #uuid "15097e77-e128-3a51-ae26-bec165792257"

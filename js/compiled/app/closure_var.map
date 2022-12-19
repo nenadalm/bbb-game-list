@@ -25,10 +25,10 @@ JSCompiler_StaticMethods_setCreateObjectFn:Gp
 JSCompiler_StaticMethods_sval:bf
 JSCompiler_StaticMethods_toTraceString:Mp
 JSCompiler_inline_result$jscomp$237:sn
-JSCompiler_prototypeAlias:b
+JSCompiler_prototypeAlias:a
 JSCompiler_temp$jscomp$1782:xn
 JSCompiler_temp$jscomp$236:vn
-L 0:a
+L 0:b
 L 1:e
 L 10:J
 L 11:K

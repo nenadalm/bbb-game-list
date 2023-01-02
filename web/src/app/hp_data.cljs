@@ -82,6 +82,9 @@
                     #:com.boardgamegeek.mechanic{:id 2040,
                                                  :name
                                                  "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 3104,
+                                                 :name
+                                                 "Neighbor Scope"}
                     #:com.boardgamegeek.mechanic{:id 2004,
                                                  :name
                                                  "Set Collection"}
@@ -867,6 +870,9 @@
               :com.boardgamegeek.boardgame/mechanics
               (list #:com.boardgamegeek.mechanic{:id 2999,
                                                  :name "Bingo"}
+                    #:com.boardgamegeek.mechanic{:id 2875,
+                                                 :name
+                                                 "End Game Bonuses"}
                     #:com.boardgamegeek.mechanic{:id 2978,
                                                  :name "Grid Coverage"}
                     #:com.boardgamegeek.mechanic{:id 2039,
@@ -874,6 +880,9 @@
                     #:com.boardgamegeek.mechanic{:id 2055,
                                                  :name
                                                  "Paper-and-Pencil"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}
                     #:com.boardgamegeek.mechanic{:id 2819,
                                                  :name
                                                  "Solo / Solitaire Game"}
@@ -970,7 +979,7 @@
               :com.boardgamegeek.boardgame/id "155426",
               :game/name "Castles of Mad King Ludwig",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/xkOTIpxwGQN4iyvbeqnytQ__thumb/img/kSSz-CQGEZPyiGzAKQCvSDsepRo=/fit-in/200x150/filters:strip_icc()/pic1961827.jpg"},
+              "https://cf.geekdo-images.com/jVAMlNeDMVZakxJPy-lDrQ__thumb/img/PfOJx2RMkYg-Uk7mWBMF0HvTxqo=/fit-in/200x150/filters:strip_icc()/pic7229993.jpg"},
              #uuid "59ccf897-4368-3ab7-ae8e-0ac969872f6e"
              {:game/id #uuid "59ccf897-4368-3ab7-ae8e-0ac969872f6e",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -1582,12 +1591,17 @@
               (list #:com.boardgamegeek.mechanic{:id 2023,
                                                  :name
                                                  "Cooperative Game"}
+                    #:com.boardgamegeek.mechanic{:id 2851,
+                                                 :name
+                                                 "Narrative Choice / Paragraph"}
                     #:com.boardgamegeek.mechanic{:id 2819,
                                                  :name
                                                  "Solo / Solitaire Game"}
                     #:com.boardgamegeek.mechanic{:id 2027,
+                                                 :name "Storytelling"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
                                                  :name
-                                                 "Storytelling"}),
+                                                 "Variable Player Powers"}),
               :name "Detektiv: Po stopách zločinu",
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1039,
@@ -2120,7 +2134,7 @@
               :com.boardgamegeek.boardgame/id "223040",
               :game/name "Fantasy Realms",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/gD1kqShFGb0GivKc4xU3OQ__thumb/img/by0fWdo3wkLm8SEBRT3AHJgGtYA=/fit-in/200x150/filters:strip_icc()/pic6985186.jpg"},
+              "https://cf.geekdo-images.com/A7IOpPt-lHrMYsbRmxXWdQ__thumb/img/XoD3fXgApfY7-dfYyFeE6FVkbfY=/fit-in/200x150/filters:strip_icc()/pic6177962.jpg"},
              #uuid "d4d366c3-ef56-36f3-9d46-11c9b253a40c"
              {:game/id #uuid "d4d366c3-ef56-36f3-9d46-11c9b253a40c",
               :com.boardgamegeek.boardgame/min-players 1,
@@ -2983,9 +2997,6 @@
                                                  :name "Dice Rolling"}
                     #:com.boardgamegeek.mechanic{:id 2041,
                                                  :name "Open Drafting"}
-                    #:com.boardgamegeek.mechanic{:id 2015,
-                                                 :name
-                                                 "Variable Player Powers"}
                     #:com.boardgamegeek.mechanic{:id 2082,
                                                  :name
                                                  "Worker Placement"}
@@ -3450,7 +3461,10 @@
                                                  "Turn Order: Claim Action"}
                     #:com.boardgamegeek.mechanic{:id 2015,
                                                  :name
-                                                 "Variable Player Powers"}),
+                                                 "Variable Player Powers"}
+                    #:com.boardgamegeek.mechanic{:id 2082,
+                                                 :name
+                                                 "Worker Placement"}),
               :name "Mombasa",
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1021,
@@ -3632,6 +3646,10 @@
               :game/name "Mysterium",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/wfeAiLK5n5hD1omhnlYLLA__thumb/img/NAl-NrSAmWvklSVr3hKrSwiszNA=/fit-in/200x150/filters:strip_icc()/pic2601683.jpg"},
+             #uuid "8e860cb0-91d0-3d27-93d9-3ea691cdaed9"
+             {:name "Nastupovat, prosím",
+              :game/id #uuid "8e860cb0-91d0-3d27-93d9-3ea691cdaed9",
+              :game/name "Nastupovat, prosím"},
              #uuid "9a217965-2908-38f8-8853-e9ee91b394e1"
              {:game/id #uuid "9a217965-2908-38f8-8853-e9ee91b394e1",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -4145,10 +4163,7 @@
              {:game/id #uuid "a25de331-0ee1-3c49-a544-820cb07931ab",
               :com.boardgamegeek.boardgame/min-players 2,
               :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2838,
-                                                 :name
-                                                 "Action Drafting"}
-                    #:com.boardgamegeek.mechanic{:id 2843,
+              (list #:com.boardgamegeek.mechanic{:id 2843,
                                                  :name "Follow"}
                     #:com.boardgamegeek.mechanic{:id 2040,
                                                  :name
@@ -4371,9 +4386,6 @@
                                                  "Network and Route Building"}
                     #:com.boardgamegeek.mechanic{:id 2686,
                                                  :name "Take That"}
-                    #:com.boardgamegeek.mechanic{:id 2019,
-                                                 :name
-                                                 "Team-Based Game"}
                     #:com.boardgamegeek.mechanic{:id 2814,
                                                  :name
                                                  "Traitor Game"}),
@@ -5702,6 +5714,9 @@
                     #:com.boardgamegeek.mechanic{:id 2661,
                                                  :name
                                                  "Push Your Luck"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}
                     #:com.boardgamegeek.mechanic{:id 2897,
                                                  :name
                                                  "Variable Set-up"}),
@@ -6545,6 +6560,8 @@
                                                  :name "Fantasy"}
                     #:com.boardgamegeek.category{:id 1046,
                                                  :name "Fighting"}
+                    #:com.boardgamegeek.category{:id 1120,
+                                                 :name "Print & Play"}
                     #:com.boardgamegeek.category{:id 1101,
                                                  :name
                                                  "Video Game Theme"}),
@@ -6861,6 +6878,7 @@
               #uuid "d2553040-14b0-31f5-8940-dd1bcd98fef2"
               #uuid "baf9b7dd-749d-37d7-888f-c84d255e682f"
               #uuid "2ca189f5-8500-3bf3-99b6-ec3203b0c227"
+              #uuid "8e860cb0-91d0-3d27-93d9-3ea691cdaed9"
               #uuid "9a217965-2908-38f8-8853-e9ee91b394e1"
               #uuid "be88402c-5149-3063-ab79-7e0e257de370"
               #uuid "0ede70a4-23b7-3ee1-8390-f63cb64fa118"
@@ -7009,6 +7027,7 @@
               #uuid "a43c9b65-f63b-3725-a1aa-7f2c1acb9cd7"
               #uuid "42d27dc7-6c36-316b-9b8e-ad5fdc42291a"
               #uuid "c454d8ad-4bf6-3848-b4ac-a9b352ed4b1f"
+              #uuid "8e860cb0-91d0-3d27-93d9-3ea691cdaed9"
               #uuid "4c54b604-59db-394a-a8d9-30ea0eeeab9d"
               #uuid "b850dd55-07f0-3f64-9ad5-8011570ee37a"
               #uuid "1a102e3f-96ba-30b5-aaad-36f2086699bb"
@@ -7272,6 +7291,7 @@
               #uuid "a43c9b65-f63b-3725-a1aa-7f2c1acb9cd7"
               #uuid "42d27dc7-6c36-316b-9b8e-ad5fdc42291a"
               #uuid "c454d8ad-4bf6-3848-b4ac-a9b352ed4b1f"
+              #uuid "8e860cb0-91d0-3d27-93d9-3ea691cdaed9"
               #uuid "4c54b604-59db-394a-a8d9-30ea0eeeab9d"
               #uuid "b850dd55-07f0-3f64-9ad5-8011570ee37a"
               #uuid "1a102e3f-96ba-30b5-aaad-36f2086699bb"
@@ -7532,6 +7552,7 @@
               #uuid "42d27dc7-6c36-316b-9b8e-ad5fdc42291a"
               #uuid "ecaa1394-0a12-3a94-b41e-949fe306eccd"
               #uuid "c454d8ad-4bf6-3848-b4ac-a9b352ed4b1f"
+              #uuid "8e860cb0-91d0-3d27-93d9-3ea691cdaed9"
               #uuid "4c54b604-59db-394a-a8d9-30ea0eeeab9d"
               #uuid "b850dd55-07f0-3f64-9ad5-8011570ee37a"
               #uuid "1a102e3f-96ba-30b5-aaad-36f2086699bb"
@@ -7793,6 +7814,7 @@
               #uuid "42d27dc7-6c36-316b-9b8e-ad5fdc42291a"
               #uuid "ecaa1394-0a12-3a94-b41e-949fe306eccd"
               #uuid "c454d8ad-4bf6-3848-b4ac-a9b352ed4b1f"
+              #uuid "8e860cb0-91d0-3d27-93d9-3ea691cdaed9"
               #uuid "be88402c-5149-3063-ab79-7e0e257de370"
               #uuid "4c54b604-59db-394a-a8d9-30ea0eeeab9d"
               #uuid "b850dd55-07f0-3f64-9ad5-8011570ee37a"

@@ -2446,6 +2446,31 @@
               :game/name "Happy Salmon",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/m0fTHQRSHztlpHsCzR9iAw__thumb/img/EA1AyifbIZB00-p569p0p7cBi5U=/fit-in/200x150/filters:strip_icc()/pic2913980.png"},
+             #uuid "7d486371-bb65-3063-b535-ceba4189d8ed"
+             {:game/id #uuid "7d486371-bb65-3063-b535-ceba4189d8ed",
+              :com.boardgamegeek.boardgame/min-players 3,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Open Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2020,
+                                                 :name
+                                                 "Simultaneous Action Selection"}),
+              :name "Heat",
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1033,
+                                                 :name "Mafia"}
+                    #:com.boardgamegeek.category{:id 1120,
+                                                 :name
+                                                 "Print & Play"}),
+              :com.boardgamegeek.boardgame/max-play-time 30,
+              :com.boardgamegeek.boardgame/max-players 5,
+              :com.boardgamegeek.boardgame/min-play-time 20,
+              :com.boardgamegeek.boardgame/id "157815",
+              :game/name "Heat",
+              :com.boardgamegeek.boardgame/thumbnail
+              "https://cf.geekdo-images.com/CpnZlx8K7GG_vltc9TaG6A__thumb/img/oJUkvtF7xeDQqGbcpRsZahx5Bmo=/fit-in/200x150/filters:strip_icc()/pic2027808.png"},
              #uuid "dd1bf333-48e3-3cde-80c2-6fb824ec3563"
              {:game/id #uuid "dd1bf333-48e3-3cde-80c2-6fb824ec3563",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -3699,6 +3724,36 @@
               :game/name "Oh My Gold!",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/nJ8W-gwiYwdiLAjXXrx0DA__thumb/img/F7WgkT05Obgk8tWAWIt8Gw5TOzo=/fit-in/200x150/filters:strip_icc()/pic4900839.png"},
+             #uuid "9eb88ba2-42e3-34d8-9344-188df65d0080"
+             {:game/id #uuid "9eb88ba2-42e3-34d8-9344-188df65d0080",
+              :com.boardgamegeek.boardgame/min-players 2,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}
+                    #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2850,
+                                                 :name "Events"}
+                    #:com.boardgamegeek.mechanic{:id 2822,
+                                                 :name
+                                                 "Scenario / Mission / Campaign Game"}
+                    #:com.boardgamegeek.mechanic{:id 2027,
+                                                 :name
+                                                 "Storytelling"}),
+              :name "Oltree",
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1010,
+                                                 :name "Fantasy"}
+                    #:com.boardgamegeek.category{:id 1035,
+                                                 :name "Medieval"}),
+              :com.boardgamegeek.boardgame/max-play-time 120,
+              :com.boardgamegeek.boardgame/max-players 4,
+              :com.boardgamegeek.boardgame/min-play-time 60,
+              :com.boardgamegeek.boardgame/id "293835",
+              :game/name "Oltréé",
+              :com.boardgamegeek.boardgame/thumbnail
+              "https://cf.geekdo-images.com/oRvBhsKMNDWdGtfccvGANg__thumb/img/ERE-7EhwiZ0fGp_I3zylLft9_Rk=/fit-in/200x150/filters:strip_icc()/pic6452865.png"},
              #uuid "0ede70a4-23b7-3ee1-8390-f63cb64fa118"
              {:game/id #uuid "0ede70a4-23b7-3ee1-8390-f63cb64fa118",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -6827,6 +6882,7 @@
               #uuid "bd4049a7-2730-31a1-bbc9-4a077d75facc"
               #uuid "e74034f2-fe54-3ab3-a118-302a9ba76f3f"
               #uuid "e29fbec4-4c71-3519-8e93-582b67df86f4"
+              #uuid "7d486371-bb65-3063-b535-ceba4189d8ed"
               #uuid "dd1bf333-48e3-3cde-80c2-6fb824ec3563"
               #uuid "d803129a-da52-3403-b88a-1331f9bf89b1"
               #uuid "7ae9577d-27ea-3c85-89c9-c0252f8ce36e"
@@ -6881,6 +6937,7 @@
               #uuid "8e860cb0-91d0-3d27-93d9-3ea691cdaed9"
               #uuid "9a217965-2908-38f8-8853-e9ee91b394e1"
               #uuid "be88402c-5149-3063-ab79-7e0e257de370"
+              #uuid "9eb88ba2-42e3-34d8-9344-188df65d0080"
               #uuid "0ede70a4-23b7-3ee1-8390-f63cb64fa118"
               #uuid "15097e77-e128-3a51-ae26-bec165792257"
               #uuid "4c54b604-59db-394a-a8d9-30ea0eeeab9d"
@@ -7170,6 +7227,7 @@
               #uuid "2ca189f5-8500-3bf3-99b6-ec3203b0c227"
               #uuid "9a217965-2908-38f8-8853-e9ee91b394e1"
               #uuid "be88402c-5149-3063-ab79-7e0e257de370"
+              #uuid "9eb88ba2-42e3-34d8-9344-188df65d0080"
               #uuid "0ede70a4-23b7-3ee1-8390-f63cb64fa118"
               #uuid "1f927c3f-4487-367e-92e9-a052e83a56b2"
               #uuid "d5380d3b-56d5-3783-a863-1af12c39f5c7"
@@ -7235,6 +7293,7 @@
               #uuid "77019157-27a1-3008-9fce-2ae005351ccb"
               #uuid "9ecf0011-c0af-37eb-a590-f247005f0399"
               #uuid "e29fbec4-4c71-3519-8e93-582b67df86f4"
+              #uuid "7d486371-bb65-3063-b535-ceba4189d8ed"
               #uuid "c472f5e1-d19c-3b23-81cc-674bc2cca2b3"
               #uuid "f54a3493-468c-3242-b3bc-a8c69487fd15"
               #uuid "0579d3ee-c46f-3638-934b-1acd5670d79c"
@@ -7393,6 +7452,7 @@
               #uuid "dce6433a-bef0-3dff-a22e-433b721bfc14"
               #uuid "d2553040-14b0-31f5-8940-dd1bcd98fef2"
               #uuid "be88402c-5149-3063-ab79-7e0e257de370"
+              #uuid "9eb88ba2-42e3-34d8-9344-188df65d0080"
               #uuid "0ede70a4-23b7-3ee1-8390-f63cb64fa118"
               #uuid "1f927c3f-4487-367e-92e9-a052e83a56b2"
               #uuid "d5380d3b-56d5-3783-a863-1af12c39f5c7"
@@ -7434,6 +7494,7 @@
               #uuid "a8c4fca6-c8b5-3278-8ca2-051b50797b8c"
               #uuid "d4d366c3-ef56-36f3-9d46-11c9b253a40c"
               #uuid "9ecf0011-c0af-37eb-a590-f247005f0399"
+              #uuid "7d486371-bb65-3063-b535-ceba4189d8ed"
               #uuid "548d40ad-9562-3712-a0a0-f072f66b395c"
               #uuid "f6bfd5a5-b179-3f4b-835d-47b8ec85c075"
               #uuid "15097e77-e128-3a51-ae26-bec165792257"
@@ -7648,6 +7709,7 @@
               #uuid "ebe3d298-d25e-3110-8e34-1c079e9455d9"
               #uuid "d4d366c3-ef56-36f3-9d46-11c9b253a40c"
               #uuid "33ef9db6-536f-307e-9b5a-71695627acc0"
+              #uuid "7d486371-bb65-3063-b535-ceba4189d8ed"
               #uuid "dd1bf333-48e3-3cde-80c2-6fb824ec3563"
               #uuid "f9d69482-936d-3195-9705-beedee2957b2"
               #uuid "4e734e9c-177f-37f2-8df6-2eddace65994"
@@ -7759,6 +7821,7 @@
               #uuid "207ce45d-a4c3-30dc-80c6-3241182256e7"
               #uuid "f34c07d8-a2a8-3a10-8e63-5059a3e9e35c"
               #uuid "6e8ce4f2-3cc4-37b8-9002-721e44843aaf"
+              #uuid "9eb88ba2-42e3-34d8-9344-188df65d0080"
               #uuid "0de2e3c8-72b8-39d4-a562-494bf756d805"
               #uuid "01f7b705-9b33-3897-969b-343e8a6e682e"
               #uuid "80180e7b-24e9-3f4c-abf1-de260b3f879b"
@@ -7923,6 +7986,7 @@
               #uuid "027df389-a20d-3cbe-886e-a91e5b10d58a"
               #uuid "33ef9db6-536f-307e-9b5a-71695627acc0"
               #uuid "7a1e450f-9cd7-3ead-9cf7-76977d58bd6f"
+              #uuid "7d486371-bb65-3063-b535-ceba4189d8ed"
               #uuid "aff8862a-8fba-39a6-86f4-ef02a3a228f9"
               #uuid "c472f5e1-d19c-3b23-81cc-674bc2cca2b3"
               #uuid "f54a3493-468c-3242-b3bc-a8c69487fd15"
@@ -8033,6 +8097,7 @@
               #uuid "0e13524e-0d23-310c-a97e-3ef1583014b4"
               #uuid "820f4af2-311d-382a-8fdb-6bfe520f83a0"
               #uuid "6e8ce4f2-3cc4-37b8-9002-721e44843aaf"
+              #uuid "9eb88ba2-42e3-34d8-9344-188df65d0080"
               #uuid "148309a1-2159-3de0-816b-266f7301dd3d"
               #uuid "568da493-2833-3009-ad26-7108e0683081"
               #uuid "f944b1ee-72e5-3ea8-832f-4eaf0dde6f09"

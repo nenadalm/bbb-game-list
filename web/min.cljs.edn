@@ -4,7 +4,9 @@
            :bbb {:entries #{app.bbb-core}
                  :output-to "resources/public/js/bbb_app.js"}
            :hp {:entries #{app.hp-core}
-                :output-to "resources/public/js/hp_app.js"}}
+                :output-to "resources/public/js/hp_app.js"}
+           :core {:entries #{app.core}
+                  :output-to "resources/public/js/app.js"}}
  :output-dir "resources/public/js/compiled/app"
  :asset-path "/js/compiled/app"
  :optimizations :advanced

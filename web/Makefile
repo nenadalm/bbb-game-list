@@ -16,18 +16,30 @@ resources/public/css/styles.css: resources/private/css/styles.css
 resources/public/js/app.js:
 	clojure -M -m figwheel.main -bo min
 
-resources/public/bbb.html: resources/public/js/app.js resources/public/css/styles.css
+resources/public/manifest.json:
+	clojure -M -m build.create-manifest > $@
+
+resources/public/bbb.html: resources/public/js/app.js resources/public/css/styles.css resources/public/manifest.json
 	clojure -X build.create-index/print-bbb > $@
 
-resources/public/hp.html: resources/public/js/app.js resources/public/css/styles.css
+resources/public/hp.html: resources/public/js/app.js resources/public/css/styles.css resources/public/manifest.json
 	clojure -X build.create-index/print-hp > $@
+
+resources/public/index.html: resources/public/js/app.js resources/public/manifest.json
+	clojure -X build.create-index/print-index > $@
+
+resources/public/worker.js: resources/public/index.html resources/public/bbb.html resources/public/hp.html
+	clojure -M -m build.create-worker > $@
 
 .PHONY: clean
 clean:
-	rm -rf resources/public/css
-	rm -rf resources/public/js
-	rm -rf resources/public/hp.html
-	rm -rf resources/public/bbb.html
+	rm -rf resources/public/worker.js \
+	  resources/public/manifest.json \
+	  resources/public/css \
+	  resources/public/js \
+	  resources/public/hp.html \
+	  resources/public/bbb.html \
+	  resources/public/index.html
 
 .PHONY: all
-all: resources/public/bbb.html resources/public/hp.html
+all: resources/public/worker.js

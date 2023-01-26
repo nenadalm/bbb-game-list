@@ -30,3 +30,8 @@
  ::sorting
  (fn [db _]
    (select-keys db [:app/sort-dir :app/sort-key])))
+
+(re-frame/reg-sub
+ ::feature-enabled
+ (fn [db [_ feature]]
+   (-> db :app/features feature boolean)))

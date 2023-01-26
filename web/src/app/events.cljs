@@ -2,13 +2,16 @@
   (:require
    [re-frame.core :as re-frame]))
 
+;; `features`
+;; - `:app.filter/new` - filter showing only new games
 (re-frame/reg-event-db
  ::init
- (fn [db [_ game-data]]
+ (fn [db [_ game-data features]]
    (merge db
           game-data
           {:app/sort-key :game/name
-           :app/sort-dir :asc})))
+           :app/sort-dir :asc
+           :app/features (into #{} features)})))
 
 (re-frame/reg-event-db
  ::sort-by

@@ -104,13 +104,15 @@
      icon]))
 
 (defn game-list []
-  (let [sorting @(re-frame/subscribe [::subsc/sorting])]
+  (let [sorting @(re-frame/subscribe [::subsc/sorting])
+        filter-new-enabled @(re-frame/subscribe [::subsc/feature-enabled :app.filter/new])]
     [:table.game-list
      [:thead
       [:tr
        [:th
-        [:label [:input {:type "checkbox"
-                         :on-change #(re-frame/dispatch [::events/show-only-new (.-target.checked %)])}] "only new"]]
+        (when filter-new-enabled
+          [:label [:input {:type "checkbox"
+                           :on-change #(re-frame/dispatch [::events/show-only-new (.-target.checked %)])}] "only new"])]
        [sortable-th {:text "Title"
                      :key :game/name
                      :sorting sorting}]

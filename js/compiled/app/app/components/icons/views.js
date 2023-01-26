@@ -9,8 +9,8 @@ app.components.icons.views.arrow_down = (function app$components$icons$views$arr
 return new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [cljs.core.cst$kw$span$i_DASH_arrow_DASH_down], null);
 });
 app.components.icons.views.language = (function app$components$icons$views$language(s){
-var class$ = (function (){var G__13959 = s;
-switch (G__13959) {
+var class$ = (function (){var G__13964 = s;
+switch (G__13964) {
 case "cz":
 return "i-country-cz";
 

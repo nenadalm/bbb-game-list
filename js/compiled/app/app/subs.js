@@ -28,3 +28,11 @@ return cljs.core.vals(games);
 re_frame.core.reg_sub.cljs$core$IFn$_invoke$arity$variadic(cljs.core.cst$kw$app$subs_SLASH_sorting,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([(function (db,_){
 return cljs.core.select_keys(db,new cljs.core.PersistentVector(null, 2, 5, cljs.core.PersistentVector.EMPTY_NODE, [cljs.core.cst$kw$app_SLASH_sort_DASH_dir,cljs.core.cst$kw$app_SLASH_sort_DASH_key], null));
 })], 0));
+re_frame.core.reg_sub.cljs$core$IFn$_invoke$arity$variadic(cljs.core.cst$kw$app$subs_SLASH_feature_DASH_enabled,cljs.core.prim_seq.cljs$core$IFn$_invoke$arity$2([(function (db,p__13943){
+var vec__13944 = p__13943;
+var _ = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__13944,(0),null);
+var feature = cljs.core.nth.cljs$core$IFn$_invoke$arity$3(vec__13944,(1),null);
+return cljs.core.boolean$((function (){var G__13947 = cljs.core.cst$kw$app_SLASH_features.cljs$core$IFn$_invoke$arity$1(db);
+return (feature.cljs$core$IFn$_invoke$arity$1 ? feature.cljs$core$IFn$_invoke$arity$1(G__13947) : feature.call(null,G__13947));
+})());
+})], 0));

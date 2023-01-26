@@ -4,12 +4,12 @@ goog.require('cljs.core');
 goog.require('cljs.core.constants');
 goog.require('app.config');
 app.core.register_worker = (function app$core$register_worker(){
-var G__14037 = navigator;
-var G__14037__$1 = (((G__14037 == null))?null:G__14037.serviceWorker);
-if((G__14037__$1 == null)){
+var G__14042 = navigator;
+var G__14042__$1 = (((G__14042 == null))?null:G__14042.serviceWorker);
+if((G__14042__$1 == null)){
 return null;
 } else {
-return G__14037__$1.register("worker.js");
+return G__14042__$1.register("worker.js");
 }
 });
 app.core.dev_setup = (function app$core$dev_setup(){

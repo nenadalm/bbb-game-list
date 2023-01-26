@@ -1,4 +1,4 @@
-(ns app.bbb_data)
+(ns app.bbb-data)
 (def game-data
 #:game-list{:games
             {#uuid "4a3e0096-1a08-379c-b4f9-1ca0070ea2f5"

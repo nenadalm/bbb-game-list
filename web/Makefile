@@ -1,11 +1,11 @@
 .DEFAULT_GOAL := all
 
-.PHONY: src/app/bbb_data.cljs
-src/app/bbb_data.cljs:
+.PHONY: src/app/bbb_data.cljc
+src/app/bbb_data.cljc:
 	cd ../importer && clojure -X app.core/print-bbb-games > ../web/$@
 
-.PHONY: src/app/hp_data.cljs
-src/app/hp_data.cljs:
+.PHONY: src/app/hp_data.cljc
+src/app/hp_data.cljc:
 	cd ../importer && clojure -X app.core/print-hp-games > ../web/$@
 
 resources/public/css/styles.css: resources/private/css/styles.css

@@ -112,7 +112,7 @@
        [:th
         (when filter-new-enabled
           [:label [:input {:type "checkbox"
-                           :on-change #(re-frame/dispatch [::events/show-only-new (.-target.checked %)])}] "only new"])]
+                           :on-change #(re-frame/dispatch [::events/show-only-new (.-target.checked ^js %)])}] "only new"])]
        [sortable-th {:text "Title"
                      :key :game/name
                      :sorting sorting}]

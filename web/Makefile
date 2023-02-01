@@ -12,9 +12,12 @@ resources/public/css/styles.css: resources/private/css/styles.css
 	mkdir -p $(dir $@)
 	./node_modules/.bin/css-combine $^ > $@
 
+node_modules: yarn.lock
+	yarn install
+
 .PHONY: resources/public/js/app.js
-resources/public/js/app.js:
-	clojure -M -m figwheel.main -bo min
+resources/public/js/app.js: node_modules
+	yarn release
 
 resources/public/manifest.json:
 	clojure -M -m build.create-manifest > $@

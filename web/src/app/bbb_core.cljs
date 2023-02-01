@@ -1,4 +1,4 @@
-(ns ^:figwheel-hooks app.bbb-core
+(ns app.bbb-core
   (:require
    [re-frame.core :as re-frame]
    [reagent.dom :as reagent-dom]
@@ -22,5 +22,5 @@
   (re-frame/dispatch-sync [::events/init data/game-data #{:app.filter/new}])
   (mount-root))
 
-(defn ^:after-load after-load []
+(defn ^:dev/after-load after-load []
   (mount-root))

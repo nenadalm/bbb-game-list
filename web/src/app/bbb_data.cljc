@@ -1394,6 +1394,8 @@
                                                  :name "Income"}
                     #:com.boardgamegeek.mechanic{:id 2011,
                                                  :name "Modular Board"}
+                    #:com.boardgamegeek.mechanic{:id 2915,
+                                                 :name "Negotiation"}
                     #:com.boardgamegeek.mechanic{:id 2081,
                                                  :name
                                                  "Network and Route Building"}
@@ -2928,9 +2930,9 @@
              {:game/id #uuid "b2980c72-2a1a-3e7a-b030-3718ce5491d8",
               :com.boardgamegeek.boardgame/min-players 2,
               :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 3004,
+              (list #:com.boardgamegeek.mechanic{:id 2664,
                                                  :name
-                                                 "Deck Construction"}
+                                                 "Deck, Bag, and Pool Building"}
                     #:com.boardgamegeek.mechanic{:id 2901,
                                                  :name
                                                  "Delayed Purchase"}
@@ -7165,7 +7167,7 @@
               :languages (list "en"),
               :game/name "Mobile Markets: A Smartphone Inc. Game",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/SW5qyUXKriiJ8ynLX0j6Aw__thumb/img/5nCK4Q83jNIS_oc_SV0mLE8U7z4=/fit-in/200x150/filters:strip_icc()/pic6364797.jpg"},
+              "https://cf.geekdo-images.com/DI1qfsJsPJr2-Nlgii1wUg__thumb/img/AVH0SsLjwcDfetVsHdbY5i0q9OM=/fit-in/200x150/filters:strip_icc()/pic7338111.png"},
              #uuid "dce6433a-bef0-3dff-a22e-433b721bfc14"
              {:game/id #uuid "dce6433a-bef0-3dff-a22e-433b721bfc14",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -8922,7 +8924,9 @@
               :com.boardgamegeek.boardgame/min-play-time 30,
               :com.boardgamegeek.boardgame/id "377290",
               :languages (list "cz"),
-              :game/name "Párty trefa"},
+              :game/name "Párty trefa",
+              :com.boardgamegeek.boardgame/thumbnail
+              "https://cf.geekdo-images.com/N2Z_gA0mJxeB4h4t5BWvCg__thumb/img/2kIlZqapDEFr2zEumE6629A2yKw=/fit-in/200x150/filters:strip_icc()/pic7310921.jpg"},
              #uuid "3e850aae-9e73-3e9f-ae41-3f5219abd997"
              {:game/id #uuid "3e850aae-9e73-3e9f-ae41-3f5219abd997",
               :com.boardgamegeek.boardgame/min-players 3,
@@ -9767,9 +9771,6 @@
                     #:com.boardgamegeek.mechanic{:id 2947,
                                                  :name
                                                  "Movement Points"}
-                    #:com.boardgamegeek.mechanic{:id 2851,
-                                                 :name
-                                                 "Narrative Choice / Paragraph"}
                     #:com.boardgamegeek.mechanic{:id 2819,
                                                  :name
                                                  "Solo / Solitaire Game"}

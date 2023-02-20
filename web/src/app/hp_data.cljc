@@ -655,6 +655,8 @@
                                                  :name "Income"}
                     #:com.boardgamegeek.mechanic{:id 2011,
                                                  :name "Modular Board"}
+                    #:com.boardgamegeek.mechanic{:id 2915,
+                                                 :name "Negotiation"}
                     #:com.boardgamegeek.mechanic{:id 2081,
                                                  :name
                                                  "Network and Route Building"}
@@ -954,6 +956,9 @@
                     #:com.boardgamegeek.mechanic{:id 2906,
                                                  :name
                                                  "I Cut, You Choose"}
+                    #:com.boardgamegeek.mechanic{:id 2914,
+                                                 :name
+                                                 "Increase Value of Unchosen Resources"}
                     #:com.boardgamegeek.mechanic{:id 2048,
                                                  :name
                                                  "Pattern Building"}
@@ -1679,9 +1684,9 @@
              {:game/id #uuid "b2980c72-2a1a-3e7a-b030-3718ce5491d8",
               :com.boardgamegeek.boardgame/min-players 2,
               :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 3004,
+              (list #:com.boardgamegeek.mechanic{:id 2664,
                                                  :name
-                                                 "Deck Construction"}
+                                                 "Deck, Bag, and Pool Building"}
                     #:com.boardgamegeek.mechanic{:id 2901,
                                                  :name
                                                  "Delayed Purchase"}
@@ -4590,9 +4595,6 @@
                     #:com.boardgamegeek.mechanic{:id 2947,
                                                  :name
                                                  "Movement Points"}
-                    #:com.boardgamegeek.mechanic{:id 2851,
-                                                 :name
-                                                 "Narrative Choice / Paragraph"}
                     #:com.boardgamegeek.mechanic{:id 2819,
                                                  :name
                                                  "Solo / Solitaire Game"}

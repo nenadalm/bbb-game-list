@@ -131,7 +131,7 @@
               :languages (list "en"),
               :game/name "Acquire",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/3C--kJRhi6kTPHsr9dNaWw__thumb/img/EQqszaHS3n6XplVVGQfTZtGc8fE=/fit-in/200x150/filters:strip_icc()/pic3299296.jpg"},
+              "https://cf.geekdo-images.com/FfguJeknahk88vKT7C3JLA__thumb/img/cpf23VxElZxuYaIGcgrjPn80sZY=/fit-in/200x150/filters:strip_icc()/pic7376875.jpg"},
              #uuid "0b19c10a-bb77-3af8-aa4d-afff0d8b7fbe"
              {:game/id #uuid "0b19c10a-bb77-3af8-aa4d-afff0d8b7fbe",
               :com.boardgamegeek.boardgame/min-players 1,
@@ -1444,9 +1444,6 @@
                     #:com.boardgamegeek.mechanic{:id 2048,
                                                  :name
                                                  "Pattern Building"}
-                    #:com.boardgamegeek.mechanic{:id 2822,
-                                                 :name
-                                                 "Scenario / Mission / Campaign Game"}
                     #:com.boardgamegeek.mechanic{:id 2004,
                                                  :name
                                                  "Set Collection"}
@@ -2149,7 +2146,7 @@
               :languages (list "en"),
               :game/name "Clue",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/owlmDA10KegcwPaapY5auw__thumb/img/73FO0H7pORdum5ZexMXyrjLhpVU=/fit-in/200x150/filters:strip_icc()/pic5146918.png"},
+              "https://cf.geekdo-images.com/9b4eXVabqZMGv27Vc5Tt-Q__thumb/img/Do9rj9AUphuzw1XanPZGeT0inYY=/fit-in/200x150/filters:strip_icc()/pic7391562.jpg"},
              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a"
              {:game/id #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -3219,7 +3216,10 @@
                                                  :name "Negotiation"}
                     #:com.boardgamegeek.mechanic{:id 2892,
                                                  :name
-                                                 "Roles with Asymmetric Information"}),
+                                                 "Roles with Asymmetric Information"}
+                    #:com.boardgamegeek.mechanic{:id 2822,
+                                                 :name
+                                                 "Scenario / Mission / Campaign Game"}),
               :new true,
               :name "Decorum",
               :com.boardgamegeek.boardgame/categories
@@ -4768,7 +4768,7 @@
               :languages (list "cz"),
               :game/name "Happy Salmon",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/m0fTHQRSHztlpHsCzR9iAw__thumb/img/EA1AyifbIZB00-p569p0p7cBi5U=/fit-in/200x150/filters:strip_icc()/pic2913980.png"},
+              "https://cf.geekdo-images.com/qiPO300rG73UqxJvpUe3og__thumb/img/jo26IkaY-DSx4MhfRQ7lDHCPtbo=/fit-in/200x150/filters:strip_icc()/pic7354069.jpg"},
              #uuid "d9ff8a5f-72de-3a40-99bd-301e426485bd"
              {:game/id #uuid "d9ff8a5f-72de-3a40-99bd-301e426485bd",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -5752,8 +5752,10 @@
                                                  :name
                                                  "Hand Management"}
                     #:com.boardgamegeek.mechanic{:id 2041,
+                                                 :name "Open Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2849,
                                                  :name
-                                                 "Open Drafting"}),
+                                                 "Tech Trees / Tech Tracks"}),
               :name "Kemet",
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1050,
@@ -6028,6 +6030,9 @@
               :com.boardgamegeek.boardgame/mechanics
               (list #:com.boardgamegeek.mechanic{:id 2072,
                                                  :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2849,
+                                                 :name
+                                                 "Tech Trees / Tech Tracks"}
                     #:com.boardgamegeek.mechanic{:id 2935,
                                                  :name
                                                  "Worker Placement with Dice Workers"}),
@@ -8354,9 +8359,6 @@
               :com.boardgamegeek.boardgame/mechanics
               (list #:com.boardgamegeek.mechanic{:id 2072,
                                                  :name "Dice Rolling"}
-                    #:com.boardgamegeek.mechanic{:id 2078,
-                                                 :name
-                                                 "Point to Point Movement"}
                     #:com.boardgamegeek.mechanic{:id 2876,
                                                  :name "Race"}
                     #:com.boardgamegeek.mechanic{:id 2035,
@@ -10134,9 +10136,6 @@
                                                  "Area Majority / Influence"}
                     #:com.boardgamegeek.mechanic{:id 2046,
                                                  :name "Area Movement"}
-                    #:com.boardgamegeek.mechanic{:id 2932,
-                                                 :name
-                                                 "Auction: Dutch Priority"}
                     #:com.boardgamegeek.mechanic{:id 2072,
                                                  :name "Dice Rolling"}
                     #:com.boardgamegeek.mechanic{:id 2987,
@@ -11092,9 +11091,15 @@
              {:game/id #uuid "1e78ea48-893a-3f8e-91e2-01c9ff0e706e",
               :com.boardgamegeek.boardgame/min-players 2,
               :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2060,
+              (list #:com.boardgamegeek.mechanic{:id 2860,
+                                                 :name "Flicking"}
+                    #:com.boardgamegeek.mechanic{:id 2060,
                                                  :name
-                                                 "Pattern Recognition"}),
+                                                 "Pattern Recognition"}
+                    #:com.boardgamegeek.mechanic{:id 2876,
+                                                 :name "Race"}
+                    #:com.boardgamegeek.mechanic{:id 2831,
+                                                 :name "Real-Time"}),
               :name "Taco Cat Goat Cheese Pizza",
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1002,
@@ -11874,6 +11879,8 @@
               :com.boardgamegeek.boardgame/mechanics
               (list #:com.boardgamegeek.mechanic{:id 2883,
                                                  :name "Connections"}
+                    #:com.boardgamegeek.mechanic{:id 2912,
+                                                 :name "Contracts"}
                     #:com.boardgamegeek.mechanic{:id 2875,
                                                  :name
                                                  "End Game Bonuses"}
@@ -12301,8 +12308,22 @@
              {:game/id #uuid "c7c696a4-cd43-3f05-8ded-2f78a4d85cb7",
               :com.boardgamegeek.boardgame/min-players 2,
               :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2978,
+              (list #:com.boardgamegeek.mechanic{:id 2984,
+                                                 :name
+                                                 "Closed Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2875,
+                                                 :name
+                                                 "End Game Bonuses"}
+                    #:com.boardgamegeek.mechanic{:id 2978,
                                                  :name "Grid Coverage"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
+                                                 :name
+                                                 "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2947,
+                                                 :name
+                                                 "Movement Points"}
+                    #:com.boardgamegeek.mechanic{:id 2876,
+                                                 :name "Race"}
                     #:com.boardgamegeek.mechanic{:id 2002,
                                                  :name
                                                  "Tile Placement"}),

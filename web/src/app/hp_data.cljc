@@ -566,7 +566,7 @@
               :com.boardgamegeek.boardgame/id "40247",
               :game/name "BrainBox: The World",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/KD8s1tfOR4VRaU-nuWi8Aw__thumb/img/RN6c5aXe7Fh_n1NbSJsJCYXZidc=/fit-in/200x150/filters:strip_icc()/pic1320389.jpg"},
+              "https://cf.geekdo-images.com/O5IFxmBx9gOXnD5sMDKaqA__thumb/img/ilQPtjtVK5kPm1aFc7cD2q2_OY0=/fit-in/200x150/filters:strip_icc()/pic7361233.png"},
              #uuid "377d98f7-b3ec-3359-9349-834721f22c39"
              {:game/id #uuid "377d98f7-b3ec-3359-9349-834721f22c39",
               :com.boardgamegeek.boardgame/min-players 1,
@@ -699,9 +699,6 @@
                     #:com.boardgamegeek.mechanic{:id 2048,
                                                  :name
                                                  "Pattern Building"}
-                    #:com.boardgamegeek.mechanic{:id 2822,
-                                                 :name
-                                                 "Scenario / Mission / Campaign Game"}
                     #:com.boardgamegeek.mechanic{:id 2004,
                                                  :name
                                                  "Set Collection"}
@@ -2489,7 +2486,7 @@
               :com.boardgamegeek.boardgame/id "194626",
               :game/name "Happy Salmon",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/m0fTHQRSHztlpHsCzR9iAw__thumb/img/EA1AyifbIZB00-p569p0p7cBi5U=/fit-in/200x150/filters:strip_icc()/pic2913980.png"},
+              "https://cf.geekdo-images.com/qiPO300rG73UqxJvpUe3og__thumb/img/jo26IkaY-DSx4MhfRQ7lDHCPtbo=/fit-in/200x150/filters:strip_icc()/pic7354069.jpg"},
              #uuid "7d486371-bb65-3063-b535-ceba4189d8ed"
              {:game/id #uuid "7d486371-bb65-3063-b535-ceba4189d8ed",
               :com.boardgamegeek.boardgame/min-players 3,
@@ -5869,6 +5866,8 @@
               :com.boardgamegeek.boardgame/mechanics
               (list #:com.boardgamegeek.mechanic{:id 2883,
                                                  :name "Connections"}
+                    #:com.boardgamegeek.mechanic{:id 2912,
+                                                 :name "Contracts"}
                     #:com.boardgamegeek.mechanic{:id 2875,
                                                  :name
                                                  "End Game Bonuses"}
@@ -6331,9 +6330,9 @@
                                                  "Murder/Mystery"}
                     #:com.boardgamegeek.category{:id 1030,
                                                  :name "Party Game"}),
-              :com.boardgamegeek.boardgame/max-play-time 30,
-              :com.boardgamegeek.boardgame/max-players 18,
-              :com.boardgamegeek.boardgame/min-play-time 10,
+              :com.boardgamegeek.boardgame/max-play-time 20,
+              :com.boardgamegeek.boardgame/max-players 16,
+              :com.boardgamegeek.boardgame/min-play-time 20,
               :com.boardgamegeek.boardgame/id "178570",
               :game/name "Unusual Suspects",
               :com.boardgamegeek.boardgame/thumbnail
@@ -7743,7 +7742,6 @@
               #uuid "7bae0b38-0a96-3ecc-b46e-2fb84ebd8dd8"
               #uuid "7f5189ca-4731-3666-98c6-d9971b474aa1"
               #uuid "057abd33-3d4e-3b86-910f-0222e183f56e"
-              #uuid "3869917f-f9bd-38a8-9d4e-09d2c2ef7c7e"
               #uuid "97fc6923-396a-3ad8-8a4c-70879893f4b7"
               #uuid "4252b72e-6ebc-34d4-b4c2-e46a786f03d2"
               #uuid "0746ccba-be89-3d2f-a4b6-af590e489ff0"
@@ -7802,6 +7800,7 @@
               #uuid "c3ab8870-b2d0-3f3d-a44a-120ab450ca92"
               #uuid "134c5416-16b9-3118-a547-774f6df7bbcd"
               #uuid "99060139-4d5e-36c5-9110-0c35b80fc62b"
+              #uuid "3869917f-f9bd-38a8-9d4e-09d2c2ef7c7e"
               #uuid "e1430e4c-80e9-31f8-9ecf-0ed7fd002067"
               #uuid "2c40cbc2-ccb0-39ee-adb2-622f1540de8b"
               #uuid "d9f32343-726b-3216-b5cf-a0582b8d14bb"
@@ -8038,6 +8037,7 @@
               #uuid "c3ab8870-b2d0-3f3d-a44a-120ab450ca92"
               #uuid "134c5416-16b9-3118-a547-774f6df7bbcd"
               #uuid "a25945e1-791c-30a2-a58e-554b333ef31d"
+              #uuid "3869917f-f9bd-38a8-9d4e-09d2c2ef7c7e"
               #uuid "97fc6923-396a-3ad8-8a4c-70879893f4b7"
               #uuid "53522ad6-7a42-3c5c-8f4a-c9fc089fbbb4"
               #uuid "843ecaf0-bb25-3a67-af63-f8a4bc3708a3"
@@ -8097,7 +8097,6 @@
               #uuid "1f6abbcc-6aa7-3fbf-8c11-f5ea47b5cb4d"
               #uuid "c3fa9226-9cf9-3afa-8844-dff274cc446d"
               #uuid "e569f33c-48a2-3246-9c1e-d21707a2a932"
-              #uuid "3869917f-f9bd-38a8-9d4e-09d2c2ef7c7e"
               #uuid "cb8144ed-c9ec-3a63-93a2-c2c4c8b3752e"
               #uuid "48cc9f9b-95f7-32bf-9ae6-be71c7c59b8f"
               #uuid "36749cc5-01bd-3292-aaaf-44525fc6ed7b"

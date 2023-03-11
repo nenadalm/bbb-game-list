@@ -15,7 +15,7 @@
 (defn asset-hash [path]
   (if-let [url (io/resource (str "public/" path))]
     (file-hash url)
-    (throw (ex-info "Asset not found." {:path path}))))
+    (throw (ex-info (str "Asset '" path "' not found.") {:path path}))))
 
 (defn asset [path]
   (str path "?v=" (asset-hash path)))

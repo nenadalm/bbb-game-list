@@ -1,7 +1,9 @@
 (ns build.create-index
   (:require
    [clojure.java.shell :as shell]
+   [clojure.java.io :as io]
    [clojure.string :as str]
+   [clojure.edn :as edn]
    [build.util :as u]))
 
 (defn- sh [& args]
@@ -13,16 +15,17 @@
 (defn- app-version []
   (sh "git" "rev-parse" "HEAD"))
 
-(defn- render-bbb []
-  (str
-   "<!doctype html>
+(defn- render-project [opts]
+  (let [{:keys [title description project]} opts]
+    (str
+     "<!doctype html>
 <html lang=\"en-US\">
   <head>
     <meta charset=\"utf-8\">
     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
     <meta name=\"app-version\" content=\"" (app-version) "\">
-    <meta name=\"description\" content=\"List of games at Bohemia boards and brews.\">
-    <title>Games - Bohemia boards and brews</title>
+    <meta name=\"description\" content=\"" description "\">
+    <title>" title "</title>
     <link rel=\"stylesheet\" href=\"" (u/asset "css/styles.css") "\">
     <link rel=\"icon\" href=\"" (u/asset "img/icon.svg") "\" type=\"image/svg+xml\">
     <link rel=\"apple-touch-icon\" href=\"" (u/asset "img/icon_192.png") "\">
@@ -31,37 +34,17 @@
   <body>
     <div id=\"app\"></div>
     <script src=\"" (u/asset "js/cljs_base.js") "\"></script>
-    <script src=\"" (u/asset "js/bbb_app.js") "\"></script>
-    <script>app.bbb_core.init();</script>
+    <script src=\"" (u/asset (str "js/" project "_app.js")) "\"></script>
+    <script>app." project "_core.init();</script>
   </body>
-</html>"
-   ))
+</html>")))
 
-(defn- render-hp []
-  (str
-   "<!doctype html>
-<html lang=\"en-US\">
-  <head>
-    <meta charset=\"utf-8\">
-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
-    <meta name=\"app-version\" content=\"" (app-version) "\">
-    <meta name=\"description\" content=\"List of games at Herní prostor.\">
-    <title>Games - Herní prostor</title>
-    <link rel=\"stylesheet\" href=\"" (u/asset "css/styles.css") "\">
-    <link rel=\"icon\" href=\"" (u/asset "img/icon.svg") "\" type=\"image/svg+xml\">
-    <link rel=\"apple-touch-icon\" href=\"" (u/asset "img/icon_192.png") "\">
-    <link rel=\"manifest\" href=\"" (u/asset "manifest.json") "\">
-  </head>
-  <body>
-    <div id=\"app\"></div>
-    <script src=\"" (u/asset "js/cljs_base.js") "\"></script>
-    <script src=\"" (u/asset "js/hp_app.js") "\"></script>
-    <script>app.hp_core.init();</script>
-  </body>
-</html>"
-   ))
+(defn- render-project-item [project]
+  (str "<li>
+  <a href=\"" (:project project) ".html\">" (:label project) "</a>
+</li>"))
 
-(defn- render-index []
+(defn- render-index [projects]
   (str
    "<!doctype html>
 <html lang=\"en-US\">
@@ -77,26 +60,19 @@
   </head>
   <body>
     Lists
-    <ul>
-      <li>
-        <a href=\"bbb.html\">bohemiaboardsandbrews.com</a>
-      </li>
-      <li>
-        <a href=\"hp.html\">herniprostor.cz</a>
-      </li>
-    </ul>
+    <ul>" (str/join "\n" (mapv render-project-item projects)) "</ul>
     <script src=\"" (u/asset "js/cljs_base.js") "\"></script>
     <script src=\"" (u/asset "js/app.js") "\"></script>
     <script>app.core.init();</script>
   </body>
-</html>"
-   ))
+</html>"))
 
-(defn print-bbb [_]
-  (println (render-bbb)))
+(defn- read-edn [f]
+  (with-open [r (io/reader f)]
+    (edn/read (java.io.PushbackReader. r))))
 
-(defn print-hp [_]
-  (println (render-hp)))
-
-(defn print-index [_]
-  (println (render-index)))
+(defn execute [_]
+  (let [projects (read-edn "../projects.edn")]
+    (doseq [project projects]
+      (spit (str "resources/public/" (:project project) ".html") (render-project project)))
+    (spit "resources/public/index.html" (render-index projects))))

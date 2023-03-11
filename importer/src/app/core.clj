@@ -104,16 +104,20 @@
     {:game-list/games games-list
      :game-list/sorting (games-sorting (vals games-list))}))
 
-(defn print-bbb-games [_]
+(defn- print-bbb-games []
   (println "(ns app.bbb-data)")
   (println "(def game-data")
   (pp/with-pprint-dispatch clojure-dispatch
     (pp/pprint (games->db (bbb-games))))
   (println ")"))
 
-(defn print-hp-games [_]
+(defn- print-hp-games []
   (println "(ns app.hp-data)")
   (println "(def game-data")
   (pp/with-pprint-dispatch clojure-dispatch
     (pp/pprint (games->db (hp-games))))
   (println ")"))
+
+(defn create-data [_]
+  (spit "../web/src/app/hp_data.cljc" (with-out-str (print-hp-games)))
+  (spit "../web/src/app/bbb_data.cljc" (with-out-str (print-bbb-games))))

@@ -1,0 +1,8 @@
+[{:title "Games - Bohemia boards and brews"
+  :description "List of games at Bohemia boards and brews."
+  :project "bbb"
+  :label "bohemiaboardsandbrews.com"}
+ {:title "Games - Herní prostor"
+  :description "List of games at Herní prostor."
+  :project "hp"
+  :label "herniprostor.cz"}]

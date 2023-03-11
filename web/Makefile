@@ -1,12 +1,8 @@
 .DEFAULT_GOAL := all
 
-.PHONY: src/app/bbb_data.cljc
-src/app/bbb_data.cljc:
-	cd ../importer && clojure -X app.core/print-bbb-games > ../web/$@
-
-.PHONY: src/app/hp_data.cljc
-src/app/hp_data.cljc:
-	cd ../importer && clojure -X app.core/print-hp-games > ../web/$@
+.PHONY: game-data
+game-data:
+	cd ../importer && clojure -X app.core/create-data
 
 resources/public/css/styles.css: resources/private/css/styles.css
 	mkdir -p $(dir $@)
@@ -22,16 +18,10 @@ resources/public/js/app.js: node_modules
 resources/public/manifest.json:
 	clojure -M -m build.create-manifest > $@
 
-resources/public/bbb.html: resources/public/js/app.js resources/public/css/styles.css resources/public/manifest.json
-	clojure -X build.create-index/print-bbb > $@
+resources/public/index.html: resources/public/js/app.js resources/public/css/styles.css resources/public/manifest.json
+	clojure -X build.create-index/execute
 
-resources/public/hp.html: resources/public/js/app.js resources/public/css/styles.css resources/public/manifest.json
-	clojure -X build.create-index/print-hp > $@
-
-resources/public/index.html: resources/public/js/app.js resources/public/manifest.json
-	clojure -X build.create-index/print-index > $@
-
-resources/public/worker.js: resources/public/index.html resources/public/bbb.html resources/public/hp.html
+resources/public/worker.js: resources/public/index.html
 	clojure -M -m build.create-worker > $@
 
 .PHONY: clean
@@ -40,9 +30,7 @@ clean:
 	  resources/public/manifest.json \
 	  resources/public/css \
 	  resources/public/js \
-	  resources/public/hp.html \
-	  resources/public/bbb.html \
-	  resources/public/index.html
+	  resources/public/*.html
 
 .PHONY: all
 all: resources/public/worker.js

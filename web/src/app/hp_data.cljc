@@ -4978,6 +4978,40 @@
               :game/name "Spot it!",
               :com.boardgamegeek.boardgame/thumbnail
               "https://cf.geekdo-images.com/b_6y9HdMqZMmFuOJ8o02yw__thumb/img/Q_Gvn8TlbxRWxWtG-yPeTxpm6E0=/fit-in/200x150/filters:strip_icc()/pic1203476.jpg"},
+             #uuid "0e6ae61b-96ea-34fa-b4e9-cdd45a2bd542"
+             {:game/id #uuid "0e6ae61b-96ea-34fa-b4e9-cdd45a2bd542",
+              :com.boardgamegeek.boardgame/min-players 1,
+              :com.boardgamegeek.boardgame/mechanics
+              (list #:com.boardgamegeek.mechanic{:id 2984,
+                                                 :name
+                                                 "Closed Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 2023,
+                                                 :name
+                                                 "Cooperative Game"}
+                    #:com.boardgamegeek.mechanic{:id 3001,
+                                                 :name "Layering"}
+                    #:com.boardgamegeek.mechanic{:id 2819,
+                                                 :name
+                                                 "Solo / Solitaire Game"}
+                    #:com.boardgamegeek.mechanic{:id 2002,
+                                                 :name
+                                                 "Tile Placement"}),
+              :name "Velkoměsto: Rozšířené vydání",
+              :com.boardgamegeek.boardgame/categories
+              (list #:com.boardgamegeek.category{:id 1002,
+                                                 :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1029,
+                                                 :name "City Building"}
+                    #:com.boardgamegeek.category{:id 1086,
+                                                 :name
+                                                 "Territory Building"}),
+              :com.boardgamegeek.boardgame/max-play-time 20,
+              :com.boardgamegeek.boardgame/max-players 4,
+              :com.boardgamegeek.boardgame/min-play-time 15,
+              :com.boardgamegeek.boardgame/id "251658",
+              :game/name "Sprawlopolis",
+              :com.boardgamegeek.boardgame/thumbnail
+              "https://cf.geekdo-images.com/aZ3I9B_aEywK4O_qP_Hz9w__thumb/img/8IMkDRysr2XJafkJGGWoWRcj3e0=/fit-in/200x150/filters:strip_icc()/pic4654146.png"},
              #uuid "7f5189ca-4731-3666-98c6-d9971b474aa1"
              {:game/id #uuid "7f5189ca-4731-3666-98c6-d9971b474aa1",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -7058,6 +7092,7 @@
               #uuid "7bae0b38-0a96-3ecc-b46e-2fb84ebd8dd8"
               #uuid "6bc5f893-5eeb-33fd-86fe-73e8c61764f9"
               #uuid "6bdd63a2-940d-3e46-a254-30ccff2b0d49"
+              #uuid "0e6ae61b-96ea-34fa-b4e9-cdd45a2bd542"
               #uuid "7f5189ca-4731-3666-98c6-d9971b474aa1"
               #uuid "dee45e08-5103-32ec-93b7-17d391b64576"
               #uuid "9cf42701-85ad-3877-9a0f-cf57a5acf172"
@@ -7220,6 +7255,7 @@
               #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08"
               #uuid "14a7749e-31ee-3b66-af79-5bf4b407a824"
               #uuid "347be2ac-80a7-3752-9e45-7a5d226c5886"
+              #uuid "0e6ae61b-96ea-34fa-b4e9-cdd45a2bd542"
               #uuid "f944b1ee-72e5-3ea8-832f-4eaf0dde6f09"
               #uuid "1735db9b-dbc7-3364-951c-14ef9db058fb"
               #uuid "a825e9ee-c858-3b9f-82dc-2c68495f06e4"
@@ -7543,6 +7579,7 @@
               #uuid "0de2e3c8-72b8-39d4-a562-494bf756d805"
               #uuid "03073139-0dab-349e-a8d2-e3fa11a3b6f3"
               #uuid "6bc5f893-5eeb-33fd-86fe-73e8c61764f9"
+              #uuid "0e6ae61b-96ea-34fa-b4e9-cdd45a2bd542"
               #uuid "7f5189ca-4731-3666-98c6-d9971b474aa1"
               #uuid "e64a40ce-1e9c-3e3b-94be-a3d33cd4bfb3"
               #uuid "761cd5e5-55ee-39c8-b789-0273d2493fe8"
@@ -7769,6 +7806,7 @@
               #uuid "e5279fe2-9e7a-313b-9b5d-e2d1f6a1e8db"
               #uuid "14a7749e-31ee-3b66-af79-5bf4b407a824"
               #uuid "6bdd63a2-940d-3e46-a254-30ccff2b0d49"
+              #uuid "0e6ae61b-96ea-34fa-b4e9-cdd45a2bd542"
               #uuid "dee45e08-5103-32ec-93b7-17d391b64576"
               #uuid "2c63539a-a2a5-3415-b3d7-89edc773ac8b"
               #uuid "9174edea-2d8c-30ee-a424-4c2c72371e18"
@@ -8030,6 +8068,7 @@
               #uuid "bd4049a7-2730-31a1-bbc9-4a077d75facc"
               #uuid "dd1bf333-48e3-3cde-80c2-6fb824ec3563"
               #uuid "d2553040-14b0-31f5-8940-dd1bcd98fef2"
+              #uuid "0e6ae61b-96ea-34fa-b4e9-cdd45a2bd542"
               #uuid "7f5189ca-4731-3666-98c6-d9971b474aa1"
               #uuid "9cf42701-85ad-3877-9a0f-cf57a5acf172"
               #uuid "7ce4acbd-f5ed-3800-9116-83ec4caff1ea"

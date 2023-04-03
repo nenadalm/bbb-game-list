@@ -474,8 +474,16 @@
                     #:com.boardgamegeek.mechanic{:id 2040,
                                                  :name
                                                  "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2902,
+                                                 :name "Income"}
                     #:com.boardgamegeek.mechanic{:id 2813,
-                                                 :name "Rondel"}),
+                                                 :name "Rondel"}
+                    #:com.boardgamegeek.mechanic{:id 2861,
+                                                 :name
+                                                 "Static Capture"}
+                    #:com.boardgamegeek.mechanic{:id 2849,
+                                                 :name
+                                                 "Tech Trees / Tech Tracks"}),
               :name "Antike Duellum",
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1050,
@@ -856,12 +864,17 @@
                                                  "Betting and Bluffing"}
                     #:com.boardgamegeek.mechanic{:id 2072,
                                                  :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2876,
+                                                 :name "Race"}
                     #:com.boardgamegeek.mechanic{:id 2035,
                                                  :name
                                                  "Roll / Spin and Move"}
                     #:com.boardgamegeek.mechanic{:id 2823,
                                                  :name
                                                  "Score-and-Reset Game"}
+                    #:com.boardgamegeek.mechanic{:id 2861,
+                                                 :name
+                                                 "Static Capture"}
                     #:com.boardgamegeek.mechanic{:id 2939,
                                                  :name
                                                  "Track Movement"}),
@@ -1304,6 +1317,8 @@
                     #:com.boardgamegeek.category{:id 2710,
                                                  :name
                                                  "Post-Napoleonic"}
+                    #:com.boardgamegeek.category{:id 1034,
+                                                 :name "Trains"}
                     #:com.boardgamegeek.category{:id 1011,
                                                  :name
                                                  "Transportation"}),
@@ -1437,6 +1452,8 @@
                     #:com.boardgamegeek.mechanic{:id 2875,
                                                  :name
                                                  "End Game Bonuses"}
+                    #:com.boardgamegeek.mechanic{:id 2978,
+                                                 :name "Grid Coverage"}
                     #:com.boardgamegeek.mechanic{:id 2026,
                                                  :name "Hexagon Grid"}
                     #:com.boardgamegeek.mechanic{:id 2041,
@@ -1692,11 +1709,16 @@
                                                  "Tile Placement"}
                     #:com.boardgamegeek.mechanic{:id 2897,
                                                  :name
-                                                 "Variable Set-up"}),
+                                                 "Variable Set-up"}
+                    #:com.boardgamegeek.mechanic{:id 2874,
+                                                 :name
+                                                 "Victory Points as a Resource"}),
               :name "Kaskadie",
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1089,
                                                  :name "Animals"}
+                    #:com.boardgamegeek.category{:id 1084,
+                                                 :name "Environmental"}
                     #:com.boardgamegeek.category{:id 1028,
                                                  :name "Puzzle"}),
               :com.boardgamegeek.boardgame/max-play-time 45,
@@ -1902,7 +1924,10 @@
                                                  :name "Square Grid"}
                     #:com.boardgamegeek.mechanic{:id 2861,
                                                  :name
-                                                 "Static Capture"}),
+                                                 "Static Capture"}
+                    #:com.boardgamegeek.mechanic{:id 2884,
+                                                 :name
+                                                 "Sudden Death Ending"}),
               :name "Chess",
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1009,
@@ -2146,7 +2171,7 @@
               :languages (list "en"),
               :game/name "Clue",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/9b4eXVabqZMGv27Vc5Tt-Q__thumb/img/Do9rj9AUphuzw1XanPZGeT0inYY=/fit-in/200x150/filters:strip_icc()/pic7391562.jpg"},
+              "https://cf.geekdo-images.com/8tkwuJwlaO3o46DzEsR4tA__thumb/img/KdsBE2hkteLT_NpWoD53XjC-X5g=/fit-in/200x150/filters:strip_icc()/pic46934.jpg"},
              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a"
              {:game/id #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -4303,7 +4328,7 @@
                     #:com.boardgamegeek.category{:id 1079,
                                                  :name "Humor"}),
               :com.boardgamegeek.boardgame/max-play-time 60,
-              :com.boardgamegeek.boardgame/max-players 4,
+              :com.boardgamegeek.boardgame/max-players 5,
               :com.boardgamegeek.boardgame/min-play-time 60,
               :com.boardgamegeek.boardgame/id "12692",
               :languages (list "en"),
@@ -4863,8 +4888,10 @@
                     #:com.boardgamegeek.mechanic{:id 2960,
                                                  :name "Map Reduction"}
                     #:com.boardgamegeek.mechanic{:id 2011,
+                                                 :name "Modular Board"}
+                    #:com.boardgamegeek.mechanic{:id 2897,
                                                  :name
-                                                 "Modular Board"}),
+                                                 "Variable Set-up"}),
               :name "Hey that’s my fish",
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1009,
@@ -5666,7 +5693,7 @@
               :languages (list "en"),
               :game/name "Just One",
               :com.boardgamegeek.boardgame/thumbnail
-              "https://cf.geekdo-images.com/qKcKjHpzAvLddwBhyindag__thumb/img/HhZu2qLp9wyX9PNgvmDE8_hCl-0=/fit-in/200x150/filters:strip_icc()/pic4268499.jpg"},
+              "https://cf.geekdo-images.com/ocAuKT9hp99yBY77e4uuPg__thumb/img/ESTo05e9zuU6VJs3RyusEYGdc3Y=/fit-in/200x150/filters:strip_icc()/pic5137279.jpg"},
              #uuid "d94472e2-8880-369b-b2f2-d1d3b83960c6"
              {:game/id #uuid "d94472e2-8880-369b-b2f2-d1d3b83960c6",
               :com.boardgamegeek.boardgame/min-players 2,
@@ -5958,6 +5985,9 @@
                                                  :name "Hexagon Grid"}
                     #:com.boardgamegeek.mechanic{:id 2011,
                                                  :name "Modular Board"}
+                    #:com.boardgamegeek.mechanic{:id 2048,
+                                                 :name
+                                                 "Pattern Building"}
                     #:com.boardgamegeek.mechanic{:id 2897,
                                                  :name
                                                  "Variable Set-up"}),
@@ -8166,12 +8196,23 @@
                     #:com.boardgamegeek.mechanic{:id 2040,
                                                  :name
                                                  "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 3099,
+                                                 :name
+                                                 "Multi-Use Cards"}
                     #:com.boardgamegeek.mechanic{:id 2661,
                                                  :name
                                                  "Push Your Luck"}
+                    #:com.boardgamegeek.mechanic{:id 2876,
+                                                 :name "Race"}
                     #:com.boardgamegeek.mechanic{:id 2004,
                                                  :name
-                                                 "Set Collection"}),
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2828,
+                                                 :name
+                                                 "Turn Order: Progressive"}
+                    #:com.boardgamegeek.mechanic{:id 2897,
+                                                 :name
+                                                 "Variable Set-up"}),
               :name "Boží Zboží",
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1002,
@@ -8969,7 +9010,9 @@
              {:game/id #uuid "e5279fe2-9e7a-313b-9b5d-e2d1f6a1e8db",
               :com.boardgamegeek.boardgame/min-players 2,
               :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2676,
+              (list #:com.boardgamegeek.mechanic{:id 2883,
+                                                 :name "Connections"}
+                    #:com.boardgamegeek.mechanic{:id 2676,
                                                  :name "Grid Movement"}
                     #:com.boardgamegeek.mechanic{:id 2940,
                                                  :name "Square Grid"}),
@@ -9093,10 +9136,7 @@
                                                  "Score-and-Reset Game"}
                     #:com.boardgamegeek.mechanic{:id 2004,
                                                  :name
-                                                 "Set Collection"}
-                    #:com.boardgamegeek.mechanic{:id 2897,
-                                                 :name
-                                                 "Variable Set-up"}),
+                                                 "Set Collection"}),
               :name "Red 7",
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1002,
@@ -10321,7 +10361,10 @@
                                                  "Scenario / Mission / Campaign Game"}
                     #:com.boardgamegeek.mechanic{:id 2004,
                                                  :name
-                                                 "Set Collection"}),
+                                                 "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2015,
+                                                 :name
+                                                 "Variable Player Powers"}),
               :name "Space Cadets",
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1032,
@@ -11761,6 +11804,15 @@
                     #:com.boardgamegeek.mechanic{:id 2040,
                                                  :name
                                                  "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2048,
+                                                 :name
+                                                 "Pattern Building"}
+                    #:com.boardgamegeek.mechanic{:id 2861,
+                                                 :name
+                                                 "Static Capture"}
+                    #:com.boardgamegeek.mechanic{:id 2884,
+                                                 :name
+                                                 "Sudden Death Ending"}
                     #:com.boardgamegeek.mechanic{:id 2002,
                                                  :name
                                                  "Tile Placement"}),
@@ -12570,6 +12622,8 @@
                     #:com.boardgamegeek.mechanic{:id 2048,
                                                  :name
                                                  "Pattern Building"}
+                    #:com.boardgamegeek.mechanic{:id 2831,
+                                                 :name "Real-Time"}
                     #:com.boardgamegeek.mechanic{:id 2004,
                                                  :name
                                                  "Set Collection"}),
@@ -12915,6 +12969,8 @@
                                                  "Hand Management"}
                     #:com.boardgamegeek.mechanic{:id 2011,
                                                  :name "Modular Board"}
+                    #:com.boardgamegeek.mechanic{:id 2964,
+                                                 :name "Pieces as Map"}
                     #:com.boardgamegeek.mechanic{:id 2028,
                                                  :name "Role Playing"}
                     #:com.boardgamegeek.mechanic{:id 2016,
@@ -14907,7 +14963,6 @@
               #uuid "7399ee99-06df-36fd-95fb-9b75294f2e4b"
               #uuid "af89834e-3251-3aa9-a464-74b8d24a5091"
               #uuid "781ebc9b-0afe-3ab7-97b1-e80975dc0ee4"
-              #uuid "b1ea21fb-2177-3fed-af81-0a3967e76069"
               #uuid "e2257f79-e77e-34b7-87b1-a0924290c7f3"
               #uuid "e5c528dd-2ba9-3a89-ac17-c427f0c00414"
               #uuid "c9e680a4-40fb-3a3e-bc38-6556dd90712b"
@@ -15036,6 +15091,7 @@
               #uuid "d55cb47e-7f6c-3de3-afe9-3acfd3bd09af"
               #uuid "9ecf0011-c0af-37eb-a590-f247005f0399"
               #uuid "4c2d3b0e-9fbd-3faa-9fed-724910231a39"
+              #uuid "b1ea21fb-2177-3fed-af81-0a3967e76069"
               #uuid "e8d2a59c-f315-3860-9608-b04f893cbc93"
               #uuid "f98b9f16-c08f-3903-9b7f-80481ccce0d0"
               #uuid "81cc0f79-3609-346a-8dde-65ed1c9f3c3a"

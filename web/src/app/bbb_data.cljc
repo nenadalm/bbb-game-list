@@ -476,6 +476,8 @@
                                                  "Hand Management"}
                     #:com.boardgamegeek.mechanic{:id 2902,
                                                  :name "Income"}
+                    #:com.boardgamegeek.mechanic{:id 2876,
+                                                 :name "Race"}
                     #:com.boardgamegeek.mechanic{:id 2813,
                                                  :name "Rondel"}
                     #:com.boardgamegeek.mechanic{:id 2861,
@@ -533,7 +535,9 @@
              {:game/id #uuid "1713679a-10c3-3433-98c7-5fc9654c7e7f",
               :com.boardgamegeek.boardgame/min-players 1,
               :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2041,
+              (list #:com.boardgamegeek.mechanic{:id 2912,
+                                                 :name "Contracts"}
+                    #:com.boardgamegeek.mechanic{:id 2041,
                                                  :name "Open Drafting"}
                     #:com.boardgamegeek.mechanic{:id 2819,
                                                  :name
@@ -1298,6 +1302,8 @@
                     #:com.boardgamegeek.mechanic{:id 2081,
                                                  :name
                                                  "Network and Route Building"}
+                    #:com.boardgamegeek.mechanic{:id 3100,
+                                                 :name "Tags"}
                     #:com.boardgamegeek.mechanic{:id 2849,
                                                  :name
                                                  "Tech Trees / Tech Tracks"}
@@ -1601,6 +1607,9 @@
                                                  "Area Majority / Influence"}
                     #:com.boardgamegeek.mechanic{:id 2959,
                                                  :name "Map Addition"}
+                    #:com.boardgamegeek.mechanic{:id 2060,
+                                                 :name
+                                                 "Pattern Recognition"}
                     #:com.boardgamegeek.mechanic{:id 2002,
                                                  :name
                                                  "Tile Placement"}),
@@ -1917,6 +1926,9 @@
               :com.boardgamegeek.boardgame/mechanics
               (list #:com.boardgamegeek.mechanic{:id 2676,
                                                  :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2846,
+                                                 :name
+                                                 "Once-Per-Game Abilities"}
                     #:com.boardgamegeek.mechanic{:id 2946,
                                                  :name
                                                  "Pattern Movement"}
@@ -2078,6 +2090,8 @@
                     #:com.boardgamegeek.mechanic{:id 2004,
                                                  :name
                                                  "Set Collection"}
+                    #:com.boardgamegeek.mechanic{:id 2686,
+                                                 :name "Take That"}
                     #:com.boardgamegeek.mechanic{:id 2833,
                                                  :name
                                                  "Turn Order: Role Order"}
@@ -3350,8 +3364,16 @@
                     #:com.boardgamegeek.mechanic{:id 2040,
                                                  :name
                                                  "Hand Management"}
+                    #:com.boardgamegeek.mechanic{:id 2902,
+                                                 :name "Income"}
+                    #:com.boardgamegeek.mechanic{:id 3001,
+                                                 :name "Layering"}
+                    #:com.boardgamegeek.mechanic{:id 2900,
+                                                 :name "Market"}
                     #:com.boardgamegeek.mechanic{:id 2041,
                                                  :name "Open Drafting"}
+                    #:com.boardgamegeek.mechanic{:id 3100,
+                                                 :name "Tags"}
                     #:com.boardgamegeek.mechanic{:id 2079,
                                                  :name
                                                  "Variable Phase Order"}),
@@ -3738,10 +3760,7 @@
                                                  :name
                                                  "Communication Limits"}
                     #:com.boardgamegeek.mechanic{:id 3002,
-                                                 :name "Deduction"}
-                    #:com.boardgamegeek.mechanic{:id 2019,
-                                                 :name
-                                                 "Team-Based Game"}),
+                                                 :name "Deduction"}),
               :new true,
               :name "First Contact",
               :com.boardgamegeek.boardgame/categories
@@ -5905,6 +5924,8 @@
                     #:com.boardgamegeek.mechanic{:id 2870,
                                                  :name
                                                  "Re-rolling and Locking"}
+                    #:com.boardgamegeek.mechanic{:id 3100,
+                                                 :name "Tags"}
                     #:com.boardgamegeek.mechanic{:id 2686,
                                                  :name "Take That"}),
               :name "King of New York",
@@ -5949,7 +5970,9 @@
                                                  "Push Your Luck"}
                     #:com.boardgamegeek.mechanic{:id 2870,
                                                  :name
-                                                 "Re-rolling and Locking"}),
+                                                 "Re-rolling and Locking"}
+                    #:com.boardgamegeek.mechanic{:id 3100,
+                                                 :name "Tags"}),
               :name "King of Tokyo",
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1017,
@@ -5981,10 +6004,15 @@
                                                  :name "Chaining"}
                     #:com.boardgamegeek.mechanic{:id 2043,
                                                  :name "Enclosure"}
+                    #:com.boardgamegeek.mechanic{:id 2676,
+                                                 :name "Grid Movement"}
                     #:com.boardgamegeek.mechanic{:id 2026,
                                                  :name "Hexagon Grid"}
                     #:com.boardgamegeek.mechanic{:id 2011,
                                                  :name "Modular Board"}
+                    #:com.boardgamegeek.mechanic{:id 2081,
+                                                 :name
+                                                 "Network and Route Building"}
                     #:com.boardgamegeek.mechanic{:id 2048,
                                                  :name
                                                  "Pattern Building"}
@@ -6476,8 +6504,6 @@
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1050,
                                                  :name "Ancient"}
-                    #:com.boardgamegeek.category{:id 1047,
-                                                 :name "Miniatures"}
                     #:com.boardgamegeek.category{:id 1082,
                                                  :name "Mythology"}
                     #:com.boardgamegeek.category{:id 1086,
@@ -7545,8 +7571,13 @@
                                                  :name
                                                  "Cooperative Game"}
                     #:com.boardgamegeek.mechanic{:id 2072,
+                                                 :name "Dice Rolling"}
+                    #:com.boardgamegeek.mechanic{:id 2007,
                                                  :name
-                                                 "Dice Rolling"}),
+                                                 "Pick-up and Deliver"}
+                    #:com.boardgamegeek.mechanic{:id 2661,
+                                                 :name
+                                                 "Push Your Luck"}),
               :name "Moon Adventure",
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1020,
@@ -7851,7 +7882,7 @@
                                                  "Territory Building"}
                     #:com.boardgamegeek.category{:id 1019,
                                                  :name "Wargame"}),
-              :com.boardgamegeek.boardgame/max-play-time 120,
+              :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 4,
               :com.boardgamegeek.boardgame/min-play-time 60,
               :com.boardgamegeek.boardgame/id "133632",
@@ -8193,6 +8224,8 @@
               :com.boardgamegeek.boardgame/mechanics
               (list #:com.boardgamegeek.mechanic{:id 2689,
                                                  :name "Action Queue"}
+                    #:com.boardgamegeek.mechanic{:id 2912,
+                                                 :name "Contracts"}
                     #:com.boardgamegeek.mechanic{:id 2040,
                                                  :name
                                                  "Hand Management"}
@@ -8452,8 +8485,8 @@
                     #:com.boardgamegeek.mechanic{:id 2004,
                                                  :name
                                                  "Set Collection"}
-                    #:com.boardgamegeek.mechanic{:id 2008,
-                                                 :name "Trading"}
+                    #:com.boardgamegeek.mechanic{:id 3100,
+                                                 :name "Tags"}
                     #:com.boardgamegeek.mechanic{:id 2015,
                                                  :name
                                                  "Variable Player Powers"}),
@@ -9014,6 +9047,8 @@
                                                  :name "Connections"}
                     #:com.boardgamegeek.mechanic{:id 2676,
                                                  :name "Grid Movement"}
+                    #:com.boardgamegeek.mechanic{:id 2876,
+                                                 :name "Race"}
                     #:com.boardgamegeek.mechanic{:id 2940,
                                                  :name "Square Grid"}),
               :name "Quoridor",
@@ -9180,7 +9215,9 @@
              {:game/id #uuid "edc4787a-b55f-39c5-ab40-a99f7c1a0c80",
               :com.boardgamegeek.boardgame/min-players 3,
               :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2040,
+              (list #:com.boardgamegeek.mechanic{:id 3002,
+                                                 :name "Deduction"}
+                    #:com.boardgamegeek.mechanic{:id 2040,
                                                  :name
                                                  "Hand Management"}
                     #:com.boardgamegeek.mechanic{:id 2004,
@@ -9194,6 +9231,8 @@
                                                  :name "Bluffing"}
                     #:com.boardgamegeek.category{:id 1002,
                                                  :name "Card Game"}
+                    #:com.boardgamegeek.category{:id 1039,
+                                                 :name "Deduction"}
                     #:com.boardgamegeek.category{:id 1010,
                                                  :name "Fantasy"}),
               :com.boardgamegeek.boardgame/max-play-time 30,
@@ -11409,25 +11448,42 @@
              {:game/id #uuid "a1c77d4a-7ffb-3b08-865d-a6679be5016d",
               :com.boardgamegeek.boardgame/min-players 1,
               :com.boardgamegeek.boardgame/mechanics
-              (list #:com.boardgamegeek.mechanic{:id 2843,
+              (list #:com.boardgamegeek.mechanic{:id 2875,
+                                                 :name
+                                                 "End Game Bonuses"}
+                    #:com.boardgamegeek.mechanic{:id 2843,
                                                  :name "Follow"}
                     #:com.boardgamegeek.mechanic{:id 2040,
                                                  :name
                                                  "Hand Management"}
                     #:com.boardgamegeek.mechanic{:id 2902,
                                                  :name "Income"}
+                    #:com.boardgamegeek.mechanic{:id 2004,
+                                                 :name
+                                                 "Set Collection"}
                     #:com.boardgamegeek.mechanic{:id 2020,
                                                  :name
                                                  "Simultaneous Action Selection"}
                     #:com.boardgamegeek.mechanic{:id 2819,
                                                  :name
                                                  "Solo / Solitaire Game"}
+                    #:com.boardgamegeek.mechanic{:id 3100,
+                                                 :name "Tags"}
+                    #:com.boardgamegeek.mechanic{:id 2849,
+                                                 :name
+                                                 "Tech Trees / Tech Tracks"}
+                    #:com.boardgamegeek.mechanic{:id 2939,
+                                                 :name
+                                                 "Track Movement"}
                     #:com.boardgamegeek.mechanic{:id 2079,
                                                  :name
                                                  "Variable Phase Order"}
                     #:com.boardgamegeek.mechanic{:id 2015,
                                                  :name
-                                                 "Variable Player Powers"}),
+                                                 "Variable Player Powers"}
+                    #:com.boardgamegeek.mechanic{:id 2897,
+                                                 :name
+                                                 "Variable Set-up"}),
               :name "Mars Teraformace Expedice Ares",
               :com.boardgamegeek.boardgame/categories
               (list #:com.boardgamegeek.category{:id 1002,
@@ -13040,8 +13096,6 @@
               (list #:com.boardgamegeek.mechanic{:id 2013,
                                                  :name
                                                  "Commodity Speculation"}
-                    #:com.boardgamegeek.mechanic{:id 2900,
-                                                 :name "Market"}
                     #:com.boardgamegeek.mechanic{:id 2041,
                                                  :name
                                                  "Open Drafting"}),
@@ -13094,9 +13148,9 @@
                                                  :name "Environmental"}
                     #:com.boardgamegeek.category{:id 1028,
                                                  :name "Puzzle"}),
-              :com.boardgamegeek.boardgame/max-play-time 45,
+              :com.boardgamegeek.boardgame/max-play-time 60,
               :com.boardgamegeek.boardgame/max-players 5,
-              :com.boardgamegeek.boardgame/min-play-time 30,
+              :com.boardgamegeek.boardgame/min-play-time 45,
               :com.boardgamegeek.boardgame/id "334065",
               :languages (list "en"),
               :game/name "Verdant",
@@ -15669,7 +15723,6 @@
               #uuid "7c823c08-2b3e-3613-bf68-fde60227450d"
               #uuid "7a51eb3c-d160-3393-b631-9ae87020b9db"
               #uuid "9fbc6586-abf0-31d2-b752-1b73b743ad8c"
-              #uuid "b33646d7-b7b1-3dd6-9a17-a88f6ddb5926"
               #uuid "44ca4f9f-417c-3200-b21f-4ae33fae9646"
               #uuid "d993f311-557a-391d-ab21-677ab586a01b"
               #uuid "0a995f25-bdf2-358f-bf5a-93e22c9aa05b"
@@ -15729,6 +15782,7 @@
               #uuid "074edbaf-ed58-3f43-ad67-8af6ba4fcefe"
               #uuid "bc6235a4-d8ed-3225-86d0-ce30fcb2da6a"
               #uuid "d3c432b4-bac7-3974-8e6c-60ce1f8b528f"
+              #uuid "b33646d7-b7b1-3dd6-9a17-a88f6ddb5926"
               #uuid "14d13fd2-bd65-3d26-a969-71f5cec92764"
               #uuid "3463c066-922f-3864-93bd-b87bb1286679"
               #uuid "30fe5e0d-e895-3a87-87df-7cdfbdd1f7ab"
@@ -16179,7 +16233,6 @@
               #uuid "6e161db1-3fff-3d4c-8f21-ba292251b38b"
               #uuid "7a51eb3c-d160-3393-b631-9ae87020b9db"
               #uuid "d3c432b4-bac7-3974-8e6c-60ce1f8b528f"
-              #uuid "b33646d7-b7b1-3dd6-9a17-a88f6ddb5926"
               #uuid "3463c066-922f-3864-93bd-b87bb1286679"
               #uuid "30fe5e0d-e895-3a87-87df-7cdfbdd1f7ab"
               #uuid "4a038681-5229-352f-81b4-3094ce95768e"
@@ -16213,6 +16266,7 @@
               #uuid "042103e1-8bdd-3157-aceb-cca413d78f3b"
               #uuid "b17747c8-2344-37e0-af25-4c86481d8b35"
               #uuid "baf9b7dd-749d-37d7-888f-c84d255e682f"
+              #uuid "2bc22d15-7e2b-3a2d-aaaa-46fe0f8945e2"
               #uuid "4ae48a68-3d4f-3c45-bde8-921047297bc6"
               #uuid "fc44d61a-7bf1-340a-bd8b-5aa664b93891"
               #uuid "6ba70c4c-e877-35fa-9dbf-89638184fbfa"
@@ -16231,6 +16285,7 @@
               #uuid "90a300ed-ea38-3514-b744-0c43440fa4b3"
               #uuid "1dc41096-3614-3064-96d1-7d7a17e5f160"
               #uuid "074edbaf-ed58-3f43-ad67-8af6ba4fcefe"
+              #uuid "b33646d7-b7b1-3dd6-9a17-a88f6ddb5926"
               #uuid "14d13fd2-bd65-3d26-a969-71f5cec92764"
               #uuid "7369ff3a-fe64-30e3-8363-9067a97ac8b4"
               #uuid "557482bd-c397-30d7-af1b-afbb6c763124"
@@ -16295,7 +16350,6 @@
               #uuid "3980f7ea-079b-3741-a713-8494f6bcbb9a"
               #uuid "23767cbb-cceb-3686-8a59-f0250c57a1d9"
               #uuid "6e8ce4f2-3cc4-37b8-9002-721e44843aaf"
-              #uuid "2bc22d15-7e2b-3a2d-aaaa-46fe0f8945e2"
               #uuid "33e20383-3807-3414-869c-7a3907d40b75"
               #uuid "42c74e54-0178-32f6-acbe-ee4d9ab219c9"
               #uuid "568da493-2833-3009-ad26-7108e0683081"

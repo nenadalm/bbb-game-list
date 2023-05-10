@@ -28,9 +28,9 @@
 (defn- game->name [game]
   (-> game
       (.select ".heading-style-h4")
-       first
-       (.text)
-       clojure.string/trim))
+      first
+      (.text)
+      clojure.string/trim))
 
 (defn- game->id [game]
   (let [href (-> game

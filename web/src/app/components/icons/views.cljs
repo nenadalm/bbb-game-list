@@ -8,7 +8,7 @@
 
 (defn language [s]
   (let [class (case s
-                "cz" "i-country-cz"
+                "cs" "i-country-cz"
                 "en" "i-country-us"
                 "fr" "i-country-fr"
                 "pl" "i-country-pl"

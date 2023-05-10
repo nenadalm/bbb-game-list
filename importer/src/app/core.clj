@@ -19,10 +19,12 @@
   (assoc game :game/id (uuid/from-string (:game/name game))))
 
 (defn- enrich-game-with-id [game]
-  (let [found-game (bgg/find-game (:name game))
-        id (:id found-game)]
-    (cond-> game
-      id (assoc :com.boardgamegeek.boardgame/id id))))
+  (if (:com.boardgamegeek.boardgame/id game)
+    game
+    (let [found-game (bgg/find-game (:name game))
+          id (:id found-game)]
+      (cond-> game
+        id (assoc :com.boardgamegeek.boardgame/id id)))))
 
 (defn- enrich-game-with-bgg-info [game]
   (if-let [game-id (:com.boardgamegeek.boardgame/id game)]

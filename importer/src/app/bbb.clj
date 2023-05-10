@@ -5,70 +5,59 @@
   (:import
    [org.jsoup Jsoup]))
 
-(def ^:private games-list-url "http://bohemiaboardsandbrews.com/games/")
+(def ^:private games-list-url "https://www.bohemiaboardsandbrews.com/knihovna-her")
 
-(defn- doc->game-lists [doc]
-  (.select doc ".single_gl"))
+(def ^:private language->code
+  {"/game-languages/cestina" "cs"
+   "/game-languages/english" "en"
+   "/game-languages/french" "fr"
+   "/game-languages/german" "de"
+   "/game-languages/russian" "ru"})
+
+(defn- game-list-doc [url]
+  (with-open [xin (clojure.java.io/input-stream (java.net.URL. url))]
+    (Jsoup/parse xin "utf-8" url)))
+
+(defn- doc->next-page [doc]
+  (when-let [href (not-empty (.attr (.select doc ".w-pagination-next") "href"))]
+    (str games-list-url href)))
+
+(defn- doc->game-list [doc]
+  (.select doc ".collection_list-games > div"))
 
 (defn- game->name [game]
-  (->> (.text game)
+  (-> game
+      (.select ".heading-style-h4")
+       first
+       (.text)
        clojure.string/trim))
 
-(defn- game-list->game-names [game-list]
-  (into
-   []
-   (comp
-    (mapcat #(.textNodes %))
-    (map game->name)
-    (filter seq))
-   (.select game-list "span")))
+(defn- game->id [game]
+  (let [href (-> game
+                 (.select ".content-card")
+                 (.attr "href"))]
+    (second (re-find #"/(\d+)/" href))))
 
-(defn- parse-languages [s]
-  (map (comp clojure.string/lower-case clojure.string/trim)
-       (clojure.string/split s #",")))
-
-(defn- parse-name [s]
-  (-> s
-      (as-> s (clojure.string/trim (re-find (re-matcher #"^[^\(]+" s))))
-      (clojure.string/replace #"′" "'")))
-
-(defn game-name->game-info [new-names name]
-  (if-let [groups (re-find (re-matcher #"^(?<name>.+?)(?: \((?<languages>[^\)]+)\))?$" name))]
-    (let [[_ pre-parsed-name languages] groups
-          parsed-name (parse-name pre-parsed-name)]
-      (cond-> (sorted-map
-               :com.bohemiaboardsandbrews/name name
-               :name parsed-name)
-        languages (assoc :languages (parse-languages languages))
-        (contains? new-names name) (assoc :new true)))
-    (throw (ex-info "Cannot parse game." {:name name}))))
-
-(defn- game-list-doc []
-  (with-open [xin (clojure.java.io/input-stream (java.net.URL. games-list-url))]
-    (Jsoup/parse xin "utf-8" games-list-url)))
-
-(defn games []
-  (let [[new-game-names & game-name-lists] (->> (game-list-doc)
-                                                doc->game-lists
-                                                (mapv game-list->game-names))]
+(defn- game->languages [game]
+  (let [additional-info-url (.attr (.first (.select game "a.hide")) "abs:href")
+        info-doc (game-list-doc additional-info-url)]
     (into
      []
-     (comp
-      cat
-      (map (partial game-name->game-info (set new-game-names))))
-     game-name-lists)))
+     (map (fn [el]
+            (let [language (.attr el "href")]
+              (language->code language language))))
+     (.select info-doc "[fs-cmsnest-collection=languages] a"))))
 
-(comment
-  (game-name->game-info #{} "Game of Thrones: Oathbreaker (EN)")
-;; => {:com.bohemia-boards-and-brews/name
-;;     "Game of Thrones: Oathbreaker (EN)",
-;;     :name "Game of Thrones: Oathbreaker",
-;;     :languages ("en")}
-  (game-name->game-info #{} "Game of Thrones: Oathbreaker")
-;; => {:com.bohemia-boards-and-brews/name "Game of Thrones: Oathbreaker",
-;;     :name "Game of Thrones: Oathbreaker"}
-  (game-name->game-info #{} "Penguins (tucnaci) (CZ)")
-;; => {:com.bohemia-boards-and-brews/name "Penguins (tucnaci) (CZ)",
-;;     :name "Penguins",
-;;     :languages ("cz")}
-  )
+(defn- game->game-info [game]
+  {:name (game->name game)
+   :languages (game->languages game)
+   :com.boardgamegeek.boardgame/id (game->id game)})
+
+(defn games []
+  (loop [url games-list-url
+         games []]
+    (if url
+      (let [doc (game-list-doc url)]
+        (recur (doc->next-page doc)
+               (into games (map game->game-info) (doc->game-list doc))))
+      games)))

@@ -19,7 +19,7 @@
 
 (defn ^:export init []
   (dev-setup)
-  (re-frame/dispatch-sync [::events/init data/game-data #{:app.filter/new}])
+  (re-frame/dispatch-sync [::events/init data/game-data])
   (mount-root))
 
 (defn ^:dev/after-load after-load []

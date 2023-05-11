@@ -34,3 +34,8 @@ clean:
 
 .PHONY: all
 all: resources/public/worker.js
+
+.PHONY: test
+test:
+	clojure -M:cljfmt check
+	clojure -M:clj-kondo

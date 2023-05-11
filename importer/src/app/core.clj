@@ -108,17 +108,13 @@
 
 (defn- print-bbb-games []
   (println "(ns app.bbb-data)")
-  (println "(def game-data")
   (pp/with-pprint-dispatch clojure-dispatch
-    (pp/pprint (games->db (bbb-games))))
-  (println ")"))
+    (pp/pprint (list 'def 'game-data (games->db (bbb-games))))))
 
 (defn- print-hp-games []
   (println "(ns app.hp-data)")
-  (println "(def game-data")
   (pp/with-pprint-dispatch clojure-dispatch
-    (pp/pprint (games->db (hp-games))))
-  (println ")"))
+    (pp/pprint (list 'def 'game-data (games->db (hp-games))))))
 
 (defn create-data [_]
   (spit "../web/src/app/hp_data.cljc" (with-out-str (print-hp-games)))

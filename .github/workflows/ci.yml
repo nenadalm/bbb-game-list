@@ -18,10 +18,16 @@ jobs:
           key: "${{ runner.os }}-maven-${{ hashFiles('deps.edn') }}"
           restore-keys: |
             ${{ runner.os }}-maven-
+
       - run: clojure -M:cljfmt check
         working-directory: ./importer
       - run: clojure -M:clj-kondo
         working-directory: ./importer
+
+      - run: clojure -M:cljfmt check
+        working-directory: ./web
+      - run: clojure -M:clj-kondo
+        working-directory: ./web
   deploy:
     needs: test
     if: github.ref == 'refs/heads/master'

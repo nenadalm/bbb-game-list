@@ -2,10 +2,7 @@
   (:require
    [clojure.pprint :as pp]))
 
-(defn- pprint-clojure-list
-  "Prints valid clojure as opposed to edn
-  original: https://github.com/clojure/clojure/blob/05a8e8b323042fa043355b716facaed6003af324/src/clj/clojure/pprint/dispatch.clj#L453"
-  [alis]
+(defn- pprint-clojure-list [alis]
   (pp/pprint-logical-block
    :prefix "(list " :suffix ")"
    (pp/print-length-loop
@@ -17,6 +14,21 @@
         (pp/pprint-newline :linear)
         (recur (next alis)))))))
 
+(defn- pprint-def [alis]
+  (if (next alis)
+    (let [[def-sym def-name & stuff] alis]
+      (pp/pprint-logical-block :prefix "(" :suffix ")"
+                               ((pp/formatter-out "~w ~1I~@_~w") def-sym def-name)
+                               (when (seq stuff)
+                                 ((pp/formatter-out " ~@_"))
+                                 ((pp/formatter-out "~{~w~^ ~_~}") stuff))))
+    (#'pp/pprint-simple-code-list alis)))
+
+(defn- pprint-code-list [alis]
+  (if (= 'def (first alis))
+    (pprint-def alis)
+    (pprint-clojure-list alis)))
+
 (defn- use-method
   "Installs a function as a new method of multimethod associated with dispatch-value. "
   [^clojure.lang.MultiFn multifn dispatch-val func]
@@ -27,7 +39,7 @@
   "The pretty print dispatch function for pretty printing Clojure code."
   class)
 
-(use-method clojure-dispatch clojure.lang.ISeq pprint-clojure-list)
+(use-method clojure-dispatch clojure.lang.ISeq pprint-code-list)
 (use-method clojure-dispatch clojure.lang.IPersistentVector #'pp/pprint-vector)
 (use-method clojure-dispatch clojure.lang.IPersistentMap #'pp/pprint-map)
 (use-method clojure-dispatch clojure.lang.IPersistentSet #'pp/pprint-set)

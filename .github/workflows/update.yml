@@ -24,9 +24,9 @@ jobs:
       - name: Get month
         id: get-month
         run: |
-          echo "::set-output name=day::$(date +%Y-%m)"
+          echo "day=$(date +%Y-%m)" >> $GITHUB_OUTPUT
         shell: bash
-      - uses: actions/cache@v2
+      - uses: actions/cache@v3
         with:
           path: './importer/resources/.cache/url'
           key: "url-${{ steps.get-month.outputs.day }}"

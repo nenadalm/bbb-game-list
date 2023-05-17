@@ -5,6 +5,4 @@
 /resources/public/css/
 /resources/public/worker.js
 /resources/public/manifest.json
-/resources/public/bbb.html
-/resources/public/hp.html
-/resources/public/index.html
+/resources/public/*.html

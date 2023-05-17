@@ -5,4 +5,8 @@
  {:title "Games - Herní prostor"
   :description "List of games at Herní prostor."
   :project "hp"
-  :label "herniprostor.cz"}]
+  :label "herniprostor.cz"}
+ {:title "Games - Mana Potion"
+  :description "List of games at Mana Potion."
+  :project "mp"
+  :label "manapotion.cz"}]

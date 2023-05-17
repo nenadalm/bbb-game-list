@@ -3,6 +3,7 @@
    [clojure.pprint :as pp]
    [app.bbb :as bbb]
    [app.hp :as hp]
+   [app.mp :as mp]
    [app.bgg :as bgg]
    [app.pprint :refer [clojure-dispatch]]
    [app.uuid :as uuid]
@@ -82,6 +83,10 @@
   (->> (hp/games)
        (mapv game-info)))
 
+(defn- mp-games []
+  (->> (mp/games)
+       (mapv game-info)))
+
 (defn- index-by [f coll]
   (reduce
    (fn [m v]
@@ -116,6 +121,12 @@
   (pp/with-pprint-dispatch clojure-dispatch
     (pp/pprint (list 'def 'game-data (games->db (hp-games))))))
 
+(defn- print-mp-games []
+  (println "(ns app.mp-data)")
+  (pp/with-pprint-dispatch clojure-dispatch
+    (pp/pprint (list 'def 'game-data (games->db (mp-games))))))
+
 (defn create-data [_]
   (spit "../web/src/app/hp_data.cljc" (with-out-str (print-hp-games)))
+  (spit "../web/src/app/mp_data.cljc" (with-out-str (print-mp-games)))
   (spit "../web/src/app/bbb_data.cljc" (with-out-str (print-bbb-games))))

@@ -55,9 +55,9 @@
 
 (defn games []
   (loop [url games-list-url
-         games []]
+         futures []]
     (if url
       (let [doc (game-list-doc url)]
         (recur (doc->next-page doc)
-               (into games (map game->game-info) (doc->game-list doc))))
-      games)))
+               (conj futures (future (pmap game->game-info (doc->game-list doc))))))
+      (into [] (mapcat deref) futures))))

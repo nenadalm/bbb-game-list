@@ -4559,10 +4559,6 @@
                                                                 :name
                                                                 "Action Queue"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                2839,
-                                                                :name
-                                                                "Action Retrieval"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2040,
                                                                 :name
                                                                 "Hand Management"}
@@ -5255,7 +5251,7 @@
                              :languages ["en"],
                              :game/name "CuBirds",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Q7gnq4qbG73YRprMOicBEQ__thumb/img/-wmmOu7yKFsC89jw5VKqF79AuAw=/fit-in/200x150/filters:strip_icc()/pic4261952.png"},
+                             "https://cf.geekdo-images.com/FDBUwGFBkniyl8q4Alvq8A__thumb/img/EiGltQvI5VsmCSYYxjgD7kXY2eg=/fit-in/200x150/filters:strip_icc()/pic7491534.jpg"},
                             #uuid "76a33f97-02f4-3a7e-ada3-46bd2544ae02"
                             {:game/id
                              #uuid "76a33f97-02f4-3a7e-ada3-46bd2544ae02",
@@ -7781,7 +7777,7 @@
                                                                 2015,
                                                                 :name
                                                                 "Variable Player Powers"}),
-                             :name "Frankenstein",
+                             :name "Forbidden Island",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1022,
@@ -8850,7 +8846,7 @@
                                                                 2004,
                                                                 :name
                                                                 "Set Collection"}),
-                             :name "Hanafuda",
+                             :name "Hansa Teutonica",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1002,
@@ -8867,7 +8863,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "5451",
-                             :languages [],
+                             :languages ["en"],
                              :game/name "Hanafuda",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/GfBu7Yk8CsKM50GclSNx8A__thumb/img/OEBT1R88KJBF6ow2sB8ZYw063lA=/fit-in/200x150/filters:strip_icc()/pic2649408.jpg"},
@@ -10619,7 +10615,7 @@
                                                                 2023,
                                                                 :name
                                                                 "Cooperative Game"}),
-                             :name "Just One",
+                             :name "Jedním slovem",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1030,
@@ -10636,7 +10632,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "254640",
-                             :languages ["en"],
+                             :languages ["cs"],
                              :game/name "Just One",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/ocAuKT9hp99yBY77e4uuPg__thumb/img/ESTo05e9zuU6VJs3RyusEYGdc3Y=/fit-in/200x150/filters:strip_icc()/pic5137279.jpg"},
@@ -12221,7 +12217,7 @@
                                                                 2082,
                                                                 :name
                                                                 "Worker Placement"}),
-                             :name "Lost Ruins of Arnak",
+                             :name "Lucktails",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1022,
@@ -15627,7 +15623,8 @@
                                                                 2017,
                                                                 :name
                                                                 "Voting"}),
-                             :name "Ready Set Bet",
+                             :name
+                             "Profanity: A Card Game For Smutty People",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1002,
@@ -15734,7 +15731,7 @@
                                                                 2019,
                                                                 :name
                                                                 "Team-Based Game"}),
-                             :name "Párty trefa",
+                             :name "Rodinná Trefa",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1039,
@@ -17990,7 +17987,7 @@
                                                                 2685,
                                                                 :name
                                                                 "Player Elimination"}),
-                             :name "Skull",
+                             :name "Skull and Roses",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1023,

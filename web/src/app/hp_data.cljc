@@ -2226,10 +2226,6 @@
                                                                 :name
                                                                 "Action Queue"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                2839,
-                                                                :name
-                                                                "Action Retrieval"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2040,
                                                                 :name
                                                                 "Hand Management"}

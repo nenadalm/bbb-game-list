@@ -65,27 +65,37 @@
             #(sort-by (comp clojure.string/lower-case :com.boardgamegeek.category/name) %))
     game))
 
-(defn- game-info [game]
-  (-> game
-      enrich-game-with-id
-      enrich-game-with-bgg-info
-      enrich-game-with-name
-      enrich-game-with-uuid
-      sort-game-categories
-      sort-game-mechanics
-      frontend-game))
+(defn- enrich-games [games]
+  (let [games-with-id (mapv enrich-game-with-id games)
+        id->bgg-game (into {}
+                           (comp
+                            (map :com.boardgamegeek.boardgame/id)
+                            (filter some?)
+                            (partition-all 100)
+                            (map (fn [ids]
+                                   (bgg/games-details ids)))
+                            cat
+                            (map (fn [bgg-game]
+                                   [(:com.boardgamegeek.boardgame/id bgg-game) bgg-game])))
+                           games-with-id)]
+    (mapv
+     (fn [game]
+       (-> (merge game (id->bgg-game (:com.boardgamegeek.boardgame/id game)))
+           enrich-game-with-name
+           enrich-game-with-uuid
+           sort-game-categories
+           sort-game-mechanics
+           frontend-game))
+     games-with-id)))
 
 (defn- bbb-games []
-  (->> (bbb/games)
-       (mapv game-info)))
+  (enrich-games (bbb/games)))
 
 (defn- hp-games []
-  (->> (hp/games)
-       (mapv game-info)))
+  (enrich-games (hp/games)))
 
 (defn- mp-games []
-  (->> (mp/games)
-       (mapv game-info)))
+  (enrich-games (mp/games)))
 
 (defn- index-by [f coll]
   (reduce

@@ -2,7 +2,7 @@
   (:require
    [clojure.java.io]
    [clojure.xml]
-   [clojure.string]
+   [clojure.string :as str]
    [app.url :as url]))
 
 (def ^:private api-root "https://www.boardgamegeek.com/xmlapi2")
@@ -168,3 +168,11 @@
           :content
           first
           detail-item->game))))
+
+(defn games-details [game-ids]
+  (let [url (game-details-url (str/join "," game-ids))]
+    (with-open [xin (url/->cached-stream url)]
+      (mapv
+       detail-item->game
+       (-> (clojure.xml/parse xin)
+           :content)))))

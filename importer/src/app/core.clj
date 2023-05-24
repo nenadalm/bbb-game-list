@@ -27,12 +27,6 @@
       (cond-> game
         id (assoc :com.boardgamegeek.boardgame/id id)))))
 
-(defn- enrich-game-with-bgg-info [game]
-  (if-let [game-id (:com.boardgamegeek.boardgame/id game)]
-    (let [details (bgg/game-details game-id)]
-      (merge game details))
-    game))
-
 (defn- enrich-game-with-name [game]
   (assoc game :game/name (or (:com.boardgamegeek.boardgame/name game) (:name game))))
 

@@ -21618,7 +21618,7 @@
                              :languages ["en"],
                              :game/name "Tiletum",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/YdnQwUpUnyhM_DByMg5qRQ__thumb/img/nRyy5q19IEvz6tQAU5NLc_vxsoU=/fit-in/200x150/filters:strip_icc()/pic6792853.png"},
+                             "https://cf.geekdo-images.com/DvvSoTrB3-UMEgz2rBraHg__thumb/img/TnJONz9KNXPJBQ42sorXuoUTlew=/fit-in/200x150/filters:strip_icc()/pic7533289.jpg"},
                             #uuid "84c17578-5a41-3dea-840f-24d1faf7638a"
                             {:game/id
                              #uuid "84c17578-5a41-3dea-840f-24d1faf7638a",

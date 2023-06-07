@@ -1,7 +1,8 @@
 (ns app.bbb
   (:require
    [clojure.string]
-   [clojure.java.io])
+   [clojure.java.io]
+   [app.util :as u])
   (:import
    [org.jsoup Jsoup]))
 
@@ -14,9 +15,13 @@
    "/game-languages/german" "de"
    "/game-languages/russian" "ru"})
 
-(defn- game-list-doc [url]
+(defn- game-list-doc* [url]
   (with-open [xin (clojure.java.io/input-stream (java.net.URL. url))]
     (Jsoup/parse xin "utf-8" url)))
+
+(def ^:private game-list-doc
+  "bbb often returns 504"
+  (u/retry 3 game-list-doc*))
 
 (defn- doc->next-page [doc]
   (when-let [href (not-empty (.attr (.select doc ".w-pagination-next") "href"))]

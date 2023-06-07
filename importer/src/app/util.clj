@@ -11,3 +11,19 @@
         (let [res (apply f args)]
           (reset! prev-end (java.time.Instant/now))
           res)))))
+
+(defn retry [n f]
+  (fn [& args]
+    (loop [attempt 1]
+      (let [result (try
+                     (apply f args)
+                     (catch Throwable t
+                       (if (<= n attempt)
+                         (throw t)
+                         (do
+                           (println "Retrying after following error:")
+                           (.printStackTrace t)
+                           ::retry))))]
+        (if (= ::retry result)
+          (recur (inc attempt))
+          result)))))

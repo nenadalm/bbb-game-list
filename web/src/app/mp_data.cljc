@@ -146,56 +146,6 @@
                              :game/name "Alias",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/b5ku0ffAvzeBydiOUDVELw__thumb/img/hG6aNU1hiiXwopQ6XexCM_q9aRI=/fit-in/200x150/filters:strip_icc()/pic451300.jpg"},
-                            #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
-                            {:game/id
-                             #uuid "582d2648-b634-3370-a31e-bef979dab3f3",
-                             :com.boardgamegeek.boardgame/min-players
-                             2,
-                             :com.boardgamegeek.boardgame/mechanics
-                             (list #:com.boardgamegeek.mechanic{:id
-                                                                2875,
-                                                                :name
-                                                                "End Game Bonuses"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2041,
-                                                                :name
-                                                                "Open Drafting"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2048,
-                                                                :name
-                                                                "Pattern Building"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2002,
-                                                                :name
-                                                                "Tile Placement"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2829,
-                                                                :name
-                                                                "Turn Order: Claim Action"}),
-                             :name "Azul",
-                             :com.boardgamegeek.boardgame/categories
-                             (list #:com.boardgamegeek.category{:id
-                                                                1009,
-                                                                :name
-                                                                "Abstract Strategy"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1028,
-                                                                :name
-                                                                "Puzzle"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1070,
-                                                                :name
-                                                                "Renaissance"}),
-                             :com.boardgamegeek.boardgame/max-play-time
-                             45,
-                             :com.boardgamegeek.boardgame/max-players
-                             4,
-                             :com.boardgamegeek.boardgame/min-play-time
-                             30,
-                             :com.boardgamegeek.boardgame/id "230802",
-                             :game/name "Azul",
-                             :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__thumb/img/ccsXKrdGJw-YSClWwzVUwk5Nh9Y=/fit-in/200x150/filters:strip_icc()/pic6973671.png"},
                             #uuid "77b28b72-1d4f-30b5-aafa-0bfa9d934cb7"
                             {:game/id
                              #uuid "77b28b72-1d4f-30b5-aafa-0bfa9d934cb7",
@@ -382,6 +332,32 @@
                              :game/name "BANG! The Dice Game",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/BLTFau1Ue-gjX6geQdYrjQ__thumb/img/IijBpyOQC760F6XIw34WT0ePqe4=/fit-in/200x150/filters:strip_icc()/pic2909713.jpg"},
+                            #uuid "1b3e1ee9-bff8-3431-9ea6-b181365ba65f"
+                            {:game/id
+                             #uuid "1b3e1ee9-bff8-3431-9ea6-b181365ba65f",
+                             :com.boardgamegeek.boardgame/min-players
+                             3,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2002,
+                                                                :name
+                                                                "Tile Placement"}),
+                             :name "Azul",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1009,
+                                                                :name
+                                                                "Abstract Strategy"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/max-players
+                             3,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/id "167402",
+                             :game/name "BLUE",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/DF2IoyPeG5Jun_UMW2_OGw__thumb/img/oFKKCAzOX2h15wNun5NGH4p_l68=/fit-in/200x150/filters:strip_icc()/pic2309332.jpg"},
                             #uuid "a0969dfc-5294-3b41-82bf-220e859197db"
                             {:game/id
                              #uuid "a0969dfc-5294-3b41-82bf-220e859197db",
@@ -3926,11 +3902,11 @@
                             [#uuid "19d842cb-8e52-3fc6-95c8-86982139fc4d"
                              #uuid "ecfc2dff-e568-310a-a7db-c6d3724cfde2"
                              #uuid "effdb9ce-6c5d-34df-b1b8-9d7069c8e0fb"
-                             #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
                              #uuid "77b28b72-1d4f-30b5-aafa-0bfa9d934cb7"
                              #uuid "eaa9b08c-9718-39e9-84e8-e09ccf855ef0"
                              #uuid "5af4832c-3c6d-3e4b-883d-4fbba7190317"
                              #uuid "a0969dfc-5294-3b41-82bf-220e859197db"
+                             #uuid "1b3e1ee9-bff8-3431-9ea6-b181365ba65f"
                              #uuid "6274b5d8-6ac8-3f82-a53b-5a48c53ff26a"
                              #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7"
                              #uuid "2d524242-4e27-370f-a042-49942d61f783"
@@ -4044,7 +4020,6 @@
                              #uuid "e5f11979-9a30-30ec-8084-92dd584b1214"
                              #uuid "0b0ba83c-ba8f-3c56-8b3e-a2fc3bc7f5a4"
                              #uuid "19d842cb-8e52-3fc6-95c8-86982139fc4d"
-                             #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
                              #uuid "77b28b72-1d4f-30b5-aafa-0bfa9d934cb7"
                              #uuid "a0969dfc-5294-3b41-82bf-220e859197db"
                              #uuid "fc4b5160-634a-3e54-b306-97e5771f843c"
@@ -4091,6 +4066,7 @@
                              #uuid "d6254e99-59cf-3bde-84e8-0a6b067f941a"
                              #uuid "ecfc2dff-e568-310a-a7db-c6d3724cfde2"
                              #uuid "5af4832c-3c6d-3e4b-883d-4fbba7190317"
+                             #uuid "1b3e1ee9-bff8-3431-9ea6-b181365ba65f"
                              #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7"
                              #uuid "2d524242-4e27-370f-a042-49942d61f783"
                              #uuid "69895ff2-b990-3611-827e-f4f7fd32eb8a"
@@ -4125,7 +4101,7 @@
                              #uuid "14a7749e-31ee-3b66-af79-5bf4b407a824"
                              #uuid "7bae0b38-0a96-3ecc-b46e-2fb84ebd8dd8"
                              #uuid "1f6abbcc-6aa7-3fbf-8c11-f5ea47b5cb4d"
-                             #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
+                             #uuid "1b3e1ee9-bff8-3431-9ea6-b181365ba65f"
                              #uuid "77b28b72-1d4f-30b5-aafa-0bfa9d934cb7"
                              #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7"
                              #uuid "b2980c72-2a1a-3e7a-b030-3718ce5491d8"
@@ -4234,7 +4210,7 @@
                              #uuid "134c5416-16b9-3118-a547-774f6df7bbcd"
                              #uuid "5651f80b-d4b0-37ec-8031-f1e46a5a7799"
                              #uuid "63e5002f-f8a6-36bd-81b5-2f817477eecf"
-                             #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
+                             #uuid "1b3e1ee9-bff8-3431-9ea6-b181365ba65f"
                              #uuid "2d524242-4e27-370f-a042-49942d61f783"
                              #uuid "69895ff2-b990-3611-827e-f4f7fd32eb8a"
                              #uuid "b2980c72-2a1a-3e7a-b030-3718ce5491d8"
@@ -4318,6 +4294,7 @@
                              #uuid "53522ad6-7a42-3c5c-8f4a-c9fc089fbbb4"
                              #uuid "5651f80b-d4b0-37ec-8031-f1e46a5a7799"
                              #uuid "63e5002f-f8a6-36bd-81b5-2f817477eecf"
+                             #uuid "1b3e1ee9-bff8-3431-9ea6-b181365ba65f"
                              #uuid "2d524242-4e27-370f-a042-49942d61f783"
                              #uuid "69895ff2-b990-3611-827e-f4f7fd32eb8a"
                              #uuid "b2980c72-2a1a-3e7a-b030-3718ce5491d8"
@@ -4333,7 +4310,6 @@
                              #uuid "2ca189f5-8500-3bf3-99b6-ec3203b0c227"
                              #uuid "19d842cb-8e52-3fc6-95c8-86982139fc4d"
                              #uuid "ecfc2dff-e568-310a-a7db-c6d3724cfde2"
-                             #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
                              #uuid "f6bfd5a5-b179-3f4b-835d-47b8ec85c075"
                              #uuid "d5380d3b-56d5-3783-a863-1af12c39f5c7"
                              #uuid "645ab7f6-09eb-3401-988d-97cd930668c1"

@@ -451,9 +451,41 @@
                                                                 :name
                                                                 "Cooperative Game"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2072,
+                                                                :name
+                                                                "Dice Rolling"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2850,
+                                                                :name
+                                                                "Events"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2885,
+                                                                :name
+                                                                "Finale Ending"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2040,
+                                                                :name
+                                                                "Hand Management"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2836,
+                                                                :name
+                                                                "Lose a Turn"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2078,
+                                                                :name
+                                                                "Point to Point Movement"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2028,
                                                                 :name
                                                                 "Role Playing"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2819,
+                                                                :name
+                                                                "Solo / Solitaire Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2853,
+                                                                :name
+                                                                "Stat Check Resolution"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2015,
                                                                 :name
@@ -465,6 +497,10 @@
                                                                 :name
                                                                 "Adventure"}
                                    #:com.boardgamegeek.category{:id
+                                                                1046,
+                                                                :name
+                                                                "Fighting"}
+                                   #:com.boardgamegeek.category{:id
                                                                 1024,
                                                                 :name
                                                                 "Horror"}
@@ -473,15 +509,15 @@
                                                                 :name
                                                                 "Novel-based"}),
                              :com.boardgamegeek.boardgame/max-play-time
-                             180,
+                             240,
                              :com.boardgamegeek.boardgame/max-players
                              8,
                              :com.boardgamegeek.boardgame/min-play-time
-                             180,
-                             :com.boardgamegeek.boardgame/id "34",
+                             120,
+                             :com.boardgamegeek.boardgame/id "15987",
                              :game/name "Arkham Horror",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/AhS53CO05pBagyr9EfRazg__thumb/img/vkAI2JcO2v2Y_pO1Fi5shUGzCxc=/fit-in/200x150/filters:strip_icc()/pic5747491.jpg"},
+                             "https://cf.geekdo-images.com/9cJf4kd_HZQo6NunfJlo9w__thumb/img/6VzhMMmGOxNTCHQ-8iFdn5vINis=/fit-in/200x150/filters:strip_icc()/pic175966.jpg"},
                             #uuid "0c4d773a-4f7d-3480-a72a-f0b466ccd9eb"
                             {:game/id
                              #uuid "0c4d773a-4f7d-3480-a72a-f0b466ccd9eb",
@@ -524,56 +560,6 @@
                              :game/name "Aruba: Battle Race",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/P5I29YWK_qJTejosn4k_8A__thumb/img/yxuu6jFY3aXuAFjl4ytvaMZPDUE=/fit-in/200x150/filters:strip_icc()/pic2228198.png"},
-                            #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
-                            {:game/id
-                             #uuid "582d2648-b634-3370-a31e-bef979dab3f3",
-                             :com.boardgamegeek.boardgame/min-players
-                             2,
-                             :com.boardgamegeek.boardgame/mechanics
-                             (list #:com.boardgamegeek.mechanic{:id
-                                                                2875,
-                                                                :name
-                                                                "End Game Bonuses"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2041,
-                                                                :name
-                                                                "Open Drafting"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2048,
-                                                                :name
-                                                                "Pattern Building"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2002,
-                                                                :name
-                                                                "Tile Placement"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2829,
-                                                                :name
-                                                                "Turn Order: Claim Action"}),
-                             :name "Azul",
-                             :com.boardgamegeek.boardgame/categories
-                             (list #:com.boardgamegeek.category{:id
-                                                                1009,
-                                                                :name
-                                                                "Abstract Strategy"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1028,
-                                                                :name
-                                                                "Puzzle"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1070,
-                                                                :name
-                                                                "Renaissance"}),
-                             :com.boardgamegeek.boardgame/max-play-time
-                             45,
-                             :com.boardgamegeek.boardgame/max-players
-                             4,
-                             :com.boardgamegeek.boardgame/min-play-time
-                             30,
-                             :com.boardgamegeek.boardgame/id "230802",
-                             :game/name "Azul",
-                             :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__thumb/img/ccsXKrdGJw-YSClWwzVUwk5Nh9Y=/fit-in/200x150/filters:strip_icc()/pic6973671.png"},
                             #uuid "eaa9b08c-9718-39e9-84e8-e09ccf855ef0"
                             {:game/id
                              #uuid "eaa9b08c-9718-39e9-84e8-e09ccf855ef0",
@@ -640,6 +626,32 @@
                              :game/name "BANG!",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/_04xA-d-rfygm0c49HE4vA__thumb/img/P-6cf4TEk7ewzrfP9d-8c-TxAY4=/fit-in/200x150/filters:strip_icc()/pic1170986.jpg"},
+                            #uuid "1b3e1ee9-bff8-3431-9ea6-b181365ba65f"
+                            {:game/id
+                             #uuid "1b3e1ee9-bff8-3431-9ea6-b181365ba65f",
+                             :com.boardgamegeek.boardgame/min-players
+                             3,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2002,
+                                                                :name
+                                                                "Tile Placement"}),
+                             :name "Azul",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1009,
+                                                                :name
+                                                                "Abstract Strategy"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/max-players
+                             3,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/id "167402",
+                             :game/name "BLUE",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/DF2IoyPeG5Jun_UMW2_OGw__thumb/img/oFKKCAzOX2h15wNun5NGH4p_l68=/fit-in/200x150/filters:strip_icc()/pic2309332.jpg"},
                             #uuid "3e302b86-f47c-3d22-9b4d-c253439d9970"
                             {:game/id
                              #uuid "3e302b86-f47c-3d22-9b4d-c253439d9970",
@@ -10657,10 +10669,10 @@
                              #uuid "0746ccba-be89-3d2f-a4b6-af590e489ff0"
                              #uuid "28e54304-62fc-38c9-9b76-058878323d57"
                              #uuid "0c4d773a-4f7d-3480-a72a-f0b466ccd9eb"
-                             #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
                              #uuid "eaa9b08c-9718-39e9-84e8-e09ccf855ef0"
                              #uuid "3e302b86-f47c-3d22-9b4d-c253439d9970"
                              #uuid "52666523-7b49-34f0-aa87-c130e8f25a41"
+                             #uuid "1b3e1ee9-bff8-3431-9ea6-b181365ba65f"
                              #uuid "7bf39893-aba0-3507-bdb6-5bb4b2b4c6fa"
                              #uuid "8a55d10a-eaaf-3da1-8c97-baec9e64e35f"
                              #uuid "014f4da6-7752-3558-b762-f9b4104f16db"
@@ -11009,7 +11021,6 @@
                              #uuid "aa2a14f6-6296-368a-8fab-970e48ba9430"
                              #uuid "fbbaa2e3-599e-3480-bf8a-64ef97ee61c2"
                              #uuid "0746ccba-be89-3d2f-a4b6-af590e489ff0"
-                             #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
                              #uuid "3e302b86-f47c-3d22-9b4d-c253439d9970"
                              #uuid "8a55d10a-eaaf-3da1-8c97-baec9e64e35f"
                              #uuid "dca1df6f-0d07-3c90-bedf-dd4f86caf822"
@@ -11141,6 +11152,7 @@
                              #uuid "4252b72e-6ebc-34d4-b4c2-e46a786f03d2"
                              #uuid "70b3f625-6197-3a53-a3b0-26bcc7a1ec50"
                              #uuid "0c4d773a-4f7d-3480-a72a-f0b466ccd9eb"
+                             #uuid "1b3e1ee9-bff8-3431-9ea6-b181365ba65f"
                              #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7"
                              #uuid "83bc6d7a-f0b7-32c4-9654-2c5b4889232b"
                              #uuid "69895ff2-b990-3611-827e-f4f7fd32eb8a"
@@ -11258,9 +11270,9 @@
                              #uuid "cb8144ed-c9ec-3a63-93a2-c2c4c8b3752e"
                              #uuid "36749cc5-01bd-3292-aaaf-44525fc6ed7b"
                              #uuid "4252b72e-6ebc-34d4-b4c2-e46a786f03d2"
+                             #uuid "1b3e1ee9-bff8-3431-9ea6-b181365ba65f"
                              #uuid "610c7c4f-043d-3f06-b077-484eac9e7138"
                              #uuid "0746ccba-be89-3d2f-a4b6-af590e489ff0"
-                             #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
                              #uuid "3e302b86-f47c-3d22-9b4d-c253439d9970"
                              #uuid "414bbf5b-1083-3275-9983-4133937db58b"
                              #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7"
@@ -11587,7 +11599,7 @@
                              #uuid "449377c8-c54e-333f-a0a5-8ff81f882894"
                              #uuid "aa2a14f6-6296-368a-8fab-970e48ba9430"
                              #uuid "610c7c4f-043d-3f06-b077-484eac9e7138"
-                             #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
+                             #uuid "1b3e1ee9-bff8-3431-9ea6-b181365ba65f"
                              #uuid "d51dd20c-a05f-3ab4-94c7-9020d535e5b3"
                              #uuid "6ea5359e-01a4-3842-8849-43125518289b"
                              #uuid "06e9bd9c-0975-32da-acdf-2b1942d57f1e"
@@ -11698,6 +11710,7 @@
                              #uuid "148309a1-2159-3de0-816b-266f7301dd3d"
                              #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08"
                              #uuid "81c1c368-bf93-30c5-8b39-bc50b2d8b215"
+                             #uuid "28e54304-62fc-38c9-9b76-058878323d57"
                              #uuid "0a4d85e2-2b97-3ffd-a1d4-9ffe55f8f5d1"
                              #uuid "bf8d01be-0dae-35e4-a457-a3f4049c8606"
                              #uuid "f944b1ee-72e5-3ea8-832f-4eaf0dde6f09"
@@ -11705,7 +11718,6 @@
                              #uuid "4d390101-fc97-388b-b11e-ece5c5f3d615"
                              #uuid "e9d6b4db-5d87-34f0-950a-294e10a38f57"
                              #uuid "bf77dd7c-9166-3acb-b636-fb8541866d02"
-                             #uuid "28e54304-62fc-38c9-9b76-058878323d57"
                              #uuid "658f866b-fbc1-3666-ba14-ad2719dd52c5"],
                             :com.boardgamegeek.boardgame/max-play-time
                             [#uuid "ed5842a3-1a0f-3ef1-bead-f142218f332c"
@@ -11828,6 +11840,7 @@
                              #uuid "449377c8-c54e-333f-a0a5-8ff81f882894"
                              #uuid "aa2a14f6-6296-368a-8fab-970e48ba9430"
                              #uuid "0746ccba-be89-3d2f-a4b6-af590e489ff0"
+                             #uuid "1b3e1ee9-bff8-3431-9ea6-b181365ba65f"
                              #uuid "be01908f-633f-35da-be89-80701db8ed25"
                              #uuid "6ea5359e-01a4-3842-8849-43125518289b"
                              #uuid "59ccf897-4368-3ab7-ae8e-0ac969872f6e"
@@ -11886,7 +11899,6 @@
                              #uuid "99060139-4d5e-36c5-9110-0c35b80fc62b"
                              #uuid "2ca189f5-8500-3bf3-99b6-ec3203b0c227"
                              #uuid "19d842cb-8e52-3fc6-95c8-86982139fc4d"
-                             #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
                              #uuid "8a55d10a-eaaf-3da1-8c97-baec9e64e35f"
                              #uuid "414bbf5b-1083-3275-9983-4133937db58b"
                              #uuid "d51dd20c-a05f-3ab4-94c7-9020d535e5b3"
@@ -11967,9 +11979,9 @@
                              #uuid "bf77dd7c-9166-3acb-b636-fb8541866d02"
                              #uuid "dce6433a-bef0-3dff-a22e-433b721bfc14"
                              #uuid "f7625727-1129-3703-96c0-442c8ac00dae"
-                             #uuid "28e54304-62fc-38c9-9b76-058878323d57"
                              #uuid "0a4d85e2-2b97-3ffd-a1d4-9ffe55f8f5d1"
                              #uuid "bf8d01be-0dae-35e4-a457-a3f4049c8606"
                              #uuid "658f866b-fbc1-3666-ba14-ad2719dd52c5"
                              #uuid "e9d6b4db-5d87-34f0-950a-294e10a38f57"
+                             #uuid "28e54304-62fc-38c9-9b76-058878323d57"
                              #uuid "c6bc58ef-d2cc-33ca-8003-67ae15697655"]}})

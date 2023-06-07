@@ -115,22 +115,27 @@
     {:game-list/games games-list
      :game-list/sorting (games-sorting (vals games-list))}))
 
-(defn- print-bbb-games []
-  (println "(ns app.bbb-data)")
+(defn- print-games [ns games]
+  (println (str "(ns " ns ")"))
   (pp/with-pprint-dispatch clojure-dispatch
-    (pp/pprint (list 'def 'game-data (games->db (bbb-games))))))
+    (pp/pprint (list 'def 'game-data (games->db games)))))
 
-(defn- print-hp-games []
-  (println "(ns app.hp-data)")
-  (pp/with-pprint-dispatch clojure-dispatch
-    (pp/pprint (list 'def 'game-data (games->db (hp-games))))))
+(defn- bbb-games-str []
+  (let [games (bbb-games)]
+    (with-out-str
+      (print-games "app.bbb-data" games))))
 
-(defn- print-mp-games []
-  (println "(ns app.mp-data)")
-  (pp/with-pprint-dispatch clojure-dispatch
-    (pp/pprint (list 'def 'game-data (games->db (mp-games))))))
+(defn- hp-games-str []
+  (let [games (hp-games)]
+    (with-out-str
+      (print-games "app.hp-data)" games))))
+
+(defn- mp-games-str []
+  (let [games (mp-games)]
+    (with-out-str
+      (print-games "app.mp-data)" games))))
 
 (defn create-data [_]
-  (spit "../web/src/app/hp_data.cljc" (with-out-str (print-hp-games)))
-  (spit "../web/src/app/mp_data.cljc" (with-out-str (print-mp-games)))
-  (spit "../web/src/app/bbb_data.cljc" (with-out-str (print-bbb-games))))
+  (spit "../web/src/app/hp_data.cljc" (with-out-str (hp-games-str)))
+  (spit "../web/src/app/mp_data.cljc" (with-out-str (mp-games-str)))
+  (spit "../web/src/app/bbb_data.cljc" (with-out-str (bbb-games-str))))

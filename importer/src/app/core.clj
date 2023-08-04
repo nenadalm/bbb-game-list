@@ -136,6 +136,6 @@
       (print-games "app.mp-data)" games))))
 
 (defn create-data [_]
-  (spit "../web/src/app/hp_data.cljc" (with-out-str (hp-games-str)))
-  (spit "../web/src/app/mp_data.cljc" (with-out-str (mp-games-str)))
-  (spit "../web/src/app/bbb_data.cljc" (with-out-str (bbb-games-str))))
+  (spit "../web/src/app/hp_data.cljc" (hp-games-str))
+  (spit "../web/src/app/mp_data.cljc" (mp-games-str))
+  (spit "../web/src/app/bbb_data.cljc" (bbb-games-str)))

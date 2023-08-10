@@ -16,6 +16,7 @@
    "index.html"
    "hp.html"
    "bbb.html"
+   "mp.html"
    "manifest.json"
    "img/icon.svg"
    (u/asset "img/icon.svg")
@@ -23,6 +24,7 @@
    (u/asset "js/app.js")
    (u/asset "js/hp_app.js")
    (u/asset "js/bbb_app.js")
+   (u/asset "js/mp_app.js")
    (u/asset "css/styles.css")])
 
 (defn- opaque-urls-to-cache []

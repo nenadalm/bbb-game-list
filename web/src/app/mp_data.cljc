@@ -1,4 +1,4 @@
-(ns app.mp-data))
+(ns app.mp-data)
 (def game-data #:game-list{:games
                            {#uuid "ecfc2dff-e568-310a-a7db-c6d3724cfde2"
                             {:game/id

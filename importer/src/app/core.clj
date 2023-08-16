@@ -128,12 +128,12 @@
 (defn- hp-games-str []
   (let [games (hp-games)]
     (with-out-str
-      (print-games "app.hp-data)" games))))
+      (print-games "app.hp-data" games))))
 
 (defn- mp-games-str []
   (let [games (mp-games)]
     (with-out-str
-      (print-games "app.mp-data)" games))))
+      (print-games "app.mp-data" games))))
 
 (defn create-data [_]
   (spit "../web/src/app/hp_data.cljc" (hp-games-str))

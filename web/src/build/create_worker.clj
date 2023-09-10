@@ -32,7 +32,8 @@
    []
    cat
    [(extract-thumbnails app.bbb-data/game-data)
-    (extract-thumbnails app.hp-data/game-data)]))
+    (extract-thumbnails app.hp-data/game-data)
+    (extract-thumbnails app.mp-data/game-data)]))
 
 (defn- render-urls-to-cache [projects]
   (str

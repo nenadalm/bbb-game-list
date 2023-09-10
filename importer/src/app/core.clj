@@ -8,13 +8,19 @@
    [app.pprint :refer [clojure-dispatch]]
    [app.uuid :as uuid]
    [clojure.data.priority-map :as priority-map]
-   [clojure.string]))
+   [clojure.edn :as edn]
+   [clojure.string]
+   [clojure.java.io :as io]))
 
 (defn- tap [x]
   (binding [*out* *err*]
     (println x)))
 
 (add-tap tap)
+
+(defn- read-edn [f]
+  (with-open [r (io/reader f)]
+    (edn/read (java.io.PushbackReader. r))))
 
 (defn- enrich-game-with-uuid [game]
   (assoc game :game/id (uuid/from-string (:game/name game))))
@@ -91,6 +97,11 @@
 (defn- mp-games []
   (enrich-games (mp/games)))
 
+(def ^:private project->get-games
+  {"bbb" bbb-games
+   "mp" mp-games
+   "hp" hp-games})
+
 (defn- index-by [f coll]
   (reduce
    (fn [m v]
@@ -136,6 +147,12 @@
       (print-games "app.mp-data" games))))
 
 (defn create-data [_]
-  (spit "../web/src/app/hp_data.cljc" (hp-games-str))
-  (spit "../web/src/app/mp_data.cljc" (mp-games-str))
-  (spit "../web/src/app/bbb_data.cljc" (bbb-games-str)))
+  (let [projects(read-edn "../projects.edn")]
+    (doseq [project projects]
+      (let [games-path (str "../web/src/app/" (:project project) "_data.cljc")
+            f (project->get-games (:project project))
+            games (f)]
+        (spit
+         games-path
+         (with-out-str
+           (print-games (str "app." (:project project) "-data" games))))))))

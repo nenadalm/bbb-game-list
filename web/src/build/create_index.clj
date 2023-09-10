@@ -67,12 +67,8 @@
   </body>
 </html>"))
 
-(defn- read-edn [f]
-  (with-open [r (io/reader f)]
-    (edn/read (java.io.PushbackReader. r))))
-
 (defn execute [_]
-  (let [projects (read-edn "../projects.edn")]
+  (let [projects (u/read-edn "../projects.edn")]
     (doseq [project projects]
       (spit (str "resources/public/" (:project project) ".html") (render-project project)))
     (spit "resources/public/index.html" (render-index projects))))

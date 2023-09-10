@@ -1,7 +1,7 @@
 (ns build.util
   (:require
    [clojure.java.io :as io]
-   [clojure.edn]))
+   [clojure.edn :as edn]))
 
 (def ^:private module-id->output-name (atom nil))
 
@@ -41,3 +41,7 @@
    (-> (module-id path)
        output-name)
    (str path "?v=" (asset-hash path))))
+
+(defn read-edn [f]
+  (with-open [r (io/reader f)]
+    (edn/read (java.io.PushbackReader. r))))

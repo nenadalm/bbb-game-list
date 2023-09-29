@@ -3,7 +3,8 @@
    [clojure.string :as str]
    [build.util :as u]
    [app.bbb-data]
-   [app.hp-data]))
+   [app.hp-data]
+   [app.mp-data]))
 
 (defn- extract-thumbnails [data]
   (into

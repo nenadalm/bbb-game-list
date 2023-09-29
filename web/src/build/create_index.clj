@@ -1,9 +1,7 @@
 (ns build.create-index
   (:require
    [clojure.java.shell :as shell]
-   [clojure.java.io :as io]
    [clojure.string :as str]
-   [clojure.edn :as edn]
    [build.util :as u]))
 
 (defn- sh [& args]

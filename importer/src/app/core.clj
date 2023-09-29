@@ -131,21 +131,6 @@
   (pp/with-pprint-dispatch clojure-dispatch
     (pp/pprint (list 'def 'game-data (games->db games)))))
 
-(defn- bbb-games-str []
-  (let [games (bbb-games)]
-    (with-out-str
-      (print-games "app.bbb-data" games))))
-
-(defn- hp-games-str []
-  (let [games (hp-games)]
-    (with-out-str
-      (print-games "app.hp-data" games))))
-
-(defn- mp-games-str []
-  (let [games (mp-games)]
-    (with-out-str
-      (print-games "app.mp-data" games))))
-
 (defn create-data [_]
   (let [projects (read-edn "../projects.edn")]
     (doseq [project projects]
@@ -155,4 +140,4 @@
         (spit
          games-path
          (with-out-str
-           (print-games (str "app." (:project project) "-data" games))))))))
+           (print-games (str "app." (:project project) "-data") games)))))))

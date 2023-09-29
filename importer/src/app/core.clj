@@ -147,7 +147,7 @@
       (print-games "app.mp-data" games))))
 
 (defn create-data [_]
-  (let [projects(read-edn "../projects.edn")]
+  (let [projects (read-edn "../projects.edn")]
     (doseq [project projects]
       (let [games-path (str "../web/src/app/" (:project project) "_data.cljc")
             f (project->get-games (:project project))

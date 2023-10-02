@@ -1283,7 +1283,7 @@
                              :com.boardgamegeek.boardgame/id "283155",
                              :game/name "Calico",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/t8bTlZmxz6PiskMSjcBHcw__thumb/img/TByBGUDO_jNVxDaOviRWOFtu9fk=/fit-in/200x150/filters:strip_icc()/pic4815033.jpg"},
+                             "https://cf.geekdo-images.com/6O6HqeMY6z1MPPKKVKp93g__thumb/img/VgVuOrnxLRxJCAMDGjAIRG7JVwE=/fit-in/200x150/filters:strip_icc()/pic7714854.jpg"},
                             #uuid "be01908f-633f-35da-be89-80701db8ed25"
                             {:game/id
                              #uuid "be01908f-633f-35da-be89-80701db8ed25",
@@ -4013,7 +4013,7 @@
                              :com.boardgamegeek.boardgame/max-play-time
                              2,
                              :com.boardgamegeek.boardgame/max-players
-                             6,
+                             8,
                              :com.boardgamegeek.boardgame/min-play-time
                              2,
                              :com.boardgamegeek.boardgame/id "194626",
@@ -10851,10 +10851,43 @@
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/D96kQw6kInXolAHYtRRWfQ__thumb/img/XlO_j9hH3cwKjTdzqRI3TQtshsc=/fit-in/200x150/filters:strip_icc()/pic179628.jpg"},
                             #uuid "350c0005-7a4e-3243-9b0c-ac54dff86da9"
-                            {:name "Zpátky do lavic",
-                             :game/id
+                            {:game/id
                              #uuid "350c0005-7a4e-3243-9b0c-ac54dff86da9",
-                             :game/name "Zpátky do lavic"},
+                             :com.boardgamegeek.boardgame/min-players
+                             2,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2055,
+                                                                :name
+                                                                "Paper-and-Pencil"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2831,
+                                                                :name
+                                                                "Real-Time"}),
+                             :name "Zpátky do lavic",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1094,
+                                                                :name
+                                                                "Educational"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1030,
+                                                                :name
+                                                                "Party Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1027,
+                                                                :name
+                                                                "Trivia"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             45,
+                             :com.boardgamegeek.boardgame/max-players
+                             6,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             45,
+                             :com.boardgamegeek.boardgame/id "402327",
+                             :game/name "Zpátky do lavic",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/LrosW2nzgbI4ql75ZzSJeQ__thumb/img/6mjw_dYnYheXvbeTjpgvikYUFgY=/fit-in/200x150/filters:strip_icc()/pic7759415.jpg"},
                             #uuid "46e5ab40-935a-34f6-a358-b9e29e111e95"
                             {:name "Únikovka",
                              :game/id
@@ -11188,7 +11221,6 @@
                              #uuid "60e06255-831d-3028-ac48-40236889de1e"
                              #uuid "c51ee7cb-3dc7-3a2e-9f29-f36d094595e8"
                              #uuid "3233101b-62aa-3a6e-bb72-e7474aa39925"
-                             #uuid "350c0005-7a4e-3243-9b0c-ac54dff86da9"
                              #uuid "46e5ab40-935a-34f6-a358-b9e29e111e95"
                              #uuid "92046b7f-76fb-328f-aa7b-4b1214cef1a2"
                              #uuid "c3aab0f6-49a7-384e-bda1-d3a33f16e59a"
@@ -11369,6 +11401,7 @@
                              #uuid "4f86101d-5207-3b59-b2ae-ea1c5295a7b6"
                              #uuid "d770b14c-eca2-3467-b500-e9d3fdc3c81b"
                              #uuid "4252b72e-6ebc-34d4-b4c2-e46a786f03d2"
+                             #uuid "350c0005-7a4e-3243-9b0c-ac54dff86da9"
                              #uuid "70b3f625-6197-3a53-a3b0-26bcc7a1ec50"
                              #uuid "0c4d773a-4f7d-3480-a72a-f0b466ccd9eb"
                              #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7"
@@ -11456,7 +11489,6 @@
                              #uuid "60e06255-831d-3028-ac48-40236889de1e"
                              #uuid "c51ee7cb-3dc7-3a2e-9f29-f36d094595e8"
                              #uuid "3233101b-62aa-3a6e-bb72-e7474aa39925"
-                             #uuid "350c0005-7a4e-3243-9b0c-ac54dff86da9"
                              #uuid "46e5ab40-935a-34f6-a358-b9e29e111e95"
                              #uuid "92046b7f-76fb-328f-aa7b-4b1214cef1a2"
                              #uuid "c3aab0f6-49a7-384e-bda1-d3a33f16e59a"
@@ -11606,7 +11638,6 @@
                              #uuid "ebe3d298-d25e-3110-8e34-1c079e9455d9"
                              #uuid "77019157-27a1-3008-9fce-2ae005351ccb"
                              #uuid "b637cb61-ad5a-38ad-a7c2-bb785678af37"
-                             #uuid "e29fbec4-4c71-3519-8e93-582b67df86f4"
                              #uuid "6db176b1-017b-3430-a362-e2d6ee99cc67"
                              #uuid "141c9f39-27f9-3e84-b303-58ac1f2e96ac"
                              #uuid "0579d3ee-c46f-3638-934b-1acd5670d79c"
@@ -11627,6 +11658,7 @@
                              #uuid "87f7e39b-1174-3e39-aa35-cdb52f9572df"
                              #uuid "3c1fd801-7f7f-37a7-8609-c31c50b7911d"
                              #uuid "9cc75669-5ba5-34e5-be80-cbbde8781a53"
+                             #uuid "350c0005-7a4e-3243-9b0c-ac54dff86da9"
                              #uuid "449377c8-c54e-333f-a0a5-8ff81f882894"
                              #uuid "eaa9b08c-9718-39e9-84e8-e09ccf855ef0"
                              #uuid "8a55d10a-eaaf-3da1-8c97-baec9e64e35f"
@@ -11645,6 +11677,7 @@
                              #uuid "ca30646c-712d-35a2-ad50-a2003177750f"
                              #uuid "7a1e450f-9cd7-3ead-9cf7-76977d58bd6f"
                              #uuid "bd4049a7-2730-31a1-bbc9-4a077d75facc"
+                             #uuid "e29fbec4-4c71-3519-8e93-582b67df86f4"
                              #uuid "f54a3493-468c-3242-b3bc-a8c69487fd15"
                              #uuid "cdb9785e-e723-341e-933e-9853dce18179"
                              #uuid "3286f411-3994-392d-8f40-b33c3e8a2e24"
@@ -11723,7 +11756,6 @@
                              #uuid "60e06255-831d-3028-ac48-40236889de1e"
                              #uuid "c51ee7cb-3dc7-3a2e-9f29-f36d094595e8"
                              #uuid "3233101b-62aa-3a6e-bb72-e7474aa39925"
-                             #uuid "350c0005-7a4e-3243-9b0c-ac54dff86da9"
                              #uuid "46e5ab40-935a-34f6-a358-b9e29e111e95"
                              #uuid "92046b7f-76fb-328f-aa7b-4b1214cef1a2"
                              #uuid "c3aab0f6-49a7-384e-bda1-d3a33f16e59a"
@@ -11897,6 +11929,7 @@
                              #uuid "6d08650d-46f6-38b6-ad1c-5910684afba1"
                              #uuid "4a9aa376-3c03-376f-b25f-4430bd6352a7"
                              #uuid "38af37ce-841a-38a4-a7e4-c543267b49f1"
+                             #uuid "350c0005-7a4e-3243-9b0c-ac54dff86da9"
                              #uuid "70b3f625-6197-3a53-a3b0-26bcc7a1ec50"
                              #uuid "0c4d773a-4f7d-3480-a72a-f0b466ccd9eb"
                              #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7"
@@ -11993,7 +12026,6 @@
                              #uuid "60e06255-831d-3028-ac48-40236889de1e"
                              #uuid "c51ee7cb-3dc7-3a2e-9f29-f36d094595e8"
                              #uuid "3233101b-62aa-3a6e-bb72-e7474aa39925"
-                             #uuid "350c0005-7a4e-3243-9b0c-ac54dff86da9"
                              #uuid "46e5ab40-935a-34f6-a358-b9e29e111e95"
                              #uuid "92046b7f-76fb-328f-aa7b-4b1214cef1a2"
                              #uuid "c3aab0f6-49a7-384e-bda1-d3a33f16e59a"
@@ -12140,6 +12172,7 @@
                              #uuid "4a9aa376-3c03-376f-b25f-4430bd6352a7"
                              #uuid "c31af57c-a315-3610-b455-9d5f386f31e0"
                              #uuid "e2a74414-2984-3c99-84dc-424f782d6a9c"
+                             #uuid "350c0005-7a4e-3243-9b0c-ac54dff86da9"
                              #uuid "548d40ad-9562-3712-a0a0-f072f66b395c"
                              #uuid "70b3f625-6197-3a53-a3b0-26bcc7a1ec50"
                              #uuid "0c4d773a-4f7d-3480-a72a-f0b466ccd9eb"

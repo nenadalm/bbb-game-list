@@ -219,6 +219,10 @@
                                                                 :name
                                                                 "Hidden Roles"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                3000,
+                                                                :name
+                                                                "Hot Potato"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2871,
                                                                 :name
                                                                 "Kill Steal"}
@@ -616,7 +620,11 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1030,
                                                                 :name
-                                                                "Party Game"}),
+                                                                "Party Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1025,
+                                                                :name
+                                                                "Word Game"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              40,
                              :com.boardgamegeek.boardgame/max-players
@@ -1092,6 +1100,10 @@
                                                                 :name
                                                                 "Role Playing"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2819,
+                                                                :name
+                                                                "Solo / Solitaire Game"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2027,
                                                                 :name
                                                                 "Storytelling"}
@@ -1232,6 +1244,10 @@
                                                                 :name
                                                                 "Modular Board"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                3099,
+                                                                :name
+                                                                "Multi-Use Cards"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2846,
                                                                 :name
                                                                 "Once-Per-Game Abilities"}
@@ -1345,6 +1361,10 @@
                                                                 2975,
                                                                 :name
                                                                 "Line of Sight"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                3099,
+                                                                :name
+                                                                "Multi-Use Cards"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2846,
                                                                 :name
@@ -1752,6 +1772,10 @@
                                                                 2072,
                                                                 :name
                                                                 "Dice Rolling"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2876,
+                                                                :name
+                                                                "Race"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2909,
                                                                 :name
@@ -2504,6 +2528,10 @@
                              1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2080,
+                                                                :name
+                                                                "Area Majority / Influence"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2857,
                                                                 :name
                                                                 "Card Play Conflict Resolution"}

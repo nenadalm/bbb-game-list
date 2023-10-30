@@ -33,7 +33,7 @@
                              :com.boardgamegeek.boardgame/max-players
                              6,
                              :com.boardgamegeek.boardgame/min-play-time
-                             30,
+                             20,
                              :com.boardgamegeek.boardgame/id "86073",
                              :languages [],
                              :game/name "5 Second Rule",
@@ -539,6 +539,10 @@
                                                                 2926,
                                                                 :name
                                                                 "Selection Order Bid"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2819,
+                                                                :name
+                                                                "Solo / Solitaire Game"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2002,
                                                                 :name
@@ -3107,6 +3111,10 @@
                                                                 :name
                                                                 "Fighting"}
                                    #:com.boardgamegeek.category{:id
+                                                                1069,
+                                                                :name
+                                                                "Modern Warfare"}
+                                   #:com.boardgamegeek.category{:id
                                                                 1008,
                                                                 :name
                                                                 "Nautical"}
@@ -4770,10 +4778,6 @@
                                                                 2924,
                                                                 :name
                                                                 "Auction: Dutch"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2664,
-                                                                :name
-                                                                "Deck, Bag, and Pool Building"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2875,
                                                                 :name
@@ -7728,6 +7732,10 @@
                                                                 :name
                                                                 "Modular Board"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2007,
+                                                                :name
+                                                                "Pick-up and Deliver"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2004,
                                                                 :name
                                                                 "Set Collection"}
@@ -7735,6 +7743,10 @@
                                                                 2819,
                                                                 :name
                                                                 "Solo / Solitaire Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2940,
+                                                                :name
+                                                                "Square Grid"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2015,
                                                                 :name
@@ -7748,7 +7760,11 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1010,
                                                                 :name
-                                                                "Fantasy"}),
+                                                                "Fantasy"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1016,
+                                                                :name
+                                                                "Science Fiction"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              30,
                              :com.boardgamegeek.boardgame/max-players
@@ -7803,7 +7819,11 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1090,
                                                                 :name
-                                                                "Pirates"}),
+                                                                "Pirates"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1120,
+                                                                :name
+                                                                "Print & Play"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              25,
                              :com.boardgamegeek.boardgame/max-players
@@ -8101,48 +8121,13 @@
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/CawgoeUEMFS4f14Iix9Exg__thumb/img/OYsku3__TTw8fiFYEWlhUBT7nIU=/fit-in/200x150/filters:strip_icc()/pic2608713.png"},
                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
-                            {:game/id
+                            {:languages ["de" "en"],
+                             :name "Ghost Blitz",
+                             :game/id
                              #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa",
-                             :com.boardgamegeek.boardgame/min-players
-                             2,
-                             :com.boardgamegeek.boardgame/mechanics
-                             (list #:com.boardgamegeek.mechanic{:id
-                                                                2060,
-                                                                :name
-                                                                "Pattern Recognition"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2991,
-                                                                :name
-                                                                "Speed Matching"}),
-                             :name "Duch!",
-                             :com.boardgamegeek.boardgame/categories
-                             (list #:com.boardgamegeek.category{:id
-                                                                1032,
-                                                                :name
-                                                                "Action / Dexterity"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1002,
-                                                                :name
-                                                                "Card Game"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1041,
-                                                                :name
-                                                                "Children's Game"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1037,
-                                                                :name
-                                                                "Real-time"}),
-                             :com.boardgamegeek.boardgame/max-play-time
-                             20,
-                             :com.boardgamegeek.boardgame/max-players
-                             8,
-                             :com.boardgamegeek.boardgame/min-play-time
-                             20,
-                             :com.boardgamegeek.boardgame/id "83195",
-                             :languages ["cs"],
                              :game/name "Ghost Blitz",
-                             :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/tvZTjFnPvt2LrY6NGSbeuQ__thumb/img/LGtpFjDazqROmznWJaJStSxkIHI=/fit-in/200x150/filters:strip_icc()/pic2034769.jpg"},
+                             :com.boardgamegeek.boardgame/id
+                             "2034769"},
                             #uuid "35474b73-b019-37a7-b3d6-ee8eb6df3f8c"
                             {:game/id
                              #uuid "35474b73-b019-37a7-b3d6-ee8eb6df3f8c",
@@ -8843,7 +8828,7 @@
                                                                 2004,
                                                                 :name
                                                                 "Set Collection"}),
-                             :name "Hanafuda",
+                             :name "Hansa Teutonica",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1002,
@@ -8860,7 +8845,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "5451",
-                             :languages [],
+                             :languages ["en"],
                              :game/name "Hanafuda",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/GfBu7Yk8CsKM50GclSNx8A__thumb/img/OEBT1R88KJBF6ow2sB8ZYw063lA=/fit-in/200x150/filters:strip_icc()/pic2649408.jpg"},
@@ -10257,6 +10242,10 @@
                                                                 :name
                                                                 "Open Drafting"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                3103,
+                                                                :name
+                                                                "Resource Queue"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2823,
                                                                 :name
                                                                 "Score-and-Reset Game"}
@@ -10304,6 +10293,10 @@
                                                                 :name
                                                                 "Hand Management"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2876,
+                                                                :name
+                                                                "Race"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2035,
                                                                 :name
                                                                 "Roll / Spin and Move"}
@@ -10320,11 +10313,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1090,
                                                                 :name
-                                                                "Pirates"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1031,
-                                                                :name
-                                                                "Racing"}),
+                                                                "Pirates"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              60,
                              :com.boardgamegeek.boardgame/max-players
@@ -12593,6 +12582,10 @@
                                                                 :name
                                                                 "Hand Management"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2041,
+                                                                :name
+                                                                "Open Drafting"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2004,
                                                                 :name
                                                                 "Set Collection"}),
@@ -13686,6 +13679,10 @@
                                                                 2027,
                                                                 :name
                                                                 "Storytelling"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2015,
+                                                                :name
+                                                                "Variable Player Powers"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2017,
                                                                 :name
@@ -14798,6 +14795,10 @@
                                                                 :name
                                                                 "Constrained Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2072,
+                                                                :name
+                                                                "Dice Rolling"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2850,
                                                                 :name
                                                                 "Events"}
@@ -15761,8 +15762,7 @@
                                                                 2017,
                                                                 :name
                                                                 "Voting"}),
-                             :name
-                             "Profanity: A Card Game For Smutty People",
+                             :name "Ready Set Bet",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1002,
@@ -18277,6 +18277,10 @@
                              :name "Desítka",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
+                                                                1030,
+                                                                :name
+                                                                "Party Game"}
+                                   #:com.boardgamegeek.category{:id
                                                                 1027,
                                                                 :name
                                                                 "Trivia"}),
@@ -20404,6 +20408,10 @@
                              2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2080,
+                                                                :name
+                                                                "Area Majority / Influence"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2875,
                                                                 :name
                                                                 "End Game Bonuses"}
@@ -20672,10 +20680,6 @@
                                                                 2849,
                                                                 :name
                                                                 "Tech Trees / Tech Tracks"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2939,
-                                                                :name
-                                                                "Track Movement"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2079,
                                                                 :name
@@ -22007,10 +22011,6 @@
                                                                 :name
                                                                 "Take That"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                2939,
-                                                                :name
-                                                                "Track Movement"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2079,
                                                                 :name
                                                                 "Variable Phase Order"}
@@ -22054,6 +22054,10 @@
                              2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2838,
+                                                                :name
+                                                                "Action Drafting"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2080,
                                                                 :name
                                                                 "Area Majority / Influence"}
@@ -22065,6 +22069,10 @@
                                                                 2012,
                                                                 :name
                                                                 "Auction/Bidding"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2875,
+                                                                :name
+                                                                "End Game Bonuses"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2843,
                                                                 :name
@@ -24523,7 +24531,11 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2041,
                                                                 :name
-                                                                "Open Drafting"}),
+                                                                "Open Drafting"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                3100,
+                                                                :name
+                                                                "Tags"}),
                              :name "Xenon Profiteer",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -25441,6 +25453,7 @@
                             :com.boardgamegeek.boardgame/min-players
                             [#uuid "88323a7c-755f-3f0b-b1ce-b07ddc84864e"
                              #uuid "da07d263-b681-3ea1-8b68-6a504e73ccb3"
+                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "d803129a-da52-3403-b88a-1331f9bf89b1"
                              #uuid "6c757a0c-4ae5-363d-84f8-46e0a6569976"
                              #uuid "e033fcee-316e-32c8-8bcb-582dec0dfc46"
@@ -25632,7 +25645,6 @@
                              #uuid "33ef9db6-536f-307e-9b5a-71695627acc0"
                              #uuid "b1c48330-4f0d-3b7d-bb69-b9644919d62f"
                              #uuid "af89834e-3251-3aa9-a464-74b8d24a5091"
-                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "35474b73-b019-37a7-b3d6-ee8eb6df3f8c"
                              #uuid "b1ea21fb-2177-3fed-af81-0a3967e76069"
                              #uuid "bd4049a7-2730-31a1-bbc9-4a077d75facc"
@@ -25970,6 +25982,7 @@
                             :com.boardgamegeek.boardgame/max-players
                             [#uuid "88323a7c-755f-3f0b-b1ce-b07ddc84864e"
                              #uuid "da07d263-b681-3ea1-8b68-6a504e73ccb3"
+                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "d803129a-da52-3403-b88a-1331f9bf89b1"
                              #uuid "6c757a0c-4ae5-363d-84f8-46e0a6569976"
                              #uuid "e033fcee-316e-32c8-8bcb-582dec0dfc46"
@@ -26422,7 +26435,6 @@
                              #uuid "ebb7a837-d8f1-3d0c-a149-24e17e4005dc"
                              #uuid "b3a0794c-8e53-3490-adc8-9c993a450d0b"
                              #uuid "7873a90e-ea1b-3b3b-8ca8-4820dc662976"
-                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "bd4049a7-2730-31a1-bbc9-4a077d75facc"
                              #uuid "5aa42acb-56e5-3325-acc3-e39be2b450a1"
                              #uuid "0a995f25-bdf2-358f-bf5a-93e22c9aa05b"
@@ -26501,6 +26513,7 @@
                              #uuid "0727c24e-c484-3017-9850-a0e366a7dd42"
                              #uuid "88323a7c-755f-3f0b-b1ce-b07ddc84864e"
                              #uuid "da07d263-b681-3ea1-8b68-6a504e73ccb3"
+                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "d803129a-da52-3403-b88a-1331f9bf89b1"
                              #uuid "6c757a0c-4ae5-363d-84f8-46e0a6569976"
                              #uuid "e033fcee-316e-32c8-8bcb-582dec0dfc46"
@@ -26618,6 +26631,7 @@
                              #uuid "57153155-cc42-3c05-8286-785a35ed3749"
                              #uuid "9cfc3b97-43a7-3c0f-a7c6-2b42b62c90f6"
                              #uuid "99c1f5d3-b8a0-34f2-a4d1-97bfd885a25d"
+                             #uuid "d93a081b-6c5a-3ab8-871e-8c286cef8e0f"
                              #uuid "c37bef0d-0c7b-30a3-a439-5c9b9ae2bee5"
                              #uuid "73748ad3-842c-3599-9aa2-8a15ebaa24a5"
                              #uuid "eaa9b08c-9718-39e9-84e8-e09ccf855ef0"
@@ -26644,7 +26658,6 @@
                              #uuid "68cea2b4-9ca7-3e26-a125-07d2663c3ae5"
                              #uuid "b1c48330-4f0d-3b7d-bb69-b9644919d62f"
                              #uuid "af89834e-3251-3aa9-a464-74b8d24a5091"
-                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "35474b73-b019-37a7-b3d6-ee8eb6df3f8c"
                              #uuid "5aa42acb-56e5-3325-acc3-e39be2b450a1"
                              #uuid "bc4b57d5-55c6-3d77-a3cb-38686b7bc115"
@@ -26711,7 +26724,6 @@
                              #uuid "2115fbc0-ba7a-3017-b867-c0a6304c3052"
                              #uuid "63e5002f-f8a6-36bd-81b5-2f817477eecf"
                              #uuid "19adc592-fdfe-37ba-81a5-d195098fc52d"
-                             #uuid "d93a081b-6c5a-3ab8-871e-8c286cef8e0f"
                              #uuid "449377c8-c54e-333f-a0a5-8ff81f882894"
                              #uuid "aa2a14f6-6296-368a-8fab-970e48ba9430"
                              #uuid "3a1acd2a-f48b-3114-b132-42b7b94aa4eb"
@@ -27030,6 +27042,7 @@
                              #uuid "0727c24e-c484-3017-9850-a0e366a7dd42"
                              #uuid "88323a7c-755f-3f0b-b1ce-b07ddc84864e"
                              #uuid "da07d263-b681-3ea1-8b68-6a504e73ccb3"
+                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "d803129a-da52-3403-b88a-1331f9bf89b1"
                              #uuid "6c757a0c-4ae5-363d-84f8-46e0a6569976"
                              #uuid "e033fcee-316e-32c8-8bcb-582dec0dfc46"
@@ -27115,7 +27128,6 @@
                              #uuid "ebe3d298-d25e-3110-8e34-1c079e9455d9"
                              #uuid "ebb7a837-d8f1-3d0c-a149-24e17e4005dc"
                              #uuid "af89834e-3251-3aa9-a464-74b8d24a5091"
-                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "bd4049a7-2730-31a1-bbc9-4a077d75facc"
                              #uuid "bc4b57d5-55c6-3d77-a3cb-38686b7bc115"
                              #uuid "c9e680a4-40fb-3a3e-bc38-6556dd90712b"

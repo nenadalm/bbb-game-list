@@ -405,6 +405,10 @@
                              3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2956,
+                                                                :name
+                                                                "Chaining"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2072,
                                                                 :name
                                                                 "Dice Rolling"}
@@ -468,8 +472,7 @@
                             {:name "Carcassone",
                              :game/id
                              #uuid "6274b5d8-6ac8-3f82-a53b-5a48c53ff26a",
-                             :game/name "Carcassone",
-                             :com.boardgamegeek.boardgame/id "349162"},
+                             :game/name "Carcassone"},
                             #uuid "2d524242-4e27-370f-a042-49942d61f783"
                             {:game/id
                              #uuid "2d524242-4e27-370f-a042-49942d61f783",
@@ -514,7 +517,11 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2060,
                                                                 :name
-                                                                "Pattern Recognition"}),
+                                                                "Pattern Recognition"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2991,
+                                                                :name
+                                                                "Speed Matching"}),
                              :name "Švábí Salát",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -871,6 +878,10 @@
                                                                 2041,
                                                                 :name
                                                                 "Open Drafting"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2876,
+                                                                :name
+                                                                "Race"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2819,
                                                                 :name
@@ -2106,6 +2117,10 @@
                                                                 :name
                                                                 "Storytelling"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2015,
+                                                                :name
+                                                                "Variable Player Powers"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2017,
                                                                 :name
                                                                 "Voting"}),
@@ -2874,6 +2889,10 @@
                              :name "Desítka",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
+                                                                1030,
+                                                                :name
+                                                                "Party Game"}
+                                   #:com.boardgamegeek.category{:id
                                                                 1027,
                                                                 :name
                                                                 "Trivia"}),
@@ -3070,6 +3089,10 @@
                              2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2989,
+                                                                :name
+                                                                "Physical Removal"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2831,
                                                                 :name
                                                                 "Real-Time"}),
@@ -3231,6 +3254,14 @@
                              2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2080,
+                                                                :name
+                                                                "Area Majority / Influence"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2956,
+                                                                :name
+                                                                "Chaining"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2875,
                                                                 :name
                                                                 "End Game Bonuses"}

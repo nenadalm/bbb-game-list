@@ -1163,6 +1163,10 @@
                              3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2956,
+                                                                :name
+                                                                "Chaining"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2072,
                                                                 :name
                                                                 "Dice Rolling"}
@@ -1441,6 +1445,10 @@
                                                                 1046,
                                                                 :name
                                                                 "Fighting"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1069,
+                                                                :name
+                                                                "Modern Warfare"}
                                    #:com.boardgamegeek.category{:id
                                                                 1008,
                                                                 :name
@@ -2175,7 +2183,11 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2060,
                                                                 :name
-                                                                "Pattern Recognition"}),
+                                                                "Pattern Recognition"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2991,
+                                                                :name
+                                                                "Speed Matching"}),
                              :name "Švábí salát",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -2605,6 +2617,10 @@
                                                                 :name
                                                                 "Narrative Choice / Paragraph"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2822,
+                                                                :name
+                                                                "Scenario / Mission / Campaign Game"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2819,
                                                                 :name
                                                                 "Solo / Solitaire Game"}
@@ -2980,6 +2996,10 @@
                                                                 :name
                                                                 "Open Drafting"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2876,
+                                                                :name
+                                                                "Race"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2819,
                                                                 :name
                                                                 "Solo / Solitaire Game"}
@@ -3038,9 +3058,9 @@
                              3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
-                                                                2039,
+                                                                3096,
                                                                 :name
-                                                                "Line Drawing"}),
+                                                                "Drawing"}),
                              :name "Duplik",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -3555,6 +3575,10 @@
                                                                 :name
                                                                 "Modular Board"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2007,
+                                                                :name
+                                                                "Pick-up and Deliver"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2004,
                                                                 :name
                                                                 "Set Collection"}
@@ -3562,6 +3586,10 @@
                                                                 2819,
                                                                 :name
                                                                 "Solo / Solitaire Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2940,
+                                                                :name
+                                                                "Square Grid"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2015,
                                                                 :name
@@ -3575,7 +3603,11 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1010,
                                                                 :name
-                                                                "Fantasy"}),
+                                                                "Fantasy"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1016,
+                                                                :name
+                                                                "Science Fiction"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              30,
                              :com.boardgamegeek.boardgame/max-players
@@ -4432,6 +4464,10 @@
                                                                 2041,
                                                                 :name
                                                                 "Open Drafting"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                3103,
+                                                                :name
+                                                                "Resource Queue"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2823,
                                                                 :name
@@ -5867,6 +5903,10 @@
                                                                 :name
                                                                 "Storytelling"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2015,
+                                                                :name
+                                                                "Variable Player Powers"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2017,
                                                                 :name
                                                                 "Voting"}),
@@ -6016,7 +6056,7 @@
                                                                 :name
                                                                 "Medieval"}),
                              :com.boardgamegeek.boardgame/max-play-time
-                             120,
+                             60,
                              :com.boardgamegeek.boardgame/max-players
                              4,
                              :com.boardgamegeek.boardgame/min-play-time
@@ -7654,6 +7694,10 @@
                              :name "Desítka",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
+                                                                1030,
+                                                                :name
+                                                                "Party Game"}
+                                   #:com.boardgamegeek.category{:id
                                                                 1027,
                                                                 :name
                                                                 "Trivia"}),
@@ -9604,6 +9648,10 @@
                              4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2893,
+                                                                :name
+                                                                "Communication Limits"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2011,
                                                                 :name
                                                                 "Modular Board"}
@@ -12186,6 +12234,7 @@
                              #uuid "3286f411-3994-392d-8f40-b33c3e8a2e24"
                              #uuid "9e9da29c-5207-3cc2-8277-db0c9cb05c25"
                              #uuid "baf9b7dd-749d-37d7-888f-c84d255e682f"
+                             #uuid "9eb88ba2-42e3-34d8-9344-188df65d0080"
                              #uuid "a25de331-0ee1-3c49-a544-820cb07931ab"
                              #uuid "03073139-0dab-349e-a8d2-e3fa11a3b6f3"
                              #uuid "01f7b705-9b33-3897-969b-343e8a6e682e"
@@ -12223,7 +12272,6 @@
                              #uuid "0e13524e-0d23-310c-a97e-3ef1583014b4"
                              #uuid "820f4af2-311d-382a-8fdb-6bfe520f83a0"
                              #uuid "6e8ce4f2-3cc4-37b8-9002-721e44843aaf"
-                             #uuid "9eb88ba2-42e3-34d8-9344-188df65d0080"
                              #uuid "148309a1-2159-3de0-816b-266f7301dd3d"
                              #uuid "568da493-2833-3009-ad26-7108e0683081"
                              #uuid "f944b1ee-72e5-3ea8-832f-4eaf0dde6f09"

@@ -356,7 +356,11 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1113,
                                                                 :name
-                                                                "Space Exploration"}),
+                                                                "Space Exploration"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1019,
+                                                                :name
+                                                                "Wargame"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              120,
                              :com.boardgamegeek.boardgame/max-players
@@ -2483,6 +2487,10 @@
                              :name "Brass Birmingham",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
+                                                                2726,
+                                                                :name
+                                                                "Age of Reason"}
+                                   #:com.boardgamegeek.category{:id
                                                                 1021,
                                                                 :name
                                                                 "Economic"}
@@ -2634,6 +2642,10 @@
                              3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2956,
+                                                                :name
+                                                                "Chaining"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2072,
                                                                 :name
                                                                 "Dice Rolling"}
@@ -16043,10 +16055,6 @@
                                                                 :name
                                                                 "Connections"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                2010,
-                                                                :name
-                                                                "Crayon Rail System"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2072,
                                                                 :name
                                                                 "Dice Rolling"}
@@ -20412,6 +20420,10 @@
                                                                 :name
                                                                 "Area Majority / Influence"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2956,
+                                                                :name
+                                                                "Chaining"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2875,
                                                                 :name
                                                                 "End Game Bonuses"}
@@ -23299,6 +23311,10 @@
                                                                 :name
                                                                 "Solo / Solitaire Game"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2829,
+                                                                :name
+                                                                "Turn Order: Claim Action"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2826,
                                                                 :name
                                                                 "Turn Order: Stat-Based"}
@@ -24521,6 +24537,10 @@
                              2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2912,
+                                                                :name
+                                                                "Contracts"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2664,
                                                                 :name
                                                                 "Deck, Bag, and Pool Building"}
@@ -24528,6 +24548,10 @@
                                                                 2040,
                                                                 :name
                                                                 "Hand Management"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2902,
+                                                                :name
+                                                                "Income"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2041,
                                                                 :name

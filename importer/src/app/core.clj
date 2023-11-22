@@ -1,11 +1,7 @@
 (ns app.core
   (:require
    [clojure.pprint :as pp]
-   [app.bbb :as bbb]
-   [app.hp :as hp]
-   [app.mp :as mp]
    [app.bgg :as bgg]
-   [app.pnr :as pnr]
    [app.pprint :refer [clojure-dispatch]]
    [app.uuid :as uuid]
    [clojure.data.priority-map :as priority-map]
@@ -89,23 +85,13 @@
            frontend-game))
      games-with-id)))
 
-(defn- bbb-games []
-  (enrich-games (bbb/games)))
-
-(defn- hp-games []
-  (enrich-games (hp/games)))
-
-(defn- mp-games []
-  (enrich-games (mp/games)))
-
-(defn- pnr-games []
-  (enrich-games (pnr/games)))
-
-(def ^:private project->get-games
-  {"bbb" bbb-games
-   "mp" mp-games
-   "hp" hp-games
-   "pnr" pnr-games})
+(defn- project->games [project]
+  (let [ns-name (str "app." (:project project))
+        ns (symbol ns-name)
+        _ (require ns)
+        fsym (symbol ns-name "games")
+        f @(resolve fsym)]
+    (enrich-games (f))))
 
 (defn- index-by [f coll]
   (reduce
@@ -140,8 +126,7 @@
   (let [projects (read-edn "../projects.edn")]
     (doseq [project projects]
       (let [games-path (str "../web/src/app/" (:project project) "_data.cljc")
-            f (project->get-games (:project project))
-            games (f)]
+            games (project->games project)]
         (spit
          games-path
          (with-out-str

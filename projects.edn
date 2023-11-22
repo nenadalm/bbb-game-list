@@ -9,4 +9,8 @@
  {:title "Games - Mana Potion"
   :description "List of games at Mana Potion."
   :project "mp"
-  :label "manapotion.cz"}]
+  :label "manapotion.cz"}
+ {:title "Games - Peklo, nebe, ráj"
+  :description "List of games at Peklo, nebe, ráj."
+  :project "pnr"
+  :label "pekloneberaj.cz"}]

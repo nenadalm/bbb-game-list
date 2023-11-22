@@ -5,6 +5,7 @@
    [app.hp :as hp]
    [app.mp :as mp]
    [app.bgg :as bgg]
+   [app.pnr :as pnr]
    [app.pprint :refer [clojure-dispatch]]
    [app.uuid :as uuid]
    [clojure.data.priority-map :as priority-map]
@@ -97,10 +98,14 @@
 (defn- mp-games []
   (enrich-games (mp/games)))
 
+(defn- pnr-games []
+  (enrich-games (pnr/games)))
+
 (def ^:private project->get-games
   {"bbb" bbb-games
    "mp" mp-games
-   "hp" hp-games})
+   "hp" hp-games
+   "pnr" pnr-games})
 
 (defn- index-by [f coll]
   (reduce

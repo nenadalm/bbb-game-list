@@ -4,7 +4,8 @@
    [build.util :as u]
    [app.bbb-data]
    [app.hp-data]
-   [app.mp-data]))
+   [app.mp-data]
+   [app.pnr-data]))
 
 (defn- extract-thumbnails [data]
   (into
@@ -34,7 +35,8 @@
    cat
    [(extract-thumbnails app.bbb-data/game-data)
     (extract-thumbnails app.hp-data/game-data)
-    (extract-thumbnails app.mp-data/game-data)]))
+    (extract-thumbnails app.mp-data/game-data)
+    (extract-thumbnails app.pnr-data/game-data)]))
 
 (defn- render-urls-to-cache [projects]
   (str

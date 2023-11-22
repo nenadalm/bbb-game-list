@@ -16,13 +16,11 @@
 
 (defn game->game-info [game]
   {:name (clojure.string/trim (.text game))
-   :cz.zatrolene-hry.boardgame/id (-> game
-                                      (.nextElementSibling)
-                                      (.select "a")
-                                      (.attr "href")
-                                      (str/split #"/")
-                                      peek
-                                      not-empty)})
+   :cz.zatrolene-hry.boardgame/url (-> game
+                                       (.nextElementSibling)
+                                       (.select "a[href*=zatrolene-hry.cz]")
+                                       (.attr "href")
+                                       not-empty)})
 
 (defn games []
   (let [doc (game-list-doc games-list-url)]

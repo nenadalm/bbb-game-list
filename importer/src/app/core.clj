@@ -2,6 +2,7 @@
   (:require
    [clojure.pprint :as pp]
    [app.bgg :as bgg]
+   [app.zh :as zh]
    [app.pprint :refer [clojure-dispatch]]
    [app.uuid :as uuid]
    [clojure.data.priority-map :as priority-map]
@@ -25,7 +26,10 @@
 (defn- enrich-game-with-id [game]
   (if (:com.boardgamegeek.boardgame/id game)
     game
-    (let [found-game (bgg/find-game (:name game))
+    (let [found-game (or (some-> (:cz.zatrolene-hry.boardgame/url game)
+                                 zh/game-name
+                                 bgg/find-game)
+                         (bgg/find-game (:name game)))
           id (:id found-game)]
       (cond-> game
         id (assoc :com.boardgamegeek.boardgame/id id)))))

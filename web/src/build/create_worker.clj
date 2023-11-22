@@ -1,11 +1,7 @@
 (ns build.create-worker
   (:require
    [clojure.string :as str]
-   [build.util :as u]
-   [app.bbb-data]
-   [app.hp-data]
-   [app.mp-data]
-   [app.pnr-data]))
+   [build.util :as u]))
 
 (defn- extract-thumbnails [data]
   (into
@@ -29,14 +25,21 @@
        (u/asset (str "js/" (:project project) "_app.js"))]))
    projects))
 
-(defn- opaque-urls-to-cache []
+(defn- extract-project-thumbnails [project]
+  (let [ns-name (str "app." (:project project) "-data")
+        ns (symbol ns-name)
+        _ (require ns)
+        fsym (symbol ns-name "game-data")
+        game-data @(resolve fsym)]
+    (extract-thumbnails game-data)))
+
+(defn- opaque-urls-to-cache [projects]
   (into
    []
-   cat
-   [(extract-thumbnails app.bbb-data/game-data)
-    (extract-thumbnails app.hp-data/game-data)
-    (extract-thumbnails app.mp-data/game-data)
-    (extract-thumbnails app.pnr-data/game-data)]))
+   (mapcat
+    (fn [project]
+      (extract-project-thumbnails project)))
+   projects))
 
 (defn- render-urls-to-cache [projects]
   (str
@@ -44,16 +47,16 @@
    (str/join "," (mapv #(str "\"" % "\"") (urls-to-cache projects)))
    "];"))
 
-(defn- render-opaque-urls-to-cache []
+(defn- render-opaque-urls-to-cache [projects]
   (str
    "const opaqueUrlsToCache = ["
-   (str/join "," (mapv #(str "\"" % "\"") (opaque-urls-to-cache)))
+   (str/join "," (mapv #(str "\"" % "\"") (opaque-urls-to-cache projects)))
    "];"))
 
 (defn- render [projects]
   (-> (slurp "./resources/private/worker.js")
       (str/replace #".*prop:urlsToCache.*" (render-urls-to-cache projects))
-      (str/replace #".*prop:opaqueUrlsToCache.*" (render-opaque-urls-to-cache))))
+      (str/replace #".*prop:opaqueUrlsToCache.*" (render-opaque-urls-to-cache projects))))
 
 (defn -main []
   (let [projects (u/read-edn "../projects.edn")]

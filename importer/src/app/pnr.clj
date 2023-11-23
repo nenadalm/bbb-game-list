@@ -15,7 +15,9 @@
   (.select doc "h2[class=wp-block-heading]"))
 
 (defn game->game-info [game]
-  {:name (clojure.string/trim (.text game))
+  {:name (-> (.text game)
+             (str/replace #"^–" "")
+             str/trim)
    :cz.zatrolene-hry.boardgame/url (-> game
                                        (.nextElementSibling)
                                        (.select "a[href*=zatrolene-hry.cz]")

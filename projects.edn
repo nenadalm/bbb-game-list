@@ -13,4 +13,8 @@
  {:title "Games - Peklo, nebe, ráj"
   :description "List of games at Peklo, nebe, ráj."
   :project "pnr"
-  :label "pekloneberaj.cz"}]
+  :label "pekloneberaj.cz"}
+ {:title "Games - Tlama games"
+  :description "List of games at Tlama games."
+  :project "tg"
+  :label "tlamagames.cz"}]

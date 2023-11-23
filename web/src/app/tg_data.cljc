@@ -43,6 +43,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              40,
                              :com.boardgamegeek.boardgame/id "267058",
+                             :languages ["cs"],
                              :game/name "300: Earth & Water",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/pFIXq0V_PdwI2eq7Ea5GxQ__thumb/img/mUlORoMrCxZjhRQ2LfImOCeypoo=/fit-in/200x150/filters:strip_icc()/pic5893130.jpg"},
@@ -73,6 +74,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "329175",
+                             :languages
+                             ["cs" "de" "fr" "es" "sk" "hu" "pl"],
                              :game/name "4Mation",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/1auw2Rc9ThxhE1bJIwIB4w__thumb/img/ri0fD-ABerGrxjFQpn8BqPdTgK8=/fit-in/200x150/filters:strip_icc()/pic5926376.jpg"},
@@ -135,6 +138,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "316377",
+                             :languages ["cs"],
                              :game/name "7 Wonders (Second Edition)",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Naw8y8J_s-8cvq1GoTON6w__thumb/img/ieH8A28KJe3truXqQe1nDXSpxUE=/fit-in/200x150/filters:strip_icc()/pic7416519.jpg"},
@@ -237,6 +241,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "173346",
+                             :languages ["cs"],
                              :game/name "7 Wonders Duel",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__thumb/img/gV1-ckZSIC-dCxxpq1Y7GmPITzQ=/fit-in/200x150/filters:strip_icc()/pic2576399.jpg"},
@@ -271,6 +276,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              25,
                              :com.boardgamegeek.boardgame/id "346703",
+                             :languages [],
                              :game/name "7 Wonders: Architects",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/BGtYtHbLgYhYyNMoyOm1RA__thumb/img/Qml2TbcN2IyaA-PtHKcIrhnELd4=/fit-in/200x150/filters:strip_icc()/pic7416525.jpg"},
@@ -321,6 +327,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "348503",
+                             :languages ["cs" "sk" "hu" "pl"],
                              :game/name "80 Days",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/i6kmqoGeBA_zScxPGfkZtw__thumb/img/fcZqWxO8bwKNlatm4MWAL4E3Mho=/fit-in/200x150/filters:strip_icc()/pic6956725.jpg"},
@@ -363,6 +370,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "205101",
+                             :languages ["cs" "en"],
                              :game/name "A Dog's Life",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/heZGMaQVs6WH573C65hRtg__thumb/img/uQM4Y3UijCSnmIugUNU6KuG2Ll8=/fit-in/200x150/filters:strip_icc()/pic3120589.jpg"},
@@ -438,6 +446,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "177736",
+                             :languages ["cs"],
                              :game/name "A Feast for Odin",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/s9oGMCo1fcfV4Dk3EnqLZw__thumb/img/AKxMMz2DTbBrEynhDROla8fdjJ4=/fit-in/200x150/filters:strip_icc()/pic3146943.png"},
@@ -500,6 +509,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "346199",
+                             :languages ["cs"],
                              :game/name "A Game of Thrones: B'Twixt",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/QhHDH3bgRGW9KU5QhW8UwA__thumb/img/EdNFo_FyWjenNnDbs5A06RIQ2Mw=/fit-in/200x150/filters:strip_icc()/pic6702286.jpg"},
@@ -615,6 +625,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              120,
                              :com.boardgamegeek.boardgame/id "103343",
+                             :languages ["cs"],
                              :game/name
                              "A Game of Thrones: The Board Game (Second Edition)",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -679,6 +690,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "239472",
+                             :languages ["cs"],
                              :game/name
                              "Abomination: The Heir of Frankenstein",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -706,6 +718,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "2843",
+                             :languages ["cs"],
                              :game/name "Absacker",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/vvDU7nxvJrd6x-g8SCtkEg__thumb/img/-udMDKXiTJoEyobQkfRBaW1kGHE=/fit-in/200x150/filters:strip_icc()/pic2071913.jpg"},
@@ -764,6 +777,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "155987",
+                             :languages ["cs"],
                              :game/name "Abyss",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/O9nPs9wrCghDF4izqFtoGQ__thumb/img/v2bPSjIYCfD7ekFGQswrRLwkonY=/fit-in/200x150/filters:strip_icc()/pic1965255.jpg"},
@@ -794,26 +808,28 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "27451",
+                             :languages ["cs" "sk"],
                              :game/name "Activity 2",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/N9W3BKsUGDsKsIvImdQNEw__thumb/img/jRRjQCnJ-zPdMakhDt9wEpuVK0E=/fit-in/200x150/filters:strip_icc()/pic397342.jpg"},
                             #uuid "9289c959-31a0-36c2-b234-2b5c62206d8e"
-                            {:name "Activity Knock Out",
-                             :game/id
+                            {:game/id
                              #uuid "9289c959-31a0-36c2-b234-2b5c62206d8e",
-                             :game/name "Activity Knock Out",
-                             :com.boardgamegeek.boardgame/id "325524",
-                             :com.boardgamegeek.boardgame/min-play-time
-                             30,
                              :com.boardgamegeek.boardgame/min-players
                              4,
-                             :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/0Ks4Ic6PK_LSWQhFYxGGjQ__thumb/img/cgN53kOrWOZa2RkZIznFGJGohlk=/fit-in/200x150/filters:strip_icc()/pic5818990.jpg",
+                             :name "Activity Knock Out",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1030,
                                                                 :name
-                                                                "Party Game"})},
+                                                                "Party Game"}),
+                             :com.boardgamegeek.boardgame/min-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/id "325524",
+                             :languages ["cs" "sk"],
+                             :game/name "Activity Knock Out",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/0Ks4Ic6PK_LSWQhFYxGGjQ__thumb/img/cgN53kOrWOZa2RkZIznFGJGohlk=/fit-in/200x150/filters:strip_icc()/pic5818990.jpg"},
                             #uuid "8b6882f0-7f66-3806-8874-7bf364024062"
                             {:game/id
                              #uuid "8b6882f0-7f66-3806-8874-7bf364024062",
@@ -885,6 +901,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "191189",
+                             :languages ["cs"],
                              :game/name "Aeon's End",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/d50LceHj6LIafa4S_qIsCg__thumb/img/KMFA-gXm_LbZpyXSAHbIZm-eAcQ=/fit-in/200x150/filters:strip_icc()/pic3189350.jpg"},
@@ -935,6 +952,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              40,
                              :com.boardgamegeek.boardgame/id "369548",
+                             :languages ["en"],
                              :game/name "After Us",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/0p98Q5dENk3sh9mqd3xM0w__thumb/img/o1EGwssgObCxAUjaBB_yKS4SXVs=/fit-in/200x150/filters:strip_icc()/pic7471323.png"},
@@ -1057,6 +1075,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "281946",
+                             :languages ["cs"],
                              :game/name "Aftermath",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/v5FE5VZ6CV7N5zUk1IRXQg__thumb/img/r3wI53cGFf_oukNdARc88Z_sIl0=/fit-in/200x150/filters:strip_icc()/pic4781087.jpg"},
@@ -1123,6 +1142,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "330950",
+                             :languages [],
                              :game/name "Age of Galaxy",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/wyNR4X7nbxtoa1EWv0LBbQ__thumb/img/h5oJwWnvSZ0hvbj2OO7k9PJyQBw=/fit-in/200x150/filters:strip_icc()/pic5972496.jpg"},
@@ -1157,6 +1177,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "205418",
+                             :languages ["en"],
                              :game/name "Agricola: Family Edition",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/X1xSEWTxwMuCVYBC6SpgWg__thumb/img/xRshQ8XgLaLL_n6_xLDCGeNTSgg=/fit-in/200x150/filters:strip_icc()/pic3136438.jpg"},
@@ -1203,6 +1224,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "359234",
+                             :languages ["en"],
                              :game/name "Air Mail",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/UOA2f6j76OOYOddawTZ7ig__thumb/img/5hRUhdKCYBt06QSiPBSEYlrYSYo=/fit-in/200x150/filters:strip_icc()/pic6861662.jpg"},
@@ -1253,6 +1275,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "357563",
+                             :languages [],
                              :game/name "Akropolis",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/OTb0hIJHE-U3eD0FmpBrzA__thumb/img/ELFjkv8JJACHRQHQf6b9hzJziaw=/fit-in/200x150/filters:strip_icc()/pic6705097.jpg"},
@@ -1311,6 +1334,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              120,
                              :com.boardgamegeek.boardgame/id "161970",
+                             :languages ["cs"],
                              :game/name "Alchemists",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/ztNshEv3Fsm46HCJaEOFPw__thumb/img/-a0oJ_E49V_7PDW78W7KIyS3rF8=/fit-in/200x150/filters:strip_icc()/pic2241156.png"},
@@ -1361,6 +1385,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "383175",
+                             :languages ["cs" "sk"],
                              :game/name "Aldebaran Duel",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/1VaN0EmQKCyeMo-mcGNqJA__thumb/img/mbotdujOaUgutE9LszO-kByeSPA=/fit-in/200x150/filters:strip_icc()/pic7437874.jpg"},
@@ -1391,6 +1416,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "298635",
+                             :languages ["cs"],
                              :game/name "Alice's Garden",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/JhLSvQu1cOBg4Dg5l3BgHw__thumb/img/vCrs7JWz87NWlMnaYGRfr9PsVAY=/fit-in/200x150/filters:strip_icc()/pic5177326.jpg"},
@@ -1437,6 +1463,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "137408",
+                             :languages ["en" "de" "fr"],
                              :game/name "Amerigo",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/CPTCRbcUGvW-gepKwTvjSg__thumb/img/zRh81ru4inGKVa5BA4_kIY5Xewg=/fit-in/200x150/filters:strip_icc()/pic1824151.jpg"},
@@ -1487,6 +1514,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "185343",
+                             :languages ["cs"],
                              :game/name "Anachrony",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/31quLNzteInnevVRAABoow__thumb/img/a0G93aMOKp3_mmnCURYWuZd210U=/fit-in/200x150/filters:strip_icc()/pic3499707.jpg"},
@@ -1525,6 +1553,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "156461",
+                             :languages ["en" "de"],
                              :game/name "Animotion",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/5UkysjBRLOEA8FZU7JsmVg__thumb/img/ZYdEgotZnh66KU12sTfn4bQh1l8=/fit-in/200x150/filters:strip_icc()/pic6573339.jpg"},
@@ -1607,6 +1636,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "285967",
+                             :languages ["cs"],
                              :game/name "Ankh: Gods of Egypt",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/_al0scMG_pQfGVM31Scf1Q__thumb/img/OMVAMJX95HNO-vSRdk-kGjAzzBY=/fit-in/200x150/filters:strip_icc()/pic6107853.jpg"},
@@ -1649,11 +1679,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "140934",
+                             :languages ["en"],
                              :game/name "Arboretum",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/XYOn10oXBrDqHySf0jvnyQ__thumb/img/X6V1M2nZOinTgwE0KIBfup_QrCw=/fit-in/200x150/filters:strip_icc()/pic4172124.png"},
                             #uuid "ddf2ff28-4862-3f4a-8514-a713dd853bfd"
-                            {:name "Archilogic",
+                            {:languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
+                             :name "Archilogic",
                              :game/id
                              #uuid "ddf2ff28-4862-3f4a-8514-a713dd853bfd",
                              :game/name "Archilogic",
@@ -1709,6 +1742,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "236457",
+                             :languages ["en"],
                              :game/name
                              "Architects of the West Kingdom",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -1788,6 +1822,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "342942",
+                             :languages ["cs"],
                              :game/name "Ark Nova",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__thumb/img/4KuHNTWSMPf8vTNDKSRMMI3oOv8=/fit-in/200x150/filters:strip_icc()/pic6293412.jpg"},
@@ -1846,6 +1881,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              120,
                              :com.boardgamegeek.boardgame/id "257499",
+                             :languages ["en"],
                              :game/name
                              "Arkham Horror (Third Edition)",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -1954,6 +1990,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "205637",
+                             :languages ["en"],
                              :game/name "Arkham Horror: The Card Game",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/B5F5ulz0UivNgrI9Ky0euA__thumb/img/L8ouPl5jv2Ye9MC4R_Os2zSGigE=/fit-in/200x150/filters:strip_icc()/pic3122349.jpg"},
@@ -2009,6 +2046,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "225729",
+                             :languages ["en"],
                              :game/name
                              "Arkham Noir: Case #1 – The Witch Cult Murders",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -2061,6 +2099,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "257839",
+                             :languages ["en"],
                              :game/name
                              "Arkham Noir: Case #2 – Called Forth By Thunder",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -2092,6 +2131,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "341009",
+                             :languages ["de"],
                              :game/name "Armonia",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/iACPS9cAOJ1DYLLdv_iQeA__thumb/img/gI3FWtHJdoOVUlzxQbNfGh6tl9Y=/fit-in/200x150/filters:strip_icc()/pic6243989.jpg"},
@@ -2122,11 +2162,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "341935",
+                             :languages ["cs" "en"],
                              :game/name "Art Robbery",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/WyAsf2gIerHgvOenVtxGKw__thumb/img/im9staTE0Nra5Msrzuo1wYZGRHI=/fit-in/200x150/filters:strip_icc()/pic6279084.jpg"},
                             #uuid "3cce5f3e-af76-3098-ba8e-28f7bbba3f92"
-                            {:name "Astra",
+                            {:languages ["en"],
+                             :name "Astra",
                              :game/id
                              #uuid "3cce5f3e-af76-3098-ba8e-28f7bbba3f92",
                              :game/name "Astra",
@@ -2178,6 +2220,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "230802",
+                             :languages ["cs"],
                              :game/name "Azul",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__thumb/img/ccsXKrdGJw-YSClWwzVUwk5Nh9Y=/fit-in/200x150/filters:strip_icc()/pic6973671.png"},
@@ -2228,6 +2271,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "346965",
+                             :languages ["cs"],
                              :game/name "Azul: Queen's Garden",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/l-NBWJ1gIcfOCfrvAw8qvw__thumb/img/kvxUPoBvCzjV5r6poE29LFUQnSM=/fit-in/200x150/filters:strip_icc()/pic6389125.jpg"},
@@ -2286,6 +2330,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "256226",
+                             :languages ["cs"],
                              :game/name
                              "Azul: Stained Glass of Sintra",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -2337,6 +2382,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "287954",
+                             :languages ["cs"],
                              :game/name "Azul: Summer Pavilion",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/843kZ6WR0HfyXWEybA6L7A__thumb/img/sOiQSPo_DM7G1Om0PF1T2Z8ACcA=/fit-in/200x150/filters:strip_icc()/pic4930887.jpg"},
@@ -2383,17 +2429,20 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "266164",
+                             :languages ["cs" "en" "es"],
                              :game/name "Babylonia",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/XKdSpV2ZTdOEd0NXy3Ig1Q__thumb/img/Gvkzb72NQtK-Poor3FJXfj-L8RU=/fit-in/200x150/filters:strip_icc()/pic4657338.jpg"},
                             #uuid "0d9a583a-7b74-395b-a193-db0734616552"
-                            {:name "Bambilion",
+                            {:languages ["cs"],
+                             :name "Bambilion",
                              :game/id
                              #uuid "0d9a583a-7b74-395b-a193-db0734616552",
                              :game/name "Bambilion",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "1b80ed45-6892-38db-a797-f2ab80dc6c93"
-                            {:name "Bambilion Šumava",
+                            {:languages ["cs"],
+                             :name "Bambilion Šumava",
                              :game/id
                              #uuid "1b80ed45-6892-38db-a797-f2ab80dc6c93",
                              :game/name "Bambilion Šumava",
@@ -2433,17 +2482,20 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "27225",
+                             :languages ["cs"],
                              :game/name "Bananagrams",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/1QjYPI4bXx4OUMJPlrsNBA__thumb/img/nC_gG-4CYy7VBfYez2qSfTkU2ik=/fit-in/200x150/filters:strip_icc()/pic2463443.jpg"},
                             #uuid "adfbd7e8-9f27-3644-ac74-b3284f8eb977"
-                            {:name "Bang! - Město duchů",
+                            {:languages ["cs"],
+                             :name "Bang! - Město duchů",
                              :game/id
                              #uuid "adfbd7e8-9f27-3644-ac74-b3284f8eb977",
                              :game/name "Bang! - Město duchů",
                              :com.boardgamegeek.boardgame/id "147918"},
                             #uuid "ee841205-75c0-3dff-8892-3bcea1743473"
-                            {:name
+                            {:languages ["cs"],
+                             :name
                              "Barevná mozaika - dřevěná hra s velkými kolíky a předlohami",
                              :game/id
                              #uuid "ee841205-75c0-3dff-8892-3bcea1743473",
@@ -2521,11 +2573,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "251247",
+                             :languages ["en"],
                              :game/name "Barrage",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/jEPmWvvYpqkWrKOzqIHFsg__thumb/img/kMLIpeqA6UcUvQg2AdMwwQoEIfU=/fit-in/200x150/filters:strip_icc()/pic4336469.png"},
                             #uuid "062d0b76-da24-33fd-8000-e6b3dc70abd5"
-                            {:name "Barrage: The Leeghwater Project",
+                            {:languages ["en"],
+                             :name "Barrage: The Leeghwater Project",
                              :game/id
                              #uuid "062d0b76-da24-33fd-8000-e6b3dc70abd5",
                              :game/name
@@ -2553,6 +2607,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "286579",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Bata-Miaou",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/4a8LIWZnPkMLf_7zOcn9Iw__thumb/img/f0E5jt2AbA29usi1nHXIoMBSkkg=/fit-in/200x150/filters:strip_icc()/pic5686233.jpg"},
@@ -2578,11 +2634,15 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "64097",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Bataflash",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/hj30PycqYLgRC9OdnNIVFg__thumb/img/xhPzoYgJckyT1cKgarNsKpTIiWo=/fit-in/200x150/filters:strip_icc()/pic3664176.png"},
                             #uuid "13789f73-4da7-347b-90b1-3ef4db63b8b8"
-                            {:name "Batamo",
+                            {:languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
+                             :name "Batamo",
                              :game/id
                              #uuid "13789f73-4da7-347b-90b1-3ef4db63b8b8",
                              :game/name "Batamo",
@@ -2613,6 +2673,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "104287",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Batanimo",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/hQ5gPEisKVcirgQ8pFl31A__thumb/img/WYb7WFfWPDbYlzk6tJx9BN-Dsrw=/fit-in/200x150/filters:strip_icc()/pic1060487.jpg"},
@@ -2641,6 +2703,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "230915",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Batasaurus",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/qnOQKoLCgc27IXaPvJolmw__thumb/img/xU9FGxeCNWQ8Rmcf99XFJdhaVbU=/fit-in/200x150/filters:strip_icc()/pic5879857.jpg"},
@@ -2707,6 +2771,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "281549",
+                             :languages ["cs"],
                              :game/name "Beast",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/-9NLgO6ASOHgZtMtamqjxw__thumb/img/fCr4XXnWjrm7TBCL4Vf_VH7pHYA=/fit-in/200x150/filters:strip_icc()/pic6418160.png"},
@@ -2742,6 +2807,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "181617",
+                             :languages ["cs"],
                              :game/name
                              "Beasty Bar: New Beasts in Town",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -2785,6 +2851,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "369880",
+                             :languages [],
                              :game/name "Beer & Bread",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/vPRTRJce1GOsUf6M_dWd-g__thumb/img/x0Q2R8xgABJACUHYSCA00a7j3Cg=/fit-in/200x150/filters:strip_icc()/pic7064178.jpg"},
@@ -2827,6 +2894,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "271528",
+                             :languages ["cs"],
                              :game/name "Bees: The Secret Kingdom",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/STUnGbJRaqN-BiVN01-Ygw__thumb/img/m55J6cdDtIvJpuq27cmkBMFFAHg=/fit-in/200x150/filters:strip_icc()/pic4561608.jpg"},
@@ -2848,6 +2916,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "52506",
+                             :languages ["en"],
                              :game/name "Behind Closed Doors",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/W9dJwQKa6m0zF01A-khWKg__thumb/img/B4rXsOJvRkFNvnHsAkcgMgl9nrk=/fit-in/200x150/filters:strip_icc()/pic532941.jpg"},
@@ -2898,6 +2967,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "330665",
+                             :languages ["cs" "sk"],
                              :game/name "Bellum Magica",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/p59a3uQboEBoW2SQuqe41w__thumb/img/76Py8QmoTh7_wMQeeCrIObRfnts=/fit-in/200x150/filters:strip_icc()/pic5970290.png"},
@@ -2927,6 +2997,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "27948",
+                             :languages ["en" "de"],
                              :game/name "Beppo der Bock",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/UtT2NJSpBzhNg0gSBm2R1Q__thumb/img/Uy0TnIXKkkCDVZ16lHTKof4aOls=/fit-in/200x150/filters:strip_icc()/pic7068372.png"},
@@ -2969,6 +3040,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "246567",
+                             :languages ["cs" "de"],
                              :game/name "Big Monster",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/K7aRNcPVIoTT4HwvpHJ4kQ__thumb/img/bAekEBQgZkBhEBlld4PMxXnRK6I=/fit-in/200x150/filters:strip_icc()/pic4055521.jpg"},
@@ -3023,6 +3095,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              25,
                              :com.boardgamegeek.boardgame/id "342343",
+                             :languages ["cs"],
                              :game/name "Birdwatcher",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/MR6Hql3F2PV39UUoUgqRCw__thumb/img/ns1wN1tkIb1-qb5B0rbUWlUH8B0=/fit-in/200x150/filters:strip_icc()/pic6289674.png"},
@@ -3081,6 +3154,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              120,
                              :com.boardgamegeek.boardgame/id "323612",
+                             :languages ["cs"],
                              :game/name "Bitoku",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/sMP4YfVfwv6vvh_y7EcXzA__thumb/img/FelEz-syYFGhxLBVeXG_SQPCWRQ=/fit-in/200x150/filters:strip_icc()/pic6182978.jpg"},
@@ -3119,6 +3193,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "43268",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Bla Bla Bla",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/mkOrJBeXN23HBGrM__o75g__thumb/img/YObFMz3bkIdrHW66_kyTiKWLXaI=/fit-in/200x150/filters:strip_icc()/pic493120.jpg"},
@@ -3193,6 +3269,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "156858",
+                             :languages ["cs"],
                              :game/name "Black Orchestra",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/mvE22ut60-N5qzhE9guINw__thumb/img/Z2A_CL-vc5wS4_hUN2RhtGzMiC4=/fit-in/200x150/filters:strip_icc()/pic6973676.png"},
@@ -3239,6 +3316,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "18803",
+                             :languages ["cs"],
                              :game/name "Black Stories",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/NPnm8Pz2-uvMsbeptOX0fw__thumb/img/DusuyQ7kHboKxDKt70GOvbsEck8=/fit-in/200x150/filters:strip_icc()/pic208686.jpg"},
@@ -3285,6 +3363,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "20750",
+                             :languages ["cs"],
                              :game/name "Black Stories 2",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/aL-R1Z34sCAsKrL4tAzbng__thumb/img/QF9uKOyW69jzu9pFf5sExGDM58I=/fit-in/200x150/filters:strip_icc()/pic101661.jpg"},
@@ -3327,6 +3406,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "57052",
+                             :languages ["cs"],
                              :game/name
                              "Black Stories: Real Crime Edition",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -3354,6 +3434,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "122868",
+                             :languages ["en" "fr"],
                              :game/name "Blackrock City",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/sdVypStTbQ2CTWiIrD8avA__thumb/img/fFMR0bqcG0sJOmH-L4fBQONyaUU=/fit-in/200x150/filters:strip_icc()/pic1438294.jpg"},
@@ -3408,6 +3489,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "4168",
+                             :languages ["en"],
                              :game/name "Blitzkrieg",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Qt0xF1fnQxHHHI_3BRw4cA__thumb/img/mkmt9yRqzAnc--W8VK89BFIM1ks=/fit-in/200x150/filters:strip_icc()/pic143611.jpg"},
@@ -3494,6 +3576,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "273330",
+                             :languages ["cs"],
                              :game/name "Bloodborne: The Board Game",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/clKFvn2bUUPbY62eSmc-ig__thumb/img/q6y67Y5CknBEAwgkfAaGRxo26CQ=/fit-in/200x150/filters:strip_icc()/pic4757839.png"},
@@ -3528,6 +3611,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "245710",
+                             :languages ["cs"],
                              :game/name "Blossoms",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/FKhEbQXjYoC2rSapJXRsig__thumb/img/OubR4Yb07OaeEpof814Wo2sGhM4=/fit-in/200x150/filters:strip_icc()/pic4295665.jpg"},
@@ -3570,6 +3654,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "320841",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Bluff Pirate",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/CxVs0k2UfHt_YH5ucAeTew__thumb/img/2Np2N-R2Pj1MSwX8ZzMmfGyU5Qs=/fit-in/200x150/filters:strip_icc()/pic5687945.jpg"},
@@ -3600,6 +3686,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "32789",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Bogoss",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/4GqWGUvj-tfChzZon9HmhQ__thumb/img/AstjvOuWLvkxM5sLQYoD_GEy0qI=/fit-in/200x150/filters:strip_icc()/pic266013.jpg"},
@@ -3646,6 +3734,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "11",
+                             :languages ["cs"],
                              :game/name "Bohnanza",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/8SADtu_4zBH_UJrCo935Iw__thumb/img/vwTEQOWA3Mw__ztkTMulOgJ82Pw=/fit-in/200x150/filters:strip_icc()/pic6348964.jpg"},
@@ -3696,6 +3785,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              70,
                              :com.boardgamegeek.boardgame/id "304420",
+                             :languages ["en" "de"],
                              :game/name "Bonfire",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/q9sYvC0Tt-1mEiuKnVTS4w__thumb/img/Vi9tZ60juVkTpNoUIdLFzW8N9Aw=/fit-in/200x150/filters:strip_icc()/pic5301335.jpg"},
@@ -3739,6 +3829,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "372631",
+                             :languages ["cs" "en"],
                              :game/name "Books of Time",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/gzw1ZV2gFTABDpNA7yv9vQ__thumb/img/_LJwk5xMrXamV6wty1Rx0C2YpDg=/fit-in/200x150/filters:strip_icc()/pic7128296.jpg"},
@@ -3781,6 +3872,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "328124",
+                             :languages ["cs" "en"],
                              :game/name "Bot Factory",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/3AxdPt4zBDXqtrcsZx5Y9A__thumb/img/YR3r7Lc9QGRqf5ZqV9NvmoEX56k=/fit-in/200x150/filters:strip_icc()/pic6514058.jpg"},
@@ -3859,6 +3951,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "224517",
+                             :languages ["cs" "en"],
                              :game/name "Brass: Birmingham",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__thumb/img/o18rjEemoWaVru9Y2TyPwuIaRfE=/fit-in/200x150/filters:strip_icc()/pic3490053.jpg"},
@@ -3937,6 +4030,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              100,
                              :com.boardgamegeek.boardgame/id "249277",
+                             :languages ["cs"],
                              :game/name "Brazil: Imperial",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/KuiDNcMdWaeDe5_-rISFRQ__thumb/img/Mfht3Q1IcjyVG8A2fdDBP--MWf8=/fit-in/200x150/filters:strip_icc()/pic6222695.jpg"},
@@ -3983,6 +4077,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "337765",
+                             :languages ["cs"],
                              :game/name
                              "Brian Boru: High King of Ireland",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -4026,6 +4121,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "173441",
+                             :languages ["cs"],
                              :game/name "Bring Your Own Book",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/EqFkUeRXRbxe8fNYg4xUhw__thumb/img/cnot3DIBtNYoqDvUDmXKZfkq5wU=/fit-in/200x150/filters:strip_icc()/pic3048463.jpg"},
@@ -4045,11 +4141,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "325525",
+                             :languages ["cs" "de" "sk" "hu" "pl"],
                              :game/name "Bull's Eye",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/qvnLiif8XVFeXlqdMCtqhw__thumb/img/AKAePAUPnllqAJ8J80rJD8yfSN8=/fit-in/200x150/filters:strip_icc()/pic5818998.jpg"},
                             #uuid "ba7c397e-f99f-3591-9fb6-46185e65fc43"
-                            {:name "Bílá opice",
+                            {:languages [],
+                             :name "Bílá opice",
                              :game/id
                              #uuid "ba7c397e-f99f-3591-9fb6-46185e65fc43",
                              :game/name "Bílá opice",
@@ -4089,6 +4187,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "271321",
+                             :languages ["cs"],
                              :game/name "CABO (Second Edition)",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/UXg5z353Vs3aI90_TfL4pQ__thumb/img/rDg9t7gP1iqNcy3NZxAWGVoWYok=/fit-in/200x150/filters:strip_icc()/pic4572408.jpg"},
@@ -4160,6 +4259,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "13",
+                             :languages ["cs"],
                              :game/name "CATAN",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__thumb/img/8a9HeqFydO7Uun_le9bXWPnidcA=/fit-in/200x150/filters:strip_icc()/pic2419375.jpg"},
@@ -4222,6 +4322,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "155362",
+                             :languages ["en"],
                              :game/name "Ca$h 'n Guns: Second Edition",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/b4qSA5fvVJe9QQOKPCMoNA__thumb/img/0yWeezsHg0jGc2flURUSlyqxK2M=/fit-in/200x150/filters:strip_icc()/pic2907864.jpg"},
@@ -4269,6 +4370,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "338957",
+                             :languages ["cs"],
                              :game/name
                              "Caesar!: Seize Rome in 20 Minutes!",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -4316,6 +4418,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "367047",
+                             :languages ["en"],
                              :game/name "Caldera Park",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/s-oBBwjs66cIo1IvwHU1Lw__thumb/img/exR8YS7zbP1JK9zmZaKmB8sPq54=/fit-in/200x150/filters:strip_icc()/pic6972919.jpg"},
@@ -4378,6 +4481,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "283155",
+                             :languages ["cs"],
                              :game/name "Calico",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/6O6HqeMY6z1MPPKKVKp93g__thumb/img/VgVuOrnxLRxJCAMDGjAIRG7JVwE=/fit-in/200x150/filters:strip_icc()/pic7714854.jpg"},
@@ -4420,6 +4524,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "295607",
+                             :languages ["cs"],
                              :game/name "Canopy",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/-zWPMAXd1IZllCMAP5IeVA__thumb/img/qkimPPOS3fMxvXDtXZvPemc-Lvc=/fit-in/200x150/filters:strip_icc()/pic5090694.jpg"},
@@ -4448,6 +4553,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "344404",
+                             :languages ["en" "fr"],
                              :game/name "Canopéa",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Q81s7OrLsm3B0EOCGUzNcA__thumb/img/zYI0kp7OabKAWg61GmzxOBuZ9QQ=/fit-in/200x150/filters:strip_icc()/pic6329303.png"},
@@ -4502,6 +4608,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "290236",
+                             :languages ["cs"],
                              :game/name "Canvas",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/kXJLvPqcDF7Id5KRejhnuQ__thumb/img/5kQGDC3kYmvil7dU8uT-o0sZiEo=/fit-in/200x150/filters:strip_icc()/pic7125372.jpg"},
@@ -4530,6 +4637,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "299570",
+                             :languages ["cs"],
                              :game/name "Captain Bluff",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/99LjZQXU0dZpWTLR6do_oA__thumb/img/HX0wp9oasmBRJ-dkxtnw5WBDlA4=/fit-in/200x150/filters:strip_icc()/pic5186336.jpg"},
@@ -4600,11 +4708,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "171131",
+                             :languages ["cs" "en"],
                              :game/name "Captain Sonar",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Dpu5nFJu4UUJ4Y50WyKueg__thumb/img/tRPNrLtteyfINpaFLLqEjyfTA10=/fit-in/200x150/filters:strip_icc()/pic7069368.jpg"},
                             #uuid "cacd3832-7e7c-3f25-9771-d15a60eb2a54"
-                            {:name "Captain Sonar: Upgrade One",
+                            {:languages ["cs" "en"],
+                             :name "Captain Sonar: Upgrade One",
                              :game/id
                              #uuid "cacd3832-7e7c-3f25-9771-d15a60eb2a54",
                              :game/name "Captain Sonar: Upgrade One",
@@ -4649,6 +4759,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              35,
                              :com.boardgamegeek.boardgame/id "329954",
+                             :languages ["cs"],
                              :game/name
                              "Carcassonne: 20th Anniversary Edition",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -4692,6 +4803,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "231484",
+                             :languages ["cs"],
                              :game/name "Carnival of Monsters",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/epQCPLfMbtaKiXmz7uz4PA__thumb/img/b1rgSddValol8h1Ock8s_9peBPc=/fit-in/200x150/filters:strip_icc()/pic4856068.jpg"},
@@ -4754,6 +4866,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "263918",
+                             :languages ["cs"],
                              :game/name "Cartographers",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__thumb/img/TTxZzwbna07hMcPQ0xaFtT10egE=/fit-in/200x150/filters:strip_icc()/pic4397932.png"},
@@ -4816,6 +4929,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "295947",
+                             :languages ["cs"],
                              :game/name "Cascadia",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__thumb/img/tVSFjSxYEcw7sKj3unIIQV8kxoc=/fit-in/200x150/filters:strip_icc()/pic5100691.jpg"},
@@ -4870,6 +4984,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "357841",
+                             :languages [],
                              :game/name "Castles by the Sea",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/ifbA4doJA-Jv0Hz9Ltgw4A__thumb/img/FZWeOZXXW1VZK6JShT_xjAMr4Ao=/fit-in/200x150/filters:strip_icc()/pic6712750.png"},
@@ -4928,6 +5043,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "155426",
+                             :languages ["cs"],
                              :game/name "Castles of Mad King Ludwig",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/jVAMlNeDMVZakxJPy-lDrQ__thumb/img/PfOJx2RMkYg-Uk7mWBMF0HvTxqo=/fit-in/200x150/filters:strip_icc()/pic7229993.jpg"},
@@ -4966,6 +5082,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "228504",
+                             :languages ["cs" "sk"],
                              :game/name "Cat Lady",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/tnx6ExxyUmIlga9tFSrR6g__thumb/img/jHvb__-N4QCSB8rhTKXzCxWOWcU=/fit-in/200x150/filters:strip_icc()/pic3864115.jpg"},
@@ -5024,6 +5141,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              180,
                              :com.boardgamegeek.boardgame/id "84889",
+                             :languages [],
                              :game/name "Cave Evil",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/x3V24Emd78L94LZuy8X8bQ__thumb/img/OkZUiAcyvWXk6BJcy9lzFTYFblE=/fit-in/200x150/filters:strip_icc()/pic1057420.jpg"},
@@ -5062,6 +5180,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "220520",
+                             :languages ["en"],
                              :game/name "Caverna: Cave vs Cave",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/rTlJoKU2lHOZfv1Ad8YvDA__thumb/img/_fvhogbWyAeMrwGsxmcUIy6yvA8=/fit-in/200x150/filters:strip_icc()/pic3505750.jpg"},
@@ -5120,6 +5239,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "102794",
+                             :languages ["cs"],
                              :game/name "Caverna: The Cave Farmers",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/rz22tqa5PCYvK9oDjIbvxg__thumb/img/3Ae-ieYpDv6w0vuNsGjOmXdcCrU=/fit-in/200x150/filters:strip_icc()/pic1790789.jpg"},
@@ -5162,6 +5282,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "270970",
+                             :languages ["cs" "sk"],
                              :game/name "Century: A New World",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/KJQ1TdlDkLeCfQ3PK75rTA__thumb/img/SbmmquD2QkGsuCJM7AdwiYnCw6s=/fit-in/200x150/filters:strip_icc()/pic4547312.jpg"},
@@ -5208,6 +5329,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "242574",
+                             :languages ["cs" "sk"],
                              :game/name "Century: Eastern Wonders",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/l1xKAcYniMJQNq60H5DdEA__thumb/img/G3If6BTwLAGBZm6u2b-N_YZcZ4k=/fit-in/200x150/filters:strip_icc()/pic3898507.jpg"},
@@ -5270,6 +5392,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "209685",
+                             :languages ["cs" "sk"],
                              :game/name "Century: Spice Road",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/0_KEDk4lCvryf1Ju3YQJxA__thumb/img/FticvQmaT_qfdrX-hpSSK1ttRb0=/fit-in/200x150/filters:strip_icc()/pic3339551.jpg"},
@@ -5320,6 +5443,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "248900",
+                             :languages ["en" "es"],
                              :game/name "Ceylon",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/ybZe4A2HsA96dkxMLh_nZg__thumb/img/5od4uNwhF7IZd1IeqkleVCBX58Y=/fit-in/200x150/filters:strip_icc()/pic4055102.jpg"},
@@ -5362,6 +5486,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "253185",
+                             :languages ["en"],
                              :game/name "Chai",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/wMd7npCj8VObsqMVK5kawg__thumb/img/gn57JBYDT_FOSqFvnJH68zECEq4=/fit-in/200x150/filters:strip_icc()/pic4175159.jpg"},
@@ -5392,17 +5517,20 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "267378",
+                             :languages ["en"],
                              :game/name "Chakra",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/KJ7S0Cv32wJ0CdBHj7gwcg__thumb/img/oEEMQN5ZsF5AbWsidOD2r1ktnJk=/fit-in/200x150/filters:strip_icc()/pic4487174.jpg"},
                             #uuid "988fc856-b0f7-3024-bf4c-9c5997d0c1b9"
-                            {:name "Challengers! - Vyzyvatelé",
+                            {:languages [],
+                             :name "Challengers! - Vyzyvatelé",
                              :game/id
                              #uuid "988fc856-b0f7-3024-bf4c-9c5997d0c1b9",
                              :game/name "Challengers! - Vyzyvatelé",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "c0dfcd00-7c9f-3754-900e-196ffd02605e"
-                            {:name "Chci zpátky své zoubky",
+                            {:languages ["cs"],
+                             :name "Chci zpátky své zoubky",
                              :game/id
                              #uuid "c0dfcd00-7c9f-3754-900e-196ffd02605e",
                              :game/name "Chci zpátky své zoubky",
@@ -5425,11 +5553,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "320839",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Cheese Rescue",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Bj7IfwRf8FV7KtvUS0iarg__thumb/img/t72IU9ehkvwuYgNEDJ81qZWude8=/fit-in/200x150/filters:strip_icc()/pic5687935.jpg"},
                             #uuid "4d3df8a8-0f79-3e6b-a1e3-9cf2b6653c8c"
-                            {:name "Chlupatí zabijáci",
+                            {:languages ["cs"],
+                             :name "Chlupatí zabijáci",
                              :game/id
                              #uuid "4d3df8a8-0f79-3e6b-a1e3-9cf2b6653c8c",
                              :game/name "Chlupatí zabijáci",
@@ -5485,6 +5616,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "347137",
+                             :languages ["cs"],
                              :game/name "Chronicles of Avel",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/UV-yke9IKBGEYu3ykOFDSw__thumb/img/XjMg0P4KlmxU9mBGk64tLbYGh4A=/fit-in/200x150/filters:strip_icc()/pic6394494.png"},
@@ -5531,11 +5663,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "239188",
+                             :languages ["cs"],
                              :game/name "Chronicles of Crime",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/1BMyuEwK0zV9005oYinYLw__thumb/img/QFzbDlFGzK3yRZNLnRr4YzHwEuY=/fit-in/200x150/filters:strip_icc()/pic4317519.jpg"},
                             #uuid "bdf9fe19-683b-3444-969c-e03fbeafd086"
-                            {:name
+                            {:languages ["en"],
+                             :name
                              "Chronicles of Crime: Welcome to Redview",
                              :game/id
                              #uuid "bdf9fe19-683b-3444-969c-e03fbeafd086",
@@ -5565,6 +5699,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "262623",
+                             :languages ["cs"],
                              :game/name "Chyť Draka!",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/KoAADXlt2DcAf2CDmrsGiw__thumb/img/J0LJ_6jd2uVkF9IbsmaF6SD6YS0=/fit-in/200x150/filters:strip_icc()/pic4348851.jpg"},
@@ -5607,11 +5742,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "308572",
+                             :languages ["cs" "sk"],
                              :game/name "Cinderella",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/DU7GWD-48bcMuZp2y8QNeA__thumb/img/vG18cuLXJbpDTRzwbmact-SzXlc=/fit-in/200x150/filters:strip_icc()/pic7283769.jpg"},
                             #uuid "a14b94bc-9ba2-3ed1-85ac-794e377d38d4"
-                            {:name
+                            {:languages ["en"],
+                             :name
                              "Circadians: First Light + Allies Expansion",
                              :game/id
                              #uuid "a14b94bc-9ba2-3ed1-85ac-794e377d38d4",
@@ -5640,11 +5777,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "307830",
+                             :languages ["en"],
                              :game/name "Circus",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/VR6mktk9YWxiFtYrc_TEzQ__thumb/img/N-Lszzh0Ec7NXBqYK0OIM9W1pNw=/fit-in/200x150/filters:strip_icc()/pic5374560.jpg"},
                             #uuid "e37a618e-8687-3e3a-a22b-ad848b46b43b"
-                            {:name "Circus Abracadabra",
+                            {:languages ["en"],
+                             :name "Circus Abracadabra",
                              :game/id
                              #uuid "e37a618e-8687-3e3a-a22b-ad848b46b43b",
                              :game/name "Circus Abracadabra",
@@ -5688,6 +5827,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              25,
                              :com.boardgamegeek.boardgame/id "233961",
+                             :languages ["cs" "en"],
                              :game/name "Claim",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/XTnU0KdAC1l4WxxGr46F-g__thumb/img/68PxtuISom2wysDawXSuHaIdT5U=/fit-in/200x150/filters:strip_icc()/pic3714302.jpg"},
@@ -5722,6 +5862,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              25,
                              :com.boardgamegeek.boardgame/id "249763",
+                             :languages ["cs" "en"],
                              :game/name "Claim 2",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/lLKWqJzEFSlOU8Cs5G54dg__thumb/img/DLLZXQ3IX8VVEu5Ck8BVLO_-53w=/fit-in/200x150/filters:strip_icc()/pic4059108.jpg"},
@@ -5788,6 +5929,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "201808",
+                             :languages ["cs"],
                              :game/name
                              "Clank!: A Deck-Building Adventure",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -5847,6 +5989,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "216132",
+                             :languages ["en"],
                              :game/name "Clans of Caledonia",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/SPuwc6RJ6y4PnTH36Pegsg__thumb/img/M_6Yxp0A_NbebWk3Mepinsm96WI=/fit-in/200x150/filters:strip_icc()/pic3511783.png"},
@@ -5889,6 +6032,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "316858",
+                             :languages ["en"],
                              :game/name "CloudAge",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/yfoefJ7a0cEhKxMUV0sDqQ__thumb/img/LYoDI0narqs87hfBnimak-qN2EQ=/fit-in/200x150/filters:strip_icc()/pic5955679.jpg"},
@@ -5923,6 +6067,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "31499",
+                             :languages ["cs"],
                              :game/name "Coatl",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/2Pj_uEgj5RgSHsyPWnVIvw__thumb/img/8F-cwM3CxZiVcjwFHvMFkERXRd4=/fit-in/200x150/filters:strip_icc()/pic4733493.jpg"},
@@ -5965,6 +6110,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "11971",
+                             :languages ["cs"],
                              :game/name "Cockroach Poker",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/lHadyVLPUQfNz_qV6MMp_Q__thumb/img/zWiETTyIp4Xo1o0l2mtOdt3G-ls=/fit-in/200x150/filters:strip_icc()/pic3218988.jpg"},
@@ -6007,6 +6153,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "32341",
+                             :languages ["cs"],
                              :game/name "Cockroach Salad",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/RTPjvs-e_CR8twqHhHyqYw__thumb/img/cA40e_YsYMZUNJ3SHekd2wnKfgY=/fit-in/200x150/filters:strip_icc()/pic2303528.jpg"},
@@ -6061,6 +6208,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "178900",
+                             :languages ["cs"],
                              :game/name "Codenames",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/F_KDEu0GjdClml8N7c8Imw__thumb/img/yl8iXxSNwguMeg3KkmfFO9SMVVc=/fit-in/200x150/filters:strip_icc()/pic2582929.jpg"},
@@ -6111,6 +6259,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "198773",
+                             :languages ["cs"],
                              :game/name "Codenames: Pictures",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Q2u-Nk68Wb1iLjxh_dfsIg__thumb/img/6-1EOESE196KVKw4xOJ5rge56j0=/fit-in/200x150/filters:strip_icc()/pic3476592.jpg"},
@@ -6149,6 +6298,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "314503",
+                             :languages ["cs"],
                              :game/name "Codex Naturalis",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/0I7U0tz-RgpIFWWco5FKLA__thumb/img/idWdk9oQtUtvE7G_WwWUa7qoYNE=/fit-in/200x150/filters:strip_icc()/pic5612161.png"},
@@ -6187,6 +6337,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "5782",
+                             :languages ["de"],
                              :game/name "Coloretto",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/pd3qaiROSgTJ5js_0e4Nhw__thumb/img/SveyL9J1DT0hX4ucYWjRR6DMrbk=/fit-in/200x150/filters:strip_icc()/pic6653783.png"},
@@ -6265,6 +6416,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              100,
                              :com.boardgamegeek.boardgame/id "124361",
+                             :languages ["en" "de"],
                              :game/name "Concordia",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/CzwSm8i7tkLz6cBnrILZBg__thumb/img/ESPSltYYSFK-aJw6jOTdQrJGpOc=/fit-in/200x150/filters:strip_icc()/pic3453267.jpg"},
@@ -6351,6 +6503,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "256916",
+                             :languages ["cs" "en" "de"],
                              :game/name "Concordia Venus",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/36WIe0ZHkp5OvHOlB-8vog__thumb/img/C7u2bDi9kOoLkLoYHJ_jr0A928A=/fit-in/200x150/filters:strip_icc()/pic4356580.jpg"},
@@ -6381,6 +6534,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "304240",
+                             :languages ["cs"],
                              :game/name "Connec'Team",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/4g1xKtWQObPUoOkitFRh1w__thumb/img/sQVJx4aQRXrmmPdwWm_St5aydD8=/fit-in/200x150/filters:strip_icc()/pic5280851.jpg"},
@@ -6423,6 +6577,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "276042",
+                             :languages ["cs"],
                              :game/name "Conspiracy: Abyss Universe",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Ky1KJsNelw0ztljXDZJl_w__thumb/img/93KaKL8CBUcBflMWKQRzVcIRueg=/fit-in/200x150/filters:strip_icc()/pic6964382.jpg"},
@@ -6465,6 +6620,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "297478",
+                             :languages ["cs"],
                              :game/name "Cortex + Challenge",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/ook-qcEW-PJklmwkmXgI8Q__thumb/img/qZPxwwaSo6lF66_fnTkfx63u7G8=/fit-in/200x150/filters:strip_icc()/pic5142950.jpg"},
@@ -6544,6 +6700,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "39463",
+                             :languages ["en"],
                              :game/name "Cosmic Encounter",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/S8cE-Ld7XP5sVz-upKJ-Bg__thumb/img/gE--xqnuor4bft2J361zxJJGCjM=/fit-in/200x150/filters:strip_icc()/pic1521633.jpg"},
@@ -6578,6 +6735,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "194100",
+                             :languages ["cs" "sk"],
                              :game/name "Costa Rica",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/0u1mV295XBrLu91p1lTTFg__thumb/img/0LRUILO4F1bZnUH7Pxs2pAb05zI=/fit-in/200x150/filters:strip_icc()/pic3032708.jpg"},
@@ -6636,6 +6794,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "131357",
+                             :languages ["cs"],
                              :game/name "Coup",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/MWhSY_GOe2-bmlQ2rntSVg__thumb/img/vuR_0PCX1w2EkjO_LbchOHZPOwU=/fit-in/200x150/filters:strip_icc()/pic2016054.jpg"},
@@ -6670,6 +6829,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "42761",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Crazy Faces",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/O07r4TqAC4UEVbEMYmVrZw__thumb/img/_q-Icx7_q3EX6sYVX7BxG0WALmM=/fit-in/200x150/filters:strip_icc()/pic1009581.png"},
@@ -6724,6 +6885,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "304051",
+                             :languages ["cs"],
                              :game/name "Creature Comforts",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/A0ZRM7_H6ecCQ8-lW0MtQQ__thumb/img/F8ELDsdUdbTvFWmYw1CZjqAWl0Y=/fit-in/200x150/filters:strip_icc()/pic5799638.jpg"},
@@ -6766,6 +6928,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "368854",
+                             :languages ["en"],
                              :game/name "Crossing Oceans",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/TgH421I-S3_oFSwfMAXXeA__thumb/img/vxc7y0OLMjBBbfBpHuvPwx1po9E=/fit-in/200x150/filters:strip_icc()/pic7029375.jpg"},
@@ -6800,11 +6963,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "245476",
+                             :languages ["cs"],
                              :game/name "CuBirds",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/FDBUwGFBkniyl8q4Alvq8A__thumb/img/EiGltQvI5VsmCSYYxjgD7kXY2eg=/fit-in/200x150/filters:strip_icc()/pic7491534.jpg"},
                             #uuid "1ed83529-ef1e-30ed-bc4f-e997930dcd5c"
-                            {:name "Cubissimo",
+                            {:languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
+                             :name "Cubissimo",
                              :game/id
                              #uuid "1ed83529-ef1e-30ed-bc4f-e997930dcd5c",
                              :game/name "Cubissimo",
@@ -6872,6 +7038,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "286158",
+                             :languages ["de"],
                              :game/name "D.E.I.: Divide et Impera",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/CjbYeqy4VJTihtD5v7gtkA__thumb/img/EAvbfnoXKALgYgQ6zT31oy5-YQ4=/fit-in/200x150/filters:strip_icc()/pic4959814.jpg"},
@@ -6910,6 +7077,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "265381",
+                             :languages ["en"],
                              :game/name "DANY",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/15ZfT3y5Wndrg7Cxp8BAYg__thumb/img/kJTC0OB3o0_4WwrTPCIFuycpULw=/fit-in/200x150/filters:strip_icc()/pic4465422.jpg"},
@@ -6939,12 +7107,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "237145",
+                             :languages ["en"],
                              :game/name
                              "Daimyo: Rebirth of the Empire",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/lN-cUNC9pnhifBGUnn53xw__thumb/img/dqtxwECQx_mNq5SIrKjWKSq8-O8=/fit-in/200x150/filters:strip_icc()/pic6101593.jpg"},
                             #uuid "3753f5f5-4955-392b-a402-df12ab1961eb"
-                            {:name "Další, prosím",
+                            {:languages ["cs"],
+                             :name "Další, prosím",
                              :game/id
                              #uuid "3753f5f5-4955-392b-a402-df12ab1961eb",
                              :game/name "Další, prosím",
@@ -6976,6 +7146,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "332914",
+                             :languages ["cs" "de" "sk" "hu" "pl"],
                              :game/name "Day & Night",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/2ajZ1zNnQEYigQi-J8_foA__thumb/img/LBlGm_54Bo8MwF8IPOph_5d2UBk=/fit-in/200x150/filters:strip_icc()/pic6023957.jpg"},
@@ -7022,6 +7193,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "358246",
+                             :languages ["cs"],
                              :game/name
                              "Dead by Daylight: The Board Game",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -7109,6 +7281,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "150376",
+                             :languages ["cs"],
                              :game/name
                              "Dead of Winter: A Crossroads Game",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -7172,6 +7345,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              180,
                              :com.boardgamegeek.boardgame/id "356114",
+                             :languages ["en"],
                              :game/name
                              "Deadly Dinner: Killing Woodstock",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -7236,6 +7410,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              180,
                              :com.boardgamegeek.boardgame/id "302578",
+                             :languages [],
                              :game/name
                              "Deadly Dinner: Red Carpet in Ruins",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -7295,6 +7470,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              180,
                              :com.boardgamegeek.boardgame/id "302582",
+                             :languages [],
                              :game/name "Deadly Dinner: The Last Rose",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Fn_1Rqffy11bIdmwkoisBQ__thumb/img/-OdY3CKFBL3YBCmOfzg1PGzm_ws=/fit-in/200x150/filters:strip_icc()/pic6240116.jpg"},
@@ -7353,6 +7529,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              120,
                              :com.boardgamegeek.boardgame/id "367379",
+                             :languages ["en"],
                              :game/name "Deal with the Devil",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/DNZyEyGSihEgliX9fZ2Beg__thumb/img/9DSN6z2c7o7aqYN97eDWM2WEDNg=/fit-in/200x150/filters:strip_icc()/pic6972703.jpg"},
@@ -7395,6 +7572,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "245045",
+                             :languages ["cs"],
                              :game/name "Deckscape: Heist in Venice",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/6eb-OGqcxFRydsYMbZ8gPA__thumb/img/vPuZh3VIOPfQUyGqglff9mkr9EE=/fit-in/200x150/filters:strip_icc()/pic3949642.png"},
@@ -7437,17 +7615,20 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "218311",
+                             :languages ["cs"],
                              :game/name "Deckscape: Test Time",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/wU3b9Li_euyNddvPDYdLww__thumb/img/hFKe2MEsNE4dX3HGe5Cfc2j9CG4=/fit-in/200x150/filters:strip_icc()/pic3425752.png"},
                             #uuid "788c025e-280f-3899-b071-2003005e9a31"
-                            {:name "Delta CZ",
+                            {:languages ["cs"],
+                             :name "Delta CZ",
                              :game/id
                              #uuid "788c025e-280f-3899-b071-2003005e9a31",
                              :game/name "Delta CZ",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "22616299-3345-3194-86e1-83de694080f0"
-                            {:name
+                            {:languages ["cs"],
+                             :name
                              "Den a noc - dřevěná skládačka s předlohami",
                              :game/id
                              #uuid "22616299-3345-3194-86e1-83de694080f0",
@@ -7505,6 +7686,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "256788",
+                             :languages ["cs"],
                              :game/name "Detective Club",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Fy-jrkPaNbPEOV8414pKqw__thumb/img/QADFRTNGx45dtrGDh5hWvyi2z3M=/fit-in/200x150/filters:strip_icc()/pic4783811.jpg"},
@@ -7556,6 +7738,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              120,
                              :com.boardgamegeek.boardgame/id "223321",
+                             :languages ["cs"],
                              :game/name
                              "Detective: A Modern Crime Board Game",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -7599,6 +7782,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "218074",
+                             :languages [],
                              :game/name "Detective: City of Angels",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/xWdK1lL-2ZTdzBZGYjjqkw__thumb/img/wl_YxOhd-S6QbpyHAQZGhV109rw=/fit-in/200x150/filters:strip_icc()/pic3469246.jpg"},
@@ -7633,6 +7817,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "67026",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Diamoniak",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/I_V378bmFRoEY_HiRBT4mQ__thumb/img/YSF_EHnyIyapppsp9WaW6C2wG5A=/fit-in/200x150/filters:strip_icc()/pic5879834.jpg"},
@@ -7699,11 +7885,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "230267",
+                             :languages ["en"],
                              :game/name "Dice Settlers",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Rq78Zg67kx0Ay24kgNnx0Q__thumb/img/weF3RZ3u_waKER89aCEKW-ciQPc=/fit-in/200x150/filters:strip_icc()/pic4145901.jpg"},
                             #uuid "adb6be92-56c4-3132-8f61-9fb74c43c342"
-                            {:name "Dice Settlers: Western Sea",
+                            {:languages ["en"],
+                             :name "Dice Settlers: Western Sea",
                              :game/id
                              #uuid "adb6be92-56c4-3132-8f61-9fb74c43c342",
                              :game/name "Dice Settlers: Western Sea",
@@ -7751,6 +7939,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "40793",
+                             :languages ["cs"],
                              :game/name "Dice Town",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/l49r5hKd5hmevQQ0t17Yiw__thumb/img/-WfbpNcDeucmvZP4JkMKcap-wvY=/fit-in/200x150/filters:strip_icc()/pic3763073.jpg"},
@@ -7805,6 +7994,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              40,
                              :com.boardgamegeek.boardgame/id "266504",
+                             :languages ["cs"],
                              :game/name "Dig Your Way Out",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/m8RjZOpdSRKCaiZkf7_w2g__thumb/img/eG96Tx3i4L0Q8JD3JRHxtMRAoCU=/fit-in/200x150/filters:strip_icc()/pic5194214.jpg"},
@@ -7855,12 +8045,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "318009",
+                             :languages ["cs"],
                              :game/name
                              "Dinosaur Island: Rawr 'n Write",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/xRP9jo5gfwhfFkgxQBgWTw__thumb/img/Ax_lCMYmPvnu1qYP0-nRAjcVBO8=/fit-in/200x150/filters:strip_icc()/pic5622932.png"},
                             #uuid "8fb6b88d-9a82-3359-96a9-bbfdb2490265"
-                            {:name "Discordia 2nd Edition - EN/DE",
+                            {:languages ["en" "de"],
+                             :name "Discordia 2nd Edition - EN/DE",
                              :game/id
                              #uuid "8fb6b88d-9a82-3359-96a9-bbfdb2490265",
                              :game/name
@@ -7901,6 +8093,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "258244",
+                             :languages ["cs"],
                              :game/name "Discover: Lands Unknown",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/VqU_iPFSE04TL5Dytgh6GQ__thumb/img/YHdVUbgwrS9TFWVg1aXKdKW_CVE=/fit-in/200x150/filters:strip_icc()/pic4275250.jpg"},
@@ -7935,6 +8128,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "216497",
+                             :languages ["cs"],
                              :game/name "District Noir",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/NyOyd9UXdzWAuLkrDPDUnA__thumb/img/XIZUXR0d7oXGsaoVUe7S0AlbiiE=/fit-in/200x150/filters:strip_icc()/pic6954556.jpg"},
@@ -7977,6 +8171,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "92828",
+                             :languages ["cs"],
                              :game/name "Dixit: Odyssey",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/7b75ZZJQ4EEbDsKLi6kYSw__thumb/img/N0ZKQJsEo6_hk2UxH2rvqKorh2g=/fit-in/200x150/filters:strip_icc()/pic918568.jpg"},
@@ -8015,11 +8210,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "344839",
+                             :languages ["cs"],
                              :game/name "Dog Lover",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/k5vsit8aU1_PnrqTwum2YQ__thumb/img/Cxs0YbafjQeBS3Kqgf6CtOUPxu8=/fit-in/200x150/filters:strip_icc()/pic6503210.jpg"},
                             #uuid "5c977441-f3b0-375b-b9e1-683095c22b60"
-                            {:name "Dokonalý piknik",
+                            {:languages ["cs" "sk"],
+                             :name "Dokonalý piknik",
                              :game/id
                              #uuid "5c977441-f3b0-375b-b9e1-683095c22b60",
                              :game/name "Dokonalý piknik",
@@ -8064,6 +8261,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "250881",
+                             :languages ["en"],
                              :game/name
                              "Dominations: Road to Civilization",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -8104,11 +8302,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "40834",
+                             :languages ["cs"],
                              :game/name "Dominion: Intrigue",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/OGOmpi0GgwOwH2y28QgkuA__thumb/img/jnSHqOXWLN3PfdpCtnfjf44oTsA=/fit-in/200x150/filters:strip_icc()/pic460011.jpg"},
                             #uuid "55b13048-451b-31aa-9a20-f9187d50dd40"
-                            {:name
+                            {:languages ["cs"],
+                             :name
                              "Domácí zvířátka - puzzle 8 zvířátek",
                              :game/id
                              #uuid "55b13048-451b-31aa-9a20-f9187d50dd40",
@@ -8183,6 +8383,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "370591",
+                             :languages ["en"],
                              :game/name "Dorfromantik: The Board Game",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Nqw3SzV4JDd64lcDgytPEg__thumb/img/SYowoPc4NsBcU6duKGUM93itzZY=/fit-in/200x150/filters:strip_icc()/pic7227691.jpg"},
@@ -8237,6 +8438,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "215311",
+                             :languages ["cs"],
                              :game/name "Downforce",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/c74C-NVJHuMVxt6A_j2TsA__thumb/img/OUdT3uFyqBBzN7q9ZDFN6WBiecU=/fit-in/200x150/filters:strip_icc()/pic3432548.png"},
@@ -8283,6 +8485,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "264055",
+                             :languages ["cs"],
                              :game/name "Draftosaurus",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/JahbLRZ_jEe8P8gisXUtJw__thumb/img/XGKi6qBOizS_IdLqOHny-rf0JZw=/fit-in/200x150/filters:strip_icc()/pic4447676.jpg"},
@@ -8325,11 +8528,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "235655",
+                             :languages ["cs" "en" "de" "sk"],
                              :game/name "Dragon's Breath",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/CNKb5AGuOvx6VlbWQEV7wQ__thumb/img/6TJpbhQv7fZrvKyAq8tVUdHitIo=/fit-in/200x150/filters:strip_icc()/pic5220396.jpg"},
                             #uuid "032f41dc-d73c-3263-88f5-ac86479250dd"
-                            {:name "Dračí hrad nové výzvy",
+                            {:languages ["cs"],
+                             :name "Dračí hrad nové výzvy",
                              :game/id
                              #uuid "032f41dc-d73c-3263-88f5-ac86479250dd",
                              :game/name "Dračí hrad nové výzvy",
@@ -8381,11 +8586,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "231038",
+                             :languages ["en"],
                              :game/name "Dreamscape",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/3EdeIbt587pyekLIYZlp_A__thumb/img/ebgQpWwhCfvnFJ0lcEYT7Sr6ueY=/fit-in/200x150/filters:strip_icc()/pic5027884.jpg"},
                             #uuid "3d0cae0c-8b1b-3c75-9d92-edc6d0420fe9"
-                            {:name "Duhový rok",
+                            {:languages ["cs"],
+                             :name "Duhový rok",
                              :game/id
                              #uuid "3d0cae0c-8b1b-3c75-9d92-edc6d0420fe9",
                              :game/name "Duhový rok",
@@ -8473,6 +8680,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              120,
                              :com.boardgamegeek.boardgame/id "283355",
+                             :languages ["en"],
                              :game/name "Dune",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/2fgPg6Be--w97zoycObUgg__thumb/img/OrjzwJVfE8Qnk8e5efbae5EaSeY=/fit-in/200x150/filters:strip_icc()/pic4815198.jpg"},
@@ -8563,11 +8771,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "316554",
+                             :languages ["cs"],
                              :game/name "Dune: Imperium",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/PhjygpWSo-0labGrPBMyyg__thumb/img/JGgY-nBmkyB8WRp8vcoBLlNMQ5U=/fit-in/200x150/filters:strip_icc()/pic5666597.jpg"},
                             #uuid "ec808549-65eb-316a-b3a8-c066149cf5d9"
-                            {:name "Duos: Zvířata a Věci",
+                            {:languages ["cs"],
+                             :name "Duos: Zvířata a Věci",
                              :game/id
                              #uuid "ec808549-65eb-316a-b3a8-c066149cf5d9",
                              :game/name "Duos: Zvířata a Věci",
@@ -8599,6 +8809,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "22348",
+                             :languages ["cs"],
                              :game/name "Duplik",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/pw-YvF01pFqT34_zXKR7gg__thumb/img/huNjVpxL2O8EvugKDUY-VyknuRU=/fit-in/200x150/filters:strip_icc()/pic2631879.jpg"},
@@ -8649,11 +8860,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "271055",
+                             :languages ["cs"],
                              :game/name "Dwellings of Eldervale",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/qJQXn0kvzvHBKWzSQN7vpw__thumb/img/nyFpcKV3cBOVO1pEImnBYLc_BRE=/fit-in/200x150/filters:strip_icc()/pic4742944.jpg"},
                             #uuid "bd4da18d-a530-36bf-b807-5914656c702d"
-                            {:name
+                            {:languages ["cs"],
+                             :name
                              "Dávej bacha! aneb Bezpečný start do života - Nová generace",
                              :game/id
                              #uuid "bd4da18d-a530-36bf-b807-5914656c702d",
@@ -8739,6 +8952,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "246900",
+                             :languages ["cs" "en"],
                              :game/name
                              "Eclipse: Second Dawn for the Galaxy",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -8814,6 +9028,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              16,
                              :com.boardgamegeek.boardgame/id "142326",
+                             :languages ["cs"],
                              :game/name "Eight-Minute Empire: Legends",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/4aL5A2NIxKmITsXZboABvw__thumb/img/41zP3EQvuAQGa64VFBhu72oxCpU=/fit-in/200x150/filters:strip_icc()/pic1708628.jpg"},
@@ -8852,6 +9067,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "351526",
+                             :languages ["cs"],
                              :game/name "Encyclopedia",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/sL-5ZjHTK3EUJDiv0tlilg__thumb/img/fVuKUiBB4TdNM7_q8KGFasCIuDc=/fit-in/200x150/filters:strip_icc()/pic6515523.png"},
@@ -8902,6 +9118,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "220133",
+                             :languages ["cs"],
                              :game/name "Endangered",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Pta2XLIzcgAS5IQ0V4AKIw__thumb/img/9e3GatgokL2V8X5yOSeqwl0OMkE=/fit-in/200x150/filters:strip_icc()/pic4167562.jpg"},
@@ -8952,6 +9169,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "33160",
+                             :languages ["cs"],
                              :game/name "Endeavor",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/595ae0scpXIHHVHSc4xfwQ__thumb/img/juQPKjimski28am3hhiCvvLMwvU=/fit-in/200x150/filters:strip_icc()/pic379881.jpg"},
@@ -9038,6 +9256,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "305096",
+                             :languages ["cs"],
                              :game/name
                              "Endless Winter: Paleoamericans",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -9073,6 +9292,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              40,
                              :com.boardgamegeek.boardgame/id "329450",
+                             :languages ["cs" "sk"],
                              :game/name "Equinox",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/g5EfRWtb2595zCxvsAmNgw__thumb/img/hYbgUoz9sLFa14_nXLRDa31fchM=/fit-in/200x150/filters:strip_icc()/pic5929016.jpg"},
@@ -9119,6 +9339,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "341286",
+                             :languages ["en"],
                              :game/name "Eriantys",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/DzhJxVjMhGQadReXJmbIaQ__thumb/img/YqnNJW1iyviIyw9bCPJtC6WmcNo=/fit-in/200x150/filters:strip_icc()/pic6253341.jpg"},
@@ -9173,6 +9394,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "142379",
+                             :languages ["cs" "en"],
                              :game/name "Escape Plan",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/J-sgq_IT2g6WfnuMY7Y8PA__thumb/img/fSUSmbc2mpUwV2ErYG7X1Y-xuVM=/fit-in/200x150/filters:strip_icc()/pic4178038.jpg"},
@@ -9211,6 +9433,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "204836",
+                             :languages ["cs"],
                              :game/name "Escape Room: The Game",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/1CIfreuv-gqcaUndxUAExw__thumb/img/ve4j9SWc6dtPQhF-fRcRjPmqUxc=/fit-in/200x150/filters:strip_icc()/pic3117400.png"},
@@ -9249,6 +9472,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "291105",
+                             :languages ["cs"],
                              :game/name "Escape Room: The Game 2",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/REbMHDgh8cjuGdFj11wf4A__thumb/img/N9JbltwagCf-LSgkeAz0VTM_LP8=/fit-in/200x150/filters:strip_icc()/pic5464148.jpg"},
@@ -9288,6 +9512,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "276760",
+                             :languages ["cs"],
                              :game/name
                              "Escape Room: The Game – 2 Player Edition",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -9331,6 +9556,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "149809",
+                             :languages ["en" "de" "fr" "es"],
                              :game/name "Escape: Zombie City",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/YiJaCqkZeU1IPCrotd9eDQ__thumb/img/gQiQDBHDnLM9zClbU6MuF1iZiP4=/fit-in/200x150/filters:strip_icc()/pic2335551.jpg"},
@@ -9405,6 +9631,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              40,
                              :com.boardgamegeek.boardgame/id "199792",
+                             :languages ["cs"],
                              :game/name "Everdell",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__thumb/img/Cf_mYxR_VvdjTEPXseSurni2JNI=/fit-in/200x150/filters:strip_icc()/pic3918905.png"},
@@ -9447,17 +9674,20 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "344992",
+                             :languages [],
                              :game/name "Evolution: New World",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/HRPfHN57Na44VmC1_9O5qQ__thumb/img/JqGfA217FktvFTj6jkvz2CsnLUY=/fit-in/200x150/filters:strip_icc()/pic6893159.jpg"},
                             #uuid "372dc9aa-c2cb-3288-995b-00f64dd39920"
-                            {:name "Evropa hrou",
+                            {:languages ["cs"],
+                             :name "Evropa hrou",
                              :game/id
                              #uuid "372dc9aa-c2cb-3288-995b-00f64dd39920",
                              :game/name "Evropa hrou",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "8436f3bb-e128-3d1e-8d68-360aed1a454b"
-                            {:name "Evropa hrou: DĚJINY",
+                            {:languages ["cs"],
+                             :name "Evropa hrou: DĚJINY",
                              :game/id
                              #uuid "8436f3bb-e128-3d1e-8d68-360aed1a454b",
                              :game/name "Evropa hrou: DĚJINY",
@@ -9513,6 +9743,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "201825",
+                             :languages ["cs"],
                              :game/name "Ex Libris",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/DYOUITVYzZEC45u4suwezQ__thumb/img/27aO3vgzM7MwAPSiKLpehEpAsVI=/fit-in/200x150/filters:strip_icc()/pic3578008.png"},
@@ -9567,6 +9798,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "292126",
+                             :languages ["en"],
                              :game/name "Excavation Earth",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/wMXOMmbO9ktgHYhEQSrDlg__thumb/img/-W5iM9fVpNFalBSsBKimlXV_vUI=/fit-in/200x150/filters:strip_icc()/pic5012390.jpg"},
@@ -9625,6 +9857,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "172225",
+                             :languages ["cs"],
                              :game/name "Exploding Kittens",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__thumb/img/3tH4pIc1Udzkd0tXc6MgVQ59BC0=/fit-in/200x150/filters:strip_icc()/pic2691976.png"},
@@ -9683,6 +9916,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "256804",
+                             :languages ["cs"],
                              :game/name
                              "Exploding Kittens: Party Pack",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -9739,11 +9973,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "346205",
+                             :languages ["cs"],
                              :game/name "Explorers of the Woodlands",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/LA0EJtun_-1KZsu0Yznxlg__thumb/img/X1UIWPE2zSwYtQ50xfxhRNQDDEs=/fit-in/200x150/filters:strip_icc()/pic6753479.png"},
                             #uuid "fa55b2f7-0a2a-3212-89a3-24e59c523d7c"
-                            {:name
+                            {:languages ["cs"],
+                             :name
                              "Extraliga All-Stars 1993-2023: Karetní hra",
                              :game/id
                              #uuid "fa55b2f7-0a2a-3212-89a3-24e59c523d7c",
@@ -9751,7 +9987,8 @@
                              "Extraliga All-Stars 1993-2023: Karetní hra",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "f4c62e7f-9588-3ef4-ad3a-83e30a5ff236"
-                            {:name "Fakt hluční knihovníci",
+                            {:languages ["cs"],
+                             :name "Fakt hluční knihovníci",
                              :game/id
                              #uuid "f4c62e7f-9588-3ef4-ad3a-83e30a5ff236",
                              :game/name "Fakt hluční knihovníci",
@@ -9803,6 +10040,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "293889",
+                             :languages ["cs"],
                              :game/name
                              "Fallout Shelter: The Board Game",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -9836,6 +10074,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "351359",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Familou",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/5-WxzFwVlM_ogR7N0b8g8w__thumb/img/eW51EcKXP6NY491IpFQmMHtvPDk=/fit-in/200x150/filters:strip_icc()/pic6645217.jpg"},
@@ -9862,17 +10102,20 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "331946",
+                             :languages ["en"],
                              :game/name "Faux Diamonds",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/0ryJcHgVOSd4vvPmqILZ5Q__thumb/img/2sjhQX1dJ-eZH3OCEwewNZ6hoGw=/fit-in/200x150/filters:strip_icc()/pic6038931.png"},
                             #uuid "43db2a9b-c6b7-310c-a7fd-6873bb6ca7a4"
-                            {:name "Federation",
+                            {:languages ["en"],
+                             :name "Federation",
                              :game/id
                              #uuid "43db2a9b-c6b7-310c-a7fd-6873bb6ca7a4",
                              :game/name "Federation",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "da3454e6-b3b2-32c9-9023-3466427d470a"
-                            {:name "Feelinks: Hra emocí",
+                            {:languages ["cs"],
+                             :name "Feelinks: Hra emocí",
                              :game/id
                              #uuid "da3454e6-b3b2-32c9-9023-3466427d470a",
                              :game/name "Feelinks: Hra emocí",
@@ -9920,6 +10163,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "200954",
+                             :languages ["en"],
                              :game/name "Fields of Green",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/U7vYrViBcFbQ1Ip6iaZ8cw__thumb/img/Fy7OEIkraXBZKp_LNlTZcRcaNvI=/fit-in/200x150/filters:strip_icc()/pic3504382.jpg"},
@@ -9958,6 +10202,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "285253",
+                             :languages ["fr"],
                              :game/name "Fiesta de los Muertos",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/cbcG9UP9T430LZqV3aVVEg__thumb/img/HOOZx_4zpZCajwEsEJ43GLEmkBk=/fit-in/200x150/filters:strip_icc()/pic4868417.png"},
@@ -9992,6 +10237,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "342927",
+                             :languages ["en" "de"],
                              :game/name "Fire & Stone",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/OxGboVrAgwapjXDgTstqwQ__thumb/img/UKx7qBV1AUof67gNFhBeuqBhKi0=/fit-in/200x150/filters:strip_icc()/pic6292855.jpg"},
@@ -10038,6 +10284,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "347703",
+                             :languages ["en" "de"],
                              :game/name "First Rat",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/TAmP5w8gDSXe7APvp8tMVw__thumb/img/Mqb7UZI42-Xyz9yMFu1b-enn0F0=/fit-in/200x150/filters:strip_icc()/pic6502612.jpg"},
@@ -10076,6 +10323,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "356381",
+                             :languages ["cs"],
                              :game/name "Fish Tank",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/CnB2Ln_95Vf50QEo3ikuPQ__thumb/img/0JIKfHDVRjSFEvapz6sR6YFbw6M=/fit-in/200x150/filters:strip_icc()/pic6683754.jpg"},
@@ -10101,6 +10349,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "389515",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Fish'n'Shark",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/uw3EusynPcFGGlAHuoHoSQ__thumb/img/q3YRuNEIF7UNTYj_LqHT3LBmKiw=/fit-in/200x150/filters:strip_icc()/pic7538463.jpg"},
@@ -10159,11 +10409,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "336986",
+                             :languages ["cs"],
                              :game/name "Flamecraft",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/EvGtnsBDcfnKiqSiXHothQ__thumb/img/bQcyvzYRdMFFvcdQkFVnIRiCPjE=/fit-in/200x150/filters:strip_icc()/pic6605448.jpg"},
                             #uuid "34757d30-1140-3cd6-8806-951724e4d360"
-                            {:name "Florentina",
+                            {:languages ["cs" "en" "de" "sk"],
+                             :name "Florentina",
                              :game/id
                              #uuid "34757d30-1140-3cd6-8806-951724e4d360",
                              :game/name "Florentina",
@@ -10186,6 +10438,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "352990",
+                             :languages [],
                              :game/name "Florist",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/rITogk9lmzw9Ro1sukeyBw__thumb/img/JXYBdqegao5Jk4SRlBkptRwRuF0=/fit-in/200x150/filters:strip_icc()/pic6570632.jpg"},
@@ -10232,6 +10485,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "280896",
+                             :languages ["cs"],
                              :game/name "Foodies",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/4ckBACEWLAMUtKk1hzh8ig__thumb/img/dA7FUMfGGUoaJ8yKtZIdem9xa8k=/fit-in/200x150/filters:strip_icc()/pic4757834.jpg"},
@@ -10271,6 +10525,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "333136",
+                             :languages ["en"],
                              :game/name
                              "Football Highlights: The Dice Game",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -10318,6 +10573,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "172",
+                             :languages ["en"],
                              :game/name "For Sale",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/dJh9HkZC346NgPTAicJq_A__thumb/img/3cgW5aP-JJeKSpZMjA0NFheMnfY=/fit-in/200x150/filters:strip_icc()/pic1513085.jpg"},
@@ -10368,11 +10624,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "318709",
+                             :languages ["en"],
                              :game/name "For Sale Autorama",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/dmQp224-y4XizRlGUH_CMA__thumb/img/wWJxxYV8M7VkkFsCsX7B2vP3nb4=/fit-in/200x150/filters:strip_icc()/pic5636276.png"},
                             #uuid "b4dfefcc-f1b1-341e-926c-7e357ca192ef"
-                            {:name "For sale",
+                            {:languages [],
+                             :name "For sale",
                              :game/id
                              #uuid "b4dfefcc-f1b1-341e-926c-7e357ca192ef",
                              :game/name "For sale",
@@ -10444,6 +10702,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "331745",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Forest Adventure"},
                             #uuid "390a8b92-a855-31c5-8109-9468dfed0dd1"
                             {:game/id
@@ -10516,6 +10776,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              120,
                              :com.boardgamegeek.boardgame/id "302723",
+                             :languages ["cs"],
                              :game/name "Forgotten Waters",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/gLnzfyJio2MYbG9J-uQSiQ__thumb/img/Th5Wf0ynMEA14i06HUSqzz-8g24=/fit-in/200x150/filters:strip_icc()/pic5253984.jpg"},
@@ -10550,11 +10811,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "296912",
+                             :languages ["cs"],
                              :game/name "Fort",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/hAsqLdANmtExR5Zi41v94Q__thumb/img/YqmIsRVLpQqM-r5i1rsN91Q6fzg=/fit-in/200x150/filters:strip_icc()/pic5241325.png"},
                             #uuid "3af5c2c5-23b8-33e8-abf1-f40f13552752"
-                            {:name "Foxy CZ/EN  Foxy CZ/EN",
+                            {:languages ["cs" "en"],
+                             :name "Foxy CZ/EN  Foxy CZ/EN",
                              :game/id
                              #uuid "3af5c2c5-23b8-33e8-abf1-f40f13552752",
                              :game/name "Foxy CZ/EN  Foxy CZ/EN",
@@ -10590,6 +10853,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "346228",
+                             :languages ["en"],
                              :game/name "Fragments",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/5X_TLFtUTP3KEHTdZn91RQ__thumb/img/v2MqCeYnI1nogvg82M4LEnnUC5c=/fit-in/200x150/filters:strip_icc()/pic7245230.jpg"},
@@ -10628,6 +10892,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "353152",
+                             :languages ["en"],
                              :game/name "Framework",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/ZpCVs_p1wlbiSFOg1nNVoA__thumb/img/JXhS3iYjCXZGQMMfXy_gylbPRCU=/fit-in/200x150/filters:strip_icc()/pic6573332.jpg"},
@@ -10666,6 +10931,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              25,
                              :com.boardgamegeek.boardgame/id "176678",
+                             :languages ["en"],
                              :game/name "Fruit Passion",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Y_LmB22ipAkzAN7mxj8auw__thumb/img/cxrLsvC6CGyjNVMjdW--cRhz9cs=/fit-in/200x150/filters:strip_icc()/pic5417045.png"},
@@ -10732,11 +10998,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "253743",
+                             :languages ["cs" "en" "es"],
                              :game/name "Fuji Koro",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/p8n3PUSimwkARV4fSi8EMA__thumb/img/V77_npz6Mu3Nr5eXVRj6FVr-ahI=/fit-in/200x150/filters:strip_icc()/pic4581112.jpg"},
                             #uuid "8d4b7b0a-c396-375d-a3d9-c4a2ceac17a9"
-                            {:name "Fuji Koro playmat",
+                            {:languages ["bez textu"],
+                             :name "Fuji Koro playmat",
                              :game/id
                              #uuid "8d4b7b0a-c396-375d-a3d9-c4a2ceac17a9",
                              :game/name "Fuji Koro playmat",
@@ -10800,11 +11068,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "277405",
+                             :languages ["cs" "en" "es" "ru"],
                              :game/name "Fuji Koro: Deluxe",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/YUtNNY5NDGAza8aJeb9cDw__thumb/img/Bx5SM85GIQv6WCMiY2HsLV8x3K0=/fit-in/200x150/filters:strip_icc()/pic5255817.jpg"},
                             #uuid "cc00d311-711e-3152-9d1f-756cad97af7f"
-                            {:name "Fun Master",
+                            {:languages ["cs"],
+                             :name "Fun Master",
                              :game/id
                              #uuid "cc00d311-711e-3152-9d1f-756cad97af7f",
                              :game/name "Fun Master",
@@ -10827,6 +11097,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              5,
                              :com.boardgamegeek.boardgame/id "286350",
+                             :languages ["cs"],
                              :game/name "Fuse",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/FrtwRmyrnXy-Tw6YE57T1A__thumb/img/u_saka7JSNH-GwbMMOhEX5BKi0w=/fit-in/200x150/filters:strip_icc()/pic4893469.jpg"},
@@ -10853,6 +11124,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "331257",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Fée Toibelle",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/T1EX_G_Yf95WiuDGHXiCGg__thumb/img/mOwfiGLJ69Ej5o29775_-drnDFk=/fit-in/200x150/filters:strip_icc()/pic5978991.jpg"},
@@ -10943,6 +11216,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "220308",
+                             :languages ["cs" "de"],
                              :game/name "Gaia Project",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/hGWFm3hbMlCDsfCsauOQ4g__thumb/img/NNG7Ijyx4evp5gcVReis9i0koas=/fit-in/200x150/filters:strip_icc()/pic5375625.png"},
@@ -11021,6 +11295,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "336794",
+                             :languages ["en"],
                              :game/name
                              "Galaxy Trucker (Second Edition)",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -11072,6 +11347,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "204837",
+                             :languages ["cs"],
                              :game/name
                              "Game of Thrones: The Iron Throne",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -11111,11 +11387,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "248005",
+                             :languages ["en"],
                              :game/name "Ganymede",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Uz1oTAA1XfxTaZ7FA-3DyQ__thumb/img/JwhNdSYL1PtKnhC0mr3y-91vYp8=/fit-in/200x150/filters:strip_icc()/pic4044081.jpg"},
                             #uuid "05ffdb17-7239-31e6-a752-dda9cdb7ce82"
-                            {:name "Ganz schön clever",
+                            {:languages ["de"],
+                             :name "Ganz schön clever",
                              :game/id
                              #uuid "05ffdb17-7239-31e6-a752-dda9cdb7ce82",
                              :game/name "Ganz schön clever",
@@ -11155,6 +11433,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "268188",
+                             :languages ["cs"],
                              :game/name "Gartenbau",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/yJlJAL-th197Z10Tu4FlCA__thumb/img/ObNOoj4-5WerXgBrCPhgcoeexKM=/fit-in/200x150/filters:strip_icc()/pic7165676.png"},
@@ -11201,6 +11480,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "217780",
+                             :languages ["en" "de" "fr"],
                              :game/name "Gentes",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/PUF7QgKx50WOVuB0tEHLaw__thumb/img/4WS47K3z3mtKbWKJ2p5iGkIwSUo=/fit-in/200x150/filters:strip_icc()/pic3338929.jpg"},
@@ -11243,6 +11523,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "83195",
+                             :languages ["cs"],
                              :game/name "Ghost Blitz",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/tvZTjFnPvt2LrY6NGSbeuQ__thumb/img/LGtpFjDazqROmznWJaJStSxkIHI=/fit-in/200x150/filters:strip_icc()/pic2034769.jpg"},
@@ -11281,6 +11562,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              40,
                              :com.boardgamegeek.boardgame/id "246192",
+                             :languages ["cs"],
                              :game/name "Gizmos",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/zin82Hg4MXck86t8fzbsdA__thumb/img/e-UqOrMfsLCh2T_igK3wkoFrOu8=/fit-in/200x150/filters:strip_icc()/pic4169718.png"},
@@ -11407,6 +11689,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "174430",
+                             :languages ["cs"],
                              :game/name "Gloomhaven",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/sZYp_3BTDGjh2unaZfZmuA__thumb/img/veqFeP4d_3zNhFc3GNBkV95rBEQ=/fit-in/200x150/filters:strip_icc()/pic2437871.jpg"},
@@ -11469,6 +11752,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "206757",
+                             :languages ["cs" "en"],
                              :game/name "Glory: A Game of Knights",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/exeBR60iH-pCZB-AbL5l9w__thumb/img/nLkXoCzcj-ajuQavdHN3MdKiRso=/fit-in/200x150/filters:strip_icc()/pic3815271.jpg"},
@@ -11515,6 +11799,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "275044",
+                             :languages ["cs"],
                              :game/name "Glow",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/LF53VHdWBIRFrZRYtvyslg__thumb/img/zMhJiHCItT7aXiUsaBOt4AprtYo=/fit-in/200x150/filters:strip_icc()/pic5989627.png"},
@@ -11557,6 +11842,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "132620",
+                             :languages ["cs"],
                              :game/name "Gobbit",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/bMWoFNQFesjs64shTr-ObA__thumb/img/0EsCUEryLNYdObPJzB2SRNUo0yQ=/fit-in/200x150/filters:strip_icc()/pic4819194.png"},
@@ -11615,6 +11901,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "378354",
+                             :languages ["cs"],
                              :game/name "Goddam Dilema",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Furkduh5WHZhoGI2MqjOsw__thumb/img/2CnPRnKf95LdpI7gWpCirWCor-g=/fit-in/200x150/filters:strip_icc()/pic7281020.png"},
@@ -11649,6 +11936,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              35,
                              :com.boardgamegeek.boardgame/id "297661",
+                             :languages ["cs"],
                              :game/name "Gold River",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/lu3RBvuYBfO9JqBqB0gaww__thumb/img/lgYZzAvWEmjklnuxz2X0puRFeL8=/fit-in/200x150/filters:strip_icc()/pic5146616.png"},
@@ -11703,6 +11991,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "298383",
+                             :languages ["cs" "en"],
                              :game/name "Golem",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/9wDd5YVER3lwpGO3v5EkTA__thumb/img/81chTLWy3JxqRTktAuE4Nb4LamI=/fit-in/200x150/filters:strip_icc()/pic5374175.jpg"},
@@ -11757,11 +12046,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              75,
                              :com.boardgamegeek.boardgame/id "193738",
+                             :languages ["cs"],
                              :game/name "Great Western Trail",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/u1l0gH7sb_vnvDvoO_QHqA__thumb/img/9lxFidyDb8j6D1vobx4e3UwZ-FI=/fit-in/200x150/filters:strip_icc()/pic4887376.jpg"},
                             #uuid "10a2ef56-0dfb-3aca-b7e5-bf0593ae85fd"
-                            {:name
+                            {:languages [],
+                             :name
                              "Great Western Trail: Rails to the North",
                              :game/id
                              #uuid "10a2ef56-0dfb-3aca-b7e5-bf0593ae85fd",
@@ -11815,12 +12106,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              5,
                              :com.boardgamegeek.boardgame/id "329873",
+                             :languages ["cs"],
                              :game/name
                              "Grove: A 9 card solitaire game",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/9UMK8dvUyDuUYwaMh59Hvw__thumb/img/b7X6bWORWAiFfjnUh13W3jg9mtQ=/fit-in/200x150/filters:strip_icc()/pic5945719.png"},
                             #uuid "005a745f-d9c2-3f6c-bf2a-9a31396b1eb3"
-                            {:name "Guardians of Haversack CZ/EN",
+                            {:languages ["cs" "en"],
+                             :name "Guardians of Haversack CZ/EN",
                              :game/id
                              #uuid "005a745f-d9c2-3f6c-bf2a-9a31396b1eb3",
                              :game/name "Guardians of Haversack CZ/EN",
@@ -11848,11 +12141,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "365601",
+                             :languages ["en"],
                              :game/name "Gummiland",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/U1e4nrgTe3vtCgdKduoPSQ__thumb/img/XXkxMmObkDRGs182KhwZNobDO3c=/fit-in/200x150/filters:strip_icc()/pic6941237.png"},
                             #uuid "87859cf1-bc9d-35bb-b260-ef5458951d9b"
-                            {:name "Gutenberg",
+                            {:languages ["en"],
+                             :name "Gutenberg",
                              :game/id
                              #uuid "87859cf1-bc9d-35bb-b260-ef5458951d9b",
                              :game/name "Gutenberg",
@@ -11879,6 +12174,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "320848",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Guzzle",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/QWM4crXP6brM0qm7VGRHVA__thumb/img/l2pnEFaGPJdHFatDNlrR6z2ZGpg=/fit-in/200x150/filters:strip_icc()/pic5687915.jpg"},
@@ -11921,6 +12218,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "250458",
+                             :languages ["cs" "en"],
                              :game/name "Gùgōng",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/HJ263_vhLJ58QUWPvMVbEg__thumb/img/uRX0KCJmdwWZiL8Z7fo4V-mwm_E=/fit-in/200x150/filters:strip_icc()/pic4143114.jpg"},
@@ -11967,6 +12265,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "269144",
+                             :languages ["cs"],
                              :game/name "Hadara",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/17wJNXSBYuVmKryV9lEKsQ__thumb/img/nVMvEWrTFCoOE9Y3tqFLelkjYWw=/fit-in/200x150/filters:strip_icc()/pic5099398.jpg"},
@@ -12013,6 +12312,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "304783",
+                             :languages ["cs"],
                              :game/name "Hadrian's Wall",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/4XzRDw3VrgNpNfZlzZl66w__thumb/img/dGMBL60RMtAfcx741phN75mqlnA=/fit-in/200x150/filters:strip_icc()/pic5608818.png"},
@@ -12059,6 +12359,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "2944",
+                             :languages ["cs" "sk"],
                              :game/name "Halli Galli",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/kxYYgRlwM1NbHJHp62FLqg__thumb/img/mm0fbqc-bj7pMq2nTPBwNPrlckg=/fit-in/200x150/filters:strip_icc()/pic458934.jpg"},
@@ -12105,6 +12406,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "15311",
+                             :languages ["cs" "sk" "hu" "pl"],
                              :game/name "Halli Galli Extreme",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/GxiHb71czc-vmAkQ6lLpZA__thumb/img/NuUAqAq2ptVC9CHqqY2BAI7ZAuM=/fit-in/200x150/filters:strip_icc()/pic249334.jpg"},
@@ -12139,6 +12441,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "20832",
+                             :languages ["cs" "sk"],
                              :game/name "Halli Galli Junior",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/LhVApCCEf-KTHT8MZiYfew__thumb/img/mitsDf78oB_VQ_G1LSmJ1sMqWLY=/fit-in/200x150/filters:strip_icc()/pic702712.jpg"},
@@ -12189,17 +12492,28 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              25,
                              :com.boardgamegeek.boardgame/id "98778",
+                             :languages ["cs"],
                              :game/name "Hanabi",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/JDVksMwfcqoem1k_xtZrOA__thumb/img/amCeCcEKhYGbVtDvpvIMnu3qTg0=/fit-in/200x150/filters:strip_icc()/pic2007286.jpg"},
                             #uuid "c1753974-7b85-39e4-a1ac-609d31b4727d"
-                            {:name "Hands Up!",
+                            {:languages
+                             ["en"
+                              "de"
+                              "fr"
+                              "es"
+                              "it"
+                              "nl"
+                              "pt"
+                              "řecký"],
+                             :name "Hands Up!",
                              :game/id
                              #uuid "c1753974-7b85-39e4-a1ac-609d31b4727d",
                              :game/name "Hands Up!",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "37acc994-d5d1-3a8e-b69f-c40170c1a862"
-                            {:name "Hanzi",
+                            {:languages ["en"],
+                             :name "Hanzi",
                              :game/id
                              #uuid "37acc994-d5d1-3a8e-b69f-c40170c1a862",
                              :game/name "Hanzi",
@@ -12231,6 +12545,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "327601",
+                             :languages
+                             ["cs" "en" "de" "fr" "sk" "hu" "pl"],
                              :game/name "Happy Cats",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/feI2ZQwxMH-idIX8dkwcsA__thumb/img/1q17AmGNIZS8utS9fn-Zy0nLKsA=/fit-in/200x150/filters:strip_icc()/pic5877571.jpg"},
@@ -12281,6 +12597,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "199042",
+                             :languages ["cs"],
                              :game/name
                              "Harry Potter: Hogwarts Battle",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -12325,12 +12642,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "254192",
+                             :languages ["cs"],
                              :game/name
                              "Harry Potter: Hogwarts Battle – Defence Against the Dark Arts",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/it99zJd4oVWxwvgnmwub-g__thumb/img/vN2HTN-WoZVH-yL_lNtSV7ZePxg=/fit-in/200x150/filters:strip_icc()/pic4576575.jpg"},
                             #uuid "055f3f3e-8173-30dd-b6eb-b062989922c7"
-                            {:name "Harry Potter: Mdloby na tebe!",
+                            {:languages ["cs"],
+                             :name "Harry Potter: Mdloby na tebe!",
                              :game/id
                              #uuid "055f3f3e-8173-30dd-b6eb-b062989922c7",
                              :game/name
@@ -12371,6 +12690,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "157815",
+                             :languages ["cs"],
                              :game/name "Heat",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/CpnZlx8K7GG_vltc9TaG6A__thumb/img/oJUkvtF7xeDQqGbcpRsZahx5Bmo=/fit-in/200x150/filters:strip_icc()/pic2027808.png"},
@@ -12434,6 +12754,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "227789",
+                             :languages ["de"],
                              :game/name "Heaven & Ale",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/P0B68R2CLFTuiD8M9lCYPQ__thumb/img/1Omy3H6zspL0HKrUjgdolrGxmwk=/fit-in/200x150/filters:strip_icc()/pic3563904.jpg"},
@@ -12484,6 +12805,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "259830",
+                             :languages ["cs" "de" "sk" "hu"],
                              :game/name "Hedgehog Roll",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/RZCgOQ6m2ZX_ePy-op9Svw__thumb/img/f3glzZUNrlHfdxPb7slj9J_uT6g=/fit-in/200x150/filters:strip_icc()/pic4561739.jpg"},
@@ -12542,6 +12864,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "224272",
+                             :languages ["cs"],
                              :game/name "Hellapagos",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/2OjDcY1_CIvjKT-kvyb9Lw__thumb/img/eK4AY-YtrMfORTGUp44mSp6ves4=/fit-in/200x150/filters:strip_icc()/pic3484991.jpg"},
@@ -12592,6 +12915,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "348447",
+                             :languages ["en"],
                              :game/name "Hens",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/h_bVZGn0gcOq1BLse8mpug__thumb/img/SAoVofKlZJON-AuH3TfN7xjyVCM=/fit-in/200x150/filters:strip_icc()/pic6431805.jpg"},
@@ -12650,11 +12974,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "231554",
+                             :languages ["en"],
                              :game/name "Herbalism",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/H44YwkVZKgYqGBM0hx26OQ__thumb/img/Mn9hvN1zyinjJamaM_tCN_59Pbk=/fit-in/200x150/filters:strip_icc()/pic3664861.jpg"},
                             #uuid "ca27c655-01ec-35ec-8203-fde2bbc70311"
-                            {:name
+                            {:languages [],
+                             :name
                              "Herní podložka (playmat) 180 x 90 cm",
                              :game/id
                              #uuid "ca27c655-01ec-35ec-8203-fde2bbc70311",
@@ -12688,6 +13014,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "282012",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Hero Town",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/MJsHoRE37u-09hYeYvZZNA__thumb/img/1CBssAhPcgzEZpy3xoIKBZpwl5Y=/fit-in/200x150/filters:strip_icc()/pic4806874.png"},
@@ -12730,6 +13058,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "237706",
+                             :languages ["cs"],
                              :game/name "Heroes of Tenefyr",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/AgkXhl5TPUJIAgedxHGMwQ__thumb/img/F46l8kD9XNgpeeYPSw9NJaqhI84=/fit-in/200x150/filters:strip_icc()/pic4042733.jpg"},
@@ -12764,11 +13093,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "267568",
+                             :languages ["en" "de"],
                              :game/name "HexRoller",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/dYni331U6dBaZ-tttQ7_wA__thumb/img/FgDrRb3RQ88tPrXut1ekr791_hU=/fit-in/200x150/filters:strip_icc()/pic4477805.png"},
                             #uuid "3198ef95-9bf4-3fce-9a75-bdb34c41c622"
-                            {:name "Hexafari",
+                            {:languages ["cs" "sk"],
+                             :name "Hexafari",
                              :game/id
                              #uuid "3198ef95-9bf4-3fce-9a75-bdb34c41c622",
                              :game/name "Hexafari",
@@ -12832,6 +13163,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "320718",
+                             :languages ["cs"],
                              :game/name "Hidden Leaders",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/vDu0Zb4ooGEOF29ZaRQ3EQ__thumb/img/3AcQZQ_MB1dJiQlQzcJMjDK637M=/fit-in/200x150/filters:strip_icc()/pic5845169.jpg"},
@@ -12887,11 +13219,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "327971",
+                             :languages ["cs" "en"],
                              :game/name "Hippocrates",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/q9o0GqIslWhlr6qpHEgRRg__thumb/img/39vt_LbBeMyv9q6FjfvPNTwLPjg=/fit-in/200x150/filters:strip_icc()/pic5897247.png"},
                             #uuid "cfaa1b50-40b6-3505-ac20-548887267700"
-                            {:name "Home Sweet Home",
+                            {:languages ["en"],
+                             :name "Home Sweet Home",
                              :game/id
                              #uuid "cfaa1b50-40b6-3505-ac20-548887267700",
                              :game/name "Home Sweet Home",
@@ -12963,6 +13297,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "284742",
+                             :languages ["cs"],
                              :game/name "Honey Buzz",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/q3KbDdmiSkvKucANAdOU1g__thumb/img/4e8jsNQHJp_Cir_h1_rEBK5xXWM=/fit-in/200x150/filters:strip_icc()/pic5608344.jpg"},
@@ -13005,17 +13340,20 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "199913",
+                             :languages ["cs" "sk"],
                              :game/name "Honeycombs",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/hNOW2XqyYygSA6IPexy9Ag__thumb/img/wzLbLs9OaCtgUYkPHRHGgeyQGCg=/fit-in/200x150/filters:strip_icc()/pic4749226.jpg"},
                             #uuid "652cdc80-8075-3689-8328-8bca53e6bb5d"
-                            {:name "Horrorstein",
+                            {:languages ["cs" "en" "de" "sk"],
+                             :name "Horrorstein",
                              :game/id
                              #uuid "652cdc80-8075-3689-8328-8bca53e6bb5d",
                              :game/name "Horrorstein",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "2d5b47a7-dcc2-3aeb-9166-c4c03f86c51f"
-                            {:name
+                            {:languages ["cs"],
+                             :name
                              "Hravé kočky- dřevěná skládačka s předlohami",
                              :game/id
                              #uuid "2d5b47a7-dcc2-3aeb-9166-c4c03f86c51f",
@@ -13023,19 +13361,23 @@
                              "Hravé kočky- dřevěná skládačka s předlohami",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "04b4de56-f512-367e-b66e-56b320e825b7"
-                            {:name "Hurá do postýlky!",
+                            {:languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
+                             :name "Hurá do postýlky!",
                              :game/id
                              #uuid "04b4de56-f512-367e-b66e-56b320e825b7",
                              :game/name "Hurá do postýlky!",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "08e9d77c-24b0-3949-a2ea-fb3d4aaa9654"
-                            {:name "Hurá ven!",
+                            {:languages ["cs"],
+                             :name "Hurá ven!",
                              :game/id
                              #uuid "08e9d77c-24b0-3949-a2ea-fb3d4aaa9654",
                              :game/name "Hurá ven!",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "d5559208-e11a-385b-9ffd-efaa351985af"
-                            {:name "Huzzle Cast - MOBIUS",
+                            {:languages [],
+                             :name "Huzzle Cast - MOBIUS",
                              :game/id
                              #uuid "d5559208-e11a-385b-9ffd-efaa351985af",
                              :game/name "Huzzle Cast - MOBIUS",
@@ -13075,6 +13417,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "209206",
+                             :languages ["cs"],
                              :game/name "Hypergrid",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/MZQgD-cOKqoJ_MjeLqb5Iw__thumb/img/gMtuXwWtEh3kXMBzjDCfXl0hRqA=/fit-in/200x150/filters:strip_icc()/pic7579968.jpg"},
@@ -13129,6 +13472,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "371972",
+                             :languages ["en"],
                              :game/name "Ierusalem: Anno Domini",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/TmeInxjp7SV_AtDLx2Kjbw__thumb/img/qofZgE_cizx-crfjiE310D1BFfQ=/fit-in/200x150/filters:strip_icc()/pic7141460.jpg"},
@@ -13204,6 +13548,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "154203",
+                             :languages ["cs"],
                              :game/name "Imperial Settlers",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/pRwsvyfsRJ-lWWwVJCdXNg__thumb/img/-b7sYBaUVxdZ_a33QRfvJY2ccAk=/fit-in/200x150/filters:strip_icc()/pic2871265.jpg"},
@@ -13262,6 +13607,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "270844",
+                             :languages ["cs"],
                              :game/name
                              "Imperial Settlers: Empires of the North",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -13333,6 +13679,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "318184",
+                             :languages ["cs"],
                              :game/name "Imperium: Classics",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/MN0OvKejfrfwD6bupQHp4g__thumb/img/MVh7xtQ4l17hprI4mFIk9Kswk6s=/fit-in/200x150/filters:strip_icc()/pic5623566.jpg"},
@@ -13391,6 +13738,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              120,
                              :com.boardgamegeek.boardgame/id "295681",
+                             :languages ["cs"],
                              :game/name "In Too Deep",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/3iPMwFdT4O7dCeH1I6FjyQ__thumb/img/6Wkyrs69AFCCLGdyaOjbASdTx6Q=/fit-in/200x150/filters:strip_icc()/pic5091304.jpg"},
@@ -13429,6 +13777,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "314397",
+                             :languages ["cs"],
                              :game/name "In the Palm of Your Hand",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/VTNDsjI9zcKhqWYeMhAPYQ__thumb/img/2HRTV3PllXSFA06S65eyPPV9hQs=/fit-in/200x150/filters:strip_icc()/pic5535689.jpg"},
@@ -13483,6 +13832,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "230342",
+                             :languages ["en"],
                              :game/name "InBetween",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/OobyrTWZBCvtytRZT6xqug__thumb/img/K1BEWEF5pxwk8Nwb1tgHUTnh3HY=/fit-in/200x150/filters:strip_icc()/pic5335582.jpg"},
@@ -13529,6 +13879,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "304285",
+                             :languages ["cs"],
                              :game/name
                              "Infinity Gauntlet: A Love Letter Game",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -13568,6 +13919,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "344508",
+                             :languages ["en" "de" "es"],
                              :game/name
                              "Insecta: The Ladies of Entomology",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -13607,6 +13959,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "261009",
+                             :languages ["en"],
                              :game/name "Inuit: The Snow Folk",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/1rcgdy0jY1EaTGR_xKFdhg__thumb/img/V2KXCC8bp6x0rWjbeOYK2XRRhA4=/fit-in/200x150/filters:strip_icc()/pic4583623.jpg"},
@@ -13653,6 +14006,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "327711",
+                             :languages ["cs"],
                              :game/name "It's a Wonderful Kingdom",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/YMJnUYqIXrOEiqVOqfhWQw__thumb/img/C5ASZG8YcdMK0PRFLTXRDAwn3s4=/fit-in/200x150/filters:strip_icc()/pic6929415.jpg"},
@@ -13716,6 +14070,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "271324",
+                             :languages ["cs" "en"],
                              :game/name "It's a Wonderful World",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/od4vDTdXGPSVc-kjLqM11w__thumb/img/T2ukKoCUNv2LMxg5GOlOb8WTzNI=/fit-in/200x150/filters:strip_icc()/pic4651175.jpg"},
@@ -13762,17 +14117,20 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "28023",
+                             :languages ["cs"],
                              :game/name "Jamaica",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/jZRfv3isrBG5waCzEx60Cw__thumb/img/6q5nirF5yn1d0qtjm2UEI5HV874=/fit-in/200x150/filters:strip_icc()/pic6434838.png"},
                             #uuid "88a7c8de-9fb7-35ae-8479-cbd306124e98"
-                            {:name "Je to úlet?!",
+                            {:languages ["cs" "sk"],
+                             :name "Je to úlet?!",
                              :game/id
                              #uuid "88a7c8de-9fb7-35ae-8479-cbd306124e98",
                              :game/name "Je to úlet?!",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "e48cab8c-c188-3310-b051-9b6e0eba5f27"
-                            {:name
+                            {:languages ["cs"],
+                             :name
                              "Jednoduchá geometrie – dřevěná hra",
                              :game/id
                              #uuid "e48cab8c-c188-3310-b051-9b6e0eba5f27",
@@ -13780,20 +14138,23 @@
                              "Jednoduchá geometrie – dřevěná hra",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "7fc036f8-a1d7-39a2-8d38-0e446f43cd06"
-                            {:name "Jednorožci v oblacích",
+                            {:languages ["cs" "en" "de" "sk"],
+                             :name "Jednorožci v oblacích",
                              :game/id
                              #uuid "7fc036f8-a1d7-39a2-8d38-0e446f43cd06",
                              :game/name "Jednorožci v oblacích",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "ffeaed2d-44fc-3cf2-9ac7-e2267f532422"
-                            {:name "Jedním tahem  (Draw The Line)",
+                            {:languages ["cs"],
+                             :name "Jedním tahem  (Draw The Line)",
                              :game/id
                              #uuid "ffeaed2d-44fc-3cf2-9ac7-e2267f532422",
                              :game/name
                              "Jedním tahem  (Draw The Line)",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "c31cb534-cfe9-34ae-bfa1-0d99ea68ebef"
-                            {:name "Jeníček a Mařenka",
+                            {:languages ["cs"],
+                             :name "Jeníček a Mařenka",
                              :game/id
                              #uuid "c31cb534-cfe9-34ae-bfa1-0d99ea68ebef",
                              :game/name "Jeníček a Mařenka",
@@ -13824,6 +14185,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "295394",
+                             :languages [],
                              :game/name "Juduku",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/wF7g4rVbiXQpKF-Qr4my8Q__thumb/img/LaDfbeqDsUwYWhJ7Gf5LMZSrIlY=/fit-in/200x150/filters:strip_icc()/pic5537124.jpg"},
@@ -13854,6 +14216,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "241164",
+                             :languages ["cs" "sk" "pl"],
                              :game/name "Jurassic Snack",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/JfRSyYQrbr2kcmj0460O2A__thumb/img/CuCO91HilXwj5CjKFRDpYv5hN04=/fit-in/200x150/filters:strip_icc()/pic3869828.jpg"},
@@ -13888,17 +14251,20 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "254640",
+                             :languages ["cs"],
                              :game/name "Just One",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/ocAuKT9hp99yBY77e4uuPg__thumb/img/ESTo05e9zuU6VJs3RyusEYGdc3Y=/fit-in/200x150/filters:strip_icc()/pic5137279.jpg"},
                             #uuid "7ae91e82-d002-35a5-a0f6-8b97d9be57aa"
-                            {:name "KOMBI",
+                            {:languages ["cs"],
+                             :name "KOMBI",
                              :game/id
                              #uuid "7ae91e82-d002-35a5-a0f6-8b97d9be57aa",
                              :game/name "KOMBI",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "2ac305de-ada6-3666-9c9b-698d890bd4f2"
-                            {:name "Kampak, mašinky?",
+                            {:languages ["cs" "sk"],
+                             :name "Kampak, mašinky?",
                              :game/id
                              #uuid "2ac305de-ada6-3666-9c9b-698d890bd4f2",
                              :game/name "Kampak, mašinky?",
@@ -13942,6 +14308,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "284378",
+                             :languages ["cs" "en"],
                              :game/name "Kanban EV",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/L2Wn-zUqkcHgqvwvY212Ig__thumb/img/RQunBacBw949DkYBgzoS5YaXgJo=/fit-in/200x150/filters:strip_icc()/pic4924232.jpg"},
@@ -13980,17 +14347,22 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "41860",
+                             :languages
+                             ["cs" "de" "fr" "sk" "hu" "pl" "it"],
                              :game/name "Kangaroo",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/NZGvSa7ODQ3EDK-lKlwRNg__thumb/img/TdtMU44vYnsg_IZjpCUwxxN1qBE=/fit-in/200x150/filters:strip_icc()/pic1100820.jpg"},
                             #uuid "edf13d29-ad1d-330d-8ed3-ffebc19b574b"
-                            {:name "Karak 2",
+                            {:languages ["cs" "sk" "pl"],
+                             :name "Karak 2",
                              :game/id
                              #uuid "edf13d29-ad1d-330d-8ed3-ffebc19b574b",
                              :game/name "Karak 2",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "0835a237-756f-3bb1-89b8-5322c1a996ea"
-                            {:name "Karak vč. expanze a insertu",
+                            {:languages
+                             ["cs" "en" "de" "fr" "sk" "pl"],
+                             :name "Karak vč. expanze a insertu",
                              :game/id
                              #uuid "0835a237-756f-3bb1-89b8-5322c1a996ea",
                              :game/name "Karak vč. expanze a insertu",
@@ -14026,6 +14398,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "84732",
+                             :languages ["cs"],
                              :game/name "Kariba",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/evEAPOXI0LxrShquMcXxIw__thumb/img/gtkKH-2jt38nK6Zkke-O_9YpCu4=/fit-in/200x150/filters:strip_icc()/pic6979262.jpg"},
@@ -14068,23 +14441,27 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              5,
                              :com.boardgamegeek.boardgame/id "234439",
+                             :languages ["cs" "en" "de" "sk"],
                              :game/name "Karuba Junior",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/MPittDzVrY5ARuoyWkHsgg__thumb/img/wd8aE9IkrlD8baDHCdwVbnRSLpQ=/fit-in/200x150/filters:strip_icc()/pic5880101.jpg"},
                             #uuid "9fb79ac6-56ac-36cb-b1f3-86434cdf592e"
-                            {:name "Kdo jsem?",
+                            {:languages ["cs" "en" "de" "sk"],
+                             :name "Kdo jsem?",
                              :game/id
                              #uuid "9fb79ac6-56ac-36cb-b1f3-86434cdf592e",
                              :game/name "Kdo jsem?",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "43329756-42a4-36d1-ab64-3a8512451c4c"
-                            {:name "Kdo umyje nádobí?",
+                            {:languages ["cs"],
+                             :name "Kdo umyje nádobí?",
                              :game/id
                              #uuid "43329756-42a4-36d1-ab64-3a8512451c4c",
                              :game/name "Kdo umyje nádobí?",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "8c5140dd-a5a3-3a64-aced-fd19c426e187"
-                            {:name
+                            {:languages ["cs"],
+                             :name
                              "Kdy se to stalo?  (Timeline Twist)",
                              :game/id
                              #uuid "8c5140dd-a5a3-3a64-aced-fd19c426e187",
@@ -14142,6 +14519,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              40,
                              :com.boardgamegeek.boardgame/id "333255",
+                             :languages ["cs"],
                              :game/name "Keep the Heroes Out!",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/lfFKMNCzIJesp8IFHK8dEw__thumb/img/3et-UTpNaMhKlHPgnj89mkTkGkU=/fit-in/200x150/filters:strip_icc()/pic6985339.jpg"},
@@ -14240,6 +14618,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "122515",
+                             :languages ["en"],
                              :game/name "Keyflower",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/HbfgxDJZQnNEZQKvpmJxQg__thumb/img/5t1MtJEDdhSgtyJlmu3Hu1qR_ZQ=/fit-in/200x150/filters:strip_icc()/pic2278942.jpg"},
@@ -14318,6 +14697,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "329939",
+                             :languages ["cs"],
                              :game/name "Keystone: North America",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/21Ai1qz6T_77Ug-bg8na7w__thumb/img/DnQkFa6aE71l6jH_boFUNHcrS5g=/fit-in/200x150/filters:strip_icc()/pic6124142.jpg"},
@@ -14372,6 +14752,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              75,
                              :com.boardgamegeek.boardgame/id "299684",
+                             :languages ["cs"],
                              :game/name "Khôra: Rise of an Empire",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Bo-JkTTZmznNwVPg9AMb5w__thumb/img/2v5fHaKMLng-tFw7cMl0WugkPJE=/fit-in/200x150/filters:strip_icc()/pic6078973.jpg"},
@@ -14398,6 +14779,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "375652",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Kidimime",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/PUSDAu6pdIou8wBo1gGz1Q__thumb/img/Pqeujz2tza28wNSW9nNaB21JlhA=/fit-in/200x150/filters:strip_icc()/pic7540718.jpg"},
@@ -14452,6 +14835,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "350755",
+                             :languages ["en"],
                              :game/name "King of Monster Island",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/xxWHZdJ33jvv1Vg_eK_8dA__thumb/img/czik5uDGcb4iZR27QD6owq20y8M=/fit-in/200x150/filters:strip_icc()/pic6873467.jpg"},
@@ -14518,6 +14902,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "70323",
+                             :languages ["cs"],
                              :game/name "King of Tokyo",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/m_RzXpHURC0_xLkvRSR_sw__thumb/img/OfgWmkGJj5BgOO0zFHEtP5CHfbU=/fit-in/200x150/filters:strip_icc()/pic3043734.jpg"},
@@ -14584,6 +14969,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "272533",
+                             :languages ["cs"],
                              :game/name "Kingdom Rush: Rift in Time",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/MWBEOi-5jC1SJJqF8YDHvw__thumb/img/Y-qHuQ5S69mbLrBhjSGZyfzFo9Q=/fit-in/200x150/filters:strip_icc()/pic4582182.png"},
@@ -14626,6 +15012,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "204583",
+                             :languages ["de"],
                              :game/name "Kingdomino",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/3h9W8BfB_rltQ48EBmHliw__thumb/img/RGpbcY90eBcNLXbHLMBwLrr2uzo=/fit-in/200x150/filters:strip_icc()/pic3132685.png"},
@@ -14668,6 +15055,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "340041",
+                             :languages ["cs"],
                              :game/name "Kingdomino Origins",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/MUM0pZVIb6ImCmuoE7g1tQ__thumb/img/MJ4SJNXXDXDzwqEriS59Uq8rc6E=/fit-in/200x150/filters:strip_icc()/pic6249158.jpg"},
@@ -14730,6 +15118,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "311822",
+                             :languages ["cs"],
                              :game/name "Kinghill",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/_ldjbpk9c6GIVSrkUknvHw__thumb/img/zKcZUSc3HsLC9kIvn2wOV8iW08c=/fit-in/200x150/filters:strip_icc()/pic5496233.jpg"},
@@ -14774,6 +15163,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "348072",
+                             :languages ["cs" "en"],
                              :game/name "Kinoko",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/g0jEmHLtia7irum8u5suKw__thumb/img/eNXQaOtwEomwCkH2o11Oxn94QQY=/fit-in/200x150/filters:strip_icc()/pic6831860.jpg"},
@@ -14807,6 +15197,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              40,
                              :com.boardgamegeek.boardgame/id "293267",
+                             :languages ["cs"],
                              :game/name "Kitara",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/zz0xdVm4LF627Tk7wMpaQw__thumb/img/zm3XpxMI5XBgH7dYqzbYvkp-ihk=/fit-in/200x150/filters:strip_icc()/pic5335779.png"},
@@ -14833,23 +15224,27 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "348096",
+                             :languages ["cs" "sk"],
                              :game/name "Kites",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/TIEYwnIRV6kvAEnFkYe2OA__thumb/img/ysbEGf4Z0tNnYPSnGOH8tw5sa8Y=/fit-in/200x150/filters:strip_icc()/pic6858706.png"},
                             #uuid "bad4e50c-f6b3-3ba3-aa4e-1c997421d61f"
-                            {:name "Klan křečků",
+                            {:languages ["cs" "en" "de" "sk"],
+                             :name "Klan křečků",
                              :game/id
                              #uuid "bad4e50c-f6b3-3ba3-aa4e-1c997421d61f",
                              :game/name "Klan křečků",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "43b2dcd5-ff95-306d-ac87-7f236e86f0d0"
-                            {:name "Klub dobrodruhů",
+                            {:languages ["cs" "sk"],
+                             :name "Klub dobrodruhů",
                              :game/id
                              #uuid "43b2dcd5-ff95-306d-ac87-7f236e86f0d0",
                              :game/name "Klub dobrodruhů",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "d2b56e5e-b264-3515-8001-1e64809c82d6"
-                            {:name "Klíče od hradu",
+                            {:languages ["cs"],
+                             :name "Klíče od hradu",
                              :game/id
                              #uuid "d2b56e5e-b264-3515-8001-1e64809c82d6",
                              :game/name "Klíče od hradu",
@@ -14893,6 +15288,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "282251",
+                             :languages ["cs" "en" "sk"],
                              :game/name "Kombo Afrika",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/hOKeAlDKy23zYNrM6b_6lw__thumb/img/pWKdS9BgcGS59faMUdOIk3ESB2s=/fit-in/200x150/filters:strip_icc()/pic4857526.jpg"},
@@ -14918,11 +15314,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "320833",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Kotakote",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/lNl2OisWeiZQNevma9JbIQ__thumb/img/e4p26Ak1j4Bmr6u4dbf_nJZ76z0=/fit-in/200x150/filters:strip_icc()/pic5687923.jpg"},
                             #uuid "18c8d958-74ec-3876-82d9-94c916b6e3d4"
-                            {:name "Kořist",
+                            {:languages ["cs"],
+                             :name "Kořist",
                              :game/id
                              #uuid "18c8d958-74ec-3876-82d9-94c916b6e3d4",
                              :game/name "Kořist",
@@ -14945,17 +15344,20 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "352989",
+                             :languages ["cs"],
                              :game/name "Krev a Písek",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/p8eWrYe6pa2MdI30yZfJTg__thumb/img/ewsbEd0IqrNvTS3RAs1IB6BsRs8=/fit-in/200x150/filters:strip_icc()/pic6570589.jpg"},
                             #uuid "10fa7de9-2be3-3f41-ae92-c1340e04bad5"
-                            {:name "Kronika zločinu: Noir",
+                            {:languages ["cs"],
+                             :name "Kronika zločinu: Noir",
                              :game/id
                              #uuid "10fa7de9-2be3-3f41-ae92-c1340e04bad5",
                              :game/name "Kronika zločinu: Noir",
                              :com.boardgamegeek.boardgame/id "249811"},
                             #uuid "9d23c5ec-7f70-3bc8-b595-afc737ac7bfc"
-                            {:name "Krotitelé kobek",
+                            {:languages ["cs"],
+                             :name "Krotitelé kobek",
                              :game/id
                              #uuid "9d23c5ec-7f70-3bc8-b595-afc737ac7bfc",
                              :game/name "Krotitelé kobek",
@@ -15003,12 +15405,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "385610",
+                             :languages ["en"],
                              :game/name
                              "Kutná Hora: The City of Silver",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/ar_YhktX6VcXBLcEfnu_dw__thumb/img/XlZo63iHoNfh7yKZdJiJj2Wfglo=/fit-in/200x150/filters:strip_icc()/pic7464921.png"},
                             #uuid "b9a1f272-5042-3b39-a492-dd8d00f2c6db"
-                            {:name "LOTO dům",
+                            {:languages ["cs" "sk"],
+                             :name "LOTO dům",
                              :game/id
                              #uuid "b9a1f272-5042-3b39-a492-dd8d00f2c6db",
                              :game/name "LOTO dům",
@@ -15088,6 +15492,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "341945",
+                             :languages ["cs"],
                              :game/name "La Granja: Deluxe Master Set",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/_kOpPrIydA24hH3_8n44Dg__thumb/img/r3hO5d3Qj6e1CG07UyTsIIeA9JA=/fit-in/200x150/filters:strip_icc()/pic6620505.jpg"},
@@ -15117,6 +15522,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              25,
                              :com.boardgamegeek.boardgame/id "315673",
+                             :languages ["cs"],
                              :game/name "Lama Express",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/u0iBRsRThAjEIyWXujjL7Q__thumb/img/0gZWOp1S_zym5uMxQv4DutJVOHk=/fit-in/200x150/filters:strip_icc()/pic5824624.jpg"},
@@ -15167,6 +15573,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              40,
                              :com.boardgamegeek.boardgame/id "336929",
+                             :languages ["cs"],
                              :game/name "Land vs Sea",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/F0JWt4UKzih3O8FYTETpbg__thumb/img/4Hk_BvDdgG_sjYhH_4wKkoAoUuk=/fit-in/200x150/filters:strip_icc()/pic6128189.png"},
@@ -15201,6 +15608,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "331059",
+                             :languages ["cs"],
                              :game/name "Last Message",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/3vhihjIpe7vkNk3nUZOw4Q__thumb/img/G8hEL-twGVBRgcgj9qyx3ZlYsyg=/fit-in/200x150/filters:strip_icc()/pic6080638.jpg"},
@@ -15263,6 +15671,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "35677",
+                             :languages ["cs"],
                              :game/name "Le Havre",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/y7Rqd3S6J7vyVhicR1bqTQ__thumb/img/w1iHoYZCVTDZI6gsPuxOScA7FqU=/fit-in/200x150/filters:strip_icc()/pic6091101.jpg"},
@@ -15301,18 +15710,29 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "346230",
+                             :languages ["en"],
                              :game/name "Les Contes Émerveillés",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/NMixSq0FKsvlaqW1iSaTNw__thumb/img/XynmkfD5Bb0EJmuxCANUKvj1F1A=/fit-in/200x150/filters:strip_icc()/pic6592813.jpg"},
                             #uuid "b9c532be-75ba-3dac-b7c6-cbce216a5433"
-                            {:name "Letopisy Západního království",
+                            {:languages ["cs"],
+                             :name "Letopisy Západního království",
                              :game/id
                              #uuid "b9c532be-75ba-3dac-b7c6-cbce216a5433",
                              :game/name
                              "Letopisy Západního království",
                              :com.boardgamegeek.boardgame/id "296152"},
                             #uuid "e966bd34-59ac-31e0-904a-d66e727fc193"
-                            {:name "Letter Links",
+                            {:languages
+                             ["en"
+                              "de"
+                              "fr"
+                              "es"
+                              "it"
+                              "nl"
+                              "pt"
+                              "řecký"],
+                             :name "Letter Links",
                              :game/id
                              #uuid "e966bd34-59ac-31e0-904a-d66e727fc193",
                              :game/name "Letter Links",
@@ -15368,6 +15788,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "356033",
+                             :languages ["cs"],
                              :game/name
                              "Libertalia: Winds of Galecrest",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -15411,17 +15832,20 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "943",
+                             :languages ["cs"],
                              :game/name "Ligretto",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/BQ6UyXXeivndO4F9Hu8CHw__thumb/img/2dXMh9HI7oiLw7ZGeLcrwfXLtjI=/fit-in/200x150/filters:strip_icc()/pic1306961.jpg"},
                             #uuid "6626e97d-8e21-32bb-92f5-a9cc2c6274e8"
-                            {:name "Ligretto - modrá",
+                            {:languages ["cs"],
+                             :name "Ligretto - modrá",
                              :game/id
                              #uuid "6626e97d-8e21-32bb-92f5-a9cc2c6274e8",
                              :game/name "Ligretto - modrá",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "dd4105e4-e810-3055-b1dd-4a3b0b81ceb6"
-                            {:name
+                            {:languages ["cs"],
+                             :name
                              "Ligretto - zelená (je v krabičce u modré)",
                              :game/id
                              #uuid "dd4105e4-e810-3055-b1dd-4a3b0b81ceb6",
@@ -15455,6 +15879,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "276432",
+                             :languages ["ru"],
                              :game/name "LinkUs",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/m4Gia5FkibeuAaZbyW-T4Q__thumb/img/GdS0riVY7GZSIfwJtH96p-ANCVs=/fit-in/200x150/filters:strip_icc()/pic5945072.jpg"},
@@ -15509,6 +15934,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "161533",
+                             :languages ["en"],
                              :game/name "Lisboa",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/OrHS8_a1CqSGiXeTfCk0Wg__thumb/img/ZBTT0qZcD5HMFlhFN7PLMe6zXvg=/fit-in/200x150/filters:strip_icc()/pic3209553.jpg"},
@@ -15555,6 +15981,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "121895",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Little Association",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/LYiTPYXPeDJmyOpkafqAjw__thumb/img/eIwENeTVY5EmmOv1ps2aHXt5J00=/fit-in/200x150/filters:strip_icc()/pic1507161.jpg"},
@@ -15578,6 +16006,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "114228",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Little Circuit",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/PThABIsATaXzjTtg8yVywA__thumb/img/tYx6GiuOWMugiHvJ6Usxp7Sngc8=/fit-in/200x150/filters:strip_icc()/pic1179305.jpg"},
@@ -15612,6 +16042,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "161773",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Little Cooperation",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/3A1lRK3dfeveocHz_P6XKw__thumb/img/cjWiFEHBRSU4z6aWBGtRBI4cuw8=/fit-in/200x150/filters:strip_icc()/pic4895235.jpg"},
@@ -15638,6 +16070,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "320846",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Little Match",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/LYp-0bV3C6Kte492R0mGwQ__thumb/img/cXuwxcekNSJNgozozYlH0lOz3vQ=/fit-in/200x150/filters:strip_icc()/pic5687920.jpg"},
@@ -15668,6 +16102,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "320843",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Little Mime",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/N1UbOcsZzahLSUAghUwpIQ__thumb/img/pt1949oJHT20fjw3d732D-Vmvm8=/fit-in/200x150/filters:strip_icc()/pic5703386.jpg"},
@@ -15707,6 +16143,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "241266",
+                             :languages ["cs"],
                              :game/name "Little Town",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/PhNY4VQAob6x4GjWHmbTsQ__thumb/img/UCbbfnszecog0-L46xQVjMo_RTk=/fit-in/200x150/filters:strip_icc()/pic4624124.jpg"},
@@ -15789,6 +16226,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "330038",
+                             :languages ["cs"],
                              :game/name "Llamaland",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/SZS3cUukT7DFA04aNMjD5A__thumb/img/2nYAiUDGDP8x_2kXhBYUaMsQ7ZI=/fit-in/200x150/filters:strip_icc()/pic6036704.jpg"},
@@ -15835,6 +16273,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              5,
                              :com.boardgamegeek.boardgame/id "329293",
+                             :languages ["en"],
                              :game/name "Loading",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/PXbD4l5NiUty2-qJ1zrT6g__thumb/img/sJIbGoeZCo6cukyanWV4AC7nTQI=/fit-in/200x150/filters:strip_icc()/pic6166241.jpg"},
@@ -15877,37 +16316,43 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "317299",
+                             :languages ["en"],
                              :game/name "Loco Momo",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/NZNdlD4jJQmlSlqz8UlBoQ__thumb/img/z18UkTLylkvF1xOrLoBN_X64XYk=/fit-in/200x150/filters:strip_icc()/pic5603298.jpg"},
                             #uuid "25bbad54-b749-32f1-bce6-3244540a43c5"
-                            {:name "LogiCross",
+                            {:languages ["cs" "sk" "hu" "pl"],
+                             :name "LogiCross",
                              :game/id
                              #uuid "25bbad54-b749-32f1-bce6-3244540a43c5",
                              :game/name "LogiCross",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "cee532a6-e814-36f4-accd-b8baad4002a2"
-                            {:name "Logic! CASE startovací sada 4+",
+                            {:languages ["cs" "en" "de" "sk"],
+                             :name "Logic! CASE startovací sada 4+",
                              :game/id
                              #uuid "cee532a6-e814-36f4-accd-b8baad4002a2",
                              :game/name
                              "Logic! CASE startovací sada 4+",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "47840f68-5041-3058-bd8b-2e95214a5692"
-                            {:name "Logic! GAMES - Splash Labyrinth",
+                            {:languages ["cs" "en" "de" "sk"],
+                             :name "Logic! GAMES - Splash Labyrinth",
                              :game/id
                              #uuid "47840f68-5041-3058-bd8b-2e95214a5692",
                              :game/name
                              "Logic! GAMES - Splash Labyrinth",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "94e0de20-7514-3900-9426-d0576dda4f4a"
-                            {:name "Logik Town",
+                            {:languages ["cs" "sk" "hu" "pl"],
+                             :name "Logik Town",
                              :game/id
                              #uuid "94e0de20-7514-3900-9426-d0576dda4f4a",
                              :game/name "Logik Town",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "69cbea61-52e9-3a03-a680-54210b5a5c03"
-                            {:name "Logorelo",
+                            {:languages ["cs"],
+                             :name "Logorelo",
                              :game/id
                              #uuid "69cbea61-52e9-3a03-a680-54210b5a5c03",
                              :game/name "Logorelo",
@@ -15951,11 +16396,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "136991",
+                             :languages ["cs"],
                              :game/name "Loony Quest",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/iIIGoA267xJDn3RuOfXBeQ__thumb/img/zX7ii2eBry5znNIWJ7-Fisqttbw=/fit-in/200x150/filters:strip_icc()/pic3043308.jpg"},
                             #uuid "319955cb-2108-3a42-87d0-8f47850fc5a5"
-                            {:name "Loony Quest: The Lost City",
+                            {:languages ["cs"],
+                             :name "Loony Quest: The Lost City",
                              :game/id
                              #uuid "319955cb-2108-3a42-87d0-8f47850fc5a5",
                              :game/name "Loony Quest: The Lost City",
@@ -15999,6 +16446,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "770",
+                             :languages ["cs"],
                              :game/name "Loot",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/bPHs6H5DDCU1X93Ug1e2Aw__thumb/img/Rbrp3xRkbA1OVLX99QRhfqUJQy0=/fit-in/200x150/filters:strip_icc()/pic3360346.jpg"},
@@ -16033,6 +16481,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "258636",
+                             :languages ["cs"],
                              :game/name "Looterz: Rigor Mortis",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/KfbxC-iuFqW4_RQzdPlxAw__thumb/img/zPwWjIRxZT_SCr2yRtPAGGoUSKc=/fit-in/200x150/filters:strip_icc()/pic4286196.png"},
@@ -16104,6 +16553,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "338476",
+                             :languages ["cs"],
                              :game/name
                              "Lorenzo il Magnifico: Big Box",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -16130,6 +16580,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "244795",
+                             :languages ["de"],
                              :game/name "Lost Cities: To Go",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Unmap0LsAwYjfuvzhOLi8A__thumb/img/LReyMp9np2K6X7ZXRKmUPWytykA=/fit-in/200x150/filters:strip_icc()/pic3937981.jpg"},
@@ -16200,6 +16651,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "312484",
+                             :languages ["en"],
                              :game/name "Lost Ruins of Arnak",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__thumb/img/J8SVmGOJXZGxNjkT3xYNQU7Haxg=/fit-in/200x150/filters:strip_icc()/pic5674958.jpg"},
@@ -16250,6 +16702,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "129622",
+                             :languages ["cs"],
                              :game/name "Love Letter",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/T1ltXwapFUtghS9A7_tf4g__thumb/img/GtNX7gCmGpw39Tr6JApWC3Aga5U=/fit-in/200x150/filters:strip_icc()/pic1401448.jpg"},
@@ -16308,11 +16761,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "306169",
+                             :languages ["cs"],
                              :game/name "MATCH 5",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/qg433o3hds0VgtUNR8Rasw__thumb/img/bs8nuMJVYMYvtUBD3m9TbL3hZsI=/fit-in/200x150/filters:strip_icc()/pic5647944.jpg"},
                             #uuid "f778a033-def5-376d-bd08-f8111bc00e4f"
-                            {:name "MEMINO protiklady",
+                            {:languages ["cs" "sk"],
+                             :name "MEMINO protiklady",
                              :game/id
                              #uuid "f778a033-def5-376d-bd08-f8111bc00e4f",
                              :game/name "MEMINO protiklady",
@@ -16348,6 +16803,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "864",
+                             :languages ["cs"],
                              :game/name "Mage Knight",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/uE7vNy8iSwY_VbrteAovRQ__thumb/img/S8Ibgxp4j5qlI6j7Q9QD-xbgrSE=/fit-in/200x150/filters:strip_icc()/pic11350.jpg"},
@@ -16422,6 +16878,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "209778",
+                             :languages ["cs"],
                              :game/name "Magic Maze",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/wJfDIveg2zpTGn8E1WzEpA__thumb/img/Un57jB38oeBZ0WFdd7rXSOEP-1k=/fit-in/200x150/filters:strip_icc()/pic3268473.jpg"},
@@ -16452,11 +16909,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              5,
                              :com.boardgamegeek.boardgame/id "284895",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Magic School",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Pu25fxKZJ2GNpQc4GMk4Eg__thumb/img/6W5Ioq6SVRCoY7h-l3DUV_4g8xY=/fit-in/200x150/filters:strip_icc()/pic4876848.jpg"},
                             #uuid "28344d75-ba38-38c1-bef0-7945ca2d3a34"
-                            {:name
+                            {:languages ["en"],
+                             :name
                              "Magic The Gathering - LOTR: Starter Kit",
                              :game/id
                              #uuid "28344d75-ba38-38c1-bef0-7945ca2d3a34",
@@ -16464,7 +16924,8 @@
                              "Magic The Gathering - LOTR: Starter Kit",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "d568ac49-6c6b-3f17-8f59-6ce7202ba5dd"
-                            {:name
+                            {:languages ["en"],
+                             :name
                              "Magic The Gathering: M21 Core Set Arena Starter Kit",
                              :game/id
                              #uuid "d568ac49-6c6b-3f17-8f59-6ce7202ba5dd",
@@ -16472,7 +16933,8 @@
                              "Magic The Gathering: M21 Core Set Arena Starter Kit",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "79494161-ea75-305c-96d1-9f9fd7a41d4a"
-                            {:name "Magický trojúhelník 2v1",
+                            {:languages ["cs"],
+                             :name "Magický trojúhelník 2v1",
                              :game/id
                              #uuid "79494161-ea75-305c-96d1-9f9fd7a41d4a",
                              :game/name "Magický trojúhelník 2v1",
@@ -16512,6 +16974,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "17235",
+                             :languages ["cs" "de" "sk" "hu"],
                              :game/name "Mago Magino",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/zMeyc_ZjqsKtjRXfmtQZ3A__thumb/img/puCyoOw3QeLxvAfUf0bKX0kyhP8=/fit-in/200x150/filters:strip_icc()/pic5317961.png"},
@@ -16554,17 +17017,28 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "230080",
+                             :languages ["cs"],
                              :game/name "Majesty: For the Realm",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/BsNE-w6bttGZ-JPLcY95mA__thumb/img/GGVPDJErC7vPEb6zHJUasEXwIBk=/fit-in/200x150/filters:strip_icc()/pic3742410.jpg"},
                             #uuid "62b4027b-6b01-3d2c-99a2-41bcd2a96952"
-                            {:name "Make a Mooove!",
+                            {:languages
+                             ["en"
+                              "de"
+                              "fr"
+                              "es"
+                              "it"
+                              "nl"
+                              "pt"
+                              "řecký"],
+                             :name "Make a Mooove!",
                              :game/id
                              #uuid "62b4027b-6b01-3d2c-99a2-41bcd2a96952",
                              :game/name "Make a Mooove!",
                              :com.boardgamegeek.boardgame/id "385984"},
                             #uuid "ca42cb70-5643-39a7-8693-09b152b753a2"
-                            {:name "Makroskop",
+                            {:languages ["cs"],
+                             :name "Makroskop",
                              :game/id
                              #uuid "ca42cb70-5643-39a7-8693-09b152b753a2",
                              :game/name "Makroskop",
@@ -16612,18 +17086,21 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "146290",
+                             :languages ["cs"],
                              :game/name "Malacca",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/KVAjfSBUzozalk9s2OZV8w__thumb/img/N88UtpOi4Pc7mnIzsKLKCKcFsnw=/fit-in/200x150/filters:strip_icc()/pic1798698.jpg"},
                             #uuid "432457cc-475f-33aa-9d31-3c4c4bed4d7f"
-                            {:name "Malé velké galaxie: Do neznáma",
+                            {:languages ["cs"],
+                             :name "Malé velké galaxie: Do neznáma",
                              :game/id
                              #uuid "432457cc-475f-33aa-9d31-3c4c4bed4d7f",
                              :game/name
                              "Malé velké galaxie: Do neznáma",
                              :com.boardgamegeek.boardgame/id "200544"},
                             #uuid "3ec97bd4-2f4c-30fe-b2b9-770045f0b8a4"
-                            {:name
+                            {:languages ["cs"],
+                             :name
                              "Malí přátelé - dřevěná balanční hra s předlohami 33 dílů",
                              :game/id
                              #uuid "3ec97bd4-2f4c-30fe-b2b9-770045f0b8a4",
@@ -16669,6 +17146,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "264241",
+                             :languages ["cs"],
                              :game/name "Mandala",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/FZUJ_Ieaw83mpz1eL-dY_g__thumb/img/o8B080rjfGtNloX7wMa_IRthuXo=/fit-in/200x150/filters:strip_icc()/pic5056121.jpg"},
@@ -16711,6 +17189,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "317504",
+                             :languages ["en"],
                              :game/name "Mandala Stones",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/ucWyiu4LOqHUmGi6yb5BmQ__thumb/img/O0tGosCGwt6UOpG6cRHUYNgor30=/fit-in/200x150/filters:strip_icc()/pic5608253.jpg"},
@@ -16806,6 +17285,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              120,
                              :com.boardgamegeek.boardgame/id "205059",
+                             :languages ["cs"],
                              :game/name
                              "Mansions of Madness: Second Edition",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -16897,6 +17377,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "276025",
+                             :languages ["en"],
                              :game/name "Maracaibo",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/rMNa0k05zMdKgSEp26Q3Tw__thumb/img/lVlnhYyxlZb3WuKZJHLoJcFHEjs=/fit-in/200x150/filters:strip_icc()/pic4917407.jpg"},
@@ -16951,6 +17432,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "2280",
+                             :languages ["cs"],
                              :game/name "Marco Polo",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/kphUeoUqMXHrVGbSgFEk0w__thumb/img/e8-7eDIBCZysiUW607XANuXfY6E=/fit-in/200x150/filters:strip_icc()/pic20540.jpg"},
@@ -16997,6 +17479,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "297978",
+                             :languages ["cs"],
                              :game/name "Mariposas",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/UHTHsuI998L89uSTXS3hxg__thumb/img/ruD8L6-y9vFuuvYd1eABXJPnsXk=/fit-in/200x150/filters:strip_icc()/pic5153415.jpg"},
@@ -17035,6 +17518,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "29223",
+                             :languages ["cs"],
                              :game/name "Marrakech",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/HQ7axXisPwqwkDsfI6FeoQ__thumb/img/PjtuW8fr_zfnkzRBePaBTcIVY5A=/fit-in/200x150/filters:strip_icc()/pic6531656.jpg"},
@@ -17101,6 +17585,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "285774",
+                             :languages ["cs"],
                              :game/name
                              "Marvel Champions: The Card Game",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -17156,11 +17641,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              40,
                              :com.boardgamegeek.boardgame/id "298047",
+                             :languages ["cs"],
                              :game/name "Marvel United",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/-19XPXmTn9QyyvqwpcFkBw__thumb/img/T3jn8ks3g0zLyISTRQkIr0D1WSE=/fit-in/200x150/filters:strip_icc()/pic5231006.jpg"},
                             #uuid "d8e4ba0c-66a7-33c0-a3ab-11bf23b05edf"
-                            {:name "Marvel X-MEN: Povstání mutantů",
+                            {:languages ["cs"],
+                             :name "Marvel X-MEN: Povstání mutantů",
                              :game/id
                              #uuid "d8e4ba0c-66a7-33c0-a3ab-11bf23b05edf",
                              :game/name
@@ -17201,6 +17688,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "359152",
+                             :languages ["cs"],
                              :game/name "Marvel: Remix",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/1EilwFEoi4ZLKX7aqw2mmQ__thumb/img/M93SM3m3ekHA_p-UKMJ8d7bpuRA=/fit-in/200x150/filters:strip_icc()/pic6778570.jpg"},
@@ -17247,6 +17735,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "139030",
+                             :languages ["cs"],
                              :game/name "Mascarade",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/OS3ckk3rZbwFi8en1rjiGQ__thumb/img/p4r9ENijnNYPOB9L_i4ZkPCCACg=/fit-in/200x150/filters:strip_icc()/pic1762410.jpg"},
@@ -17290,19 +17779,22 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "280453",
+                             :languages ["cs" "en"],
                              :game/name
                              "Masters of Renaissance: Lorenzo il Magnifico – The Card Game",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/-zdSgCFfOGAsgZ6M-Rjw1w__thumb/img/f-1Uj2NMpfWdbGGafA60wdaufzk=/fit-in/200x150/filters:strip_icc()/pic4782992.jpg"},
                             #uuid "9507e67e-6ece-30ee-af72-b7c680976e2a"
-                            {:name "Maximální warp  (Warp's Edge CZ)",
+                            {:languages ["cs"],
+                             :name "Maximální warp  (Warp's Edge CZ)",
                              :game/id
                              #uuid "9507e67e-6ece-30ee-af72-b7c680976e2a",
                              :game/name
                              "Maximální warp  (Warp's Edge CZ)",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "c6815a57-6e17-30c2-b4b3-4c46bd7da474"
-                            {:name
+                            {:languages ["cs"],
+                             :name
                              "Mazaná liška - dřevěná hra s předlohami",
                              :game/id
                              #uuid "c6815a57-6e17-30c2-b4b3-4c46bd7da474",
@@ -17340,6 +17832,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "363093",
+                             :languages ["en"],
                              :game/name "Mazescape Kids: Hipnos",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/rl0kCNfZh7gQHQ-P4xFcUA__thumb/img/neYgM5KB_S63Ib2ZslmMtAqfY-4=/fit-in/200x150/filters:strip_icc()/pic6937395.jpg"},
@@ -17374,6 +17867,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "363091",
+                             :languages ["en"],
                              :game/name "Mazescape XP: Cryo-C",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/RWwKUilDWxPt2v37pua8xA__thumb/img/NeX2V-LVnvJScx9EBd8vvT-9azg=/fit-in/200x150/filters:strip_icc()/pic6937401.jpg"},
@@ -17428,11 +17922,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "314491",
+                             :languages ["cs"],
                              :game/name "Meadow",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/9r3qdPijtgoIN24PxFU2gw__thumb/img/tugW5aKyC6Vs31QaBX8YvmQiPTQ=/fit-in/200x150/filters:strip_icc()/pic5894745.jpg"},
                             #uuid "342eda67-3260-3622-ac70-e10bd655867e"
-                            {:name "Medvídci HOP!",
+                            {:languages ["cs" "sk"],
+                             :name "Medvídci HOP!",
                              :game/id
                              #uuid "342eda67-3260-3622-ac70-e10bd655867e",
                              :game/name "Medvídci HOP!",
@@ -17476,6 +17972,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "345991",
+                             :languages ["cs"],
                              :game/name
                              "Medvěd WRR: Poprask na kolejích",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -17519,6 +18016,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "193214",
+                             :languages ["en"],
                              :game/name "Meeple Circus",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/jmdwGVSEsYR9WQ8_Cjjlhg__thumb/img/BV0SAwXm1ICEIVBlQLE8JD4ZC9c=/fit-in/200x150/filters:strip_icc()/pic3895016.jpg"},
@@ -17553,6 +18051,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "298261",
+                             :languages ["en"],
                              :game/name "Mekhane",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/VK5w4bPg9MpCiAVJas5Bww__thumb/img/O9GaeCA_ScOPDxm3Iv-MzPsDlU8=/fit-in/200x150/filters:strip_icc()/pic5158806.jpg"},
@@ -17599,6 +18098,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "262477",
+                             :languages ["cs" "en"],
                              :game/name "Mercado de Lisboa",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/_bw5JwjsvGOBZliGe1wm2w__thumb/img/7IP6AQrScfAkK9CNiPhghNMFJ38=/fit-in/200x150/filters:strip_icc()/pic5410206.png"},
@@ -17661,6 +18161,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "277700",
+                             :languages ["cs"],
                              :game/name "Merchants Cove",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/-JD8JLncWYMes9Q6YIgorg__thumb/img/Ce6a64m5DxVae_ZXnAsrgdEnqBQ=/fit-in/200x150/filters:strip_icc()/pic6136538.jpg"},
@@ -17723,11 +18224,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "238799",
+                             :languages ["cs"],
                              :game/name "Messina 1347",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Pw9TGohEb7PITFJnuq48bQ__thumb/img/bWVi55qMYTv6VrQNHFllltHLlZI=/fit-in/200x150/filters:strip_icc()/pic6397342.jpg"},
                             #uuid "ba53e8a6-b5a1-3c35-bd64-a832837c050c"
-                            {:name "Mezi řádky",
+                            {:languages ["cs"],
+                             :name "Mezi řádky",
                              :game/id
                              #uuid "ba53e8a6-b5a1-3c35-bd64-a832837c050c",
                              :game/name "Mezi řádky",
@@ -17771,11 +18274,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "318977",
+                             :languages ["en"],
                              :game/name "MicroMacro: Crime City",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/1M-1d6fr3U9t670MCVOTeg__thumb/img/aR9LNVhRr_hnIIoYwxFUTb8rPMk=/fit-in/200x150/filters:strip_icc()/pic5896816.jpg"},
                             #uuid "d9b879bd-1944-334d-88d6-1ab5f3e8e92d"
-                            {:name
+                            {:languages ["en"],
+                             :name
                              "MicroMacro: Crime City 2 – Full House",
                              :game/id
                              #uuid "d9b879bd-1944-334d-88d6-1ab5f3e8e92d",
@@ -17829,12 +18334,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "338834",
+                             :languages ["cs"],
                              :game/name
                              "MicroMacro: Crime City – Full House",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/bNuZIssobDbFYaLbgMofgw__thumb/img/VEB-DHKUWobYsUOFwuywHnsbF2k=/fit-in/200x150/filters:strip_icc()/pic6242068.jpg"},
                             #uuid "a30da072-cadc-33fb-a861-d2f34538a919"
-                            {:name "MicroMacro: Crime City – Showdown",
+                            {:languages ["en"],
+                             :name "MicroMacro: Crime City – Showdown",
                              :game/id
                              #uuid "a30da072-cadc-33fb-a861-d2f34538a919",
                              :game/name
@@ -17896,6 +18403,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "284653",
+                             :languages ["cs"],
                              :game/name
                              "Mind MGMT: The Psychic Espionage “Game.”",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -17935,11 +18443,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "300751",
+                             :languages ["cs"],
                              :game/name "Mini Express",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/VN2KUKs_Kgfq2LrobCC87g__thumb/img/7qNG7SdjNMQM0Ujbt2d1C61mWa4=/fit-in/200x150/filters:strip_icc()/pic5333823.jpg"},
                             #uuid "06385ec3-dc84-34c4-a9eb-3a27a44e680a"
-                            {:name "Mix Family",
+                            {:languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
+                             :name "Mix Family",
                              :game/id
                              #uuid "06385ec3-dc84-34c4-a9eb-3a27a44e680a",
                              :game/name "Mix Family",
@@ -17987,17 +18498,20 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "285533",
+                             :languages ["cs" "en" "de" "sk"],
                              :game/name "Miyabi",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/J8joN18TM0gLZfIj6lYIog__thumb/img/FO9n1zMRh_T30cL9oj7dP8tajVE=/fit-in/200x150/filters:strip_icc()/pic4886005.jpg"},
                             #uuid "96a4204b-676b-3e03-b410-5f6dd4b42cf7"
-                            {:name "Moje první hra: Ahoj nočníku",
+                            {:languages ["cs" "en" "de" "sk"],
+                             :name "Moje první hra: Ahoj nočníku",
                              :game/id
                              #uuid "96a4204b-676b-3e03-b410-5f6dd4b42cf7",
                              :game/name "Moje první hra: Ahoj nočníku",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "338ffb69-0afd-3a14-8691-75d41f949334"
-                            {:name
+                            {:languages ["cs" "en" "de" "sk"],
+                             :name
                              "Moje první hra: Chytání rybiček Meine erste Spiele: Fische angeln",
                              :game/id
                              #uuid "338ffb69-0afd-3a14-8691-75d41f949334",
@@ -18005,7 +18519,8 @@
                              "Moje první hra: Chytání rybiček Meine erste Spiele: Fische angeln",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "edda32ec-9fc0-3151-8dd8-84bbfc2461ee"
-                            {:name
+                            {:languages ["cs" "en" "de" "sk"],
+                             :name
                              "Moje první hra: Zvíře na zvíře Junior",
                              :game/id
                              #uuid "edda32ec-9fc0-3151-8dd8-84bbfc2461ee",
@@ -18013,7 +18528,8 @@
                              "Moje první hra: Zvíře na zvíře Junior",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "cc6e6c5c-2f69-3769-bdb9-19316bb7dfd1"
-                            {:name
+                            {:languages ["cs" "sk"],
+                             :name
                              "Moje první hry pro děti Mňam-mňam Brumík",
                              :game/id
                              #uuid "cc6e6c5c-2f69-3769-bdb9-19316bb7dfd1",
@@ -18067,6 +18583,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "322282",
+                             :languages ["en"],
                              :game/name "Momiji",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/27aUh16Q5PuCvOKRwSaAgg__thumb/img/3RmGulCFeeMU71lvdHN3m7lMaeI=/fit-in/200x150/filters:strip_icc()/pic6636164.png"},
@@ -18092,6 +18609,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "373759",
+                             :languages ["cs"],
                              :game/name "Monolyth",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/r_VurIdvm1-kIuFjycNOew__thumb/img/ndwvPfD_Tb07PEm7S_BbRI6qljA=/fit-in/200x150/filters:strip_icc()/pic7149843.jpg"},
@@ -18138,6 +18656,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "282131",
+                             :languages ["cs"],
                              :game/name "Monster Baby Rescue!",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Z_LqVPSwAhjzmS3yBP_rxA__thumb/img/7xgAqc5LNZ8STcCNKTniAqDNxlI=/fit-in/200x150/filters:strip_icc()/pic4814235.png"},
@@ -18176,11 +18695,21 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "43578",
+                             :languages ["cs" "sk"],
                              :game/name "Monster Chase",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/vW749yzcBEKpIvm89zszRA__thumb/img/2EJx0WEe7VLXFYzuZXzpNjz4Pw0=/fit-in/200x150/filters:strip_icc()/pic2986448.jpg"},
                             #uuid "5c742d80-ea46-3f08-85b3-db52ffd6dd1d"
-                            {:name "Monster Mash",
+                            {:languages
+                             ["en"
+                              "de"
+                              "fr"
+                              "es"
+                              "it"
+                              "nl"
+                              "pt"
+                              "řecký"],
+                             :name "Monster Mash",
                              :game/id
                              #uuid "5c742d80-ea46-3f08-85b3-db52ffd6dd1d",
                              :game/name "Monster Mash",
@@ -18211,6 +18740,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "297663",
+                             :languages ["cs"],
                              :game/name "Monster's Coffee",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/OYZv9AdCldoz1wnvq9w2zg__thumb/img/wGlVXtmKsHRjcXIzpWm9-Tl5_eI=/fit-in/200x150/filters:strip_icc()/pic5183269.jpg"},
@@ -18232,6 +18762,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "389499",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Monstrio",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/pzOv5RM2c-U3lIoNywHSww__thumb/img/LQC9_akJu1-se9xjn6kTUHsWSx8=/fit-in/200x150/filters:strip_icc()/pic7538474.jpg"},
@@ -18282,17 +18814,20 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "4209",
+                             :languages ["cs" "en" "de" "sk"],
                              :game/name "Monza",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/CxqszkhB9YfPXL3-MIsikw__thumb/img/0XPqhDpiv4bf_mgXn41tbo7wmWY=/fit-in/200x150/filters:strip_icc()/pic393664.jpg"},
                             #uuid "5ad2c699-653b-3693-a428-98ee92113944"
-                            {:name "Motamo",
+                            {:languages ["cs" "en" "de" "sk"],
+                             :name "Motamo",
                              :game/id
                              #uuid "5ad2c699-653b-3693-a428-98ee92113944",
                              :game/name "Motamo",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "8e06d74f-044b-30ed-84f2-77581e04886a"
-                            {:name
+                            {:languages ["cs" "en" "de" "sk"],
+                             :name
                              "Moudrý medvěd - matematika Schlaubär - lernt zählen",
                              :game/id
                              #uuid "8e06d74f-044b-30ed-84f2-77581e04886a",
@@ -18300,7 +18835,8 @@
                              "Moudrý medvěd - matematika Schlaubär - lernt zählen",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "995cd2cc-991b-3e54-8134-e00ea3d945a3"
-                            {:name "Mrkve a zběsile",
+                            {:languages ["cs" "sk"],
+                             :name "Mrkve a zběsile",
                              :game/id
                              #uuid "995cd2cc-991b-3e54-8134-e00ea3d945a3",
                              :game/name "Mrkve a zběsile",
@@ -18348,6 +18884,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "192638",
+                             :languages ["en" "de" "es" "pl"],
                              :game/name "Multiuniversum",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/eatXdaDkITjRMFipB_iHmQ__thumb/img/x3Y3EYbgDDZDTQ_ylXGMnF-HeTs=/fit-in/200x150/filters:strip_icc()/pic4167532.png"},
@@ -18374,6 +18911,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "257001",
+                             :languages ["cs"],
                              :game/name "Munchkin Dungeon",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/57M9COiJFCgwsmGIMcinlw__thumb/img/tl4kGHikcP2-l9ItRn4uBsOQdJc=/fit-in/200x150/filters:strip_icc()/pic4684203.jpg"},
@@ -18424,6 +18962,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "234396",
+                             :languages ["cs"],
                              :game/name "Muse",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/6gDD73LSCMrr7ab1LHCXCg__thumb/img/YmT4zvKoAkhx62AGUdeylS7mQig=/fit-in/200x150/filters:strip_icc()/pic3719954.jpg"},
@@ -18478,6 +19017,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "295486",
+                             :languages ["cs" "sk" "hu"],
                              :game/name "My City",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/fz4aYmycg9baQlm_DzwyKA__thumb/img/j66PBN_vi0zLs7c-zR-r2NkUT2g=/fit-in/200x150/filters:strip_icc()/pic7443423.jpg"},
@@ -18536,6 +19076,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "226320",
+                             :languages ["cs"],
                              :game/name "My Little Scythe",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/EhXCpSR6ambdYuKbrej3UQ__thumb/img/3znFvjc6uN6rossizk5I5eOr4Rk=/fit-in/200x150/filters:strip_icc()/pic4134810.jpg"},
@@ -18570,6 +19111,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "366456",
+                             :languages ["cs" "sk"],
                              :game/name "My Shelfie",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Sgg2B7kxtx8fFXz_2mPefA__thumb/img/LxzvxmsMMitAzuv2nP3m0ko2Cus=/fit-in/200x150/filters:strip_icc()/pic7193695.png"},
@@ -18605,6 +19147,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              5,
                              :com.boardgamegeek.boardgame/id "314348",
+                             :languages ["cs" "en" "de" "sk"],
                              :game/name
                              "My Very First Games: Building Site",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -18676,11 +19219,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              42,
                              :com.boardgamegeek.boardgame/id "181304",
+                             :languages ["cs"],
                              :game/name "Mysterium",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/wfeAiLK5n5hD1omhnlYLLA__thumb/img/NAl-NrSAmWvklSVr3hKrSwiszNA=/fit-in/200x150/filters:strip_icc()/pic2601683.jpg"},
                             #uuid "4802cfbe-d3f6-3b01-b24d-9fb68f2d1307"
-                            {:name
+                            {:languages ["cs" "sk"],
+                             :name
                              "Mysterium Kids: Poklad Kapitána Skřípa",
                              :game/id
                              #uuid "4802cfbe-d3f6-3b01-b24d-9fb68f2d1307",
@@ -18727,12 +19272,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "269537",
+                             :languages ["en"],
                              :game/name
                              "Mystery House: Adventures in a Box",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/p64ete71GuhK-euYz1onqg__thumb/img/nsHOeAy5gGB10ERXoudWZ1Mv-zo=/fit-in/200x150/filters:strip_icc()/pic4802033.jpg"},
                             #uuid "6a82d690-1f16-313c-818c-56406dff07cc"
-                            {:name "Mystery House: Back to Tombstone",
+                            {:languages ["en"],
+                             :name "Mystery House: Back to Tombstone",
                              :game/id
                              #uuid "6a82d690-1f16-313c-818c-56406dff07cc",
                              :game/name
@@ -18773,23 +19320,28 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "135794",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Méchanlou",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/1Gq6M4KD1nDROHXNS5KV9A__thumb/img/xKCarS51obVbnLFM8DPZpSBgSGs=/fit-in/200x150/filters:strip_icc()/pic4895661.jpg"},
                             #uuid "eddfdb4e-779e-3be0-aa7b-b8c307fad6b8"
-                            {:name "Mölkky - Dřevěné kuželky",
+                            {:languages ["cs" "sk"],
+                             :name "Mölkky - Dřevěné kuželky",
                              :game/id
                              #uuid "eddfdb4e-779e-3be0-aa7b-b8c307fad6b8",
                              :game/name "Mölkky - Dřevěné kuželky",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "a2a07a54-4233-3e09-a5eb-49fd54de68fa"
-                            {:name "Na Prodej",
+                            {:languages ["cs"],
+                             :name "Na Prodej",
                              :game/id
                              #uuid "a2a07a54-4233-3e09-a5eb-49fd54de68fa",
                              :game/name "Na Prodej",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "3dd30673-a184-3a4c-8ff2-4fdde8c6cf20"
-                            {:name "Na křídlech: Perutě Evropy",
+                            {:languages ["cs"],
+                             :name "Na křídlech: Perutě Evropy",
                              :game/id
                              #uuid "3dd30673-a184-3a4c-8ff2-4fdde8c6cf20",
                              :game/name "Na křídlech: Perutě Evropy",
@@ -18829,11 +19381,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "275215",
+                             :languages ["cs"],
                              :game/name "Namiji",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/AW6IWjNVwOOLxVHepkQk1g__thumb/img/pDLMyt8zz2ga13wKW0ayyjVRkOw=/fit-in/200x150/filters:strip_icc()/pic4629265.jpg"},
                             #uuid "2e5d5f19-e90f-3d49-8713-b94d8150e8a3"
-                            {:name
+                            {:languages ["cs"],
+                             :name
                              "Nastupovat, prosím: New York & London",
                              :game/id
                              #uuid "2e5d5f19-e90f-3d49-8713-b94d8150e8a3",
@@ -18841,14 +19395,16 @@
                              "Nastupovat, prosím: New York & London",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "76e89514-72e2-3eed-8e60-36bff175a02a"
-                            {:name "Nations + Dynasties rozšíření",
+                            {:languages ["en"],
+                             :name "Nations + Dynasties rozšíření",
                              :game/id
                              #uuid "76e89514-72e2-3eed-8e60-36bff175a02a",
                              :game/name
                              "Nations + Dynasties rozšíření",
                              :com.boardgamegeek.boardgame/id "180539"},
                             #uuid "e501f676-0ad8-3a79-af45-3b66e16cb943"
-                            {:name "Navlékací dopravní prostředky",
+                            {:languages ["cs"],
+                             :name "Navlékací dopravní prostředky",
                              :game/id
                              #uuid "e501f676-0ad8-3a79-af45-3b66e16cb943",
                              :game/name
@@ -18914,17 +19470,20 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "195421",
+                             :languages ["cs"],
                              :game/name "Near and Far",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/lm8OOgJupqd3Q-fZ3DsQhw__thumb/img/mZV5Pve42U5PlK-GkFSDTDXCzdg=/fit-in/200x150/filters:strip_icc()/pic3605785.jpg"},
                             #uuid "04844856-c8c4-31e6-9b06-86e551d82b46"
-                            {:name "Nejlepší nejhorší zmrzlina",
+                            {:languages ["cs"],
+                             :name "Nejlepší nejhorší zmrzlina",
                              :game/id
                              #uuid "04844856-c8c4-31e6-9b06-86e551d82b46",
                              :game/name "Nejlepší nejhorší zmrzlina",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "a98ace5c-0653-3a07-84e0-7cda75b5aaf0"
-                            {:name
+                            {:languages ["en"],
+                             :name
                              "Nemesis - Carnomorph Expansion Sundrop",
                              :game/id
                              #uuid "a98ace5c-0653-3a07-84e0-7cda75b5aaf0",
@@ -18932,7 +19491,8 @@
                              "Nemesis - Carnomorph Expansion Sundrop",
                              :com.boardgamegeek.boardgame/id "245845"},
                             #uuid "6d1681cd-2acc-39b4-8805-416762ae7504"
-                            {:name
+                            {:languages ["en"],
+                             :name
                              "Nemesis - Kickstarter Core box sundrop + Medic",
                              :game/id
                              #uuid "6d1681cd-2acc-39b4-8805-416762ae7504",
@@ -18940,7 +19500,8 @@
                              "Nemesis - Kickstarter Core box sundrop + Medic",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "8ec44a78-2e74-381f-885d-8ef7124beb41"
-                            {:name
+                            {:languages ["en"],
+                             :name
                              "Nemesis - Terrain Expansion Sundrop",
                              :game/id
                              #uuid "8ec44a78-2e74-381f-885d-8ef7124beb41",
@@ -18974,6 +19535,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "245931",
+                             :languages ["en" "de" "fr"],
                              :game/name "Neta-Tanka: Deluxe Edition",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/lA-IGC3C5fghAhlZoQRhwg__thumb/img/l0Qt3uxqqRUnc_oNx6yizrmXNkg=/fit-in/200x150/filters:strip_icc()/pic4766535.jpg"},
@@ -19028,6 +19590,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "300877",
+                             :languages ["cs"],
                              :game/name "New York Zoo",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/8vqr1uYik715mqDqy0W9vg__thumb/img/Bu97VesRjdbQO2PxfuOrdC6icd8=/fit-in/200x150/filters:strip_icc()/pic5673404.jpg"},
@@ -19107,6 +19670,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "244711",
+                             :languages ["en"],
                              :game/name "Newton",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/ZyCjYnNS6VFF1X7e6IFA1A__thumb/img/GW009LiSNJwiMx7Thb8TT9nSfDk=/fit-in/200x150/filters:strip_icc()/pic4058665.jpg"},
@@ -19149,6 +19713,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              25,
                              :com.boardgamegeek.boardgame/id "353545",
+                             :languages ["cs"],
                              :game/name "Next Station: London",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__thumb/img/Zjg7k92wAJyj9q4KWORbnWBSStI=/fit-in/200x150/filters:strip_icc()/pic6622999.jpg"},
@@ -19212,11 +19777,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "293014",
+                             :languages ["cs" "en"],
                              :game/name "Nidavellir",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/PX7t5xXDLI2XqxoTShLayg__thumb/img/jV7kN2k9IkGKLhus2FJ5_VP9awc=/fit-in/200x150/filters:strip_icc()/pic5039625.jpg"},
                             #uuid "65aa0bde-48c4-3bec-a79c-e6641034e599"
-                            {:name "Nidavellir: Idavoll CZ/EN",
+                            {:languages ["cs" "en"],
+                             :name "Nidavellir: Idavoll CZ/EN",
                              :game/id
                              #uuid "65aa0bde-48c4-3bec-a79c-e6641034e599",
                              :game/name "Nidavellir: Idavoll CZ/EN",
@@ -19280,6 +19847,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "274124",
+                             :languages ["en"],
                              :game/name "Northgard: Uncharted Lands",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/4pTQQZTTfzr40cl5BRcf6w__thumb/img/L9mWpwqskBhoF7isIzz-t2oTXhY=/fit-in/200x150/filters:strip_icc()/pic4864122.png"},
@@ -19338,6 +19906,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "194879",
+                             :languages ["cs"],
                              :game/name "Not Alone",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/2nPAI9x1rOjj2fq30qRFvQ__thumb/img/JXiKvNcM8FmuJxJV6-SSm-2CN2o=/fit-in/200x150/filters:strip_icc()/pic3118416.jpg"},
@@ -19400,6 +19969,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "343990",
+                             :languages ["en"],
                              :game/name "Not Enough Mana",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/1ecZDxMoOLan2s881H_Asg__thumb/img/LRwOqlUZ5TZ3xmy8MLKUo_RcDK4=/fit-in/200x150/filters:strip_icc()/pic6317130.jpg"},
@@ -19442,6 +20012,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "284435",
+                             :languages ["cs"],
                              :game/name "Nova Luna",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/k8OZeKYMN2vVSVCl5FD-UA__thumb/img/lRMeiFcB9C3ivyZlCoPRQe5xKNU=/fit-in/200x150/filters:strip_icc()/pic5382418.jpg"},
@@ -19480,6 +20051,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "298143",
+                             :languages ["en" "es"],
                              :game/name "Nutty Noodles",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Fh9zrDqk8wczPCJ9lZA6Sw__thumb/img/tM5Mun9H0R_XIq2Ua5M6uz57reE=/fit-in/200x150/filters:strip_icc()/pic5439721.png"},
@@ -19526,6 +20098,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "343362",
+                             :languages ["cs"],
                              :game/name "Oak",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/skiu7wU44_3H2pBjstUB9A__thumb/img/bDkcFjxXbtNkGE3VlxBqYUyYvkU=/fit-in/200x150/filters:strip_icc()/pic6739647.jpg"},
@@ -19556,6 +20129,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "303676",
+                             :languages ["en"],
                              :game/name "Oh My Brain",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/nl61EEgDhdu1BcVEujd6BQ__thumb/img/VbDs-gFg616cAC8EnIHOOVArxeo=/fit-in/200x150/filters:strip_icc()/pic6809276.png"},
@@ -19606,6 +20180,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "130060",
+                             :languages ["cs"],
                              :game/name
                              "Ohne Furcht und Adel Sonderausgabe",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -19665,6 +20240,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              5,
                              :com.boardgamegeek.boardgame/id "10799",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Old Maid",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/9QL7TWE8aCatn3Lfm9sNUA__thumb/img/WYee6FonUxloPHdMtoPqGq5dwVY=/fit-in/200x150/filters:strip_icc()/pic253001.jpg"},
@@ -19759,11 +20336,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "184267",
+                             :languages ["cs" "en"],
                              :game/name "On Mars",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Nm0Iw8NoiM9V8IsifimGBw__thumb/img/4GFbhkEWyIublXmikE2Tep6wSIQ=/fit-in/200x150/filters:strip_icc()/pic4357658.jpg"},
                             #uuid "e7a47c9a-ec50-3cbb-a920-e790eeca29b2"
-                            {:name "On Mars: Alien Invasion CZ/EN",
+                            {:languages ["cs" "en"],
+                             :name "On Mars: Alien Invasion CZ/EN",
                              :game/id
                              #uuid "e7a47c9a-ec50-3cbb-a920-e790eeca29b2",
                              :game/name
@@ -19828,11 +20407,21 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "147949",
+                             :languages ["en"],
                              :game/name "One Night Ultimate Werewolf",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/KLDb0vR3w8mfaHgIGF0gHw__thumb/img/ZgQsHsvdxXZr4DbMGUBSTArBp3o=/fit-in/200x150/filters:strip_icc()/pic1809823.jpg"},
                             #uuid "cadee47f-c1f2-3967-97e3-24afe46ab9ef"
-                            {:name "Orbito",
+                            {:languages
+                             ["en"
+                              "de"
+                              "fr"
+                              "es"
+                              "it"
+                              "nl"
+                              "pt"
+                              "řecký"],
+                             :name "Orbito",
                              :game/id
                              #uuid "cadee47f-c1f2-3967-97e3-24afe46ab9ef",
                              :game/name "Orbito",
@@ -19888,6 +20477,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "355888",
+                             :languages ["cs"],
                              :game/name "Orichalcum",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Mf1rHr7R3B5TjqdXPkxRTg__thumb/img/cAqsbDYx726TvVkl0ofPqaITwTI=/fit-in/200x150/filters:strip_icc()/pic7041211.png"},
@@ -19934,6 +20524,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "287084",
+                             :languages ["cs"],
                              :game/name "Oriflamme",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/8MpTeqlzyIupMpSSxP3PAw__thumb/img/NACmpm6Pzd2IrmAq9teXwLlmKqA=/fit-in/200x150/filters:strip_icc()/pic4949335.jpg"},
@@ -20005,31 +20596,36 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "164928",
+                             :languages ["en"],
                              :game/name "Orléans",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/nagl1li6kYt9elV9jbfVQw__thumb/img/ykeqdM_Naz4IiqOgyB1arzteOiU=/fit-in/200x150/filters:strip_icc()/pic6228507.jpg"},
                             #uuid "ef0dce1f-5864-3993-b2b4-d12ede1adc42"
-                            {:name "Oros - KS Standard Edition",
+                            {:languages ["en"],
+                             :name "Oros - KS Standard Edition",
                              :game/id
                              #uuid "ef0dce1f-5864-3993-b2b4-d12ede1adc42",
                              :game/name "Oros - KS Standard Edition",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "5cc6f2a9-ff50-3ee3-b059-9a9e85b21c72"
-                            {:name "Ostrov + rozšíření pro 5-6 hráče",
+                            {:languages ["cs"],
+                             :name "Ostrov + rozšíření pro 5-6 hráče",
                              :game/id
                              #uuid "5cc6f2a9-ff50-3ee3-b059-9a9e85b21c72",
                              :game/name
                              "Ostrov + rozšíření pro 5-6 hráče",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "528bc71c-1903-3311-ad31-5be51197a6d0"
-                            {:name "Ostrov pokladů  (Treasure Island)",
+                            {:languages ["cs"],
+                             :name "Ostrov pokladů  (Treasure Island)",
                              :game/id
                              #uuid "528bc71c-1903-3311-ad31-5be51197a6d0",
                              :game/name
                              "Ostrov pokladů  (Treasure Island)",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "37aadc30-673e-3130-9b26-c950d2bf606a"
-                            {:name "Osud dobrodruha",
+                            {:languages ["cs"],
+                             :name "Osud dobrodruha",
                              :game/id
                              #uuid "37aadc30-673e-3130-9b26-c950d2bf606a",
                              :game/name "Osud dobrodruha",
@@ -20085,6 +20681,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "172931",
+                             :languages ["cs"],
                              :game/name "Outfoxed!",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/v0FCI-wY8YlPn39XKd3F8w__thumb/img/lgy2HBtB0l2m-XknC9fGn-qakXc=/fit-in/200x150/filters:strip_icc()/pic2401324.jpg"},
@@ -20135,23 +20732,27 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              40,
                              :com.boardgamegeek.boardgame/id "191051",
+                             :languages ["cs"],
                              :game/name "Outlive",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/EMl8sVObQQmJFiZJnwfrXw__thumb/img/O1tVSJbqG9Jm9hNwuZDzS8W1Jrw=/fit-in/200x150/filters:strip_icc()/pic3021719.jpg"},
                             #uuid "697ea51d-4775-379c-8d7d-add0c77291b0"
-                            {:name "Ovečky HOP!",
+                            {:languages ["cs"],
+                             :name "Ovečky HOP!",
                              :game/id
                              #uuid "697ea51d-4775-379c-8d7d-add0c77291b0",
                              :game/name "Ovečky HOP!",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "8c8b7b66-c85e-3535-a3f1-ef59f757235b"
-                            {:name "Ovocný sad - pro menší děti",
+                            {:languages ["cs" "en" "de" "sk"],
+                             :name "Ovocný sad - pro menší děti",
                              :game/id
                              #uuid "8c8b7b66-c85e-3535-a3f1-ef59f757235b",
                              :game/name "Ovocný sad - pro menší děti",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "c2f28a09-8306-3233-aacf-ebd20fdd47f4"
-                            {:name "PAC-MAN: Desková hra",
+                            {:languages ["cs"],
+                             :name "PAC-MAN: Desková hra",
                              :game/id
                              #uuid "c2f28a09-8306-3233-aacf-ebd20fdd47f4",
                              :game/name "PAC-MAN: Desková hra",
@@ -20223,11 +20824,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "266524",
+                             :languages ["cs"],
                              :game/name "PARKS",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/mF2cSNRk2O6HtE45Sl9TcA__thumb/img/K2AgL-KE_CTcvwahWd7zlt9YR0U=/fit-in/200x150/filters:strip_icc()/pic4852372.jpg"},
                             #uuid "7827557b-bd1e-3e61-832d-598da497b3fd"
-                            {:name "PIŠK.O.RKY: Draci vs Jednorožci",
+                            {:languages ["cs"],
+                             :name "PIŠK.O.RKY: Draci vs Jednorožci",
                              :game/id
                              #uuid "7827557b-bd1e-3e61-832d-598da497b3fd",
                              :game/name
@@ -20268,6 +20871,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "274349",
+                             :languages ["en"],
                              :game/name "Pakal",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/albCQMMdIdo7iDLz_Q2Kcg__thumb/img/N49RkvKH1nVAm-5KHnCKpmQGA1U=/fit-in/200x150/filters:strip_icc()/pic5628690.png"},
@@ -20315,30 +20919,35 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "266810",
+                             :languages ["cs"],
                              :game/name "Paladins of the West Kingdom",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/4nhokcLdYoo6ulbZ1rmGgA__thumb/img/1gEbke_bKTA6D2jjpPm1HowGGHM=/fit-in/200x150/filters:strip_icc()/pic4462987.png"},
                             #uuid "8f2c79bf-a0e7-32e6-b5d0-00b4e7780a2a"
-                            {:name "Paleo CZ  (česky)",
+                            {:languages ["cs"],
+                             :name "Paleo CZ  (česky)",
                              :game/id
                              #uuid "8f2c79bf-a0e7-32e6-b5d0-00b4e7780a2a",
                              :game/name "Paleo CZ  (česky)",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "e2dd2b92-cfb3-35bb-ab7a-2b30a4bf5805"
-                            {:name "Pandemic + Nové hrozby",
+                            {:languages ["cs"],
+                             :name "Pandemic + Nové hrozby",
                              :game/id
                              #uuid "e2dd2b92-cfb3-35bb-ab7a-2b30a4bf5805",
                              :game/name "Pandemic + Nové hrozby",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "b850dd55-07f0-3f64-9ad5-8011570ee37a"
-                            {:name "Pandemic: Epicentrum - Evropa",
+                            {:languages ["cs" "sk"],
+                             :name "Pandemic: Epicentrum - Evropa",
                              :game/id
                              #uuid "b850dd55-07f0-3f64-9ad5-8011570ee37a",
                              :game/name
                              "Pandemic: Epicentrum - Evropa",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "26c76f63-64e2-3321-9818-5312162fa7f1"
-                            {:name "Pandemic: Rychlé nasazení",
+                            {:languages ["cs"],
+                             :name "Pandemic: Rychlé nasazení",
                              :game/id
                              #uuid "26c76f63-64e2-3321-9818-5312162fa7f1",
                              :game/name "Pandemic: Rychlé nasazení",
@@ -20386,11 +20995,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "121073",
+                             :languages ["cs"],
                              :game/name "Panic Lab",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/LzsXWOG6ZA6x6TqB5H6F1g__thumb/img/1Mop0yzpQddJj3MF7Q_cC3y-P6Y=/fit-in/200x150/filters:strip_icc()/pic3488252.jpg"},
                             #uuid "9e37be01-993b-3d6d-bd08-01eda9146b60"
-                            {:name "Panství hrůzy: Svatyně soumraku",
+                            {:languages ["cs"],
+                             :name "Panství hrůzy: Svatyně soumraku",
                              :game/id
                              #uuid "9e37be01-993b-3d6d-bd08-01eda9146b60",
                              :game/name
@@ -20448,6 +21059,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "291962",
+                             :languages ["cs"],
                              :game/name
                              "Paper Dungeons: A Dungeon Scrawler Game",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -20495,11 +21107,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "217861",
+                             :languages ["en"],
                              :game/name "Paper Tales",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/V62ulI0ifY0LIGocVuKCIQ__thumb/img/-aesB6Vzn2VfsN619Ellkc8Z0UE=/fit-in/200x150/filters:strip_icc()/pic4043983.jpg"},
                             #uuid "451cbb3d-61a4-3086-a8cf-806c679a25ea"
-                            {:name
+                            {:languages ["cs"],
+                             :name
                              "Papírové Doupě: Nová dobrodružství - rozšíření  (Paper Dungeons: Sidequest Expansion CZ)",
                              :game/id
                              #uuid "451cbb3d-61a4-3086-a8cf-806c679a25ea",
@@ -20561,6 +21175,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "280136",
+                             :languages ["cs"],
                              :game/name "Paranormal Detectives",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/2eV2FXx4DaSPpNJzG-eung__thumb/img/yJzP6LRlRzw0qaiXMsk3T2zkKqc=/fit-in/200x150/filters:strip_icc()/pic4746947.png"},
@@ -20623,6 +21238,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "282954",
+                             :languages ["cs" "en"],
                              :game/name "Paris",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/ImP902coxwYfSUF4sbw_nw__thumb/img/zVVJ_sf29MY9LLk-PnnzsxPVy4o=/fit-in/200x150/filters:strip_icc()/pic5159421.jpg"},
@@ -20681,6 +21297,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "276498",
+                             :languages ["cs"],
                              :game/name "Paris: La Cité de la Lumière",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/6mIsd0NbfluAAZxwS-3P8Q__thumb/img/mHdyyRSxXnnDNcQsG79crnWDnEw=/fit-in/200x150/filters:strip_icc()/pic4664437.jpg"},
@@ -20739,6 +21356,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "43530",
+                             :languages ["cs"],
                              :game/name "Party Alias",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/15IJm-xtFo5DlVC0I_KEVQ__thumb/img/OW1wylQIh-ly_SJY4mnF8TODfEQ=/fit-in/200x150/filters:strip_icc()/pic517373.jpg"},
@@ -20760,6 +21378,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "245700",
+                             :languages ["cs"],
                              :game/name "Party Bugs",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/qgPG69zGqWPQ82c2yWApAA__thumb/img/8lmmHdwaFhf6vuk3w5Qd8bHskBM=/fit-in/200x150/filters:strip_icc()/pic4010269.jpg"},
@@ -20826,6 +21445,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "163412",
+                             :languages ["cs"],
                              :game/name "Patchwork",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/wLW7pFn0--20lEizEz5p3A__thumb/img/P49TUiytgjmRAtKsfO7Y3yU_xic=/fit-in/200x150/filters:strip_icc()/pic2270442.jpg"},
@@ -20860,6 +21480,15 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "385988",
+                             :languages
+                             ["en"
+                              "de"
+                              "fr"
+                              "es"
+                              "it"
+                              "nl"
+                              "pt"
+                              "řecký"],
                              :game/name "Pattern Party!",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/D4hD5OgKNIj0hnNyRKKggQ__thumb/img/jlzrUDip5bLti4xNvapovgI92C4=/fit-in/200x150/filters:strip_icc()/pic7475098.jpg"},
@@ -20918,6 +21547,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "312804",
+                             :languages ["cs"],
                              :game/name "Pendulum",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/kgypcFnQosrcwYx5Jluafg__thumb/img/sLG2l7rGmzIon5ZScZ5YAxS_mjQ=/fit-in/200x150/filters:strip_icc()/pic5507191.jpg"},
@@ -20956,6 +21586,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "360224",
+                             :languages [],
                              :game/name "Perfect Shot",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/_h6lulj32UyHUgitqM6eMg__thumb/img/GwzNWRg02brF8eRQx4ypHnVHk34=/fit-in/200x150/filters:strip_icc()/pic7592229.jpg"},
@@ -20986,11 +21617,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "90040",
+                             :languages ["en"],
                              :game/name "Pergamon",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/086YBTGlbnI4Y1xMV6rtBA__thumb/img/M7hOt-hpohBooQ_qoSXHIyfMtm0=/fit-in/200x150/filters:strip_icc()/pic6389152.png"},
                             #uuid "3f15961f-693f-3679-8da6-8637738ab215"
-                            {:name "Pexino",
+                            {:languages ["cs"],
+                             :name "Pexino",
                              :game/id
                              #uuid "3f15961f-693f-3679-8da6-8637738ab215",
                              :game/name "Pexino",
@@ -21042,6 +21675,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "330592",
+                             :languages ["cs"],
                              :game/name "Phantom Ink",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/uf-JTBfP9_jm7_FX3DQE3A__thumb/img/js2JYkxCnmwNfQ__f2uVFIlCWXU=/fit-in/200x150/filters:strip_icc()/pic6278116.jpg"},
@@ -21096,11 +21730,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "218603",
+                             :languages ["de"],
                              :game/name "Photosynthesis",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/HhkYuVxMy-XrRCBWmZ78Eg__thumb/img/eVdvmMALg8vjPr6eDoj-mqvDbUc=/fit-in/200x150/filters:strip_icc()/pic3364832.jpg"},
                             #uuid "d1a3d100-06ae-3385-b5e7-dde7249b6cab"
-                            {:name "Pickit Draci CZ",
+                            {:languages ["cs"],
+                             :name "Pickit Draci CZ",
                              :game/id
                              #uuid "d1a3d100-06ae-3385-b5e7-dde7249b6cab",
                              :game/name "Pickit Draci CZ",
@@ -21144,11 +21780,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "15818",
+                             :languages ["cs"],
                              :game/name "Pickomino",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/gWIFE9exHsFPBwTlja41Yg__thumb/img/jNW2G8HUPK2a5L-W6dVniTF8XYo=/fit-in/200x150/filters:strip_icc()/pic2345051.jpg"},
                             #uuid "0dd5bfe2-bb93-310d-b2bc-9bbc054bf7ba"
-                            {:name "Pictomania (druhé vydání)",
+                            {:languages ["cs"],
+                             :name "Pictomania (druhé vydání)",
                              :game/id
                              #uuid "0dd5bfe2-bb93-310d-b2bc-9bbc054bf7ba",
                              :game/name "Pictomania (druhé vydání)",
@@ -21200,6 +21838,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              50,
                              :com.boardgamegeek.boardgame/id "299963",
+                             :languages [],
                              :game/name "Picture Perfect",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/uXCYfqmKvsqua_GDx1gtxA__thumb/img/z9zXEyccz32qjLPNWJW1GNGKWts=/fit-in/200x150/filters:strip_icc()/pic6293159.png"},
@@ -21238,11 +21877,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "284108",
+                             :languages ["en" "de"],
                              :game/name "Pictures",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/pR7dcr6bs5TIOHOhKIoe_A__thumb/img/YYa8rvA3RgJS6aT-HT2NRegGmuA=/fit-in/200x150/filters:strip_icc()/pic4946885.jpg"},
                             #uuid "3cbb22c6-d97f-33e8-bf3f-060fccc8a136"
-                            {:name "Piff Paff",
+                            {:languages
+                             ["cs" "de" "fr" "sk" "hu" "pl"],
+                             :name "Piff Paff",
                              :game/id
                              #uuid "3cbb22c6-d97f-33e8-bf3f-060fccc8a136",
                              :game/name "Piff Paff",
@@ -21278,6 +21920,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "67823",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Piou Piou",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/J9PBYiA8KC7FL2b8AIVMsw__thumb/img/WwCJT15Rq2k44F0JqhimEkn4gLQ=/fit-in/200x150/filters:strip_icc()/pic4306429.jpg"},
@@ -21307,6 +21951,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "27073",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Pipolo",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/n8b8AqX4a-Lw9-6wAZpqng__thumb/img/CPB7eJCehD4-4ATDo7_tgjYxR4A=/fit-in/200x150/filters:strip_icc()/pic5879837.jpg"},
@@ -21345,11 +21991,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "31159",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Piratatak",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/ThdWh2uMniHjDnggyVP9PQ__thumb/img/mW8-1nIwCvR4MQCnx_KN0qYKXhQ=/fit-in/200x150/filters:strip_icc()/pic5879835.jpg"},
                             #uuid "da8c6486-4abe-3cc1-a711-6c9023cf0e4a"
-                            {:name "Pirátský Bambilion",
+                            {:languages ["cs" "sk"],
+                             :name "Pirátský Bambilion",
                              :game/id
                              #uuid "da8c6486-4abe-3cc1-a711-6c9023cf0e4a",
                              :game/name "Pirátský Bambilion",
@@ -21385,6 +22034,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "302255",
+                             :languages ["en"],
                              :game/name "Pizza",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/5KnfH7eoaLTe9TFeak9daw__thumb/img/5KAlsNmqkoUALBcmCbSgC7X0ot0=/fit-in/200x150/filters:strip_icc()/pic5267454.jpg"},
@@ -21439,6 +22089,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "195162",
+                             :languages ["en"],
                              :game/name "Plague Inc.: The Board Game",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/1IIgJ56qMAmlb73VdZqJYg__thumb/img/TjzqXNopU0kILmu2O951CKoB3cE=/fit-in/200x150/filters:strip_icc()/pic3487954.jpg"},
@@ -21546,6 +22197,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "258779",
+                             :languages ["cs"],
                              :game/name "Planet Unknown",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/3HkjDovk8Yr2wMumcSUGog__thumb/img/4pF1oDpvn1VR3rbvW88xLK86xmA=/fit-in/200x150/filters:strip_icc()/pic4843622.jpg"},
@@ -21588,11 +22240,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "223779",
+                             :languages ["en"],
                              :game/name "Pocket Mars",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/3lvu7MsJsj_9dZ4AKQZemg__thumb/img/i4bWn3QQP-K3zpvuYwfg1X5AaO0=/fit-in/200x150/filters:strip_icc()/pic3882123.png"},
                             #uuid "dda105b6-6d81-3a35-bb16-5328539c433b"
-                            {:name "Pohybovka",
+                            {:languages ["cs"],
+                             :name "Pohybovka",
                              :game/id
                              #uuid "dda105b6-6d81-3a35-bb16-5328539c433b",
                              :game/name "Pohybovka",
@@ -21624,17 +22278,20 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "274960",
+                             :languages ["cs" "sk"],
                              :game/name "Point Salad",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Xy0W9NtEpX0EVjwgxO3IEA__thumb/img/1gKeE2_50dXcL03gH3cEU-Ixj6c=/fit-in/200x150/filters:strip_icc()/pic4621571.png"},
                             #uuid "76c80d43-8ede-31d8-b244-f4aea2edbf76"
-                            {:name "Pojďme se učit: Dovednosti",
+                            {:languages ["cs"],
+                             :name "Pojďme se učit: Dovednosti",
                              :game/id
                              #uuid "76c80d43-8ede-31d8-b244-f4aea2edbf76",
                              :game/name "Pojďme se učit: Dovednosti",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "e8b99f30-1693-32eb-9fd4-0f79d26153e2"
-                            {:name "Pojďme se učit: Školní den",
+                            {:languages ["cs"],
+                             :name "Pojďme se učit: Školní den",
                              :game/id
                              #uuid "e8b99f30-1693-32eb-9fd4-0f79d26153e2",
                              :game/name "Pojďme se učit: Školní den",
@@ -21666,11 +22323,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "301084",
+                             :languages ["en" "es"],
                              :game/name "Polynesia",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/aNBkbArcsAs4dcZsgYS2OQ__thumb/img/v_ZaC1N2FszgvsbcikPr0R1jZ7A=/fit-in/200x150/filters:strip_icc()/pic5422080.jpg"},
                             #uuid "53b70471-01ae-3caf-bb43-a2e596bee989"
-                            {:name "Polyssimo",
+                            {:languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
+                             :name "Polyssimo",
                              :game/id
                              #uuid "53b70471-01ae-3caf-bb43-a2e596bee989",
                              :game/name "Polyssimo",
@@ -21706,6 +22366,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "256486",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Polyssimo Challenge",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/HG8jxpD054T-2I1ivzPttQ__thumb/img/29HYrirfHoaTM5ZWyg8h40TFoxo=/fit-in/200x150/filters:strip_icc()/pic4594395.jpg"},
@@ -21772,6 +22434,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "156009",
+                             :languages ["cs"],
                              :game/name "Port Royal",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/9lQIIxg_l6G-ZWmTqEHlOA__thumb/img/uiCYTRqVF3TMqfpFGM-O0az_Q4A=/fit-in/200x150/filters:strip_icc()/pic1949286.jpg"},
@@ -21826,6 +22489,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "331265",
+                             :languages ["en"],
                              :game/name "Port Royal: Big Box",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/T2czH3s3vbNV0pf1bZhhQQ__thumb/img/NXTT9UmuP8b6xTn0_6kSF7bcRB8=/fit-in/200x150/filters:strip_icc()/pic6265475.jpg"},
@@ -21885,6 +22549,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              120,
                              :com.boardgamegeek.boardgame/id "2651",
+                             :languages ["cs" "de"],
                              :game/name "Power Grid",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/yd6LuatytHRhcFCxCf-EEg__thumb/img/jWTonZ5oYNlPzpELKHIJGWSS0Y8=/fit-in/200x150/filters:strip_icc()/pic4459753.jpg"},
@@ -21951,6 +22616,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "308765",
+                             :languages ["en"],
                              :game/name "Praga Caput Regni",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/aUPeXVwc40xrgud2XeZwyA__thumb/img/1TYDRYM7iz0-jLJ-YZj6d5bhweg=/fit-in/200x150/filters:strip_icc()/pic5671087.png"},
@@ -22001,17 +22667,20 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "318183",
+                             :languages ["cs" "en"],
                              :game/name "Prehistories",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Obs19a307oGETkE9FQAhgg__thumb/img/Mshamqj84j5YdUEaHkeSDPJDrDM=/fit-in/200x150/filters:strip_icc()/pic5627203.png"},
                             #uuid "e2c9a91a-15d8-36b7-b6da-d21fe1f55f02"
-                            {:name "Prima Balerína",
+                            {:languages ["cs" "en" "de" "sk"],
+                             :name "Prima Balerína",
                              :game/id
                              #uuid "e2c9a91a-15d8-36b7-b6da-d21fe1f55f02",
                              :game/name "Prima Balerína",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "f041d940-31e1-3a36-8c8b-4eaba0285f75"
-                            {:name "Procházka v zoo",
+                            {:languages ["cs"],
+                             :name "Procházka v zoo",
                              :game/id
                              #uuid "f041d940-31e1-3a36-8c8b-4eaba0285f75",
                              :game/name "Procházka v zoo",
@@ -22060,24 +22729,29 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "319031",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "it"],
                              :game/name
                              "Project L: Kickstarter Edition",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/WgvYQlEgbuEoOFxg4GGbMA__thumb/img/MWv006Gtudwq7H2EdLaBET3J1y4=/fit-in/200x150/filters:strip_icc()/pic5630012.jpg"},
                             #uuid "bd6902b5-a5ce-35ef-a710-8f0519f2b194"
-                            {:name "První říše",
+                            {:languages ["cs"],
+                             :name "První říše",
                              :game/id
                              #uuid "bd6902b5-a5ce-35ef-a710-8f0519f2b194",
                              :game/name "První říše",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "fc1e01d9-802c-35a8-996f-380c73f6077f"
-                            {:name "Psí park  (Dog Park)",
+                            {:languages ["cs"],
+                             :name "Psí park  (Dog Park)",
                              :game/id
                              #uuid "fc1e01d9-802c-35a8-996f-380c73f6077f",
                              :game/name "Psí park  (Dog Park)",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "aecb8b64-eead-30b5-aa59-092281ce9f3c"
-                            {:name
+                            {:languages ["cs"],
+                             :name
                              "Ptáci a kočky - dřevěná motorická hra s předlohami",
                              :game/id
                              #uuid "aecb8b64-eead-30b5-aa59-092281ce9f3c",
@@ -22139,17 +22813,20 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "108687",
+                             :languages ["cs"],
                              :game/name "Puerto Rico",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/cZ8h5HpbD6asCJuGuuuT-w__thumb/img/1GUPtGNfDR_CmbM7SYv2ABV1AeQ=/fit-in/200x150/filters:strip_icc()/pic4887895.jpg"},
                             #uuid "541d3b68-5dcd-3976-ae10-e00cee8a45ea"
-                            {:name "Pyžámka",
+                            {:languages ["cs"],
+                             :name "Pyžámka",
                              :game/id
                              #uuid "541d3b68-5dcd-3976-ae10-e00cee8a45ea",
                              :game/name "Pyžámka",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "8c9abe32-2acf-3735-9be2-152662da797b"
-                            {:name "Pád nebes",
+                            {:languages ["cs"],
+                             :name "Pád nebes",
                              :game/id
                              #uuid "8c9abe32-2acf-3735-9be2-152662da797b",
                              :game/name "Pád nebes",
@@ -22193,6 +22870,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "266830",
+                             :languages ["en"],
                              :game/name "QE",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/47o_swlkRbfpMH3hnFZgtA__thumb/img/gT07BJ5Ynlopp-UIQRIySERKUmI=/fit-in/200x150/filters:strip_icc()/pic4383594.png"},
@@ -22243,6 +22921,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "176396",
+                             :languages ["cs"],
                              :game/name "Quadropolis",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/y7kVtuCs6EfItCGUloqBAA__thumb/img/SGHJzA_0kYlRzeWTi5s_4JB_EPY=/fit-in/200x150/filters:strip_icc()/pic2840020.jpg"},
@@ -22290,6 +22969,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "331979",
+                             :languages ["cs"],
                              :game/name
                              "Quartermaster General WW2: 2nd Edition",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -22321,6 +23001,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "225940",
+                             :languages ["cs" "en"],
                              :game/name "Quartino",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/1KuoKcpudBx01dl8-t2RMg__thumb/img/LYu6DALXQ0BeDGUVblxK1vH4bZU=/fit-in/200x150/filters:strip_icc()/pic5686215.jpg"},
@@ -22367,6 +23048,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "265285",
+                             :languages ["cs"],
                              :game/name "Queenz: To Bee or Not to Bee",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/7DOwOXeX4cY8_aPuXnm3NQ__thumb/img/SgENUaPTi24f46CgbO0C6ubfptw=/fit-in/200x150/filters:strip_icc()/pic4680550.jpg"},
@@ -22413,6 +23095,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "300700",
+                             :languages ["en"],
                              :game/name "Quetzal",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/GcIWFX4ywvsRsv5r_4vahA__thumb/img/PMdqkwFOQTS3yrV-Kn3CI294ENY=/fit-in/200x150/filters:strip_icc()/pic5209295.jpg"},
@@ -22451,6 +23134,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "356133",
+                             :languages ["cs"],
                              :game/name
                              "Quirky Circuits: Penny & Gizmo's Snow Day!",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -22490,6 +23174,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "25669",
+                             :languages ["cs"],
                              :game/name "Qwirkle",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/k7zHj8j_a6uUAtXUt5Fvuw__thumb/img/APPui4zwBuwAIHXSTW6UxYcY6Ow=/fit-in/200x150/filters:strip_icc()/pic309353.jpg"},
@@ -22572,6 +23257,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "28143",
+                             :languages ["cs"],
                              :game/name "Race for the Galaxy",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/-DOqixs8uwKUvvWPKI4f9w__thumb/img/xLs-ldTPwaADbvzkOpF0sgWzwck=/fit-in/200x150/filters:strip_icc()/pic5261714.jpg"},
@@ -22622,6 +23308,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "329082",
+                             :languages ["cs"],
                              :game/name "Radlands",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/YpQUtpxNtDHBF5eVcwzBtQ__thumb/img/tN06HL-O6O-ayKHxEio9xYoJym0=/fit-in/200x150/filters:strip_icc()/pic6478338.png"},
@@ -22676,6 +23363,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "301880",
+                             :languages ["cs"],
                              :game/name "Raiders of Scythia",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/07MRsX6Tv5elGdefTOQxsQ__thumb/img/3iAtZSZA55jzXOgLP-nnRF3wAnc=/fit-in/200x150/filters:strip_icc()/pic5235769.png"},
@@ -22722,6 +23410,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "170042",
+                             :languages ["en"],
                              :game/name "Raiders of the North Sea",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/hXdfAhgZ8OeyWLunt36wlw__thumb/img/vh7ttK5C_kKf5YZNYOY4vfsgXHU=/fit-in/200x150/filters:strip_icc()/pic3578101.jpg"},
@@ -22772,6 +23461,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "251678",
+                             :languages ["cs" "sk"],
                              :game/name
                              "Railroad Ink: Blazing Red Edition",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -22831,6 +23521,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "245654",
+                             :languages ["cs" "sk"],
                              :game/name
                              "Railroad Ink: Deep Blue Edition",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -22866,6 +23557,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "207691",
+                             :languages ["en"],
                              :game/name "Railroad Revolution",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/0A9aGzLzmBxN_M6rgpb6Dg__thumb/img/pupJXts3kO3x05Ki-lhREAPWrhw=/fit-in/200x150/filters:strip_icc()/pic3200781.jpg"},
@@ -22912,6 +23604,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "365698",
+                             :languages ["cs" "sk"],
                              :game/name "Rainforest",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/e-yrbEeNcOYwym3RmMnlcw__thumb/img/hcBxJhrLf6CocWmegt6Cl88igAM=/fit-in/200x150/filters:strip_icc()/pic6958874.png"},
@@ -22962,6 +23655,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "60435",
+                             :languages [],
                              :game/name "Rallyman",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/IiY5mrUEyvhyZzatny3CGA__thumb/img/i05jFcgwUbiZGLOinqaD2Afg5qI=/fit-in/200x150/filters:strip_icc()/pic1114034.png"},
@@ -22996,6 +23690,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "387780",
+                             :languages ["en"],
                              :game/name "Rats of Wistar",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/0dIADhzRp00oA4Jk-I-lHg__thumb/img/yfbVmdqkm99nr5hdP6MSv9jSQMg=/fit-in/200x150/filters:strip_icc()/pic7812438.png"},
@@ -23058,6 +23753,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "329465",
+                             :languages ["cs"],
                              :game/name "Red Rising",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/V6QEXXgRgz3urOrRVZ_1zA__thumb/img/8zjF-E9xPNYLSsI6xQjRsZiI-XE=/fit-in/200x150/filters:strip_icc()/pic5960554.jpg"},
@@ -23092,6 +23788,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "363089",
+                             :languages ["en"],
                              :game/name "Regine",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/kV4zJSMeiHtoj5X5H2Bsaw__thumb/img/p8EkMgQH9hmwvnRbFOg8iGXUlNI=/fit-in/200x150/filters:strip_icc()/pic6947251.jpg"},
@@ -23154,6 +23851,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              50,
                              :com.boardgamegeek.boardgame/id "368413",
+                             :languages ["cs"],
                              :game/name "Relic Hunters",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/6klB3kCIKlsYEdKfIei4bg__thumb/img/hMAK1vNlx6KLtLnsLYJil8cRn4Q=/fit-in/200x150/filters:strip_icc()/pic7004538.jpg"},
@@ -23184,6 +23882,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "88464",
+                             :languages ["cs" "de" "sk" "hu"],
                              :game/name "Repello",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/ByBQIJuARveHR09PTnnQbg__thumb/img/IZbs4PliP6Ufasbs7obDLfjazQY=/fit-in/200x150/filters:strip_icc()/pic1050904.jpg"},
@@ -23242,6 +23941,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "262712",
+                             :languages ["cs"],
                              :game/name "Res Arcana",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/gcALy45JfcjyKUn6T3mBIQ__thumb/img/5cPMxq_X6VIO8l2t1_6H7C_KqrU=/fit-in/200x150/filters:strip_icc()/pic4422847.jpg"},
@@ -23304,6 +24004,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "352697",
+                             :languages ["cs"],
                              :game/name "Resist!",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/ICDi4yEj-mbEcx9QkW7_3A__thumb/img/I19zgPVlqJHgv_6PL3Beb7coKAg=/fit-in/200x150/filters:strip_icc()/pic6711822.jpg"},
@@ -23350,6 +24051,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "332772",
+                             :languages ["cs"],
                              :game/name "Revive",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/V0OZ9QR0pC9G5t5i9MoZTQ__thumb/img/NPtXuKlsnfPORSn6kpTcf-ZdEF0=/fit-in/200x150/filters:strip_icc()/pic6950224.jpg"},
@@ -23384,6 +24086,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "241831",
+                             :languages ["en"],
                              :game/name "Reykholt",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/wU53jsng9uxfxuAoIeTjDA__thumb/img/ShUtMDXzeruNkjbG9mgavx7Z2yw=/fit-in/200x150/filters:strip_icc()/pic3877054.jpg"},
@@ -23427,6 +24130,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "218333",
+                             :languages ["cs" "en" "de" "sk"],
                              :game/name "Rhino Hero: Super Battle",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/VTq3Cdf00f2S4VVLkEgl3g__thumb/img/tMKmqEWGUe8mwOS8k1aEyrCsbEE=/fit-in/200x150/filters:strip_icc()/pic5726956.jpg"},
@@ -23465,6 +24169,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "119591",
+                             :languages ["cs"],
                              :game/name "Rialto",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/13kl47xb_hdjvJTzRkg0vA__thumb/img/mO49j1jyhhKqHcNxu0vx3uGqsuQ=/fit-in/200x150/filters:strip_icc()/pic1504549.jpg"},
@@ -23575,6 +24280,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "205896",
+                             :languages ["en"],
                              :game/name "Rising Sun",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/iwevA6XmiNLHn1QnGUucqw__thumb/img/UNKv6MWzJUAwhhP7-ng6HoinRa8=/fit-in/200x150/filters:strip_icc()/pic3880340.jpg"},
@@ -23621,11 +24327,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "267319",
+                             :languages ["cs"],
                              :game/name "Roam",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/p3O_MWuvpPODqPzxqWf-og__thumb/img/CT4vHKPKP7ftPuxAmUjIw7i2ezM=/fit-in/200x150/filters:strip_icc()/pic4862867.jpg"},
                             #uuid "dabcd373-e1d5-3889-9824-7f1e466fbf92"
-                            {:name "Robin Hood  CZ",
+                            {:languages ["cs"],
+                             :name "Robin Hood  CZ",
                              :game/id
                              #uuid "dabcd373-e1d5-3889-9824-7f1e466fbf92",
                              :game/name "Robin Hood  CZ",
@@ -23729,6 +24437,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "121921",
+                             :languages ["cs"],
                              :game/name
                              "Robinson Crusoe: Adventures on the Cursed Island",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -23760,17 +24469,20 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "29626",
+                             :languages ["cs"],
                              :game/name "Robotics",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/BIxy0lQ1Je3KTJSv5O8-LQ__thumb/img/ZRUH_H0j8_SdkLSL99PAqDTBSnw=/fit-in/200x150/filters:strip_icc()/pic213543.jpg"},
                             #uuid "d410a637-140c-365b-bd78-99ce3072ce74"
-                            {:name "Rococo: Deluxe edition PLUS",
+                            {:languages ["en"],
+                             :name "Rococo: Deluxe edition PLUS",
                              :game/id
                              #uuid "d410a637-140c-365b-bd78-99ce3072ce74",
                              :game/name "Rococo: Deluxe edition PLUS",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "3cb4d334-08dc-39f9-aeb4-61c94b6afcc1"
-                            {:name "Rodinná trefa",
+                            {:languages ["cs"],
+                             :name "Rodinná trefa",
                              :game/id
                              #uuid "3cb4d334-08dc-39f9-aeb4-61c94b6afcc1",
                              :game/name "Rodinná trefa",
@@ -23818,6 +24530,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "169426",
+                             :languages ["cs"],
                              :game/name "Roll Player",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/enmQAOQl99U6wiQvZoL5GQ__thumb/img/zdtrILXRjphkt5HYP0tuxzlenG4=/fit-in/200x150/filters:strip_icc()/pic2556921.jpg"},
@@ -23860,6 +24573,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "358284",
+                             :languages ["cs"],
                              :game/name "Rome in a Day",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Xy53W381g209GD8S2CQnkQ__thumb/img/32MC-kfQ-78ooBPfk-bRW4j0DQc=/fit-in/200x150/filters:strip_icc()/pic7412285.png"},
@@ -23938,11 +24652,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "237182",
+                             :languages ["cs"],
                              :game/name "Root",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__thumb/img/ACovMZzGGIsBRyEQXFnsT8282NM=/fit-in/200x150/filters:strip_icc()/pic4254509.jpg"},
                             #uuid "cb81b699-dba8-34c2-964f-d245f6ce79fb"
-                            {:name
+                            {:languages ["cs"],
+                             :name
                              "Root: Rozšíření Podzemní říše  (Root: The Underworld Expansion)",
                              :game/id
                              #uuid "cb81b699-dba8-34c2-964f-d245f6ce79fb",
@@ -23996,11 +24712,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "344427",
+                             :languages ["en" "fr"],
                              :game/name "Run, Ghost, Run!",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Lp30bdAYgVBx2JQWET9F2w__thumb/img/TIf5ltvmK3qd4X10_wImfU22V00=/fit-in/200x150/filters:strip_icc()/pic6362682.jpg"},
                             #uuid "35eb345f-42a1-3796-81be-ed0c384f9ff4"
-                            {:name "Rybolov - dřevěná hra 14 dílů",
+                            {:languages ["cs"],
+                             :name "Rybolov - dřevěná hra 14 dílů",
                              :game/id
                              #uuid "35eb345f-42a1-3796-81be-ed0c384f9ff4",
                              :game/name
@@ -24041,11 +24759,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "379421",
+                             :languages ["cs"],
                              :game/name "Rychlé šípy: Duel",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/No_QM5cqoKOTXGa4kwx9Fw__thumb/img/7ccUSwO2vBdtnznwxvSwcQ9DNF4=/fit-in/200x150/filters:strip_icc()/pic7328971.jpg"},
                             #uuid "c7048ed1-b658-317d-bf3d-4b6da98f7802"
-                            {:name "Rytíř klouzek",
+                            {:languages ["cs"],
+                             :name "Rytíř klouzek",
                              :game/id
                              #uuid "c7048ed1-b658-317d-bf3d-4b6da98f7802",
                              :game/name "Rytíř klouzek",
@@ -24077,6 +24797,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "360265",
+                             :languages ["en"],
                              :game/name "Sabika",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/6LOmh8RhQHLbnRY6I96tIQ__thumb/img/H4IWNZXlhHeAjZFXBAnCZVOhhL8=/fit-in/200x150/filters:strip_icc()/pic6820026.jpg"},
@@ -24139,6 +24860,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "9220",
+                             :languages ["cs"],
                              :game/name "Saboteur",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/0vJwP6NGa7GHPZKC3gplUw__thumb/img/B3j-is62fP09eHP34uFG_gsxNQs=/fit-in/200x150/filters:strip_icc()/pic3989824.jpg"},
@@ -24181,17 +24903,20 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "168215",
+                             :languages ["cs"],
                              :game/name "Saboteur: The Duel",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/2HQMz_qehqPHAsn12h-o4w__thumb/img/BZJsX4-a803QfAn9_uvfx2mj4vE=/fit-in/200x150/filters:strip_icc()/pic3989510.png"},
                             #uuid "766af1e1-1c0a-3f26-b428-b4b546ea25e5"
-                            {:name "Sabotér: Rozšíření",
+                            {:languages ["cs"],
+                             :name "Sabotér: Rozšíření",
                              :game/id
                              #uuid "766af1e1-1c0a-3f26-b428-b4b546ea25e5",
                              :game/name "Sabotér: Rozšíření",
                              :com.boardgamegeek.boardgame/id "91072"},
                             #uuid "8b3f422f-c92b-33d9-b95b-73c525a71406"
-                            {:name
+                            {:languages [],
+                             :name
                              "Sada kovových klíčů pro Keyforge (3 ks)",
                              :game/id
                              #uuid "8b3f422f-c92b-33d9-b95b-73c525a71406",
@@ -24199,7 +24924,8 @@
                              "Sada kovových klíčů pro Keyforge (3 ks)",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "adcba84c-c6e6-3c18-82f1-862ae302cf59"
-                            {:name
+                            {:languages [],
+                             :name
                              "Sada univerzálních kovových mincí (50 ks)",
                              :game/id
                              #uuid "adcba84c-c6e6-3c18-82f1-862ae302cf59",
@@ -24233,6 +24959,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "309105",
+                             :languages ["en"],
                              :game/name "Sagani",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/SvW9cN5oSkHfaU6Znt8hRA__thumb/img/LphAbQd2Dpc0DGEodKP6I0P2hYQ=/fit-in/200x150/filters:strip_icc()/pic5410757.png"},
@@ -24299,6 +25026,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "199561",
+                             :languages ["cs"],
                              :game/name "Sagrada",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/PZt3EAAGV3dFIVuwMR0AEw__thumb/img/1m4aryOW1MOpq-8jGkF6gDTJmCY=/fit-in/200x150/filters:strip_icc()/pic3525224.jpg"},
@@ -24349,6 +25077,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "276830",
+                             :languages ["cs"],
                              :game/name "Sanctum",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/dRudo6DXsbwaUVvT6SBtLQ__thumb/img/Kk95zESrJLavZtvqZSWAJlN0214=/fit-in/200x150/filters:strip_icc()/pic4993715.jpg"},
@@ -24399,6 +25128,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "229220",
+                             :languages ["en"],
                              :game/name "Santa Maria",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/bpwAMn7t9LnBQKFJw6VNPg__thumb/img/S-tPq43ITn88ppHjIbi8eaIbOX8=/fit-in/200x150/filters:strip_icc()/pic3882016.jpg"},
@@ -24457,6 +25187,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "194655",
+                             :languages ["en"],
                              :game/name "Santorini",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/665Ply7Ho1WVf1v1iZlWeg__thumb/img/BKnSb6kAhpVFHV8cyUXrs3EF_dw=/fit-in/200x150/filters:strip_icc()/pic3283110.png"},
@@ -24491,6 +25222,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "27071",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Sardines",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/3nj3yrK0KGCk-QEiEs6vUQ__thumb/img/lBE2LNdzkR2MMlLEeQmEMWCZpnM=/fit-in/200x150/filters:strip_icc()/pic5879854.jpg"},
@@ -24521,6 +25254,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "258756",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Savana",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/emMte7hInDaFX9atRjuA4A__thumb/img/tfQaFNlRXPtKzdTpoRQYSZXHrJM=/fit-in/200x150/filters:strip_icc()/pic4323868.jpg"},
@@ -24575,6 +25310,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "339484",
+                             :languages ["cs" "sk" "hu"],
                              :game/name "Savannah Park",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/D7UzjghUmmKWXiiGt3rUcA__thumb/img/Y24B-tNoz7UvzbpPit7J3QORZPg=/fit-in/200x150/filters:strip_icc()/pic6202222.jpg"},
@@ -24612,6 +25348,8 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "369142",
+                             :languages
+                             ["en" "es" "it" "pt" "katalánský"],
                              :game/name "Savernake Forest",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/pcsfpRyo6tz2r8kcFOkUbg__thumb/img/qJka-CnwzAy-GigqO8HAKZTGSUU=/fit-in/200x150/filters:strip_icc()/pic7676237.jpg"},
@@ -24650,11 +25388,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "372",
+                             :languages ["cs"],
                              :game/name "Schotten Totten",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/69mwXe7c6HNYmT6S35Y4zg__thumb/img/97DW-2XWDrSSkgy3XnUJ7f7tLiQ=/fit-in/200x150/filters:strip_icc()/pic2932872.jpg"},
                             #uuid "e13c79ec-84b9-3b52-bff8-de501c5d3f1f"
-                            {:name "Scorso",
+                            {:languages ["en"],
+                             :name "Scorso",
                              :game/id
                              #uuid "e13c79ec-84b9-3b52-bff8-de501c5d3f1f",
                              :game/name "Scorso",
@@ -24754,35 +25494,50 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "169786",
+                             :languages ["cs"],
                              :game/name "Scythe",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/7k_nOxpO9OGIjhLq2BUZdA__thumb/img/eQ69OEDdjYjfKg6q5Navee87skU=/fit-in/200x150/filters:strip_icc()/pic3163924.jpg"},
                             #uuid "5b71a1ec-7b41-3e9c-bd35-c6b3f502d097"
-                            {:name "Scythe: Invaze z dálek",
+                            {:languages ["cs"],
+                             :name "Scythe: Invaze z dálek",
                              :game/id
                              #uuid "5b71a1ec-7b41-3e9c-bd35-c6b3f502d097",
                              :game/name "Scythe: Invaze z dálek",
                              :com.boardgamegeek.boardgame/id "199727"},
                             #uuid "637bfb60-f019-3ea3-8d7b-1ea23341093f"
-                            {:name "Scythe: Modular Board",
+                            {:languages
+                             ["cs"
+                              "en"
+                              "de"
+                              "fr"
+                              "es"
+                              "hu"
+                              "pl"
+                              "it"
+                              "ru"],
+                             :name "Scythe: Modular Board",
                              :game/id
                              #uuid "637bfb60-f019-3ea3-8d7b-1ea23341093f",
                              :game/name "Scythe: Modular Board",
                              :com.boardgamegeek.boardgame/id "279304"},
                             #uuid "d50ce9b2-2aab-3693-841c-21191a440799"
-                            {:name "Scythe: Nová setkání",
+                            {:languages ["cs"],
+                             :name "Scythe: Nová setkání",
                              :game/id
                              #uuid "d50ce9b2-2aab-3693-841c-21191a440799",
                              :game/name "Scythe: Nová setkání",
                              :com.boardgamegeek.boardgame/id "262151"},
                             #uuid "17e88c09-b257-32b8-a955-4f85dca32de9"
-                            {:name "Scythe: Titáni Nebes",
+                            {:languages ["cs"],
+                             :name "Scythe: Titáni Nebes",
                              :game/id
                              #uuid "17e88c09-b257-32b8-a955-4f85dca32de9",
                              :game/name "Scythe: Titáni Nebes",
                              :com.boardgamegeek.boardgame/id "223555"},
                             #uuid "e9058967-d7cc-3bef-9a33-22a32e5043a1"
-                            {:name "Scythe: Vzestup Fenrise",
+                            {:languages ["cs"],
+                             :name "Scythe: Vzestup Fenrise",
                              :game/id
                              #uuid "e9058967-d7cc-3bef-9a33-22a32e5043a1",
                              :game/name "Scythe: Vzestup Fenrise",
@@ -24822,6 +25577,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "367220",
+                             :languages ["cs"],
                              :game/name "Sea Salt & Paper",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__thumb/img/Jh6NjibuHeYrZtSsAUXq82B1fTQ=/fit-in/200x150/filters:strip_icc()/pic6973911.jpg"},
@@ -24856,11 +25612,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "265683",
+                             :languages ["en" "de"],
                              :game/name "Second Chance",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/l8YbahkVzd5JLw53SahSTw__thumb/img/4vSADdVmmEAXE7U0D7JtVcU_IU8=/fit-in/200x150/filters:strip_icc()/pic4948024.jpg"},
                             #uuid "684f0fd3-0aa7-3ab2-8899-6bc03aeef7ed"
-                            {:name "Sensico",
+                            {:languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
+                             :name "Sensico",
                              :game/id
                              #uuid "684f0fd3-0aa7-3ab2-8899-6bc03aeef7ed",
                              :game/name "Sensico",
@@ -24900,6 +25659,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "98085",
+                             :languages ["cs" "sk"],
                              :game/name "Seven Dragons",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Qc-1nXLd7Zpl2kpX1ga3Bg__thumb/img/AhwFa5lK5OuIhieeQ56KZrR09e8=/fit-in/200x150/filters:strip_icc()/pic1022004.jpg"},
@@ -24966,6 +25726,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "246297",
+                             :languages ["cs"],
                              :game/name "Shadows: Amsterdam",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/8Ng748hjEj51Ewz1dhMIrA__thumb/img/gNhk6GH8wnGhry6jr6J44FFgSjQ=/fit-in/200x150/filters:strip_icc()/pic4176830.jpg"},
@@ -25020,6 +25781,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "313262",
+                             :languages ["cs" "en"],
                              :game/name "Shamans",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/BNmYPPip0PZBPx9qJCEUxA__thumb/img/B5l81b4CUT3OYafXEk4QNi_nxkY=/fit-in/200x150/filters:strip_icc()/pic6021323.jpg"},
@@ -25054,6 +25816,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "339614",
+                             :languages ["en"],
                              :game/name "Shinkansen: Zero Kei",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/ckJBBedoqcSyIN-gGX39kw__thumb/img/6KorK2P_tWcwv4RTmMuXjhM3kEM=/fit-in/200x150/filters:strip_icc()/pic6218277.png"},
@@ -25100,6 +25863,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "345161",
+                             :languages ["cs"],
                              :game/name "Ship Ahoy",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/g_vnCfO_VvO5uoyvUpeyVw__thumb/img/R32lTxIN1jdXOzHUpsEq_HNPSTc=/fit-in/200x150/filters:strip_icc()/pic6362690.jpg"},
@@ -25146,6 +25910,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "177542",
+                             :languages ["cs"],
                              :game/name "Shuffle Heroes",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/6hK_G51Chsas-ciJjHFLIQ__thumb/img/fUkHaTverNSEjaL3rVwjFXiLRMQ=/fit-in/200x150/filters:strip_icc()/pic2527161.png"},
@@ -25188,6 +25953,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "242343",
+                             :languages ["en"],
                              :game/name "Siege Storm",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/xKRi_dJtP4_CtGb8X5lT5g__thumb/img/Yg2TVCgdjfOdHKKjRrjxfI2p0K0=/fit-in/200x150/filters:strip_icc()/pic4148388.jpg"},
@@ -25274,6 +26040,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              40,
                              :com.boardgamegeek.boardgame/id "257066",
+                             :languages ["en"],
                              :game/name "Sierra West",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/zNA2nt58of806l-aNOqRJw__thumb/img/273PbIkQ63Drn4xNEgdsoRxgs3w=/fit-in/200x150/filters:strip_icc()/pic4705378.jpg"},
@@ -25316,6 +26083,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "303553",
+                             :languages ["de"],
                              :game/name "Skulls of Sedlec",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/4MpLgMNWqNsH3RQ9cO9mhA__thumb/img/B6rTGvdfXBs-GKM4ydn4XqiwloQ=/fit-in/200x150/filters:strip_icc()/pic7007048.png"},
@@ -25398,6 +26166,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              75,
                              :com.boardgamegeek.boardgame/id "359438",
+                             :languages ["en"],
                              :game/name "Skymines",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/loa-OQHFaTlKV2eU_WKVFw__thumb/img/Jsvw38z4mMfKZzKCDjiQRe7mJ9k=/fit-in/200x150/filters:strip_icc()/pic6800089.jpg"},
@@ -25456,6 +26225,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "17053",
+                             :languages ["cs"],
                              :game/name "Sleeping Queens",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/hkJWvm7VJD4yqrbjCHmLFA__thumb/img/HO7ztPNgbQybExPszjY2K7hD-uQ=/fit-in/200x150/filters:strip_icc()/pic2401336.jpg"},
@@ -25494,6 +26264,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "342716",
+                             :languages ["cs"],
                              :game/name
                              "Sly Wolf and the Missing Note",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -25557,6 +26328,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              40,
                              :com.boardgamegeek.boardgame/id "309630",
+                             :languages ["cs"],
                              :game/name "Small World of Warcraft",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/KVLeGFlhzRVDHILRABi-Vg__thumb/img/bn16cR_XTwbrR6y4OEK3CZBGXD8=/fit-in/200x150/filters:strip_icc()/pic5643225.png"},
@@ -25587,6 +26359,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "241590",
+                             :languages ["cs"],
                              :game/name "Smart10",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/pwa0lKfmlE4PvFo-YVxrLQ__thumb/img/4RXK5M7g8_GRW_2HjyLdTjS3_fw=/fit-in/200x150/filters:strip_icc()/pic4945756.jpg"},
@@ -25665,11 +26438,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "122522",
+                             :languages ["cs"],
                              :game/name "Smash Up",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/c1DOHkXD35OcqfPoxoSXlA__thumb/img/kdzBzdj4prsoztFNEFZ6eWv1RVI=/fit-in/200x150/filters:strip_icc()/pic1269874.jpg"},
                             #uuid "885e764c-da75-322d-a16c-34437a75f4cc"
-                            {:name "Snídaňky",
+                            {:languages ["cs"],
+                             :name "Snídaňky",
                              :game/id
                              #uuid "885e764c-da75-322d-a16c-34437a75f4cc",
                              :game/name "Snídaňky",
@@ -25713,6 +26488,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "332944",
+                             :languages [],
                              :game/name "Sobek: 2 Players",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/BAsvubJSF40047knaPXRQQ__thumb/img/q4wR9WEL5M8tIFxMbUz2sxi09MA=/fit-in/200x150/filters:strip_icc()/pic6696884.jpg"},
@@ -25738,11 +26514,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "304987",
+                             :languages ["cs" "en"],
                              :game/name "Sock Monsters",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/t33w-4QX2etnfOc0jEbIeA__thumb/img/D3apcyV2DBHcA1rKsMlzrcjfKcM=/fit-in/200x150/filters:strip_icc()/pic5294927.jpg"},
                             #uuid "2d034386-076d-3684-b965-d8da22e6f7e4"
-                            {:name
+                            {:languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
+                             :name
                              "Socksy Monster - Ponožkové příšerky",
                              :game/id
                              #uuid "2d034386-076d-3684-b965-d8da22e6f7e4",
@@ -25772,11 +26551,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "358626",
+                             :languages ["cs" "sk"],
                              :game/name "Sonic Super Teams",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/rAuTccpHjeOuJ1JchjwDaA__thumb/img/YPeTtb_En62LrQ4q3AaLLNA6G5k=/fit-in/200x150/filters:strip_icc()/pic6740818.jpg"},
                             #uuid "0111b70c-a6eb-36f6-84d5-26f92ebb36f5"
-                            {:name "Souboj vombatů",
+                            {:languages ["cs"],
+                             :name "Souboj vombatů",
                              :game/id
                              #uuid "0111b70c-a6eb-36f6-84d5-26f92ebb36f5",
                              :game/name "Souboj vombatů",
@@ -25812,6 +26593,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "329084",
+                             :languages ["cs"],
                              :game/name "Space Dragons",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/47A7oUEpu-qwO988YOTkBA__thumb/img/N6VULco9RdpHfMpXS2Nr9Tc89_4=/fit-in/200x150/filters:strip_icc()/pic5915757.jpg"},
@@ -25874,11 +26656,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "348502",
+                             :languages ["en"],
                              :game/name "Space Race",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/3eoR_z6KX3_ySYckq_2-7g__thumb/img/4lLxxMcVE0DPA8r854Sxiwngqfg=/fit-in/200x150/filters:strip_icc()/pic6446849.png"},
                             #uuid "7dcd5ccd-99d7-303c-8232-0711b8f27f15"
-                            {:name "Spaceship Unity – Season 1.1",
+                            {:languages ["en"],
+                             :name "Spaceship Unity – Season 1.1",
                              :game/id
                              #uuid "7dcd5ccd-99d7-303c-8232-0711b8f27f15",
                              :game/name "Spaceship Unity – Season 1.1",
@@ -25918,6 +26702,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "299169",
+                             :languages ["cs"],
                              :game/name "Spicy",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/eLJJ7f5I106enEFkSfxmnQ__thumb/img/nyTH5PgSWie1DZMZVJ7tnzEL-hk=/fit-in/200x150/filters:strip_icc()/pic5181748.png"},
@@ -25964,6 +26749,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "148228",
+                             :languages ["cs"],
                              :game/name "Splendor",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/rwOMxx4q5yuElIvo-1-OFw__thumb/img/D4hkkHfOgu22PwgJomjplWAveuo=/fit-in/200x150/filters:strip_icc()/pic1904079.jpg"},
@@ -26010,6 +26796,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "293296",
+                             :languages ["cs"],
                              :game/name "Splendor: Marvel",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/2thZjcw0ZvrsP09PDz002Q__thumb/img/lbZohm7uJ7OcwM0GmrOw9Y5WEVo=/fit-in/200x150/filters:strip_icc()/pic5585867.jpg"},
@@ -26040,11 +26827,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "359878",
+                             :languages [],
                              :game/name "Splito",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/m3P9jXne14Lsw7LKiczeog__thumb/img/lgeZ2LA69JKg3EYkfvfFbkxi2ic=/fit-in/200x150/filters:strip_icc()/pic7293764.png"},
                             #uuid "476ee307-ec19-3042-b4fd-ba3f2ff733f6"
-                            {:name
+                            {:languages ["cs"],
+                             :name
                              "Společenství dobrodruhů  (Archeos Society)",
                              :game/id
                              #uuid "476ee307-ec19-3042-b4fd-ba3f2ff733f6",
@@ -26102,6 +26891,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "63268",
+                             :languages ["cs"],
                              :game/name "Spot it!",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/EJdZ_Q2O_6MeRxmPd2U54w__thumb/img/yKZvib6sGfaz6eOBSAog-qtogQs=/fit-in/200x150/filters:strip_icc()/pic1039327.jpg"},
@@ -26157,11 +26947,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "251658",
+                             :languages ["cs"],
                              :game/name "Sprawlopolis",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/aZ3I9B_aEywK4O_qP_Hz9w__thumb/img/8IMkDRysr2XJafkJGGWoWRcj3e0=/fit-in/200x150/filters:strip_icc()/pic4654146.png"},
                             #uuid "4cc848e7-8a23-3e1f-8b0f-b4dfbac2ff66"
-                            {:name "Spáči",
+                            {:languages ["cs" "sk"],
+                             :name "Spáči",
                              :game/id
                              #uuid "4cc848e7-8a23-3e1f-8b0f-b4dfbac2ff66",
                              :game/name "Spáči",
@@ -26225,6 +27017,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "147020",
+                             :languages ["cs"],
                              :game/name "Star Realms",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/EsJqPL5CB_TMt0MYL-lnVg__thumb/img/s_CE1b1XXUnYj9auTPhLrvkNsYA=/fit-in/200x150/filters:strip_icc()/pic1903816.jpg"},
@@ -26275,6 +27068,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "160964",
+                             :languages ["en"],
                              :game/name
                              "Star Wars: Empire vs. Rebellion",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -26326,6 +27120,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "353470",
+                             :languages ["cs"],
                              :game/name
                              "Star Wars: Jabba's Palace – A Love Letter Game",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -26397,6 +27192,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              120,
                              :com.boardgamegeek.boardgame/id "271896",
+                             :languages ["cs"],
                              :game/name "Star Wars: Outer Rim",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/RjwAj6hw5aEMGvosEA12gw__thumb/img/Ri6aOjHVFhgu_xK_xuBoCOCck-A=/fit-in/200x150/filters:strip_icc()/pic5879810.jpg"},
@@ -26451,6 +27247,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "370913",
+                             :languages ["cs"],
                              :game/name "Star Wars: The Clone Wars",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/JDp6QChGMYgYdZOrIztwSw__thumb/img/LkZP5TcnOQIcmGqwVcDlVaXjXy8=/fit-in/200x150/filters:strip_icc()/pic7091709.jpg"},
@@ -26501,6 +27298,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              40,
                              :com.boardgamegeek.boardgame/id "363369",
+                             :languages ["en"],
                              :game/name "Starship Captains",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/7I__jIr66wVLeyZA2s1Whg__thumb/img/7xO4UasL9l6z7aRbDTf65aLTAnE=/fit-in/200x150/filters:strip_icc()/pic6878308.jpg"},
@@ -26543,11 +27341,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "293678",
+                             :languages ["cs"],
                              :game/name "Stellar",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/5chf-MlqmJzUhRLQYIefOA__thumb/img/MXgA9DF6CF-8EMbDSS9Nh0LON8I=/fit-in/200x150/filters:strip_icc()/pic5070023.jpg"},
                             #uuid "fb73d04d-6394-3779-80ab-8c3ad3d7dcbd"
-                            {:name "Step by Step 1, 2, 3 & Co",
+                            {:languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
+                             :name "Step by Step 1, 2, 3 & Co",
                              :game/id
                              #uuid "fb73d04d-6394-3779-80ab-8c3ad3d7dcbd",
                              :game/name "Step by Step 1, 2, 3 & Co",
@@ -26583,11 +27384,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "242324",
+                             :languages ["cs"],
                              :game/name "Stew",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/KAHABaEQtKjpqY_nPCxFgw__thumb/img/tkdPGqWv34LC_A-Zh5EjyZnVpwc=/fit-in/200x150/filters:strip_icc()/pic3993903.png"},
                             #uuid "b8bbe3ad-b5c8-3224-ac3b-58ae46748189"
-                            {:name
+                            {:languages [],
+                             :name
                              "Stomp the plank  (Slon přes palubu)",
                              :game/id
                              #uuid "b8bbe3ad-b5c8-3224-ac3b-58ae46748189",
@@ -26645,6 +27448,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "34635",
+                             :languages ["cs"],
                              :game/name "Stone Age",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/elmZegVZ6gp4_5izUgxGQQ__thumb/img/MXq3DEKWIozO-PmB4S64BiE5fd0=/fit-in/200x150/filters:strip_icc()/pic1632539.jpg"},
@@ -26675,6 +27479,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "287591",
+                             :languages ["cs"],
                              :game/name "Storytailors",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/jum8MffRBQLbqFKNtDpxaQ__thumb/img/ptyc34m9ChzVC7vnHgQbKytcz2U=/fit-in/200x150/filters:strip_icc()/pic4961481.jpg"},
@@ -26705,6 +27510,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "374502",
+                             :languages ["cs"],
                              :game/name "Stranger Things: Upside Down",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/dKZ349hfEC8FFzGZ6afPDA__thumb/img/Uxw8piYc2zVsZ4ZCwrGrc1L8Mmw=/fit-in/200x150/filters:strip_icc()/pic7424640.png"},
@@ -26759,6 +27565,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "323156",
+                             :languages ["cs" "en"],
                              :game/name "Stroganov",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/o7CUpHZLvw5vuwRCqPZMHw__thumb/img/ieOsIj7QyKes1F5jw8bJsXFyl3M=/fit-in/200x150/filters:strip_icc()/pic5827215.jpg"},
@@ -26818,6 +27625,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              180,
                              :com.boardgamegeek.boardgame/id "9625",
+                             :languages ["en"],
                              :game/name "Struggle of Empires",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/V8J_bg9LKjB6as3Oxp_wtQ__thumb/img/FUyc1QhXpVQRkbAhouttIZstUZA=/fit-in/200x150/filters:strip_icc()/pic5633386.png"},
@@ -26876,6 +27684,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "233312",
+                             :languages ["cs"],
                              :game/name "Stuffed Fables",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/CS83e1WOA5WMc4izRw6zwg__thumb/img/S8F7Wyt0tUKzok9xKx4-f4IegRE=/fit-in/200x150/filters:strip_icc()/pic3708878.jpg"},
@@ -26918,6 +27727,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "333055",
+                             :languages ["cs"],
                              :game/name "Subastral",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/vMnthLxxHa17J6CC7C4d7Q__thumb/img/vUWEDpRT86E5qXC8-CQnz3d7UPI=/fit-in/200x150/filters:strip_icc()/pic6766397.png"},
@@ -26976,6 +27786,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "123260",
+                             :languages ["en"],
                              :game/name "Suburbia",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/1YcHesB7LRvCF8i9vgH7qw__thumb/img/LmYQpfDR6ds-9jGknAgbqjwuVs8=/fit-in/200x150/filters:strip_icc()/pic6009608.png"},
@@ -27014,6 +27825,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "313000",
+                             :languages ["en" "es"],
                              :game/name "Sumatra",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/hCsTmmhxlXtuaXomBrSCGA__thumb/img/SgeIS9xxKwcUnIe_4ro9Ej4Y7Bw=/fit-in/200x150/filters:strip_icc()/pic5617417.jpg"},
@@ -27048,17 +27860,20 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "233974",
+                             :languages ["en"],
                              :game/name "Sundae Split",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/PpznkdgPSdDLXuS0vOJSAA__thumb/img/zlzJfvHljsN1Le7dzF2YiLJgPZo=/fit-in/200x150/filters:strip_icc()/pic3710495.png"},
                             #uuid "0988c0f5-05eb-3d07-996b-b32a367c20fe"
-                            {:name "Superfarmář & Jezevec",
+                            {:languages ["cs"],
+                             :name "Superfarmář & Jezevec",
                              :game/id
                              #uuid "0988c0f5-05eb-3d07-996b-b32a367c20fe",
                              :game/name "Superfarmář & Jezevec",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "8acd7e18-1168-3461-9730-4ecd6192431b"
-                            {:name "Superšpunti: Sušenkám na stopě",
+                            {:languages ["cs"],
+                             :name "Superšpunti: Sušenkám na stopě",
                              :game/id
                              #uuid "8acd7e18-1168-3461-9730-4ecd6192431b",
                              :game/name
@@ -27103,6 +27918,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "322785",
+                             :languages ["en"],
                              :game/name
                              "Suspects: Claire Harper Takes the Stage",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -27146,12 +27962,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "360956",
+                             :languages ["en"],
                              :game/name
                              "Suspects: Claire Harper, Eternal Investigator",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/APSq50IuZEkZRldX20VrlQ__thumb/img/B6CfePHdEJIj6DNFgBaGPHYaZ9M=/fit-in/200x150/filters:strip_icc()/pic7491553.png"},
                             #uuid "afba8425-736b-3a18-bffc-13f2a0b91cce"
-                            {:name
+                            {:languages ["cs"],
+                             :name
                              "Svět divů: Pohodlí & úpadek  (It's a Wonderful World: Leasure & Decadance CZ)",
                              :game/id
                              #uuid "afba8425-736b-3a18-bffc-13f2a0b91cce",
@@ -27159,7 +27977,8 @@
                              "Svět divů: Pohodlí & úpadek  (It's a Wonderful World: Leasure & Decadance CZ)",
                              :com.boardgamegeek.boardgame/id "334767"},
                             #uuid "135422a2-5c6b-3709-aff5-2d4773df226d"
-                            {:name "Svět divů: Válka nebo mír",
+                            {:languages ["cs"],
+                             :name "Svět divů: Válka nebo mír",
                              :game/id
                              #uuid "135422a2-5c6b-3709-aff5-2d4773df226d",
                              :game/name "Svět divů: Válka nebo mír",
@@ -27191,6 +28010,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "367992",
+                             :languages ["en"],
                              :game/name "Swindler",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/VWO_KBIilHuCCsbeg64cfw__thumb/img/zmXZeEMVTKajxfL5l1Kdyy8fPxI=/fit-in/200x150/filters:strip_icc()/pic6985897.jpg"},
@@ -27216,11 +28036,22 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "320157",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Swip'Sheep",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/fVAu5WnqYL2C9NR2mNr4Cw__thumb/img/rmLSkCSAXFD14aw5KzCBmkanFM4=/fit-in/200x150/filters:strip_icc()/pic5671333.jpg"},
                             #uuid "26be3438-f5ac-3d3e-b513-ea6f41d49436"
-                            {:name "Switch It!",
+                            {:languages
+                             ["en"
+                              "de"
+                              "fr"
+                              "es"
+                              "it"
+                              "nl"
+                              "pt"
+                              "řecký"],
+                             :name "Switch It!",
                              :game/id
                              #uuid "26be3438-f5ac-3d3e-b513-ea6f41d49436",
                              :game/name "Switch It!",
@@ -27272,11 +28103,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "253664",
+                             :languages ["cs"],
                              :game/name "Taco Cat Goat Cheese Pizza",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/GHrnr-Khb0LvBU_QkrC_qA__thumb/img/pFt03CkI8uo3rOi4E7_ZrZfSmIM=/fit-in/200x150/filters:strip_icc()/pic7192024.png"},
                             #uuid "a59a645b-0448-3a28-8b4d-7274e85a7a6a"
-                            {:name
+                            {:languages ["en"],
+                             :name
                              "Tainted Grail - Kickstarter Core box pledge EN Sundrop + Niamh",
                              :game/id
                              #uuid "a59a645b-0448-3a28-8b4d-7274e85a7a6a",
@@ -27284,7 +28117,8 @@
                              "Tainted Grail - Kickstarter Core box pledge EN Sundrop + Niamh",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "74047451-6c67-310d-a9d1-0366deb00017"
-                            {:name
+                            {:languages ["bez textu"],
+                             :name
                              "Tainted Grail - Monsters Of Avalon Sundrop",
                              :game/id
                              #uuid "74047451-6c67-310d-a9d1-0366deb00017",
@@ -27394,12 +28228,22 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "264220",
+                             :languages ["cs"],
                              :game/name
                              "Tainted Grail: The Fall of Avalon",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/aAwBzPzta4joKfFZt05hCw__thumb/img/zvV21ZaydrMSEbbYSNXcmw3WmfY=/fit-in/200x150/filters:strip_icc()/pic4385726.jpg"},
                             #uuid "644add51-84db-3f08-b4a9-0e9c29d345b6"
-                            {:name "Takamachi",
+                            {:languages
+                             ["en"
+                              "de"
+                              "fr"
+                              "es"
+                              "it"
+                              "nl"
+                              "pt"
+                              "řecký"],
+                             :name "Takamachi",
                              :game/id
                              #uuid "644add51-84db-3f08-b4a9-0e9c29d345b6",
                              :game/name "Takamachi",
@@ -27439,6 +28283,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "432",
+                             :languages ["cs"],
                              :game/name "Take 5",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/fejfmCLX0kSSKppT5iv_Pg__thumb/img/dWcwk0P0dT5AujK4CiYP_A2d93A=/fit-in/200x150/filters:strip_icc()/pic7649146.jpg"},
@@ -27481,6 +28326,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "246816",
+                             :languages ["cs"],
                              :game/name "Tales of Glory",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/-kEgc_Ht0kSZO0YGSzUOSw__thumb/img/UbzB0ekqYOmy-GrAIsPsd3BXlmY=/fit-in/200x150/filters:strip_icc()/pic4627097.jpg"},
@@ -27536,6 +28382,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "27627",
+                             :languages ["cs"],
                              :game/name
                              "Talisman: Revised 4th Edition",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -27635,6 +28482,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "286096",
+                             :languages ["cs"],
                              :game/name "Tapestry",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/7kqDmkUMGxXHr1wNPA7Gvg__thumb/img/1najF3Bh3QI7k2c9sJeTXznbvPU=/fit-in/200x150/filters:strip_icc()/pic4884996.jpg"},
@@ -27705,6 +28553,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "306481",
+                             :languages ["cs" "en"],
                              :game/name
                              "Tawantinsuyu: The Inca Empire",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -27760,6 +28609,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "297030",
+                             :languages ["en"],
                              :game/name "Tekhenu: Obelisk of the Sun",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/CBLtzgG8zsqDkUZ_hN5-ew__thumb/img/QaUXxrgmXFrlNADgPeGhY5F538g=/fit-in/200x150/filters:strip_icc()/pic5313583.jpg"},
@@ -27798,6 +28648,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "46213",
+                             :languages ["cs"],
                              :game/name "Telestrations",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/oc3u6OQpJkf9TvDw4iI9xA__thumb/img/Otc-6MFf-HC9ep-82ub2B2rID78=/fit-in/200x150/filters:strip_icc()/pic4991936.jpg"},
@@ -27836,6 +28687,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "359172",
+                             :languages ["cs" "sk"],
                              :game/name "Tentacolor",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/rTv2yjtk_XL2t6Fz7RVbOA__thumb/img/ZNJIwwSoNgJu7jdoG-MhxobRXfY=/fit-in/200x150/filters:strip_icc()/pic6755125.png"},
@@ -27890,24 +28742,28 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "229853",
+                             :languages ["en"],
                              :game/name "Teotihuacan: City of Gods",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/wW5xjgBJcFyLaEWZwrYuKA__thumb/img/MppmP7GtDAfKiB5LiAl-ZtPxOPE=/fit-in/200x150/filters:strip_icc()/pic4583626.jpg"},
                             #uuid "77b17273-9b6e-330c-a71b-27552434c500"
-                            {:name "Teotihuacan: Expansion Period",
+                            {:languages ["en"],
+                             :name "Teotihuacan: Expansion Period",
                              :game/id
                              #uuid "77b17273-9b6e-330c-a71b-27552434c500",
                              :game/name
                              "Teotihuacan: Expansion Period",
                              :com.boardgamegeek.boardgame/id "316777"},
                             #uuid "f4f41c44-2cc0-3a0e-9fda-8e22de966bbe"
-                            {:name "Teotihuacan: Late Preclassic",
+                            {:languages ["en"],
+                             :name "Teotihuacan: Late Preclassic",
                              :game/id
                              #uuid "f4f41c44-2cc0-3a0e-9fda-8e22de966bbe",
                              :game/name "Teotihuacan: Late Preclassic",
                              :com.boardgamegeek.boardgame/id "270364"},
                             #uuid "98b823b3-0cdd-303e-8dcd-970f65f5d4bc"
-                            {:name "Teotihuacan: Shadow of Xitle",
+                            {:languages ["en"],
+                             :name "Teotihuacan: Shadow of Xitle",
                              :game/id
                              #uuid "98b823b3-0cdd-303e-8dcd-970f65f5d4bc",
                              :game/name "Teotihuacan: Shadow of Xitle",
@@ -27992,6 +28848,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "120677",
+                             :languages ["cs"],
                              :game/name "Terra Mystica",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/bre12I1YiXkZr7elvriz4A__thumb/img/GW-ip0dfeAee7KQqJ04SRZxF1lg=/fit-in/200x150/filters:strip_icc()/pic5375624.jpg"},
@@ -28038,6 +28895,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "350458",
+                             :languages ["cs" "en"],
                              :game/name "Terracotta Army",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/5tjbJJ21hE-ScRlV3DvjPQ__thumb/img/eDTauDf9jGKJ99l8P6v2h3htrds=/fit-in/200x150/filters:strip_icc()/pic6949932.jpg"},
@@ -28149,6 +29007,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              120,
                              :com.boardgamegeek.boardgame/id "167791",
+                             :languages ["cs"],
                              :game/name "Terraforming Mars",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__thumb/img/BTxqxgYay5tHJfVoJ2NF5g43_gA=/fit-in/200x150/filters:strip_icc()/pic3536616.jpg"},
@@ -28227,12 +29086,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "328871",
+                             :languages ["cs"],
                              :game/name
                              "Terraforming Mars: Ares Expedition",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/eT_Atcy_vRJvuUMgYakNrQ__thumb/img/YxoNRQg9owsoi68POaMY0Ix31ZI=/fit-in/200x150/filters:strip_icc()/pic6260098.jpg"},
                             #uuid "b1193959-2e87-3519-9d42-486652116553"
-                            {:name "Teď předveď světové filmy",
+                            {:languages ["cs"],
+                             :name "Teď předveď světové filmy",
                              :game/id
                              #uuid "b1193959-2e87-3519-9d42-486652116553",
                              :game/name "Teď předveď světové filmy",
@@ -28304,11 +29165,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              5,
                              :com.boardgamegeek.boardgame/id "180263",
+                             :languages ["en"],
                              :game/name "The 7th Continent",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/OYne8uBCHv5oEgRfpOrV0A__thumb/img/_YPdmxegKIoZI_ButuMJzfw9UBo=/fit-in/200x150/filters:strip_icc()/pic2648303.jpg"},
                             #uuid "b2c6ad44-ddbf-3cf9-9bb8-fc2cb239fb55"
-                            {:name
+                            {:languages ["en"],
+                             :name
                              "The 7th Continent: What Goes Up, Must Come Down",
                              :game/id
                              #uuid "b2c6ad44-ddbf-3cf9-9bb8-fc2cb239fb55",
@@ -28374,6 +29237,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              40,
                              :com.boardgamegeek.boardgame/id "378356",
+                             :languages ["en"],
                              :game/name "The A.R.T. Project",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/71s14D-JgU8uaVrh_a1fUw__thumb/img/brSpeylY0jSn30eYX6ufWkmwxV8=/fit-in/200x150/filters:strip_icc()/pic7705860.jpg"},
@@ -28416,6 +29280,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "377060",
+                             :languages ["cs" "sk"],
                              :game/name "The Base",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/QJNFyUxDMZL7v01ceBdg6A__thumb/img/08HCddCADPCSFPHj8MRsPo-XCkA=/fit-in/200x150/filters:strip_icc()/pic7616731.png"},
@@ -28462,6 +29327,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "171233",
+                             :languages ["cs"],
                              :game/name "The Big Book of Madness",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/-LL30JqMelQiFx51xjzIVg__thumb/img/1zS0iG4Y_mY8RNwJqTZm6o5YztI=/fit-in/200x150/filters:strip_icc()/pic2750172.jpg"},
@@ -28504,6 +29370,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              40,
                              :com.boardgamegeek.boardgame/id "85005",
+                             :languages ["en" "de" "fr"],
                              :game/name "The Boss",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/yq8_IeVY2vxH8q7HFLDblA__thumb/img/_xvzvwWlaGoXn-uAnm3-5_arqaU=/fit-in/200x150/filters:strip_icc()/pic1091844.jpg"},
@@ -28570,6 +29437,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "84876",
+                             :languages ["en"],
                              :game/name "The Castles of Burgundy",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/5CFwjd8zTcGYVUnkXh04hw__thumb/img/0AG_6zsfYQjqlUHG0-_8lcjp8rc=/fit-in/200x150/filters:strip_icc()/pic1176894.jpg"},
@@ -28620,6 +29488,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "103649",
+                             :languages ["en"],
                              :game/name "The City",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/sSuL2M_3ukm0Nj3Z2jGaUA__thumb/img/fARe1anDcPA71e4SjlsogJFhn7g=/fit-in/200x150/filters:strip_icc()/pic4495514.png"},
@@ -28670,6 +29539,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "192836",
+                             :languages ["en"],
                              :game/name "The Colonists",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Ca6hNgx3vX8dri1yj-3CWg__thumb/img/NU1qPi1sLNOfIYLmc4lRyQXgHVo=/fit-in/200x150/filters:strip_icc()/pic3195482.jpg"},
@@ -28721,6 +29591,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "324856",
+                             :languages ["cs" "sk"],
                              :game/name "The Crew: Mission Deep Sea",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/VuBqZ1sMaDAVVHF_OEJP4g__thumb/img/EdacXlcFZ06YK0-ZKa0oKwL4VCw=/fit-in/200x150/filters:strip_icc()/pic5988903.jpg"},
@@ -28771,6 +29642,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "284083",
+                             :languages ["cs" "sk"],
                              :game/name
                              "The Crew: The Quest for Planet Nine",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -28810,6 +29682,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "302882",
+                             :languages ["en"],
                              :game/name "The Dwarves: Big Box",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/QTMskhIW33ud8GSfh42bbw__thumb/img/VY_RNqtBE9A7HntM5Mq8KA7VfYY=/fit-in/200x150/filters:strip_icc()/pic6502437.jpg"},
@@ -28848,6 +29721,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "221965",
+                             :languages ["cs"],
                              :game/name "The Fox in the Forest",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/spcy6nvsfq-hxYgwEpmidQ__thumb/img/nR2TKxtWOVJR1OHD6hAF05IHuOI=/fit-in/200x150/filters:strip_icc()/pic3496085.jpg"},
@@ -28894,6 +29768,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "288169",
+                             :languages ["cs"],
                              :game/name "The Fox in the Forest Duet",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/1uTAJoAdG3UC6N0G7UMeTA__thumb/img/SzaN4ejLFyjTbElgZPGGjUtlf6o=/fit-in/200x150/filters:strip_icc()/pic4942502.jpg"},
@@ -28965,6 +29840,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "125153",
+                             :languages ["en"],
                              :game/name "The Gallerist",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/ie1GSt1XV04sXQXt-3O1UQ__thumb/img/O0H84AvXp139U865gRLGiAo9-gA=/fit-in/200x150/filters:strip_icc()/pic2503200.png"},
@@ -29007,6 +29883,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "212402",
+                             :languages ["cs"],
                              :game/name "The Grimm Forest",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/fKsNUAfk4uSR6TWsxhHfmg__thumb/img/E4VZGAGR2wXudx3iUw_EsUIKqBk=/fit-in/200x150/filters:strip_icc()/pic3388680.jpg"},
@@ -29053,6 +29930,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "254513",
+                             :languages ["cs"],
                              :game/name "The Grimm Masquerade",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/xCV0HRT0YIvcIugEP-ZtGw__thumb/img/jrPJFcrUg4cUSOqQQGH1OAtgqu4=/fit-in/200x150/filters:strip_icc()/pic7493762.jpg"},
@@ -29111,6 +29989,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "350933",
+                             :languages ["en"],
                              :game/name
                              "The Guild of Merchant Explorers",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -29166,6 +30045,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "376223",
+                             :languages ["cs"],
                              :game/name "The Hunt",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/0arItwGzq18W-v-pQrN1TQ__thumb/img/uahumiZtbQofAuvNFNRm-QOf6Mk=/fit-in/200x150/filters:strip_icc()/pic7219958.jpg"},
@@ -29220,6 +30100,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "328908",
+                             :languages ["cs"],
                              :game/name "The Initiative",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/VbJ4TS-lQOE3Ki0oVkiIEA__thumb/img/WqCgbbTu9axrozorQh9YFhPLIkI=/fit-in/200x150/filters:strip_icc()/pic5910298.jpg"},
@@ -29298,6 +30179,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "281259",
+                             :languages ["cs"],
                              :game/name "The Isle of Cats",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/AuAheDzhkLufiZFE9JaRNA__thumb/img/gENtMHYJDff6XaGGOYw9oSZShCs=/fit-in/200x150/filters:strip_icc()/pic4781085.jpg"},
@@ -29360,6 +30242,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "319966",
+                             :languages ["cs"],
                              :game/name
                              "The King Is Dead: Second Edition",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -29415,6 +30298,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "316412",
+                             :languages ["en"],
                              :game/name "The LOOP",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/NPWdxDD5uLOBLBDdVgdLvA__thumb/img/7464PJPFWWPzsOUMvf8t860zct0=/fit-in/200x150/filters:strip_icc()/pic6034093.png"},
@@ -29449,6 +30333,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "244992",
+                             :languages ["cs"],
                              :game/name "The Mind",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/q_JGK291hrhnhiRB0667oA__thumb/img/PUrzEmTo5kOcK5BOb4cbOOcH86I=/fit-in/200x150/filters:strip_icc()/pic3979766.png"},
@@ -29487,6 +30372,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "129948",
+                             :languages ["de"],
                              :game/name "The Palaces of Carrara",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/DsMeW1M58khZlWpHEdGOuw__thumb/img/fUmovwFlp3Ajf5sT0TrzABrBxNs=/fit-in/200x150/filters:strip_icc()/pic4398491.jpg"},
@@ -29525,6 +30411,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "348070",
+                             :languages ["cs" "en"],
                              :game/name
                              "The Palaces of Carrara (Second Edition)",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -29580,6 +30467,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "181687",
+                             :languages ["cs"],
                              :game/name "The Pursuit of Happiness",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/RpUStaAwneWPT_JQJpAb1Q__thumb/img/ZCZifuP73R52UhXomQKmGQ9OoCU=/fit-in/200x150/filters:strip_icc()/pic2853682.jpg"},
@@ -29638,6 +30526,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "244521",
+                             :languages ["cs"],
                              :game/name "The Quacks of Quedlinburg",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/pH5LgRL4mNRon-2NsSDb1Q__thumb/img/E_XspsgbgrVOwOeCuZMO1S8W2rk=/fit-in/200x150/filters:strip_icc()/pic6137509.png"},
@@ -29716,6 +30605,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "41114",
+                             :languages ["cs"],
                              :game/name "The Resistance",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/cAPTkL2BR3snLO71dkH8rw__thumb/img/5lDn1W82rlLXtVG7nPIYR9Orn-4=/fit-in/200x150/filters:strip_icc()/pic2576459.jpg"},
@@ -29798,6 +30688,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "128882",
+                             :languages ["en"],
                              :game/name "The Resistance: Avalon",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/LPa6rsGcv8S0-OeNjCOAEQ__thumb/img/RKui79VjUbQAzTWaPu44ytupzDs=/fit-in/200x150/filters:strip_icc()/pic1398895.jpg"},
@@ -29832,6 +30723,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "257759",
+                             :languages ["en"],
                              :game/name "The River",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/ZmxO1MJdYqWHsVGuy2elPw__thumb/img/BmmJISWrgSPXfvc8-IEtSgbkwcM=/fit-in/200x150/filters:strip_icc()/pic4283642.png"},
@@ -29882,6 +30774,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "279537",
+                             :languages ["en"],
                              :game/name "The Search for Planet X",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/NItjtztEUAKOpaTWZddu9A__thumb/img/x8YD4cAVOAbSDsZbmKgU0-WQ9wI=/fit-in/200x150/filters:strip_icc()/pic5744928.jpg"},
@@ -29936,6 +30829,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "333539",
+                             :languages ["cs" "en"],
                              :game/name "The Siege of Runedar",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/dMP3JPqWVhHS-iWfENB1TQ__thumb/img/YYAATMCEulYjMBudRoa3M_RzwbA=/fit-in/200x150/filters:strip_icc()/pic6082249.jpg"},
@@ -29982,6 +30876,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "295293",
+                             :languages ["cs"],
                              :game/name "The Thing: The Boardgame",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/dJCtZr6_dFDIg4o8tMYqCA__thumb/img/Pp3ikjTGmVjlkcJqS98WZY8ECSQ=/fit-in/200x150/filters:strip_icc()/pic5089905.jpg"},
@@ -30024,6 +30919,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "257987",
+                             :languages ["en" "de" "it"],
                              :game/name "The Towers of Arkhanos",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/ScgKv1Wb4BrTTZTZ6pXN6w__thumb/img/IF-Fp4yu2qaGXxb9dq_Br2d4A7M=/fit-in/200x150/filters:strip_icc()/pic4837957.jpg"},
@@ -30070,6 +30966,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "369869",
+                             :languages ["cs"],
                              :game/name "The Two Heirs",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Q-pFtG8eZdS27dUPLF1ttw__thumb/img/W-1RA793lECZxej9YgvbKf7XEmE=/fit-in/200x150/filters:strip_icc()/pic7042228.jpg"},
@@ -30104,6 +31001,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              80,
                              :com.boardgamegeek.boardgame/id "371942",
+                             :languages ["cs"],
                              :game/name "The White Castle",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/qXT1U-nFh9PE8ujfdmI7dA__thumb/img/ru1l95gdKNXSsByDglE9Xxgu0kE=/fit-in/200x150/filters:strip_icc()/pic7754663.jpg"},
@@ -30154,6 +31052,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              75,
                              :com.boardgamegeek.boardgame/id "368058",
+                             :languages ["cs"],
                              :game/name "The Wolves",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/6irYLjUf_o0rK7E_4qI-gw__thumb/img/adKpLZnYvPO9SiZ6p-1RzgIk-98=/fit-in/200x150/filters:strip_icc()/pic6990829.png"},
@@ -30248,6 +31147,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "188920",
+                             :languages ["cs"],
                              :game/name
                              "This War of Mine: The Board Game",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -30312,12 +31212,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              120,
                              :com.boardgamegeek.boardgame/id "182028",
+                             :languages ["cs"],
                              :game/name
                              "Through the Ages: A New Story of Civilization",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/fVwPntkJKgaEo0rIC0RwpA__thumb/img/31usGlzlBReEFf60bcgbvDTjwCg=/fit-in/200x150/filters:strip_icc()/pic2663291.jpg"},
                             #uuid "93851806-3300-3e2f-b557-eae2d3acfe11"
-                            {:name
+                            {:languages ["cs"],
+                             :name
                              "Through the Ages: Nové divy a osobnosti",
                              :game/id
                              #uuid "93851806-3300-3e2f-b557-eae2d3acfe11",
@@ -30363,11 +31265,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "274533",
+                             :languages ["cs"],
                              :game/name "Throw Throw Burrito",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/5ClVKrQcLkzRdBGiEfjevQ__thumb/img/FJa46kpICy-6AF4n7W-v9ICP_yo=/fit-in/200x150/filters:strip_icc()/pic7073068.jpg"},
                             #uuid "16cebbfd-c6e1-3ad0-8788-4f882fa28e80"
-                            {:name
+                            {:languages ["en"],
+                             :name
                              "Ticket to Ride Map Collection: Volume 3 – The Heart of Africa",
                              :game/id
                              #uuid "16cebbfd-c6e1-3ad0-8788-4f882fa28e80",
@@ -30426,11 +31330,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "14996",
+                             :languages ["cs"],
                              :game/name "Ticket to Ride: Europe",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/0K1AOciqlMVUWFPLTJSiww__thumb/img/RDvu2FvsYVVH8icp1VsilUlqUGI=/fit-in/200x150/filters:strip_icc()/pic66668.jpg"},
                             #uuid "39f77c99-fbf1-3923-b57a-8fe096969a69"
-                            {:name
+                            {:languages ["en"],
+                             :name
                              "Ticket to Ride: India (Switzerland)",
                              :game/id
                              #uuid "39f77c99-fbf1-3923-b57a-8fe096969a69",
@@ -30472,6 +31378,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "253284",
+                             :languages ["en"],
                              :game/name "Ticket to Ride: New York",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/v0YHI6x4g8dJdtSqaxMdiA__thumb/img/wqM16CzK9QcarS8s6X6iAxvFe3Q=/fit-in/200x150/filters:strip_icc()/pic4132194.jpg"},
@@ -30506,6 +31413,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "364994",
+                             :languages ["en"],
                              :game/name
                              "Tidal Blades: Banner Festival",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -30545,17 +31453,20 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "176229",
+                             :languages ["cs"],
                              :game/name "Tides of Time",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/pRCIGU5zrYqPc-fjF2CevA__thumb/img/muBa0gw1sCOOkLqKIBXK42iyF_g=/fit-in/200x150/filters:strip_icc()/pic2486726.jpg"},
                             #uuid "1fc195e4-7ef9-3fed-90a2-754a2fa91b89"
-                            {:name "Tik Tak Bum Chain Reaction",
+                            {:languages ["cs" "sk"],
+                             :name "Tik Tak Bum Chain Reaction",
                              :game/id
                              #uuid "1fc195e4-7ef9-3fed-90a2-754a2fa91b89",
                              :game/name "Tik Tak Bum Chain Reaction",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "75bcf8b0-7a3d-39d9-a6f2-d7a1ff542fe2"
-                            {:name "Tik Tak Bum Family",
+                            {:languages ["cs" "sk"],
+                             :name "Tik Tak Bum Family",
                              :game/id
                              #uuid "75bcf8b0-7a3d-39d9-a6f2-d7a1ff542fe2",
                              :game/name "Tik Tak Bum Family",
@@ -30627,6 +31538,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "54",
+                             :languages ["cs" "en"],
                              :game/name "Tikal",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/ajU3xzGDUKihjNdvjCR1Hw__thumb/img/pXR57sUMEJ-GJydf-yyAu0ZLgZw=/fit-in/200x150/filters:strip_icc()/pic3328391.jpg"},
@@ -30677,6 +31589,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "351913",
+                             :languages ["en"],
                              :game/name "Tiletum",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/DvvSoTrB3-UMEgz2rBraHg__thumb/img/TnJONz9KNXPJBQ42sorXuoUTlew=/fit-in/200x150/filters:strip_icc()/pic7533289.jpg"},
@@ -30702,6 +31615,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "268802",
+                             :languages ["cs"],
                              :game/name "Timeline: Česko",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/58b00c0sYNp7jVG8EE7hwg__thumb/img/t1WOL0Gfn7VVQdv7x29Ap3iQ6aU=/fit-in/200x150/filters:strip_icc()/pic4548471.jpg"},
@@ -30800,6 +31714,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "317511",
+                             :languages ["cs"],
                              :game/name "Tindaya",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/-CQ71h-bnEjfueVpyi2Qng__thumb/img/MmyTs3fPl2N5yPJhZuZfUw5FB84=/fit-in/200x150/filters:strip_icc()/pic6886798.jpg"},
@@ -30842,6 +31757,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "303621",
+                             :languages ["en"],
                              :game/name "Tiny Acrobats",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/LuNpN1YeIQbBpPE3j2MrXg__thumb/img/Z9wcrYmxP_tkffmRlEPnJPdq6Zs=/fit-in/200x150/filters:strip_icc()/pic5897452.jpg"},
@@ -30916,6 +31832,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "163967",
+                             :languages ["cs"],
                              :game/name "Tiny Epic Galaxies",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/c_87h8o0AOrfCO3hxMjjrA__thumb/img/OPNd-zRznLHOLfNDIN8rdhSMHPM=/fit-in/200x150/filters:strip_icc()/pic2349732.jpg"},
@@ -30990,11 +31907,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "265736",
+                             :languages ["cs"],
                              :game/name "Tiny Towns",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/aE1EoOzr530gQin8bj8QDA__thumb/img/AI-Ro3wLJtpyZLmCMNywOlpz0S8=/fit-in/200x150/filters:strip_icc()/pic4460401.jpg"},
                             #uuid "c1f4a255-30ab-32bc-868c-e85e400b9708"
-                            {:name "Tipni si! - Karetní hra",
+                            {:languages ["cs"],
+                             :name "Tipni si! - Karetní hra",
                              :game/id
                              #uuid "c1f4a255-30ab-32bc-868c-e85e400b9708",
                              :game/name "Tipni si! - Karetní hra",
@@ -31038,11 +31957,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "300905",
+                             :languages ["cs"],
                              :game/name "Top Ten",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/0LVOOyXtNNyFhyj7tFaKCQ__thumb/img/a-klyIgrojswCIe3KKOmJrCOgOw=/fit-in/200x150/filters:strip_icc()/pic5212719.jpg"},
                             #uuid "afe90abe-42b4-3d16-af99-dd43539770f3"
-                            {:name "Toulavé věže",
+                            {:languages ["cs"],
+                             :name "Toulavé věže",
                              :game/id
                              #uuid "afe90abe-42b4-3d16-af99-dd43539770f3",
                              :game/name "Toulavé věže",
@@ -31070,6 +31991,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "373421",
+                             :languages ["cs" "en" "fr"],
                              :game/name "Tour de France Board Game",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/dgwIoh2XUtrrQO7U-U31pA__thumb/img/PfVE3oDdXlpJaqFbTSvJho7ZUa4=/fit-in/200x150/filters:strip_icc()/pic7142078.jpg"},
@@ -31116,6 +32038,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "283864",
+                             :languages ["cs"],
                              :game/name "Trails of Tucana",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/y8ifesXfHobUtIgnSuC0DA__thumb/img/y5rGQUFTGETcIg9HSfuGnHkD234=/fit-in/200x150/filters:strip_icc()/pic4860701.jpg"},
@@ -31158,6 +32081,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "297204",
+                             :languages ["en"],
                              :game/name "Traintopia",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/-7fTO3EiGxUVLRN1JGNTaA__thumb/img/_7Mz6KWNxpBOq0E-CgQSonSZdWg=/fit-in/200x150/filters:strip_icc()/pic5139857.jpg"},
@@ -31204,6 +32128,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "288513",
+                             :languages ["cs"],
                              :game/name "Tranquility",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/nQJ9Kr9BP7zdm__rSvrx3w__thumb/img/8YdbYqiyOw64OzqvXpWGzHb2Xr0=/fit-in/200x150/filters:strip_icc()/pic6152802.png"},
@@ -31250,6 +32175,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "257527",
+                             :languages ["cs"],
                              :game/name "Trapwords",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/aU1dLvPuTgGY0NsFajD9HQ__thumb/img/LKC4wxSMYreK8hbG82sNjUFdDiY=/fit-in/200x150/filters:strip_icc()/pic4327157.jpg"},
@@ -31288,6 +32214,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "282171",
+                             :languages ["cs"],
                              :game/name "Trial by Trolley",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/r1GDaTzdNoSz2gcZELRFng__thumb/img/EHxVkr3rv0ag28bTD4nAzDgKklI=/fit-in/200x150/filters:strip_icc()/pic4835109.png"},
@@ -31346,6 +32273,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              40,
                              :com.boardgamegeek.boardgame/id "362986",
+                             :languages ["en"],
                              :game/name "Tribes of the Wind",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/G_moxnKfgJ4w_NGmr9T6Lg__thumb/img/YBNaQ6O-D_ej8czfA3okABmfQjg=/fit-in/200x150/filters:strip_icc()/pic6871609.jpg"},
@@ -31380,11 +32308,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "13103",
+                             :languages ["cs" "sk"],
                              :game/name "Triolet",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/YduVenrgNe31iWiIsoOy3w__thumb/img/KqI8MfAeUTUKD4UmO0aSRc8CCQA=/fit-in/200x150/filters:strip_icc()/pic6838222.jpg"},
                             #uuid "00a01656-86df-3a66-b7b2-071876a916d8"
-                            {:name "Triominos",
+                            {:languages ["cs" "de" "sk" "hu"],
+                             :name "Triominos",
                              :game/id
                              #uuid "00a01656-86df-3a66-b7b2-071876a916d8",
                              :game/name "Triominos",
@@ -31433,12 +32363,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "281442",
+                             :languages ["en"],
                              :game/name
                              "Trismegistus: The Ultimate Formula",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/3p7c-u4I9YpHRh1ET--7KQ__thumb/img/ls291pf29DbrptJQCLE_nD_Qa1Y=/fit-in/200x150/filters:strip_icc()/pic5373953.jpg"},
                             #uuid "922a511f-02d1-38e4-8939-0526d85ca519"
-                            {:name "Troll",
+                            {:languages ["cs"],
+                             :name "Troll",
                              :game/id
                              #uuid "922a511f-02d1-38e4-8939-0526d85ca519",
                              :game/name "Troll",
@@ -31522,11 +32454,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "73439",
+                             :languages ["en"],
                              :game/name "Troyes",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/fBIe-aEPtJKC-ceNlspK6A__thumb/img/Npv5mrWBkjnlKjl_8hGLNk9CCwc=/fit-in/200x150/filters:strip_icc()/pic750583.jpg"},
                             #uuid "da03483e-f061-3be3-99e0-8a619ff7cc02"
-                            {:name "Truhlaříci s.r.o.",
+                            {:languages ["cs"],
+                             :name "Truhlaříci s.r.o.",
                              :game/id
                              #uuid "da03483e-f061-3be3-99e0-8a619ff7cc02",
                              :game/name "Truhlaříci s.r.o.",
@@ -31566,6 +32500,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "356123",
+                             :languages ["en"],
                              :game/name "Turing Machine",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/un5yundwtC6q1U9gWTY8Yw__thumb/img/I4QR01ZS6TTIHgW3UpdOYvePRxQ=/fit-in/200x150/filters:strip_icc()/pic6883492.png"},
@@ -31609,11 +32544,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "257614",
+                             :languages ["cs"],
                              :game/name "Tussie Mussie",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/bOTxzLrmwptfbAre3JnS3w__thumb/img/IrDl-OdPhX04kz6oNGcl-FzRivw=/fit-in/200x150/filters:strip_icc()/pic5456717.png"},
                             #uuid "cb65943a-6c84-31fd-a7a0-4dcb64479502"
-                            {:name "Tvary",
+                            {:languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
+                             :name "Tvary",
                              :game/id
                              #uuid "cb65943a-6c84-31fd-a7a0-4dcb64479502",
                              :game/name "Tvary",
@@ -31670,11 +32608,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "126163",
+                             :languages ["cs"],
                              :game/name "Tzolk'in: The Mayan Calendar",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/kXf7mDyDYuHg6oe8yTUIEA__thumb/img/or9mAn4ClljY_wO_zvsLJDqs9tU=/fit-in/200x150/filters:strip_icc()/pic4604439.jpg"},
                             #uuid "155d3867-8cf2-3a54-8f81-5640546c87ed"
-                            {:name "U okýnka",
+                            {:languages ["cs" "en" "sk"],
+                             :name "U okýnka",
                              :game/id
                              #uuid "155d3867-8cf2-3a54-8f81-5640546c87ed",
                              :game/name "U okýnka",
@@ -31718,6 +32658,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              25,
                              :com.boardgamegeek.boardgame/id "16986",
+                             :languages ["cs"],
                              :game/name "Ubongo",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/0wSuQbmk4nPwNytp9_zzPw__thumb/img/2_damZx35g1mE8kgWUpIXoHybW8=/fit-in/200x150/filters:strip_icc()/pic4597123.jpg"},
@@ -31748,6 +32689,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              25,
                              :com.boardgamegeek.boardgame/id "269971",
+                             :languages ["cs"],
                              :game/name "Ubongo: 3-D Family",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/-KNGGV6LUrzPeQgrX-pXhA__thumb/img/zbVZAlF3PySIDQhzEQZCpVp-RLg=/fit-in/200x150/filters:strip_icc()/pic4526526.jpg"},
@@ -31782,17 +32724,20 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "206715",
+                             :languages ["en"],
                              :game/name "Ultimate Werewolf Legacy",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/JByJgvfgxqThPlNilCbywg__thumb/img/Mdl5XgF-DhcwV_UBmCcmEggIlic=/fit-in/200x150/filters:strip_icc()/pic3998382.jpg"},
                             #uuid "b82dd467-6204-3835-94c1-82e70e9833c8"
-                            {:name "Umí prase létat? PLUS",
+                            {:languages ["cs"],
+                             :name "Umí prase létat? PLUS",
                              :game/id
                              #uuid "b82dd467-6204-3835-94c1-82e70e9833c8",
                              :game/name "Umí prase létat? PLUS",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "b53f1904-9de6-3763-8000-988dcce3e84d"
-                            {:name "Bang!",
+                            {:languages ["cs"],
+                             :name "Bang!",
                              :game/id
                              #uuid "b53f1904-9de6-3763-8000-988dcce3e84d",
                              :game/name "Unauthorized Production",
@@ -31888,6 +32833,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "306735",
+                             :languages ["en"],
                              :game/name "Under Falling Skies",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/ecO5eAd3RkctQ0-Tbqv37Q__thumb/img/uxrJLWxvi-f8CGbDpxQBStzvGes=/fit-in/200x150/filters:strip_icc()/pic5428723.jpg"},
@@ -31954,6 +32900,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "274637",
+                             :languages ["cs"],
                              :game/name
                              "Unmatched: Battle of Legends, Volume One",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -31997,11 +32944,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "234190",
+                             :languages ["cs"],
                              :game/name "Unstable Unicorns",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/8_5xvpsrrX5JVzO7eBLSgw__thumb/img/fV4UWCHC1ImGFUN7lcJju9K8_zo=/fit-in/200x150/filters:strip_icc()/pic3912914.jpg"},
                             #uuid "29e36729-bf81-324b-ac21-1fcfede9de18"
-                            {:name
+                            {:languages ["cs"],
+                             :name
                              "Vadí nevadí! aneb Nejsme všichni stejní",
                              :game/id
                              #uuid "29e36729-bf81-324b-ac21-1fcfede9de18",
@@ -32055,6 +33004,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "150999",
+                             :languages ["cs"],
                              :game/name "Valley of the Kings",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/znCYAtq2-hYk0wqqudGRow__thumb/img/Zz0CMUjwcxJuosHchbMbEVXcSsQ=/fit-in/200x150/filters:strip_icc()/pic1848490.jpg"},
@@ -32109,6 +33059,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "245659",
+                             :languages ["cs"],
                              :game/name
                              "Vampire: The Masquerade – Vendetta",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -32152,6 +33103,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "323262",
+                             :languages [],
                              :game/name "Velonimo",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/aR0YMko4GJiyNA-z4IjSKg__thumb/img/w21TxcRMPN-Zp2KAmry-DPwp5Wo=/fit-in/200x150/filters:strip_icc()/pic5745016.jpg"},
@@ -32206,11 +33158,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "334065",
+                             :languages ["cs"],
                              :game/name "Verdant",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/c1XGn5ryzbqgMOHzObZpQw__thumb/img/QJq-vJsWq6D0DMrDFVno-0Lu00o=/fit-in/200x150/filters:strip_icc()/pic6094080.png"},
                             #uuid "7bfcc5e5-6e65-32c2-a8ae-e43e363eb4f2"
-                            {:name "Vesnička  (Hamlet)",
+                            {:languages ["cs"],
+                             :name "Vesnička  (Hamlet)",
                              :game/id
                              #uuid "7bfcc5e5-6e65-32c2-a8ae-e43e363eb4f2",
                              :game/name "Vesnička  (Hamlet)",
@@ -32250,6 +33204,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "300936",
+                             :languages ["cs"],
                              :game/name "Via Magica",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/a1oAJngPovEoTopMY6fJOg__thumb/img/BCYZjCXEcwzr-MKHomDbDk-J_KM=/fit-in/200x150/filters:strip_icc()/pic5381155.jpg"},
@@ -32288,6 +33243,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "175640",
+                             :languages ["en"],
                              :game/name "Vinhos: Deluxe Edition",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/JuyN9UOenAG_BlO-APPpdw__thumb/img/hQLejMza7x_sM1hW24jAocbyqHY=/fit-in/200x150/filters:strip_icc()/pic2649446.jpg"},
@@ -32351,6 +33307,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "296151",
+                             :languages ["cs"],
                              :game/name
                              "Viscounts of the West Kingdom",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -32399,11 +33356,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "128621",
+                             :languages ["en"],
                              :game/name "Viticulture",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/WrnWFA1Sysm3-nQyBe1sUA__thumb/img/udscIXtuApQ6rFYHjfAM5zMKfFs=/fit-in/200x150/filters:strip_icc()/pic2619743.jpg"},
                             #uuid "94527833-b9f1-379b-9bbc-819af3334f58"
-                            {:name "Vlkodlaci z Temného hvozdu",
+                            {:languages ["cs"],
+                             :name "Vlkodlaci z Temného hvozdu",
                              :game/id
                              #uuid "94527833-b9f1-379b-9bbc-819af3334f58",
                              :game/name "Vlkodlaci z Temného hvozdu",
@@ -32426,6 +33385,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              5,
                              :com.boardgamegeek.boardgame/id "356039",
+                             :languages ["en"],
                              :game/name "Volto",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/DblW2l83O-Pg4xGEGfiqVw__thumb/img/R6gcdrm7SpK68R1S3oeS9lTEgwg=/fit-in/200x150/filters:strip_icc()/pic6941248.png"},
@@ -32456,23 +33416,27 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "136249",
+                             :languages ["cs"],
                              :game/name "Voodoo Mania",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/pIuU7jrFF-Enu_w9X7X-PQ__thumb/img/DliaeqRjbwgoPrxJmxt7elk1YK8=/fit-in/200x150/filters:strip_icc()/pic1874725.jpg"},
                             #uuid "37698aaf-9fe5-3c21-9bfb-971b9c3907ab"
-                            {:name "Válka květů",
+                            {:languages ["cs"],
+                             :name "Válka květů",
                              :game/id
                              #uuid "37698aaf-9fe5-3c21-9bfb-971b9c3907ab",
                              :game/name "Válka květů",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "0f54dc41-016e-3ca8-96ae-af99ed1150c0"
-                            {:name "Vítejte na Měsíci!",
+                            {:languages ["cs"],
+                             :name "Vítejte na Měsíci!",
                              :game/id
                              #uuid "0f54dc41-016e-3ca8-96ae-af99ed1150c0",
                              :game/name "Vítejte na Měsíci!",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "3f1b77ab-d269-3c80-b19e-264174f68dc0"
-                            {:name
+                            {:languages ["cs"],
+                             :name
                              "Vědomostní pexeso - Filmové postavy",
                              :game/id
                              #uuid "3f1b77ab-d269-3c80-b19e-264174f68dc0",
@@ -32518,6 +33482,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "362944",
+                             :languages ["cs"],
                              :game/name
                              "War of the Ring: The Card Game",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -32549,6 +33514,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "296237",
+                             :languages ["en"],
                              :game/name "Warp's Edge",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/4W5U-pDY26c8J-dFj0zcpw__thumb/img/8x1nNSSoupbep3O27SFeKB5QOaQ=/fit-in/200x150/filters:strip_icc()/pic5115890.png"},
@@ -32603,6 +33569,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "274364",
+                             :languages ["cs"],
                              :game/name "Watergate",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/iTBogxNFa3Ymh-6ST3srsw__thumb/img/5vZps-04NqSAuUC4e6-E9M96VxE=/fit-in/200x150/filters:strip_icc()/pic4768766.jpg"},
@@ -32678,6 +33645,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "350316",
+                             :languages ["cs"],
                              :game/name
                              "Wayfarers of the South Tigris",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -32718,6 +33686,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "237179",
+                             :languages ["cs" "en"],
                              :game/name "Weather Machine",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/E8qBDKe39KEFMo-LhTNDQQ__thumb/img/jFQaWbcjoUzxS7p76LsGzg4piQk=/fit-in/200x150/filters:strip_icc()/pic6333980.jpg"},
@@ -32764,6 +33733,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "195043",
+                             :languages ["cs"],
                              :game/name "Welcome Back to the Dungeon",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Tu5hFjeX1-5EwnwjdNTaHg__thumb/img/y8At3p87JcNiUuHTiRIKgUvKOks=/fit-in/200x150/filters:strip_icc()/pic3060124.jpg"},
@@ -32810,6 +33780,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              25,
                              :com.boardgamegeek.boardgame/id "233867",
+                             :languages ["cs"],
                              :game/name "Welcome To...",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/g4XmxyKhNVdhC3QPd1purQ__thumb/img/e3bCyIvM1IOGFYnKGj2jIn5mbKY=/fit-in/200x150/filters:strip_icc()/pic3761012.jpg"},
@@ -32880,6 +33851,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "232405",
+                             :languages ["cs"],
                              :game/name "Western Legends",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/lZwgk3_MqyAmROjkz4v8Wg__thumb/img/pI0Bnq7hO-Msonh7OJkKiHGnmfI=/fit-in/200x150/filters:strip_icc()/pic6974323.png"},
@@ -32938,6 +33910,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "198454",
+                             :languages ["cs"],
                              :game/name "When I Dream",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/E7bmvTXE2dWskxFaMwXYrA__thumb/img/aR_FTYkNL8LoAijfVLmlblrUs5w=/fit-in/200x150/filters:strip_icc()/pic3747128.png"},
@@ -32972,6 +33945,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "301255",
+                             :languages ["cs"],
                              :game/name "Whistle Mountain",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/BkPVVNEJxnF2ouque0ov8A__thumb/img/eLl5tVSfUn2f95-87zcJz8rxiFk=/fit-in/200x150/filters:strip_icc()/pic5275651.jpg"},
@@ -33039,11 +34013,13 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              40,
                              :com.boardgamegeek.boardgame/id "266192",
+                             :languages ["cs"],
                              :game/name "Wingspan",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__thumb/img/VNToqgS2-pOGU6MuvIkMPKn_y-s=/fit-in/200x150/filters:strip_icc()/pic4458123.jpg"},
                             #uuid "b18e66b4-1efd-3a3d-b1a7-bc8758da1883"
-                            {:name "Winter",
+                            {:languages ["en"],
+                             :name "Winter",
                              :game/id
                              #uuid "b18e66b4-1efd-3a3d-b1a7-bc8758da1883",
                              :game/name "Winter",
@@ -33091,6 +34067,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "204138",
+                             :languages ["cs"],
                              :game/name "Women vs. Men Alias",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/gYVdt4q8QnHAAwMEPRO5MQ__thumb/img/BpmTZ3dGIJQ5AEuHAaBEkVHlQVE=/fit-in/200x150/filters:strip_icc()/pic3099069.jpg"},
@@ -33117,6 +34094,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "354729",
+                             :languages ["cs"],
                              :game/name "Wonder Woods",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/gda7nM4Qg6Qc24JlZjgGwQ__thumb/img/JJSPO9DJ5eyeqDK-N_feAdenaLs=/fit-in/200x150/filters:strip_icc()/pic6655877.jpg"},
@@ -33172,6 +34150,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "342848",
+                             :languages ["cs"],
                              :game/name
                              "World of Warcraft: Wrath of the Lich King",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -33203,6 +34182,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              25,
                              :com.boardgamegeek.boardgame/id "205885",
+                             :languages ["cs"],
                              :game/name "X nimmt!",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/uSz1S0vlBzK9hsgC5WLKxw__thumb/img/OEJ9nB1Eof-B5bbyujYfzj26AZM=/fit-in/200x150/filters:strip_icc()/pic3126004.jpg"},
@@ -33233,6 +34213,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "371981",
+                             :languages ["en"],
                              :game/name "Yokai Sketch",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/PAtKBCvSxoJGccQOVX13Fw__thumb/img/LYO-IqtylV4fS9HW-Qbc7ZCh_1Y=/fit-in/200x150/filters:strip_icc()/pic7382283.jpg"},
@@ -33268,6 +34249,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              25,
                              :com.boardgamegeek.boardgame/id "208851",
+                             :languages ["cs"],
                              :game/name
                              "Ypsilonie: Cesta do vyjmenované země",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -33315,6 +34297,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "344254",
+                             :languages ["cs"],
                              :game/name "Yummy Yummy Monster Tummy",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/oNU9yDtFMEu71YxWFp31KQ__thumb/img/8PtuX5jBV-1HI8E_Zlt79S8Ik3U=/fit-in/200x150/filters:strip_icc()/pic6326226.png"},
@@ -33340,11 +34323,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "27070",
+                             :languages
+                             ["cs" "en" "de" "fr" "es" "pl" "ru"],
                              :game/name "Zanimatch",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/cdDMkAZDlQmfcmI9TZy-ZQ__thumb/img/tQFNLVufOOla0K0w56yZKpC0e6o=/fit-in/200x150/filters:strip_icc()/pic200383.jpg"},
                             #uuid "d9ac98d5-1f4f-33c9-be02-3839e8526521"
-                            {:name
+                            {:languages [],
+                             :name
                              "Zapovězené země - průvodce hráče+vypravěče+mapa",
                              :game/id
                              #uuid "d9ac98d5-1f4f-33c9-be02-3839e8526521",
@@ -33377,6 +34363,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "355035",
+                             :languages ["cs"],
                              :game/name "Zinga",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/li-ePRTXtGZ-xPPlOcRhKg__thumb/img/eEzsa8Z8r3tYpe8eTSgHrM7gMr0=/fit-in/200x150/filters:strip_icc()/pic7029793.png"},
@@ -33447,6 +34434,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "176189",
+                             :languages ["cs"],
                              :game/name "Zombicide: Black Plague",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/kVHuMBxmathfnq42XINBQg__thumb/img/u5Fuj4SwZhXElCO3VmrNKkAeXX4=/fit-in/200x150/filters:strip_icc()/pic2482309.jpg"},
@@ -33497,6 +34485,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              5,
                              :com.boardgamegeek.boardgame/id "256952",
+                             :languages ["cs"],
                              :game/name "Zombie Kidz Evolution",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Iwv0Vg8FXIKlEr8xKsapIQ__thumb/img/LbMfaYV0-_2yRXvl6D8pjXa86IY=/fit-in/200x150/filters:strip_icc()/pic4334067.jpg"},
@@ -33547,6 +34536,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "310448",
+                             :languages ["cs"],
                              :game/name "Zombie Teenz Evolution",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/elS-EEtVF92Vk-YBqnJKeA__thumb/img/ZWbcOy6SjMcwsmeYe7Y42Nfk174=/fit-in/200x150/filters:strip_icc()/pic5733331.png"},
@@ -33609,12 +34599,14 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              120,
                              :com.boardgamegeek.boardgame/id "209671",
+                             :languages ["cs"],
                              :game/name
                              "Zona: The Secret of Chernobyl",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/z1ESt-0eluaKoVhizEv5Wg__thumb/img/cC58py-dX7nynwRRLKYTgZeraE4=/fit-in/200x150/filters:strip_icc()/pic4841453.jpg"},
                             #uuid "fe64a42a-af58-31fb-995c-d13be386acde"
-                            {:name "Zvířátkové trio",
+                            {:languages ["cs"],
+                             :name "Zvířátkové trio",
                              :game/id
                              #uuid "fe64a42a-af58-31fb-995c-d13be386acde",
                              :game/name "Zvířátkové trio",
@@ -33650,6 +34642,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "130680",
+                             :languages ["cs"],
                              :game/name "iKNOW",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/GDCDK9ZaD4AfTYf8FWoVaA__thumb/img/Vd7027iCx6W0QfvuB36TTAmVxcs=/fit-in/200x150/filters:strip_icc()/pic5885668.jpg"},
@@ -33684,17 +34677,20 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "353148",
+                             :languages ["en" "de"],
                              :game/name "reMEmber",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/ATesUJRqd03NCu5ivIeE6g__thumb/img/2Lyi627ugf5QcuUvM0N5g7EcxkA=/fit-in/200x150/filters:strip_icc()/pic6573355.jpg"},
                             #uuid "39b2e6c6-6d3c-3d3f-b382-91977578e101"
-                            {:name "Úlomky nekonečna",
+                            {:languages ["cs"],
+                             :name "Úlomky nekonečna",
                              :game/id
                              #uuid "39b2e6c6-6d3c-3d3f-b382-91977578e101",
                              :game/name "Úlomky nekonečna",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "46d80582-a16f-3d16-94db-183586b67c4d"
-                            {:name
+                            {:languages ["cs"],
+                             :name
                              "Černé historky: Příběhy z nemocnice",
                              :game/id
                              #uuid "46d80582-a16f-3d16-94db-183586b67c4d",
@@ -33702,56 +34698,65 @@
                              "Černé historky: Příběhy z nemocnice",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "74a5b53f-5a21-3df6-9c12-a9178cac6266"
-                            {:name "Česko hrou",
+                            {:languages ["cs"],
+                             :name "Česko hrou",
                              :game/id
                              #uuid "74a5b53f-5a21-3df6-9c12-a9178cac6266",
                              :game/name "Česko hrou",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "de44d30f-5885-3179-b98f-e6444cf5c8b8"
-                            {:name "Čtyři zahrady  (Four Gardens)",
+                            {:languages ["cs"],
+                             :name "Čtyři zahrady  (Four Gardens)",
                              :game/id
                              #uuid "de44d30f-5885-3179-b98f-e6444cf5c8b8",
                              :game/name
                              "Čtyři zahrady  (Four Gardens)",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "c0da0e59-bbe4-33aa-a3b6-8f1d8fbe2791"
-                            {:name "Číslo",
+                            {:languages ["cs"],
+                             :name "Číslo",
                              :game/id
                              #uuid "c0da0e59-bbe4-33aa-a3b6-8f1d8fbe2791",
                              :game/name "Číslo",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "b5e012fa-3b92-36e0-9e7f-4c53e9b7079e"
-                            {:name "Šampióni!  (Timeline Twist)",
+                            {:languages ["cs"],
+                             :name "Šampióni!  (Timeline Twist)",
                              :game/id
                              #uuid "b5e012fa-3b92-36e0-9e7f-4c53e9b7079e",
                              :game/name "Šampióni!  (Timeline Twist)",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "f2cfd58c-e406-345d-9441-3db65796d449"
-                            {:name "Šestiměstí + Družina věrných",
+                            {:languages ["de"],
+                             :name "Šestiměstí + Družina věrných",
                              :game/id
                              #uuid "f2cfd58c-e406-345d-9441-3db65796d449",
                              :game/name "Šestiměstí + Družina věrných",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "cccc00f1-53a0-383c-86e8-6c12702bb4cf"
-                            {:name "Širé pláně",
+                            {:languages ["cs"],
+                             :name "Širé pláně",
                              :game/id
                              #uuid "cccc00f1-53a0-383c-86e8-6c12702bb4cf",
                              :game/name "Širé pláně",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "ad3691c1-9c88-382f-864d-fc722e46458b"
-                            {:name "Šťastný losos",
+                            {:languages ["cs"],
+                             :name "Šťastný losos",
                              :game/id
                              #uuid "ad3691c1-9c88-382f-864d-fc722e46458b",
                              :game/name "Šťastný losos",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "decbfe58-aef9-32e8-a519-4aea3f52b5dd"
-                            {:name "Ťuk, ťuk! Podzemí!",
+                            {:languages ["cs"],
+                             :name "Ťuk, ťuk! Podzemí!",
                              :game/id
                              #uuid "decbfe58-aef9-32e8-a519-4aea3f52b5dd",
                              :game/name "Ťuk, ťuk! Podzemí!",
                              :com.boardgamegeek.boardgame/id ""},
                             #uuid "48e3f567-07af-3d60-9587-d33fbb92002a"
-                            {:name
+                            {:languages ["cs"],
+                             :name
                              "„Jedlý - nejedlý“ - dřevěná herní sada 56 dílů s předlohami",
                              :game/id
                              #uuid "48e3f567-07af-3d60-9587-d33fbb92002a",

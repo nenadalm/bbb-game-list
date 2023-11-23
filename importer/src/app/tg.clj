@@ -18,10 +18,16 @@
 (defn- doc->game-list [doc]
   (.select doc ".products-page > .product"))
 
+(def ^:private country->language-code
+  {"cz" "cs"})
+
 (defn- game->game-info [game parameters]
   (let [sku (.text (.select game "span[data-micro=sku]"))
-        bgg-id (str (get-in parameters [sku "bgg_id"]))]
+        game-data (get parameters sku)
+        bgg-id (str (get game-data "bgg_id"))
+        languages (get game-data "language_game")]
     {:name (str/trim (str/replace (.text (.select game ".name > span")) "(půjčovna)" ""))
+     :languages (mapv #(country->language-code % %) languages)
      :com.boardgamegeek.boardgame/id bgg-id}))
 
 (defn- get-parameters []

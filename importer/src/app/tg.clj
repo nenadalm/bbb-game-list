@@ -24,11 +24,12 @@
 (defn- game->game-info [game parameters]
   (let [sku (.text (.select game "span[data-micro=sku]"))
         game-data (get parameters sku)
-        bgg-id (str (get game-data "bgg_id"))
-        languages (get game-data "language_game")]
-    {:name (str/trim (str/replace (.text (.select game ".name > span")) "(půjčovna)" ""))
-     :languages (mapv #(country->language-code % %) languages)
-     :com.boardgamegeek.boardgame/id bgg-id}))
+        bgg-id (not-empty (str (get game-data "bgg_id")))
+        languages (not-empty (mapv #(country->language-code % %) (get game-data "language_game")))]
+    (cond->
+     {:name (str/trim (str/replace (.text (.select game ".name > span")) "(půjčovna)" ""))}
+      languages (assoc :languages languages)
+      bgg-id (assoc :com.boardgamegeek.boardgame/id bgg-id))))
 
 (defn- get-parameters []
   (get (j/read-value (java.net.URL. "https://tlama.fvstudio.cz/api/product/parameters")) "list"))

@@ -1233,6 +1233,10 @@
                              1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2924,
+                                                                :name
+                                                                "Auction: Dutch"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2875,
                                                                 :name
                                                                 "End Game Bonuses"}
@@ -9217,11 +9221,11 @@
                                                                 :name
                                                                 "Territory Building"}),
                              :com.boardgamegeek.boardgame/max-play-time
-                             32,
+                             20,
                              :com.boardgamegeek.boardgame/max-players
                              4,
                              :com.boardgamegeek.boardgame/min-play-time
-                             16,
+                             8,
                              :com.boardgamegeek.boardgame/id "142326",
                              :languages ["cs"],
                              :game/name "Eight-Minute Empire: Legends",
@@ -9577,11 +9581,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1020,
                                                                 :name
-                                                                "Exploration"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1033,
-                                                                :name
-                                                                "Mafia"}),
+                                                                "Exploration"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              120,
                              :com.boardgamegeek.boardgame/max-players
@@ -14057,10 +14057,6 @@
                                                                 2847,
                                                                 :name
                                                                 "Advantage Token"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2664,
-                                                                :name
-                                                                "Deck, Bag, and Pool Building"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2978,
                                                                 :name
@@ -19357,6 +19353,11 @@
                                                                 :name
                                                                 "Pattern Building"}),
                              :name "Monolyth CZ",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1009,
+                                                                :name
+                                                                "Abstract Strategy"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              30,
                              :com.boardgamegeek.boardgame/max-players
@@ -21391,7 +21392,7 @@
                              :com.boardgamegeek.boardgame/max-play-time
                              90,
                              :com.boardgamegeek.boardgame/max-players
-                             4,
+                             5,
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "164928",
@@ -31394,6 +31395,10 @@
                                                                 :name
                                                                 "Map Reduction"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2047,
+                                                                :name
+                                                                "Memory"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2019,
                                                                 :name
                                                                 "Team-Based Game"}
@@ -38419,7 +38424,6 @@
                              #uuid "4c9a3b19-02ab-3799-bce1-d0a69c5a9b3d"
                              #uuid "cadee47f-c1f2-3967-97e3-24afe46ab9ef"
                              #uuid "9519832e-f554-3010-a8ab-f837c5fab298"
-                             #uuid "c615af68-2f23-336d-bbd3-c7f8c02a133d"
                              #uuid "08eb296f-6c1c-355a-aae1-79e0f03fbcf7"
                              #uuid "1f927c3f-4487-367e-92e9-a052e83a56b2"
                              #uuid "7d15beb5-ff94-3f90-9da2-3667e353d799"
@@ -38641,6 +38645,7 @@
                              #uuid "af4f009b-95db-3e4a-8eea-dea7bd170d1a"
                              #uuid "49964193-520a-3b88-8ee9-5f53fd4fb926"
                              #uuid "15097e77-e128-3a51-ae26-bec165792257"
+                             #uuid "c615af68-2f23-336d-bbd3-c7f8c02a133d"
                              #uuid "20991b5c-db21-3dff-b4ea-b899b36516e6"
                              #uuid "44860889-512e-3da4-aa01-2c71dd3c16f8"
                              #uuid "723444a8-0ed2-32f5-a340-fecb4028a2f8"
@@ -39056,6 +39061,7 @@
                              #uuid "4f86101d-5207-3b59-b2ae-ea1c5295a7b6"
                              #uuid "c7062e7b-0c9b-3eb7-9cf1-d71a7343128d"
                              #uuid "d5c94464-b964-39de-9794-a78996eba937"
+                             #uuid "1ef06205-ebd0-36fb-be7e-bd5b6d2b1f4e"
                              #uuid "955b40d3-9ad1-3926-8c69-e53d0ab8326b"
                              #uuid "af55aa3b-2861-3fd2-a0d6-34de854ec847"
                              #uuid "18cd45b1-ba2a-32ee-b61f-e041ca42ee6b"
@@ -39189,7 +39195,6 @@
                              #uuid "cfcbdf3f-1945-378d-a710-e1989436e904"
                              #uuid "c6093e2b-8b30-3888-bed6-88f58d2ada71"
                              #uuid "d770b14c-eca2-3467-b500-e9d3fdc3c81b"
-                             #uuid "1ef06205-ebd0-36fb-be7e-bd5b6d2b1f4e"
                              #uuid "e24d6854-6a3e-38bb-99d5-0f64960353ee"
                              #uuid "9efcadf2-ca94-3a2a-ab5d-3f8d97feab54"
                              #uuid "40f087b9-9fe0-3988-a96a-d138cc6c5920"
@@ -40034,6 +40039,7 @@
                              #uuid "accf9b44-d60e-36aa-ab3e-293a0e91aed0"
                              #uuid "25b621f7-7694-329c-b479-e84107f27b8c"
                              #uuid "7d27738d-36ff-374f-86c2-9034b74ee5cc"
+                             #uuid "1ef06205-ebd0-36fb-be7e-bd5b6d2b1f4e"
                              #uuid "e8174208-0e82-3f10-9e40-41b9c05338b7"
                              #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "bd4049a7-2730-31a1-bbc9-4a077d75facc"
@@ -40218,7 +40224,6 @@
                              #uuid "ded08eef-ffd9-3dc2-8af7-295b60bbb187"
                              #uuid "cfcbdf3f-1945-378d-a710-e1989436e904"
                              #uuid "20b9e3e3-44eb-3584-8d01-1465595ca185"
-                             #uuid "1ef06205-ebd0-36fb-be7e-bd5b6d2b1f4e"
                              #uuid "59b85053-a3ac-3c1a-8f29-eaaa3baec4c3"
                              #uuid "ff06ba4c-17be-35c6-8a0f-a32efafee47c"
                              #uuid "65d96240-ed13-3343-936f-efc5e5e629d1"

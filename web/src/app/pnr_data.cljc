@@ -7988,7 +7988,9 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "406560",
-                             :game/name "Česko pro pamětníky"},
+                             :game/name "Česko pro pamětníky",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/FJlEifR0hQ9w26pNXZ5j0w__thumb/img/f3BHkX75rKQrhtHdNW7NvOYZD7o=/fit-in/200x150/filters:strip_icc()/pic7867702.jpg"},
                             #uuid "525e656a-738e-3b36-b694-1c99fc05d782"
                             {:game/id
                              #uuid "525e656a-738e-3b36-b694-1c99fc05d782",

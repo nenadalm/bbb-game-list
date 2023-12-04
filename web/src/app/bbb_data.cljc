@@ -1570,6 +1570,10 @@
                              1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2080,
+                                                                :name
+                                                                "Area Majority / Influence"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2912,
                                                                 :name
                                                                 "Contracts"}
@@ -4556,6 +4560,10 @@
                              2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2846,
+                                                                :name
+                                                                "Once-Per-Game Abilities"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2020,
                                                                 :name
                                                                 "Simultaneous Action Selection"}
@@ -9763,6 +9771,10 @@
                                                                 :name
                                                                 "Income"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                3099,
+                                                                :name
+                                                                "Multi-Use Cards"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2041,
                                                                 :name
                                                                 "Open Drafting"}
@@ -11274,6 +11286,10 @@
                                                                 :name
                                                                 "Pattern Building"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2002,
+                                                                :name
+                                                                "Tile Placement"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2897,
                                                                 :name
                                                                 "Variable Set-up"}),
@@ -12130,7 +12146,11 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1020,
                                                                 :name
-                                                                "Exploration"}),
+                                                                "Exploration"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1104,
+                                                                :name
+                                                                "Math"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              30,
                              :com.boardgamegeek.boardgame/max-players
@@ -12478,6 +12498,14 @@
                              6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2891,
+                                                                :name
+                                                                "Hidden Roles"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2685,
+                                                                :name
+                                                                "Player Elimination"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2028,
                                                                 :name
                                                                 "Role Playing"}
@@ -12652,6 +12680,10 @@
                                                                 2947,
                                                                 :name
                                                                 "Movement Points"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                3099,
+                                                                :name
+                                                                "Multi-Use Cards"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2851,
                                                                 :name
@@ -16162,6 +16194,10 @@
                                                                 :name
                                                                 "Hand Management"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2980,
+                                                                :name
+                                                                "Ladder Climbing"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2685,
                                                                 :name
                                                                 "Player Elimination"}
@@ -18074,6 +18110,10 @@
                                                                 2012,
                                                                 :name
                                                                 "Auction/Bidding"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2987,
+                                                                :name
+                                                                "Hidden Victory Points"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2915,
                                                                 :name
@@ -20462,7 +20502,11 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2874,
                                                                 :name
-                                                                "Victory Points as a Resource"}),
+                                                                "Victory Points as a Resource"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2933,
+                                                                :name
+                                                                "Worker Placement, Different Worker Types"}),
                              :name "Terra Mystica",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -20657,6 +20701,10 @@
                              1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2023,
+                                                                :name
+                                                                "Cooperative Game"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2875,
                                                                 :name
                                                                 "End Game Bonuses"}
@@ -22536,10 +22584,6 @@
                                                                 2016,
                                                                 :name
                                                                 "Secret Unit Deployment"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2820,
-                                                                :name
-                                                                "Semi-Cooperative Game"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2027,
                                                                 :name

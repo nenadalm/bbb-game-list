@@ -3300,7 +3300,11 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2874,
                                                                 :name
-                                                                "Victory Points as a Resource"}),
+                                                                "Victory Points as a Resource"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2933,
+                                                                :name
+                                                                "Worker Placement, Different Worker Types"}),
                              :name "Terra Mystica",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id

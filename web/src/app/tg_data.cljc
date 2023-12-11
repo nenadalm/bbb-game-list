@@ -2104,6 +2104,37 @@
                              "Arkham Noir: Case #2 – Called Forth By Thunder",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Mqc80gxUSuDWd1qEoeL6lA__thumb/img/wKZrVjPULQIu2ndzfMx6KuO1Cgo=/fit-in/200x150/filters:strip_icc()/pic4255476.jpg"},
+                            #uuid "59130bcd-d1d7-31e4-97e6-b6b01b40aec5"
+                            {:game/id
+                             #uuid "59130bcd-d1d7-31e4-97e6-b6b01b40aec5",
+                             :com.boardgamegeek.boardgame/min-players
+                             2,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2072,
+                                                                :name
+                                                                "Dice Rolling"}),
+                             :name "Pásovec",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1002,
+                                                                :name
+                                                                "Card Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1017,
+                                                                :name
+                                                                "Dice"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             20,
+                             :com.boardgamegeek.boardgame/max-players
+                             6,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             20,
+                             :com.boardgamegeek.boardgame/id "368109",
+                             :languages ["cs"],
+                             :game/name "Armadillo",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/DbSwPyFrvP1uGJLxItk7IA__thumb/img/lHWI9u_jU9Yx_FspPROaT4QmSVE=/fit-in/200x150/filters:strip_icc()/pic6990841.jpg"},
                             #uuid "c430478e-5c71-3e94-a330-d4764d86cffb"
                             {:game/id
                              #uuid "c430478e-5c71-3e94-a330-d4764d86cffb",
@@ -8455,7 +8486,7 @@
                              :languages ["en"],
                              :game/name "Dorfromantik: The Board Game",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Nqw3SzV4JDd64lcDgytPEg__thumb/img/SYowoPc4NsBcU6duKGUM93itzZY=/fit-in/200x150/filters:strip_icc()/pic7227691.jpg"},
+                             "https://cf.geekdo-images.com/L-RYa9tjRX4rw8BbDplkmw__thumb/img/nS7pvecFZz3mSkATNxsoHnRP7L8=/fit-in/200x150/filters:strip_icc()/pic7892868.jpg"},
                             #uuid "12218694-0010-31cc-a245-a502b7ed4b19"
                             {:game/id
                              #uuid "12218694-0010-31cc-a245-a502b7ed4b19",
@@ -36411,6 +36442,7 @@
                              #uuid "c3d75f41-0a9b-3ae4-a6bc-05786684d61e"
                              #uuid "9df1c579-aa18-332f-a0e6-704cf2b2ef3a"
                              #uuid "732f76bc-d4c3-321a-8bed-ee52a9ed87c9"
+                             #uuid "59130bcd-d1d7-31e4-97e6-b6b01b40aec5"
                              #uuid "c430478e-5c71-3e94-a330-d4764d86cffb"
                              #uuid "40f087b9-9fe0-3988-a96a-d138cc6c5920"
                              #uuid "3cce5f3e-af76-3098-ba8e-28f7bbba3f92"
@@ -37688,6 +37720,7 @@
                              #uuid "bf1bae05-137f-3598-be0c-3461041d72ed"
                              #uuid "43771435-28f6-3221-b49b-19e26d73c06f"
                              #uuid "d101317f-5da3-34d1-b370-236135bf9974"
+                             #uuid "59130bcd-d1d7-31e4-97e6-b6b01b40aec5"
                              #uuid "40f087b9-9fe0-3988-a96a-d138cc6c5920"
                              #uuid "3cce5f3e-af76-3098-ba8e-28f7bbba3f92"
                              #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
@@ -38849,6 +38882,7 @@
                              #uuid "d2c146ec-def1-3163-b6b5-0f4671dce127"
                              #uuid "9f98920b-8cb0-37ec-8d51-669877717dd9"
                              #uuid "906945d0-67aa-3e52-ad26-382a0431d46c"
+                             #uuid "59130bcd-d1d7-31e4-97e6-b6b01b40aec5"
                              #uuid "7a13cfac-835f-38bc-9277-6faf12172102"
                              #uuid "56a44472-44e3-38c3-b9f4-fe5dbce03ac0"
                              #uuid "8497566a-8959-34fe-aaa2-b597067c54ca"
@@ -39341,6 +39375,7 @@
                              #uuid "d770b14c-eca2-3467-b500-e9d3fdc3c81b"
                              #uuid "e24d6854-6a3e-38bb-99d5-0f64960353ee"
                              #uuid "9efcadf2-ca94-3a2a-ab5d-3f8d97feab54"
+                             #uuid "59130bcd-d1d7-31e4-97e6-b6b01b40aec5"
                              #uuid "40f087b9-9fe0-3988-a96a-d138cc6c5920"
                              #uuid "660cb8dd-c782-3542-8db8-9e1dc61af856"
                              #uuid "56a44472-44e3-38c3-b9f4-fe5dbce03ac0"
@@ -40165,6 +40200,7 @@
                              #uuid "c6093e2b-8b30-3888-bed6-88f58d2ada71"
                              #uuid "4f86101d-5207-3b59-b2ae-ea1c5295a7b6"
                              #uuid "9efcadf2-ca94-3a2a-ab5d-3f8d97feab54"
+                             #uuid "59130bcd-d1d7-31e4-97e6-b6b01b40aec5"
                              #uuid "40f087b9-9fe0-3988-a96a-d138cc6c5920"
                              #uuid "660cb8dd-c782-3542-8db8-9e1dc61af856"
                              #uuid "ce101a95-d774-349b-84e4-053fe3e5a3c5"

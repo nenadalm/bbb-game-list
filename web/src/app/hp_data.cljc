@@ -6979,6 +6979,52 @@
                              :game/name "Rat-a-Tat Cat",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/4nQQ9GA-1JXcxwNd-tCR8w__thumb/img/YUEFmGQnDkD4I2GdLgeZAZjflVI=/fit-in/200x150/filters:strip_icc()/pic147435.jpg"},
+                            #uuid "d78a1701-177a-38ae-bfbc-cceb9f1eb63a"
+                            {:game/id
+                             #uuid "d78a1701-177a-38ae-bfbc-cceb9f1eb63a",
+                             :com.boardgamegeek.boardgame/min-players
+                             1,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2664,
+                                                                :name
+                                                                "Deck, Bag, and Pool Building"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2959,
+                                                                :name
+                                                                "Map Addition"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2822,
+                                                                :name
+                                                                "Scenario / Mission / Campaign Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2849,
+                                                                :name
+                                                                "Tech Trees / Tech Tracks"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2015,
+                                                                :name
+                                                                "Variable Player Powers"}),
+                             :name "Obleva",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1015,
+                                                                :name
+                                                                "Civilization"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1088,
+                                                                :name
+                                                                "Industry / Manufacturing"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             120,
+                             :com.boardgamegeek.boardgame/max-players
+                             4,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             90,
+                             :com.boardgamegeek.boardgame/id "332772",
+                             :game/name "Revive",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/V0OZ9QR0pC9G5t5i9MoZTQ__thumb/img/NPtXuKlsnfPORSn6kpTcf-ZdEF0=/fit-in/200x150/filters:strip_icc()/pic6950224.jpg"},
                             #uuid "148309a1-2159-3de0-816b-266f7301dd3d"
                             {:game/id
                              #uuid "148309a1-2159-3de0-816b-266f7301dd3d",
@@ -9350,6 +9396,56 @@
                              :game/name "The Quacks of Quedlinburg",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/pH5LgRL4mNRon-2NsSDb1Q__thumb/img/E_XspsgbgrVOwOeCuZMO1S8W2rk=/fit-in/200x150/filters:strip_icc()/pic6137509.png"},
+                            #uuid "8b9e9d5e-6d45-3a59-9c0f-80ee1d8cef85"
+                            {:game/id
+                             #uuid "8b9e9d5e-6d45-3a59-9c0f-80ee1d8cef85",
+                             :com.boardgamegeek.boardgame/min-players
+                             2,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2080,
+                                                                :name
+                                                                "Area Majority / Influence"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2676,
+                                                                :name
+                                                                "Grid Movement"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2026,
+                                                                :name
+                                                                "Hexagon Grid"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2011,
+                                                                :name
+                                                                "Modular Board"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2686,
+                                                                :name
+                                                                "Take That"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2897,
+                                                                :name
+                                                                "Variable Set-up"}),
+                             :name "Vlci",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1089,
+                                                                :name
+                                                                "Animals"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1086,
+                                                                :name
+                                                                "Territory Building"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             75,
+                             :com.boardgamegeek.boardgame/max-players
+                             5,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             75,
+                             :com.boardgamegeek.boardgame/id "368058",
+                             :game/name "The Wolves",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/6irYLjUf_o0rK7E_4qI-gw__thumb/img/adKpLZnYvPO9SiZ6p-1RzgIk-98=/fit-in/200x150/filters:strip_icc()/pic6990829.png"},
                             #uuid "878cc320-1134-3cc6-8cab-7e108fe8b270"
                             {:name "This War of Mine",
                              :game/id
@@ -11234,6 +11330,7 @@
                              #uuid "3cb952af-15c6-383f-92c8-37825ededdc2"
                              #uuid "9f73e04f-2a28-3472-8431-a265330c24d2"
                              #uuid "0ec60d5c-8917-3f40-b112-a6c42456b59a"
+                             #uuid "d78a1701-177a-38ae-bfbc-cceb9f1eb63a"
                              #uuid "148309a1-2159-3de0-816b-266f7301dd3d"
                              #uuid "0de2e3c8-72b8-39d4-a562-494bf756d805"
                              #uuid "af817d47-9021-3806-800d-7ef8dab08024"
@@ -11290,6 +11387,7 @@
                              #uuid "a825e9ee-c858-3b9f-82dc-2c68495f06e4"
                              #uuid "134c5416-16b9-3118-a547-774f6df7bbcd"
                              #uuid "4a9aa376-3c03-376f-b25f-4430bd6352a7"
+                             #uuid "8b9e9d5e-6d45-3a59-9c0f-80ee1d8cef85"
                              #uuid "878cc320-1134-3cc6-8cab-7e108fe8b270"
                              #uuid "9174edea-2d8c-30ee-a424-4c2c72371e18"
                              #uuid "90a300ed-ea38-3514-b744-0c43440fa4b3"
@@ -11415,6 +11513,7 @@
                              #uuid "f34c07d8-a2a8-3a10-8e63-5059a3e9e35c"
                              #uuid "baf9b7dd-749d-37d7-888f-c84d255e682f"
                              #uuid "a8747e8a-6f71-36b4-8d89-cc80e57b68bf"
+                             #uuid "d78a1701-177a-38ae-bfbc-cceb9f1eb63a"
                              #uuid "0de2e3c8-72b8-39d4-a562-494bf756d805"
                              #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08"
                              #uuid "14a7749e-31ee-3b66-af79-5bf4b407a824"
@@ -11550,6 +11649,7 @@
                              #uuid "c3ab8870-b2d0-3f3d-a44a-120ab450ca92"
                              #uuid "134c5416-16b9-3118-a547-774f6df7bbcd"
                              #uuid "4a9aa376-3c03-376f-b25f-4430bd6352a7"
+                             #uuid "8b9e9d5e-6d45-3a59-9c0f-80ee1d8cef85"
                              #uuid "9174edea-2d8c-30ee-a424-4c2c72371e18"
                              #uuid "90a300ed-ea38-3514-b744-0c43440fa4b3"
                              #uuid "057abd33-3d4e-3b86-910f-0222e183f56e"
@@ -11742,6 +11842,7 @@
                              #uuid "d9f32343-726b-3216-b5cf-a0582b8d14bb"
                              #uuid "e5279fe2-9e7a-313b-9b5d-e2d1f6a1e8db"
                              #uuid "a25de331-0ee1-3c49-a544-820cb07931ab"
+                             #uuid "d78a1701-177a-38ae-bfbc-cceb9f1eb63a"
                              #uuid "0de2e3c8-72b8-39d4-a562-494bf756d805"
                              #uuid "03073139-0dab-349e-a8d2-e3fa11a3b6f3"
                              #uuid "6bc5f893-5eeb-33fd-86fe-73e8c61764f9"
@@ -11793,6 +11894,7 @@
                              #uuid "f944b1ee-72e5-3ea8-832f-4eaf0dde6f09"
                              #uuid "595f02eb-d247-3d88-95e4-06800f89e71a"
                              #uuid "a825e9ee-c858-3b9f-82dc-2c68495f06e4"
+                             #uuid "8b9e9d5e-6d45-3a59-9c0f-80ee1d8cef85"
                              #uuid "90a300ed-ea38-3514-b744-0c43440fa4b3"
                              #uuid "e5f11979-9a30-30ec-8084-92dd584b1214"
                              #uuid "fbbaa2e3-599e-3480-bf8a-64ef97ee61c2"
@@ -12127,6 +12229,7 @@
                              #uuid "ae7bda5b-fa73-3e1b-b30b-c81fd70b93f5"
                              #uuid "4051cae7-fb70-3a36-95fc-e3c3a11e991a"
                              #uuid "dce6433a-bef0-3dff-a22e-433b721bfc14"
+                             #uuid "8b9e9d5e-6d45-3a59-9c0f-80ee1d8cef85"
                              #uuid "fbbaa2e3-599e-3480-bf8a-64ef97ee61c2"
                              #uuid "0ec4024f-0e85-3ed0-aa2e-5260f718232c"
                              #uuid "52666523-7b49-34f0-aa87-c130e8f25a41"
@@ -12134,6 +12237,7 @@
                              #uuid "4221430b-6340-361a-bc2e-f38227da11d1"
                              #uuid "ca30646c-712d-35a2-ad50-a2003177750f"
                              #uuid "f7625727-1129-3703-96c0-442c8ac00dae"
+                             #uuid "d78a1701-177a-38ae-bfbc-cceb9f1eb63a"
                              #uuid "148309a1-2159-3de0-816b-266f7301dd3d"
                              #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08"
                              #uuid "81c1c368-bf93-30c5-8b39-bc50b2d8b215"
@@ -12376,6 +12480,7 @@
                              #uuid "4051cae7-fb70-3a36-95fc-e3c3a11e991a"
                              #uuid "e5f11979-9a30-30ec-8084-92dd584b1214"
                              #uuid "e02f28a1-7d4d-39f1-aedb-70a978a4f073"
+                             #uuid "8b9e9d5e-6d45-3a59-9c0f-80ee1d8cef85"
                              #uuid "1121199f-e1d9-3b01-869d-476f8147b7c3"
                              #uuid "fbbaa2e3-599e-3480-bf8a-64ef97ee61c2"
                              #uuid "52666523-7b49-34f0-aa87-c130e8f25a41"
@@ -12401,6 +12506,7 @@
                              #uuid "0e13524e-0d23-310c-a97e-3ef1583014b4"
                              #uuid "820f4af2-311d-382a-8fdb-6bfe520f83a0"
                              #uuid "6e8ce4f2-3cc4-37b8-9002-721e44843aaf"
+                             #uuid "d78a1701-177a-38ae-bfbc-cceb9f1eb63a"
                              #uuid "148309a1-2159-3de0-816b-266f7301dd3d"
                              #uuid "568da493-2833-3009-ad26-7108e0683081"
                              #uuid "f944b1ee-72e5-3ea8-832f-4eaf0dde6f09"

@@ -5,7 +5,7 @@
   (:import
    [org.jsoup Jsoup]))
 
-(def ^:private games-list-url "https://www.pekloneberaj.cz/category/stolni-hry/")
+(def ^:private games-list-url "https://www.pekloneberaj.cz/stolni-hry-2023/")
 
 (defn- game-list-doc [url]
   (with-open [xin (clojure.java.io/input-stream (java.net.URL. url))]

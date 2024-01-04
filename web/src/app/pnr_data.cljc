@@ -4666,6 +4666,10 @@
                                                                 :name
                                                                 "Hidden Roles"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2837,
+                                                                :name
+                                                                "Interrupts"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2011,
                                                                 :name
                                                                 "Modular Board"}
@@ -5424,7 +5428,7 @@
                              :com.boardgamegeek.boardgame/id "40251",
                              :game/name "Risk: Balance of Power",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Isf6kX2Qd9MRpE8RB8cGkw__thumb/img/tZYVg6MQZmvenfVicZgkIJlXTX0=/fit-in/200x150/filters:strip_icc()/pic679261.jpg"},
+                             nil},
                             #uuid "3cb4d334-08dc-39f9-aeb4-61c94b6afcc1"
                             {:name "Rodinná trefa",
                              :game/id

@@ -2481,13 +2481,14 @@
                              #uuid "648ffc7a-6dd1-39e8-a7f5-7ecb69cc4066",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                3002,
+                                                                :name
+                                                                "Deduction"}),
                              :name "Decrypto",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
-                                                                1009,
-                                                                :name
-                                                                "Abstract Strategy"}
-                                   #:com.boardgamegeek.category{:id
                                                                 1039,
                                                                 :name
                                                                 "Deduction"}
@@ -6994,6 +6995,10 @@
                                                                 :name
                                                                 "Map Addition"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2081,
+                                                                :name
+                                                                "Network and Route Building"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2822,
                                                                 :name
                                                                 "Scenario / Mission / Campaign Game"}
@@ -7014,7 +7019,11 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1088,
                                                                 :name
-                                                                "Industry / Manufacturing"}),
+                                                                "Industry / Manufacturing"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1016,
+                                                                :name
+                                                                "Science Fiction"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              120,
                              :com.boardgamegeek.boardgame/max-players
@@ -10947,6 +10956,10 @@
                                                                 1041,
                                                                 :name
                                                                 "Children's Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1046,
+                                                                :name
+                                                                "Fighting"}
                                    #:com.boardgamegeek.category{:id
                                                                 1024,
                                                                 :name

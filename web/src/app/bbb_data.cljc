@@ -75,7 +75,15 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
                                                                 :name
-                                                                "Auction/Bidding"}),
+                                                                "Auction/Bidding"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2041,
+                                                                :name
+                                                                "Open Drafting"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2004,
+                                                                :name
+                                                                "Set Collection"}),
                              :name "5 Towers",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -1323,7 +1331,7 @@
                              :com.boardgamegeek.boardgame/max-players
                              10,
                              :com.boardgamegeek.boardgame/min-play-time
-                             30,
+                             20,
                              :com.boardgamegeek.boardgame/id "74",
                              :languages ["en"],
                              :game/name "Apples to Apples",
@@ -9197,9 +9205,9 @@
                                                                 :name
                                                                 "Deduction"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                2047,
+                                                                3102,
                                                                 :name
-                                                                "Memory"}),
+                                                                "Questions and Answers"}),
                              :name "Hádej kdo?",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -21053,7 +21061,7 @@
                                                                 :name
                                                                 "Trivia"}),
                              :com.boardgamegeek.boardgame/max-play-time
-                             60,
+                             45,
                              :com.boardgamegeek.boardgame/max-players
                              6,
                              :com.boardgamegeek.boardgame/min-play-time
@@ -22782,6 +22790,10 @@
                              1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2838,
+                                                                :name
+                                                                "Action Drafting"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2001,
                                                                 :name
                                                                 "Action Points"}
@@ -22808,10 +22820,6 @@
                              :name "Tiletum",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
-                                                                1021,
-                                                                :name
-                                                                "Economic"}
-                                   #:com.boardgamegeek.category{:id
                                                                 1070,
                                                                 :name
                                                                 "Renaissance"}),
@@ -27697,6 +27705,7 @@
                              #uuid "9e638769-cea3-3302-ad66-52b732cdbe2e"
                              #uuid "d93a081b-6c5a-3ab8-871e-8c286cef8e0f"
                              #uuid "c37bef0d-0c7b-30a3-a439-5c9b9ae2bee5"
+                             #uuid "ac19727b-672c-352f-b393-c52a81b055cb"
                              #uuid "eaa9b08c-9718-39e9-84e8-e09ccf855ef0"
                              #uuid "3e302b86-f47c-3d22-9b4d-c253439d9970"
                              #uuid "897ee373-c9e4-32f9-a323-fe188494520b"
@@ -27799,7 +27808,6 @@
                              #uuid "ab094dfb-4f8a-37a4-8b52-9061ef896d9c"
                              #uuid "96a67278-0517-3baf-ae87-8c2b12ba5839"
                              #uuid "cbed48f7-5fef-3645-9ebc-db33807e504c"
-                             #uuid "ac19727b-672c-352f-b393-c52a81b055cb"
                              #uuid "a408c9e7-3639-3621-b65f-1f8aeea37b18"
                              #uuid "08708af1-c9c2-33fb-a3a0-4277691da74d"
                              #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
@@ -28467,6 +28475,7 @@
                              #uuid "2e994ee0-a8fc-32ef-a229-a0d74edf07cf"
                              #uuid "bdc861dc-6b29-3561-92f7-d53f184e07fc"
                              #uuid "018b1acc-9502-34ad-8479-cb3758bba5b5"
+                             #uuid "9c557202-449d-3095-b805-89c2e6e0fe50"
                              #uuid "d3618491-81dd-3a64-9350-03f0051fc678"
                              #uuid "d6175495-c80f-347a-992b-592840105369"
                              #uuid "ebb89386-c539-37db-b4a7-972b931256f7"
@@ -28537,7 +28546,6 @@
                              #uuid "12e2d12e-9e19-33ad-b08e-22ab8cc8eac5"
                              #uuid "cb4c3448-07c8-36e6-8cbd-28f45339be1d"
                              #uuid "be02937f-37a3-3696-932e-f9fc52479250"
-                             #uuid "9c557202-449d-3095-b805-89c2e6e0fe50"
                              #uuid "a1c77d4a-7ffb-3b08-865d-a6679be5016d"
                              #uuid "62326243-6ea0-3ce1-aef6-c1d285dbdc80"
                              #uuid "5cf82140-5ac1-32d4-a0fb-0cdc0068e8b4"

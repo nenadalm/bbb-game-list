@@ -2,7 +2,7 @@ const relatedAppVersion = '1'; // prop:relatedAppVersion
 const urlsToCache = ["/", "index.html", "js/app.js", "css/styles.css", "img/icon.svg", "manifest.json"]; // prop:urlsToCache
 const opaqueUrlsToCache = []; // prop:opaqueUrlsToCache
 
-const cacheKeyPrefix = 'nenadalm.life-counter.';
+const cacheKeyPrefix = 'nenadalm.bbb-games-list.';
 const cacheKey = `${cacheKeyPrefix}resources.${relatedAppVersion}`;
 const opaqueCacheKey = `${cacheKeyPrefix}opaqueResources.${relatedAppVersion}`
 

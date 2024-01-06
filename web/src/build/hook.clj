@@ -48,6 +48,6 @@
     (let [outputs (merge (file->output-name build-state)
                          (create-styles (:shadow.build/mode build-state)))]
       (spit "resources/public/manifest.json" (build.create-manifest/render outputs))
-      (spit "resources/public/index.html" (build.create-index/execute outputs))
+      (build.create-index/execute outputs)
       (spit "resources/public/worker.js" (build.create-worker/render outputs))))
   build-state)

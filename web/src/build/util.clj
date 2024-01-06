@@ -1,7 +1,9 @@
 (ns build.util
   (:require
    [clojure.java.io :as io]
-   [clojure.edn :as edn]))
+   [clojure.edn :as edn]
+   [clojure.java.shell :as shell]
+   [clojure.string :as str]))
 
 (defn- output-name [module-name file->output-name]
   (file->output-name module-name))
@@ -25,6 +27,15 @@
   (or
    (output-name path module-id->output-name)
    (str path "?v=" (asset-hash path))))
+
+(defn- sh [& args]
+  (let [result (apply shell/sh args)]
+    (if (= 0 (:exit result))
+      (str/trim-newline (:out result))
+      (throw (ex-info "Shell command failed." {:result result})))))
+
+(defn app-version []
+  (sh "git" "rev-parse" "HEAD"))
 
 (defn read-edn [f]
   (with-open [r (io/reader f)]

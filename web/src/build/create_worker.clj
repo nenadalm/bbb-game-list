@@ -57,4 +57,8 @@
   (let [projects (u/read-edn "../projects.edn")]
     (-> (slurp "./resources/private/worker.js")
         (str/replace #".*prop:urlsToCache.*" (render-urls-to-cache projects module-id->output-name))
-        (str/replace #".*prop:opaqueUrlsToCache.*" (render-opaque-urls-to-cache projects)))))
+        (str/replace #".*prop:opaqueUrlsToCache.*" (render-opaque-urls-to-cache projects))
+        (str/replace
+         #".*prop:relatedAppVersion.*"
+         (str
+          "const relatedAppVersion = \"" (u/app-version) "\";")))))

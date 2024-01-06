@@ -1,17 +1,7 @@
 (ns build.create-index
   (:require
-   [clojure.java.shell :as shell]
    [clojure.string :as str]
    [build.util :as u]))
-
-(defn- sh [& args]
-  (let [result (apply shell/sh args)]
-    (if (= 0 (:exit result))
-      (str/trim-newline (:out result))
-      (throw (ex-info "Shell command failed." {:result result})))))
-
-(defn- app-version []
-  (sh "git" "rev-parse" "HEAD"))
 
 (defn- render-project [opts module-id->output-name]
   (let [{:keys [title description project]} opts]
@@ -21,7 +11,7 @@
   <head>
     <meta charset=\"utf-8\">
     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
-    <meta name=\"app-version\" content=\"" (app-version) "\">
+    <meta name=\"app-version\" content=\"" (u/app-version) "\">
     <meta name=\"description\" content=\"" description "\">
     <title>" title "</title>
     <link rel=\"stylesheet\" href=\"" (u/asset "css/styles.css" module-id->output-name) "\">
@@ -49,7 +39,7 @@
   <head>
     <meta charset=\"utf-8\">
     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
-    <meta name=\"app-version\" content=\"" (app-version) "\">
+    <meta name=\"app-version\" content=\"" (u/app-version) "\">
     <meta name=\"description\" content=\"List of games at various locations.\">
     <title>Games - Lists</title>
     <link rel=\"icon\" href=\"" (u/asset "img/icon.svg" module-id->output-name) "\" type=\"image/svg+xml\">

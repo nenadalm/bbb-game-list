@@ -9,20 +9,20 @@
    (keep (fn [[_ game]] (:com.boardgamegeek.boardgame/thumbnail game)))
    (:game-list/games data)))
 
-(defn- urls-to-cache [projects]
+(defn- urls-to-cache [projects module-id->output-name]
   (into
    [""
     "index.html"
     "manifest.json"
     "img/icon.svg"
-    (u/asset "img/icon.svg")
-    (u/asset "js/cljs_base.js")
-    (u/asset "js/app.js")
-    (u/asset "css/styles.css")]
+    (u/asset "img/icon.svg" module-id->output-name)
+    (u/asset "js/cljs_base.js" module-id->output-name)
+    (u/asset "js/app.js" module-id->output-name)
+    (u/asset "css/styles.css" module-id->output-name)]
    (mapcat
     (fn [project]
       [(str (:project project) ".html")
-       (u/asset (str "js/" (:project project) "_app.js"))]))
+       (u/asset (str "js/" (:project project) "_app.js") module-id->output-name)]))
    projects))
 
 (defn- extract-project-thumbnails [project]
@@ -41,10 +41,10 @@
       (extract-project-thumbnails project)))
    projects))
 
-(defn- render-urls-to-cache [projects]
+(defn- render-urls-to-cache [projects module-id->output-name]
   (str
    "const urlsToCache = ["
-   (str/join "," (mapv #(str "\"" % "\"") (urls-to-cache projects)))
+   (str/join "," (mapv #(str "\"" % "\"") (urls-to-cache projects module-id->output-name)))
    "];"))
 
 (defn- render-opaque-urls-to-cache [projects]
@@ -53,11 +53,8 @@
    (str/join "," (mapv #(str "\"" % "\"") (opaque-urls-to-cache projects)))
    "];"))
 
-(defn- render [projects]
-  (-> (slurp "./resources/private/worker.js")
-      (str/replace #".*prop:urlsToCache.*" (render-urls-to-cache projects))
-      (str/replace #".*prop:opaqueUrlsToCache.*" (render-opaque-urls-to-cache projects))))
-
-(defn -main []
+(defn render [module-id->output-name]
   (let [projects (u/read-edn "../projects.edn")]
-    (println (render projects))))
+    (-> (slurp "./resources/private/worker.js")
+        (str/replace #".*prop:urlsToCache.*" (render-urls-to-cache projects module-id->output-name))
+        (str/replace #".*prop:opaqueUrlsToCache.*" (render-opaque-urls-to-cache projects)))))

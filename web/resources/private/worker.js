@@ -3,8 +3,8 @@ const urlsToCache = ["/", "index.html", "js/app.js", "css/styles.css", "img/icon
 const opaqueUrlsToCache = []; // prop:opaqueUrlsToCache
 
 const cacheKeyPrefix = 'nenadalm.life-counter.';
-const cacheKey = `${cachePrefix}resources.${relatedAppVersion}`;
-const opaqueCacheKey = `${cachePrefix}opaqueResources.${relatedAppVersion}`
+const cacheKey = `${cacheKeyPrefix}resources.${relatedAppVersion}`;
+const opaqueCacheKey = `${cacheKeyPrefix}opaqueResources.${relatedAppVersion}`
 
 function ensureHtmlVersionMatches(cache) {
     return cache.match(new Request('index.html'))

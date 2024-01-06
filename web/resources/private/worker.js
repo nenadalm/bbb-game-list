@@ -2,11 +2,12 @@ const relatedAppVersion = '1'; // prop:relatedAppVersion
 const urlsToCache = ["/", "index.html", "js/app.js", "css/styles.css", "img/icon.svg", "manifest.json"]; // prop:urlsToCache
 const opaqueUrlsToCache = []; // prop:opaqueUrlsToCache
 
-const cacheKey = `resources.${relatedAppVersion}`;
-const opaqueCacheKey = `opaqueResources.${relatedAppVersion}`
+const cacheKeyPrefix = 'nenadalm.life-counter.';
+const cacheKey = `${cachePrefix}resources.${relatedAppVersion}`;
+const opaqueCacheKey = `${cachePrefix}opaqueResources.${relatedAppVersion}`
 
 function ensureHtmlVersionMatches(cache) {
-    return cache.match(new Request('/index.html'))
+    return cache.match(new Request('index.html'))
         .then(response => response.text())
         .then(html => html.match(/<meta name="app-version" content="(.*?)">/)[1])
         .then(version => {
@@ -42,6 +43,7 @@ self.addEventListener('install', event => {
 self.addEventListener('activate', event => {
     event.waitUntil(
         caches.keys()
+            .then(keys => keys.filter(key => key.startsWith(cacheKeyPrefix)))
             .then(keys => keys.filter(key => key !== cacheKey && key !== opaqueCacheKey))
             .then(oldKeys => Promise.all(oldKeys.map(key => caches.delete(key))))
     );

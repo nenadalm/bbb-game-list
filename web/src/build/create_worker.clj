@@ -11,8 +11,7 @@
 
 (defn- urls-to-cache [projects module-id->output-name]
   (into
-   [""
-    "index.html"
+   ["index.html"
     "manifest.json"
     "img/icon.svg"
     (u/asset "img/icon.svg" module-id->output-name)

@@ -1666,6 +1666,10 @@
                                                                 :name
                                                                 "Cooperative Game"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2047,
+                                                                :name
+                                                                "Memory"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2661,
                                                                 :name
                                                                 "Push Your Luck"}),

@@ -3764,11 +3764,22 @@
                              #uuid "047559ff-5346-3b80-8cdc-d4e7eb0f9b8f",
                              :game/name
                              "Gormiti – Soubor her Gormiti – Nezlobte se Gormiti – Ohňová hora Gormiti – Kvarteto Guessin 10"},
-                            #uuid "e1777c5f-f8df-31ab-8c31-057d2053d59c"
+                            #uuid "1d1a2ae0-fb88-3712-920f-eff40e773d32"
                             {:name "Harry Potter: Game Box",
                              :game/id
-                             #uuid "e1777c5f-f8df-31ab-8c31-057d2053d59c",
-                             :game/name "Harry Potter: Game Box"},
+                             #uuid "1d1a2ae0-fb88-3712-920f-eff40e773d32",
+                             :game/name
+                             "Harry Potter Miniatures Adventure Game: Wizarding Duels Starter Box",
+                             :com.boardgamegeek.boardgame/id "411542",
+                             :com.boardgamegeek.boardgame/max-players
+                             2,
+                             :com.boardgamegeek.boardgame/min-players
+                             2,
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1047,
+                                                                :name
+                                                                "Miniatures"})},
                             #uuid "36909430-0351-3b32-85bf-6b63dfdd185a"
                             {:name "Harry Potter: Kvíz",
                              :game/id
@@ -7297,11 +7308,38 @@
                              :game/id
                              #uuid "dd4c796e-41cd-370b-afdb-4262810c9368",
                              :game/name "Tipni si! Pravda nebo lež?"},
-                            #uuid "10b69532-fd57-3f73-9d40-142fef4d8e65"
-                            {:name "Tipni si! Známe se?",
-                             :game/id
-                             #uuid "10b69532-fd57-3f73-9d40-142fef4d8e65",
-                             :game/name "Tipni si! Známe se?"},
+                            #uuid "afde8f77-5843-3220-a160-625c1950acc8"
+                            {:game/id
+                             #uuid "afde8f77-5843-3220-a160-625c1950acc8",
+                             :com.boardgamegeek.boardgame/min-players
+                             3,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2014,
+                                                                :name
+                                                                "Betting and Bluffing"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2055,
+                                                                :name
+                                                                "Paper-and-Pencil"}),
+                             :name "Tipni si! Známe se?",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1030,
+                                                                :name
+                                                                "Party Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1027,
+                                                                :name
+                                                                "Trivia"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/max-players
+                             6,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/id "410811",
+                             :game/name "Tipni si!: Známe se?"},
                             #uuid "1dc41096-3614-3064-96d1-7d7a17e5f160"
                             {:game/id
                              #uuid "1dc41096-3614-3064-96d1-7d7a17e5f160",
@@ -8530,7 +8568,7 @@
                              #uuid "65b397da-a4ad-3880-b821-4f6f9d01cac1"
                              #uuid "dd61c3dc-259e-3c43-b22e-89409499b669"
                              #uuid "047559ff-5346-3b80-8cdc-d4e7eb0f9b8f"
-                             #uuid "e1777c5f-f8df-31ab-8c31-057d2053d59c"
+                             #uuid "1d1a2ae0-fb88-3712-920f-eff40e773d32"
                              #uuid "36909430-0351-3b32-85bf-6b63dfdd185a"
                              #uuid "d2cc9608-7d76-3eb3-93d7-1debaaddb37a"
                              #uuid "d6863f31-0815-30f5-af67-6af1cfe75ed3"
@@ -8642,7 +8680,7 @@
                              #uuid "0380f4c8-9607-3ef4-8ade-916cfc0c7c3e"
                              #uuid "e54c200e-4eee-3dca-b05c-d741d5d75763"
                              #uuid "dd4c796e-41cd-370b-afdb-4262810c9368"
-                             #uuid "10b69532-fd57-3f73-9d40-142fef4d8e65"
+                             #uuid "afde8f77-5843-3220-a160-625c1950acc8"
                              #uuid "1dc41096-3614-3064-96d1-7d7a17e5f160"
                              #uuid "6b0a1558-2d3f-3253-b7d2-c81760b3d306"
                              #uuid "4e268231-46e6-3761-88eb-9e87ebbc8573"
@@ -8712,7 +8750,6 @@
                              #uuid "80c27b63-9c1e-36f5-b5f1-9f24cafd1c7a"
                              #uuid "cc7ecf4c-1fd4-3bd9-9c11-a16301458655"
                              #uuid "047559ff-5346-3b80-8cdc-d4e7eb0f9b8f"
-                             #uuid "e1777c5f-f8df-31ab-8c31-057d2053d59c"
                              #uuid "36909430-0351-3b32-85bf-6b63dfdd185a"
                              #uuid "d2cc9608-7d76-3eb3-93d7-1debaaddb37a"
                              #uuid "d6863f31-0815-30f5-af67-6af1cfe75ed3"
@@ -8752,7 +8789,6 @@
                              #uuid "9e99a680-b769-398b-8a26-03f864348bdc"
                              #uuid "e54c200e-4eee-3dca-b05c-d741d5d75763"
                              #uuid "dd4c796e-41cd-370b-afdb-4262810c9368"
-                             #uuid "10b69532-fd57-3f73-9d40-142fef4d8e65"
                              #uuid "9c006a5a-134a-337e-ace7-d2d45ece4f85"
                              #uuid "235a77be-e5b8-393f-b4c4-b961471ec0ea"
                              #uuid "39f81c69-c5bb-3117-99d4-f810f31d3b8d"
@@ -8840,6 +8876,7 @@
                              #uuid "c8f93560-ab90-3e08-af95-140ebb860697"
                              #uuid "e2257f79-e77e-34b7-87b1-a0924290c7f3"
                              #uuid "65b397da-a4ad-3880-b821-4f6f9d01cac1"
+                             #uuid "1d1a2ae0-fb88-3712-920f-eff40e773d32"
                              #uuid "c273a092-a5a1-3f22-8383-3637506a4b94"
                              #uuid "5915a81b-221d-3aa3-a64a-78a9a04a1200"
                              #uuid "d7e42284-8dbc-392b-baaf-f8545b14ad3a"
@@ -8925,6 +8962,7 @@
                              #uuid "7bc3dcd2-12c1-3ecd-abd5-8b91fb33d329"
                              #uuid "3a7f511c-194e-3707-81dd-81e27ec511c4"
                              #uuid "039128b4-9d27-3393-9744-2cc0a740cd09"
+                             #uuid "afde8f77-5843-3220-a160-625c1950acc8"
                              #uuid "1dc41096-3614-3064-96d1-7d7a17e5f160"
                              #uuid "3869917f-f9bd-38a8-9d4e-09d2c2ef7c7e"
                              #uuid "9289c959-31a0-36c2-b234-2b5c62206d8e"
@@ -8964,7 +9002,6 @@
                              #uuid "80c27b63-9c1e-36f5-b5f1-9f24cafd1c7a"
                              #uuid "cc7ecf4c-1fd4-3bd9-9c11-a16301458655"
                              #uuid "047559ff-5346-3b80-8cdc-d4e7eb0f9b8f"
-                             #uuid "e1777c5f-f8df-31ab-8c31-057d2053d59c"
                              #uuid "36909430-0351-3b32-85bf-6b63dfdd185a"
                              #uuid "d2cc9608-7d76-3eb3-93d7-1debaaddb37a"
                              #uuid "d6863f31-0815-30f5-af67-6af1cfe75ed3"
@@ -9004,7 +9041,6 @@
                              #uuid "9e99a680-b769-398b-8a26-03f864348bdc"
                              #uuid "e54c200e-4eee-3dca-b05c-d741d5d75763"
                              #uuid "dd4c796e-41cd-370b-afdb-4262810c9368"
-                             #uuid "10b69532-fd57-3f73-9d40-142fef4d8e65"
                              #uuid "9c006a5a-134a-337e-ace7-d2d45ece4f85"
                              #uuid "235a77be-e5b8-393f-b4c4-b961471ec0ea"
                              #uuid "39f81c69-c5bb-3117-99d4-f810f31d3b8d"
@@ -9030,6 +9066,7 @@
                              #uuid "c56337cc-54ed-3e22-8b76-d1092f67310c"
                              #uuid "ffac9f56-7f7f-39c1-8eee-59daf0995720"
                              #uuid "25b621f7-7694-329c-b479-e84107f27b8c"
+                             #uuid "1d1a2ae0-fb88-3712-920f-eff40e773d32"
                              #uuid "cc6dacc2-e35e-3eab-9e8e-8b9c0cfe41d5"
                              #uuid "456d479c-8791-3533-bc06-24219803ec40"
                              #uuid "ec36581d-580f-3030-bdd7-9bf6d6ef5c92"
@@ -9138,6 +9175,7 @@
                              #uuid "67b587b7-da74-3525-9fa9-f40c9307fd4b"
                              #uuid "c0d6a7e1-a2dd-3ffc-bac2-abc123f41592"
                              #uuid "9fd7dbe4-dacc-3642-859e-95f00c7e1491"
+                             #uuid "afde8f77-5843-3220-a160-625c1950acc8"
                              #uuid "1dc41096-3614-3064-96d1-7d7a17e5f160"
                              #uuid "c92dfc67-57f3-321b-9b0e-4ebb6c806560"
                              #uuid "8b053cd5-8172-3fba-9782-060e9b20781e"
@@ -9212,7 +9250,7 @@
                              #uuid "80c27b63-9c1e-36f5-b5f1-9f24cafd1c7a"
                              #uuid "cc7ecf4c-1fd4-3bd9-9c11-a16301458655"
                              #uuid "047559ff-5346-3b80-8cdc-d4e7eb0f9b8f"
-                             #uuid "e1777c5f-f8df-31ab-8c31-057d2053d59c"
+                             #uuid "1d1a2ae0-fb88-3712-920f-eff40e773d32"
                              #uuid "36909430-0351-3b32-85bf-6b63dfdd185a"
                              #uuid "d2cc9608-7d76-3eb3-93d7-1debaaddb37a"
                              #uuid "d6863f31-0815-30f5-af67-6af1cfe75ed3"
@@ -9254,7 +9292,6 @@
                              #uuid "9e99a680-b769-398b-8a26-03f864348bdc"
                              #uuid "e54c200e-4eee-3dca-b05c-d741d5d75763"
                              #uuid "dd4c796e-41cd-370b-afdb-4262810c9368"
-                             #uuid "10b69532-fd57-3f73-9d40-142fef4d8e65"
                              #uuid "9c006a5a-134a-337e-ace7-d2d45ece4f85"
                              #uuid "235a77be-e5b8-393f-b4c4-b961471ec0ea"
                              #uuid "39f81c69-c5bb-3117-99d4-f810f31d3b8d"
@@ -9348,6 +9385,7 @@
                              #uuid "c0d6a7e1-a2dd-3ffc-bac2-abc123f41592"
                              #uuid "7b1d9fe4-27bb-3db5-af9b-89f0785afc59"
                              #uuid "90a300ed-ea38-3514-b744-0c43440fa4b3"
+                             #uuid "afde8f77-5843-3220-a160-625c1950acc8"
                              #uuid "1dc41096-3614-3064-96d1-7d7a17e5f160"
                              #uuid "6b0a1558-2d3f-3253-b7d2-c81760b3d306"
                              #uuid "59f822bc-aa8e-319b-9e63-eb00919b367a"
@@ -9463,7 +9501,7 @@
                              #uuid "80c27b63-9c1e-36f5-b5f1-9f24cafd1c7a"
                              #uuid "cc7ecf4c-1fd4-3bd9-9c11-a16301458655"
                              #uuid "047559ff-5346-3b80-8cdc-d4e7eb0f9b8f"
-                             #uuid "e1777c5f-f8df-31ab-8c31-057d2053d59c"
+                             #uuid "1d1a2ae0-fb88-3712-920f-eff40e773d32"
                              #uuid "36909430-0351-3b32-85bf-6b63dfdd185a"
                              #uuid "d2cc9608-7d76-3eb3-93d7-1debaaddb37a"
                              #uuid "d6863f31-0815-30f5-af67-6af1cfe75ed3"
@@ -9506,7 +9544,6 @@
                              #uuid "9e99a680-b769-398b-8a26-03f864348bdc"
                              #uuid "e54c200e-4eee-3dca-b05c-d741d5d75763"
                              #uuid "dd4c796e-41cd-370b-afdb-4262810c9368"
-                             #uuid "10b69532-fd57-3f73-9d40-142fef4d8e65"
                              #uuid "9c006a5a-134a-337e-ace7-d2d45ece4f85"
                              #uuid "235a77be-e5b8-393f-b4c4-b961471ec0ea"
                              #uuid "39f81c69-c5bb-3117-99d4-f810f31d3b8d"
@@ -9576,6 +9613,7 @@
                              #uuid "bf9bf9b2-2886-3710-a8cd-2ab56ce77646"
                              #uuid "c0d6a7e1-a2dd-3ffc-bac2-abc123f41592"
                              #uuid "0380f4c8-9607-3ef4-8ade-916cfc0c7c3e"
+                             #uuid "afde8f77-5843-3220-a160-625c1950acc8"
                              #uuid "6b0a1558-2d3f-3253-b7d2-c81760b3d306"
                              #uuid "59f822bc-aa8e-319b-9e63-eb00919b367a"
                              #uuid "d835a1f2-2ed6-3e39-ac35-dab94d1c4ef6"

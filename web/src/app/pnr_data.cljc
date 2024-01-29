@@ -5443,7 +5443,7 @@
                              :com.boardgamegeek.boardgame/id "40251",
                              :game/name "Risk: Balance of Power",
                              :com.boardgamegeek.boardgame/thumbnail
-                             nil},
+                             "https://cf.geekdo-images.com/O2w73x4Odo2nmV8Eq2YyUg__thumb/img/snVHtiyBJ3iMczf_oUu8kT4DE1U=/fit-in/200x150/filters:strip_icc()/pic421880.jpg"},
                             #uuid "3cb4d334-08dc-39f9-aeb4-61c94b6afcc1"
                             {:name "Rodinná trefa",
                              :game/id
@@ -6127,7 +6127,11 @@
                              (list #:com.boardgamegeek.category{:id
                                                                 1064,
                                                                 :name
-                                                                "Movies / TV / Radio theme"}),
+                                                                "Movies / TV / Radio theme"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1016,
+                                                                :name
+                                                                "Science Fiction"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              60,
                              :com.boardgamegeek.boardgame/max-players
@@ -6718,7 +6722,11 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2009,
                                                                 :name
-                                                                "Trick-taking"}),
+                                                                "Trick-taking"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2897,
+                                                                :name
+                                                                "Variable Set-up"}),
                              :name "Liška podšitá duet",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -7339,7 +7347,9 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "410811",
-                             :game/name "Tipni si!: Známe se?"},
+                             :game/name "Tipni si!: Známe se?",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/MU-LBLVYwXkuyI5UtJluEQ__thumb/img/Ok4pLd7cmRwjCcC0YBw73fDS0CQ=/fit-in/200x150/filters:strip_icc()/pic7988951.jpg"},
                             #uuid "1dc41096-3614-3064-96d1-7d7a17e5f160"
                             {:game/id
                              #uuid "1dc41096-3614-3064-96d1-7d7a17e5f160",
@@ -7963,10 +7973,6 @@
                              1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
-                                                                2912,
-                                                                :name
-                                                                "Contracts"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2072,
                                                                 :name
                                                                 "Dice Rolling"}

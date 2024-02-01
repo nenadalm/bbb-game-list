@@ -35,3 +35,8 @@
  ::feature-enabled
  (fn [db [_ feature]]
    (-> db :app/features feature boolean)))
+
+(re-frame/reg-sub
+ ::view
+ (fn [db _]
+   (:view db :table)))

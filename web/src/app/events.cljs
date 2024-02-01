@@ -25,3 +25,8 @@
  (fn [db [_ only-new]]
    (assoc db
           :app.filter/only-new only-new)))
+
+(re-frame/reg-event-db
+ ::set-view
+ (fn [db [_ v]]
+   (assoc db :view v)))

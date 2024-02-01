@@ -132,17 +132,108 @@
       (for [g @(re-frame/subscribe [::subsc/game-list])]
         ^{:key (:game/id g)} [game g])]]))
 
+(defn- game-card [game]
+  [:div.card
+   [:div.card-header [title game]]
+   [:div.card-content
+    [:div
+     [thumbnail game]]
+    [:div
+     (let [min-players (:com.boardgamegeek.boardgame/min-players game)
+           max-players (:com.boardgamegeek.boardgame/max-players game)]
+       (when (and min-players max-players)
+         [:<>
+          "Players: " min-players " - " max-players
+          [:br]]))
+     (let [min-play-time (:com.boardgamegeek.boardgame/min-play-time game)
+           max-play-time (:com.boardgamegeek.boardgame/max-play-time game)]
+       (when (and min-play-time max-play-time)
+         [:<>
+          "Playing time: "
+          (if (== min-play-time max-play-time)
+            (str min-play-time)
+            (str min-play-time " - " max-play-time))
+          " min."
+          [:br]]))
+     [languages game]
+     [categories game]
+     [mechanics game]]]])
+
+(defn- keyword->str [kw]
+  (str (namespace kw) "/" (name kw)))
+
+(defn- sort-option [{:keys [text key]}]
+  [:option {:value (keyword->str key)} text])
+
+(defn- panel []
+  (let [sorting @(re-frame/subscribe [::subsc/sorting])]
+    [:<>
+     [:label
+      "Sort by "
+      [:select
+       {:value (keyword->str (:app/sort-key sorting))
+        :on-change (fn [^js e]
+                     (let [key (keyword (.-currentTarget.value e))]
+                       (re-frame/dispatch [::events/sort-by key (:app/sort-dir sorting)]))
+                     (js/console.log))}
+       [sort-option {:text "Title"
+                     :key :game/name}]
+       [sort-option {:text "Max players"
+                     :key :com.boardgamegeek.boardgame/max-players}]
+       [sort-option {:text "Min players"
+                     :key :com.boardgamegeek.boardgame/min-players}]
+       [sort-option {:text "Max playing time"
+                     :key :com.boardgamegeek.boardgame/max-play-time}]
+       [sort-option {:text "Min playing time"
+                     :key :com.boardgamegeek.boardgame/min-play-time}]]]
+     [:select
+      {:on-change (fn [^js e]
+                    (re-frame/dispatch [::events/sort-by (:app/sort-key sorting) (keyword (.-currentTarget.value e))]))}
+      {:value (name (:app/sort-dir sorting))}
+      [:option {:value "asc"} "Asc"]
+      [:option {:value "desc"} "Desc"]]]))
+
+(defn- game-list2 []
+  [:div.game-list2
+   [panel]
+   [:div.card-list
+    (for [g @(re-frame/subscribe [::subsc/game-list])]
+      ^{:key (:game/id g)} [game-card g])]])
+
+(defn- settings [view]
+  (case view
+    :list
+    [:div.settings
+     [:<>
+      [:button
+       {:on-click #(re-frame/dispatch [::events/set-view :table])}
+       "Show table"]]]
+    :table
+    [:div.settings
+     [:<>
+      [:button
+       {:on-click #(re-frame/dispatch [::events/set-view :list])}
+       "Show list"]]]))
+
+(def ^:private
+  view->component
+  {:list game-list2
+   :table game-list})
+
 (defn app [{:keys [source-label source-url]}]
-  [:<>
-   [game-list]
-   [:div.footer
-    [:p
-     "You can report bugs and request new features on  "
-     [:a {:href "https://github.com/nenadalm/bbb-game-list/issues/new"} "GitHub"]
-     "."]
-    [:p
-     "Listed games are taken from "
-     [:a {:href source-url} source-label]
-     " enriched with info from "
-     [:a {:href "https://boardgamegeek.com/"} "boardgamegeek.com"]
-     "."]]])
+  (let [view @(re-frame/subscribe [::subsc/view])
+        component (view->component view :table)]
+    [:<>
+     [settings view]
+     [component]
+     [:div.footer
+      [:p
+       "You can report bugs and request new features on  "
+       [:a {:href "https://github.com/nenadalm/bbb-game-list/issues/new"} "GitHub"]
+       "."]
+      [:p
+       "Listed games are taken from "
+       [:a {:href source-url} source-label]
+       " enriched with info from "
+       [:a {:href "https://boardgamegeek.com/"} "boardgamegeek.com"]
+       "."]]]))

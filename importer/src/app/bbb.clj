@@ -54,9 +54,11 @@
      (.select info-doc "[fs-cmsnest-collection=languages] a"))))
 
 (defn- game->game-info [game]
-  {:name (game->name game)
-   :languages (game->languages game)
-   :com.boardgamegeek.boardgame/id (game->id game)})
+  (let [languages (not-empty (game->languages game))]
+    (cond->
+     {:name (game->name game)
+      :com.boardgamegeek.boardgame/id (game->id game)}
+      languages (assoc :languages languages))))
 
 (defn games []
   (loop [url games-list-url

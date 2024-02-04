@@ -131,6 +131,8 @@
     (doseq [project projects]
       (let [games-path (str "../web/src/app/" (:project project) "_data.cljc")
             games (project->games project)]
+        (when-not (seq games)
+          (throw (ex-info (str "No games found for project \"" (:project project) "\".") {:project (:project project)})))
         (spit
          games-path
          (with-out-str

@@ -560,6 +560,10 @@
                                                                 :name
                                                                 "Pattern Building"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2004,
+                                                                :name
+                                                                "Set Collection"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2002,
                                                                 :name
                                                                 "Tile Placement"}
@@ -1311,6 +1315,10 @@
                                                                 1089,
                                                                 :name
                                                                 "Animals"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1052,
+                                                                :name
+                                                                "Arabian"}
                                    #:com.boardgamegeek.category{:id
                                                                 1017,
                                                                 :name
@@ -2242,6 +2250,10 @@
                                                                 :name
                                                                 "Cooperative Game"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2047,
+                                                                :name
+                                                                "Memory"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2661,
                                                                 :name
                                                                 "Push Your Luck"}),
@@ -2520,6 +2532,10 @@
                                                                 2027,
                                                                 :name
                                                                 "Storytelling"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2866,
+                                                                :name
+                                                                "Targeted Clues"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2019,
                                                                 :name
@@ -3792,6 +3808,10 @@
                              3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2916,
+                                                                :name
+                                                                "Alliances"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2040,
                                                                 :name
                                                                 "Hand Management"}
@@ -4177,7 +4197,7 @@
                              :com.boardgamegeek.boardgame/max-players
                              4,
                              :com.boardgamegeek.boardgame/min-play-time
-                             30,
+                             15,
                              :com.boardgamegeek.boardgame/id "40049",
                              :game/name "INTRIKY",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -8469,7 +8489,7 @@
                              :com.boardgamegeek.boardgame/id "91534",
                              :game/name "Struggle for Catan",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/zs_DfMRnLDInl3cPcJsyGg__thumb/img/ly1HnLMdjmIX8oO6-oPgIN-rGd4=/fit-in/200x150/filters:strip_icc()/pic918589.jpg"},
+                             "https://cf.geekdo-images.com/sgVlSEVdIThWUxgfzkHVEQ__thumb/img/TW0KmIhsb9qmAE6E7OM3_0fV7iw=/fit-in/200x150/filters:strip_icc()/pic7625877.jpg"},
                             #uuid "31fb2a2e-c122-385a-b46c-49640a91cf77"
                             {:game/id
                              #uuid "31fb2a2e-c122-385a-b46c-49640a91cf77",
@@ -9374,9 +9394,9 @@
                                                                 :name
                                                                 "Events"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                2900,
+                                                                2041,
                                                                 :name
-                                                                "Market"}
+                                                                "Open Drafting"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2661,
                                                                 :name
@@ -10100,6 +10120,10 @@
                                                                 :name
                                                                 "Line of Sight"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2685,
+                                                                :name
+                                                                "Player Elimination"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2078,
                                                                 :name
                                                                 "Point to Point Movement"}
@@ -10642,10 +10666,6 @@
                              1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
-                                                                2912,
-                                                                :name
-                                                                "Contracts"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2072,
                                                                 :name
                                                                 "Dice Rolling"}
@@ -12082,6 +12102,7 @@
                              #uuid "db10b1ad-2cb1-3c47-9f91-a82cf47f4918"
                              #uuid "165261a9-0183-3e53-be82-ccc197c354b8"
                              #uuid "54135fee-f9e6-33cc-a22f-926224926a9f"
+                             #uuid "c472f5e1-d19c-3b23-81cc-674bc2cca2b3"
                              #uuid "f54a3493-468c-3242-b3bc-a8c69487fd15"
                              #uuid "351afc22-dc4d-3e49-83dc-43cee54bd244"
                              #uuid "843ecaf0-bb25-3a67-af63-f8a4bc3708a3"
@@ -12159,7 +12180,6 @@
                              #uuid "f8bb3d99-7327-3230-a0af-3c48c99cffa2"
                              #uuid "7a1e450f-9cd7-3ead-9cf7-76977d58bd6f"
                              #uuid "aff8862a-8fba-39a6-86f4-ef02a3a228f9"
-                             #uuid "c472f5e1-d19c-3b23-81cc-674bc2cca2b3"
                              #uuid "548d40ad-9562-3712-a0a0-f072f66b395c"
                              #uuid "e4b769db-2a42-392d-b311-b02c3545d07d"
                              #uuid "6db176b1-017b-3430-a362-e2d6ee99cc67"

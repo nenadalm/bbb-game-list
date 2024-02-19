@@ -613,6 +613,10 @@
                                                                 :name
                                                                 "Dice Rolling"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2026,
+                                                                :name
+                                                                "Hexagon Grid"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2904,
                                                                 :name
                                                                 "Loans"}
@@ -1280,6 +1284,10 @@
                              :name "Apiary",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
+                                                                1089,
+                                                                :name
+                                                                "Animals"}
+                                   #:com.boardgamegeek.category{:id
                                                                 1016,
                                                                 :name
                                                                 "Science Fiction"}),
@@ -1584,6 +1592,10 @@
                              3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2012,
+                                                                :name
+                                                                "Auction/Bidding"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2019,
                                                                 :name
                                                                 "Team-Based Game"}
@@ -2158,7 +2170,7 @@
                                                                 2686,
                                                                 :name
                                                                 "Take That"}),
-                             :name "Safari Bar",
+                             :name "Beasty Bar",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1089,
@@ -2179,7 +2191,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "165950",
-                             :languages ["cs"],
+                             :languages ["en"],
                              :game/name "Beasty Bar",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/7_y1dbU5GCYhIRBCO0q7rg__thumb/img/WiuNMDiiM38EHOAdW5MB1ldlEJM=/fit-in/200x150/filters:strip_icc()/pic2241067.jpg"},
@@ -4496,7 +4508,7 @@
                                                                 2897,
                                                                 :name
                                                                 "Variable Set-up"}),
-                             :name "Codex Naturalis",
+                             :name "Clank!",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1022,
@@ -4513,7 +4525,6 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "201808",
-                             :languages ["cs"],
                              :game/name
                              "Clank!: A Deck-Building Adventure",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -5023,9 +5034,21 @@
                              1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2857,
+                                                                :name
+                                                                "Card Play Conflict Resolution"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2040,
                                                                 :name
                                                                 "Hand Management"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                3007,
+                                                                :name
+                                                                "Matching"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2962,
+                                                                :name
+                                                                "Move Through Deck"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2003,
                                                                 :name
@@ -5074,6 +5097,10 @@
                              1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2912,
+                                                                :name
+                                                                "Contracts"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2041,
                                                                 :name
                                                                 "Open Drafting"}
@@ -8539,7 +8566,7 @@
                              :com.boardgamegeek.boardgame/id "359318",
                              :game/name "Foxy",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/TLv8EVLIrq2MTQq9iRiK6A__thumb/img/W66UuTbfWSeziUozL-7zCez0mTA=/fit-in/200x150/filters:strip_icc()/pic6764765.jpg"},
+                             "https://cf.geekdo-images.com/FE6sz4rVTdpBDhfOGb_c1A__thumb/img/BG38GgutETKiuw51FCJYfUoqgSg=/fit-in/200x150/filters:strip_icc()/pic8035140.png"},
                             #uuid "c33b138a-1638-37cd-b6ca-eeb7c9a126b4"
                             {:game/id
                              #uuid "c33b138a-1638-37cd-b6ca-eeb7c9a126b4",
@@ -12966,7 +12993,7 @@
                                                                 2082,
                                                                 :name
                                                                 "Worker Placement"}),
-                             :name "Lucktails",
+                             :name "Lost Ruins of Arnak",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1022,
@@ -12980,6 +13007,10 @@
                                                                 1020,
                                                                 :name
                                                                 "Exploration"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1010,
+                                                                :name
+                                                                "Fantasy"}
                                    #:com.boardgamegeek.category{:id
                                                                 1097,
                                                                 :name
@@ -13409,6 +13440,10 @@
                                                                 1020,
                                                                 :name
                                                                 "Exploration"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1008,
+                                                                :name
+                                                                "Nautical"}
                                    #:com.boardgamegeek.category{:id
                                                                 1090,
                                                                 :name
@@ -16428,7 +16463,8 @@
                                                                 2017,
                                                                 :name
                                                                 "Voting"}),
-                             :name "Ready Set Bet",
+                             :name
+                             "Profanity: A Card Game For Smutty People",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1002,
@@ -16535,7 +16571,7 @@
                                                                 2019,
                                                                 :name
                                                                 "Team-Based Game"}),
-                             :name "Párty trefa",
+                             :name "Rodinná Trefa",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1039,
@@ -16671,7 +16707,15 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2055,
                                                                 :name
-                                                                "Paper-and-Pencil"}),
+                                                                "Paper-and-Pencil"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2020,
+                                                                :name
+                                                                "Simultaneous Action Selection"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2819,
+                                                                :name
+                                                                "Solo / Solitaire Game"}),
                              :name "Railroad Ink: Blazing Red Edition",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -24708,6 +24752,10 @@
                                                                 2931,
                                                                 :name
                                                                 "Auction: Fixed Placement"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2902,
+                                                                :name
+                                                                "Income"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2081,
                                                                 :name

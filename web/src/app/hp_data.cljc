@@ -3535,6 +3535,10 @@
                                                                 :name
                                                                 "Square Grid"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2002,
+                                                                :name
+                                                                "Tile Placement"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2015,
                                                                 :name
                                                                 "Variable Player Powers"}),

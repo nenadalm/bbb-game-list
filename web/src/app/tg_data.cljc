@@ -30563,7 +30563,7 @@
                              :languages ["cs"],
                              :game/name "Stranger Things: Upside Down",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/dKZ349hfEC8FFzGZ6afPDA__thumb/img/Uxw8piYc2zVsZ4ZCwrGrc1L8Mmw=/fit-in/200x150/filters:strip_icc()/pic7424640.png"},
+                             nil},
                             #uuid "ff42d2cf-049b-319e-9ff0-c232e1388e3d"
                             {:game/id
                              #uuid "ff42d2cf-049b-319e-9ff0-c232e1388e3d",

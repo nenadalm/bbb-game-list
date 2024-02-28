@@ -39,4 +39,4 @@
 (re-frame/reg-sub
  ::view
  (fn [db _]
-   (:view db :table)))
+   (get-in db [:settings :view])))

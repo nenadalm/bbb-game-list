@@ -49,6 +49,7 @@
   <body>
     Lists
     <ul>" (str/join "\n" (mapv render-project-item projects)) "</ul>
+    <div class=\"footer\"><p>Version: " (u/app-version) "</p></div>
     <script src=\"" (u/asset "js/cljs_base.js" module-id->output-name) "\"></script>
     <script src=\"" (u/asset "js/app.js" module-id->output-name) "\"></script>
     <script>app.core.init();</script>

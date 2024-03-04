@@ -4090,11 +4090,6 @@
                              :game/name "Honba za pokladem",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/u0c2qcKFO-CZXW7mTA7k1Q__thumb/img/1OWhhlIs8NwGCbW4NUkjkSgIi34=/fit-in/200x150/filters:strip_icc()/pic1436457.jpg"},
-                            #uuid "d803129a-da52-3403-b88a-1331f9bf89b1"
-                            {:name "Hospodský kvíz",
-                             :game/id
-                             #uuid "d803129a-da52-3403-b88a-1331f9bf89b1",
-                             :game/name "Hospodský kvíz"},
                             #uuid "7ae9577d-27ea-3c85-89c9-c0252f8ce36e"
                             {:name "Hra o trůny: Karetní hra",
                              :game/id
@@ -4158,10 +4153,6 @@
                                                                 1002,
                                                                 :name
                                                                 "Card Game"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1033,
-                                                                :name
-                                                                "Mafia"}
                                    #:com.boardgamegeek.category{:id
                                                                 1030,
                                                                 :name
@@ -4730,6 +4721,40 @@
                              :game/name "Kingdomino",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/3h9W8BfB_rltQ48EBmHliw__thumb/img/RGpbcY90eBcNLXbHLMBwLrr2uzo=/fit-in/200x150/filters:strip_icc()/pic3132685.png"},
+                            #uuid "7923614a-0e46-3f3d-8fcc-0e9ae658f123"
+                            {:game/id
+                             #uuid "7923614a-0e46-3f3d-8fcc-0e9ae658f123",
+                             :com.boardgamegeek.boardgame/min-players
+                             3,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2023,
+                                                                :name
+                                                                "Cooperative Game"}),
+                             :name "Hospodský kvíz",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1079,
+                                                                :name
+                                                                "Humor"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1030,
+                                                                :name
+                                                                "Party Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1027,
+                                                                :name
+                                                                "Trivia"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             40,
+                             :com.boardgamegeek.boardgame/max-players
+                             6,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/id "204801",
+                             :game/name "Kneipenquiz: Das Original",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/JHT1AXUYkXmggbngHcTpow__thumb/img/T4uw_7rc6LG8d6M7QlZscKcBNjA=/fit-in/200x150/filters:strip_icc()/pic7372358.jpg"},
                             #uuid "559ef177-2d52-31b3-839e-ce4ffb6fc4e3"
                             {:name "Konečně doma",
                              :game/id
@@ -9242,6 +9267,10 @@
                                                                 :name
                                                                 "Adventure"}
                                    #:com.boardgamegeek.category{:id
+                                                                1020,
+                                                                :name
+                                                                "Exploration"}
+                                   #:com.boardgamegeek.category{:id
                                                                 1010,
                                                                 :name
                                                                 "Fantasy"}
@@ -10601,6 +10630,10 @@
                              1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2689,
+                                                                :name
+                                                                "Action Queue"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2072,
                                                                 :name
                                                                 "Dice Rolling"}
@@ -11221,7 +11254,6 @@
                              #uuid "e29fbec4-4c71-3519-8e93-582b67df86f4"
                              #uuid "7d486371-bb65-3063-b535-ceba4189d8ed"
                              #uuid "dd1bf333-48e3-3cde-80c2-6fb824ec3563"
-                             #uuid "d803129a-da52-3403-b88a-1331f9bf89b1"
                              #uuid "7ae9577d-27ea-3c85-89c9-c0252f8ce36e"
                              #uuid "aff8862a-8fba-39a6-86f4-ef02a3a228f9"
                              #uuid "f54a3493-468c-3242-b3bc-a8c69487fd15"
@@ -11238,6 +11270,7 @@
                              #uuid "edf13d29-ad1d-330d-8ed3-ffebc19b574b"
                              #uuid "33176ca3-98ba-3dda-a023-1d31abbec418"
                              #uuid "843ecaf0-bb25-3a67-af63-f8a4bc3708a3"
+                             #uuid "7923614a-0e46-3f3d-8fcc-0e9ae658f123"
                              #uuid "559ef177-2d52-31b3-839e-ce4ffb6fc4e3"
                              #uuid "9bb24b5e-2211-35e4-8e97-bb409d4f6303"
                              #uuid "b45bf4c8-9c82-3e99-af74-91bf6ffc99f1"
@@ -11409,7 +11442,6 @@
                              #uuid "1e9952bb-e56d-3f99-a239-4658c70f4d65"
                              #uuid "dcd23433-aec6-3e20-ba0b-fc781bcc5922"
                              #uuid "e74034f2-fe54-3ab3-a118-302a9ba76f3f"
-                             #uuid "d803129a-da52-3403-b88a-1331f9bf89b1"
                              #uuid "7ae9577d-27ea-3c85-89c9-c0252f8ce36e"
                              #uuid "edf13d29-ad1d-330d-8ed3-ffebc19b574b"
                              #uuid "33176ca3-98ba-3dda-a023-1d31abbec418"
@@ -11644,6 +11676,7 @@
                              #uuid "7d486371-bb65-3063-b535-ceba4189d8ed"
                              #uuid "c472f5e1-d19c-3b23-81cc-674bc2cca2b3"
                              #uuid "f54a3493-468c-3242-b3bc-a8c69487fd15"
+                             #uuid "7923614a-0e46-3f3d-8fcc-0e9ae658f123"
                              #uuid "0579d3ee-c46f-3638-934b-1acd5670d79c"
                              #uuid "e1430e4c-80e9-31f8-9ecf-0ed7fd002067"
                              #uuid "6e8ce4f2-3cc4-37b8-9002-721e44843aaf"
@@ -11679,7 +11712,6 @@
                              #uuid "dcd23433-aec6-3e20-ba0b-fc781bcc5922"
                              #uuid "e74034f2-fe54-3ab3-a118-302a9ba76f3f"
                              #uuid "dd1bf333-48e3-3cde-80c2-6fb824ec3563"
-                             #uuid "d803129a-da52-3403-b88a-1331f9bf89b1"
                              #uuid "7ae9577d-27ea-3c85-89c9-c0252f8ce36e"
                              #uuid "edf13d29-ad1d-330d-8ed3-ffebc19b574b"
                              #uuid "33176ca3-98ba-3dda-a023-1d31abbec418"
@@ -11870,6 +11902,7 @@
                              #uuid "77019157-27a1-3008-9fce-2ae005351ccb"
                              #uuid "b637cb61-ad5a-38ad-a7c2-bb785678af37"
                              #uuid "6db176b1-017b-3430-a362-e2d6ee99cc67"
+                             #uuid "7923614a-0e46-3f3d-8fcc-0e9ae658f123"
                              #uuid "141c9f39-27f9-3e84-b303-58ac1f2e96ac"
                              #uuid "0579d3ee-c46f-3638-934b-1acd5670d79c"
                              #uuid "ecaa1394-0a12-3a94-b41e-949fe306eccd"
@@ -11947,7 +11980,6 @@
                              #uuid "1e9952bb-e56d-3f99-a239-4658c70f4d65"
                              #uuid "dcd23433-aec6-3e20-ba0b-fc781bcc5922"
                              #uuid "e74034f2-fe54-3ab3-a118-302a9ba76f3f"
-                             #uuid "d803129a-da52-3403-b88a-1331f9bf89b1"
                              #uuid "7ae9577d-27ea-3c85-89c9-c0252f8ce36e"
                              #uuid "edf13d29-ad1d-330d-8ed3-ffebc19b574b"
                              #uuid "33176ca3-98ba-3dda-a023-1d31abbec418"
@@ -12108,6 +12140,7 @@
                              #uuid "548d40ad-9562-3712-a0a0-f072f66b395c"
                              #uuid "e4b769db-2a42-392d-b311-b02c3545d07d"
                              #uuid "6db176b1-017b-3430-a362-e2d6ee99cc67"
+                             #uuid "7923614a-0e46-3f3d-8fcc-0e9ae658f123"
                              #uuid "141c9f39-27f9-3e84-b303-58ac1f2e96ac"
                              #uuid "3286f411-3994-392d-8f40-b33c3e8a2e24"
                              #uuid "9e9da29c-5207-3cc2-8277-db0c9cb05c25"
@@ -12217,7 +12250,6 @@
                              #uuid "1e9952bb-e56d-3f99-a239-4658c70f4d65"
                              #uuid "dcd23433-aec6-3e20-ba0b-fc781bcc5922"
                              #uuid "e74034f2-fe54-3ab3-a118-302a9ba76f3f"
-                             #uuid "d803129a-da52-3403-b88a-1331f9bf89b1"
                              #uuid "7ae9577d-27ea-3c85-89c9-c0252f8ce36e"
                              #uuid "edf13d29-ad1d-330d-8ed3-ffebc19b574b"
                              #uuid "33176ca3-98ba-3dda-a023-1d31abbec418"
@@ -12380,6 +12412,7 @@
                              #uuid "36749cc5-01bd-3292-aaaf-44525fc6ed7b"
                              #uuid "eaa9b08c-9718-39e9-84e8-e09ccf855ef0"
                              #uuid "dd6f7a14-de47-37f2-bb22-bd37cf04e69b"
+                             #uuid "7923614a-0e46-3f3d-8fcc-0e9ae658f123"
                              #uuid "f9d69482-936d-3195-9705-beedee2957b2"
                              #uuid "a8747e8a-6f71-36b4-8d89-cc80e57b68bf"
                              #uuid "99060139-4d5e-36c5-9110-0c35b80fc62b"

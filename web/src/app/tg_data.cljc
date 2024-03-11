@@ -4012,6 +4012,55 @@
                              :game/name "Blossoms",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/FKhEbQXjYoC2rSapJXRsig__thumb/img/OubR4Yb07OaeEpof814Wo2sGhM4=/fit-in/200x150/filters:strip_icc()/pic4295665.jpg"},
+                            #uuid "e1fc9954-947d-357c-964d-6258c74f2959"
+                            {:game/id
+                             #uuid "e1fc9954-947d-357c-964d-6258c74f2959",
+                             :com.boardgamegeek.boardgame/min-players
+                             2,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2887,
+                                                                :name
+                                                                "Catch the Leader"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2060,
+                                                                :name
+                                                                "Pattern Recognition"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2831,
+                                                                :name
+                                                                "Real-Time"}),
+                             :name "Blue Banana",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1032,
+                                                                :name
+                                                                "Action / Dexterity"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1002,
+                                                                :name
+                                                                "Card Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1037,
+                                                                :name
+                                                                "Real-time"}),
+                             :com.boardgamegeek.boardgame/max-players
+                             5,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             20,
+                             :com.boardgamegeek.boardgame/id "288424",
+                             :languages
+                             ["cs"
+                              "de"
+                              "fr"
+                              "slovenský"
+                              "maďarský"
+                              "polský"
+                              "rumunský"
+                              "nl"],
+                             :game/name "Blue Banana",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/o6Oo-ZXKPW8_7Qae7mOZ_Q__thumb/img/AKNErqIVg6ONXKjGe0t9uoVPYUk=/fit-in/200x150/filters:strip_icc()/pic4960025.jpg"},
                             #uuid "86730855-0097-3994-8bf6-f05e109b4b0f"
                             {:game/id
                              #uuid "86730855-0097-3994-8bf6-f05e109b4b0f",
@@ -9028,7 +9077,7 @@
                              :languages ["en"],
                              :game/name "Dorfromantik: The Board Game",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/L-RYa9tjRX4rw8BbDplkmw__thumb/img/nS7pvecFZz3mSkATNxsoHnRP7L8=/fit-in/200x150/filters:strip_icc()/pic7892868.jpg"},
+                             "https://cf.geekdo-images.com/Nqw3SzV4JDd64lcDgytPEg__thumb/img/SYowoPc4NsBcU6duKGUM93itzZY=/fit-in/200x150/filters:strip_icc()/pic7227691.jpg"},
                             #uuid "12218694-0010-31cc-a245-a502b7ed4b19"
                             {:game/id
                              #uuid "12218694-0010-31cc-a245-a502b7ed4b19",
@@ -9895,6 +9944,81 @@
                              :game/name "El Grande",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/RRKDHaYtFPHhczkUDcHOmg__thumb/img/XPcVtsZPITv5qe3IXpzMKa5RSYA=/fit-in/200x150/filters:strip_icc()/pic7906240.jpg"},
+                            #uuid "805bace7-4667-3eb1-b90b-d680cd215d97"
+                            {:game/id
+                             #uuid "805bace7-4667-3eb1-b90b-d680cd215d97",
+                             :com.boardgamegeek.boardgame/min-players
+                             1,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2001,
+                                                                :name
+                                                                "Action Points"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2023,
+                                                                :name
+                                                                "Cooperative Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2072,
+                                                                :name
+                                                                "Dice Rolling"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2078,
+                                                                :name
+                                                                "Point to Point Movement"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2948,
+                                                                :name
+                                                                "Resource to Move"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2028,
+                                                                :name
+                                                                "Role Playing"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2819,
+                                                                :name
+                                                                "Solo / Solitaire Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2853,
+                                                                :name
+                                                                "Stat Check Resolution"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2015,
+                                                                :name
+                                                                "Variable Player Powers"}),
+                             :name "Eldritch Horror + rozšíření",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1022,
+                                                                :name
+                                                                "Adventure"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1046,
+                                                                :name
+                                                                "Fighting"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1024,
+                                                                :name
+                                                                "Horror"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1093,
+                                                                :name
+                                                                "Novel-based"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1097,
+                                                                :name
+                                                                "Travel"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             240,
+                             :com.boardgamegeek.boardgame/max-players
+                             8,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             120,
+                             :com.boardgamegeek.boardgame/id "146021",
+                             :languages ["cs"],
+                             :game/name "Eldritch Horror",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/oxdsZKIX5_3ovDo38EIaeg__thumb/img/I1oCwOcGxAOVx2VE2LcXuKWoLvY=/fit-in/200x150/filters:strip_icc()/pic1872452.jpg"},
                             #uuid "c0b2ebd9-f170-3134-8825-152bbf5dc18f"
                             {:game/id
                              #uuid "c0b2ebd9-f170-3134-8825-152bbf5dc18f",
@@ -38648,6 +38772,7 @@
                              #uuid "ebca33bc-e7c8-3184-8102-aec5a1c7ea76"
                              #uuid "9c343e26-e432-3535-8d4e-9e13cf274ee8"
                              #uuid "bf934921-f5a5-3742-96e2-11b1db348667"
+                             #uuid "e1fc9954-947d-357c-964d-6258c74f2959"
                              #uuid "86730855-0097-3994-8bf6-f05e109b4b0f"
                              #uuid "a1700f15-7f7d-3caa-86a2-0ff8d58ac84b"
                              #uuid "8a55d10a-eaaf-3da1-8c97-baec9e64e35f"
@@ -38778,6 +38903,7 @@
                              #uuid "d0fab788-2975-3b43-b709-97ff09ecbbca"
                              #uuid "1ef06205-ebd0-36fb-be7e-bd5b6d2b1f4e"
                              #uuid "c0e511bb-f6d7-36ad-b146-87534b398bcd"
+                             #uuid "805bace7-4667-3eb1-b90b-d680cd215d97"
                              #uuid "c0b2ebd9-f170-3134-8825-152bbf5dc18f"
                              #uuid "e8ffc938-d259-3b28-a666-523cc1c80a5a"
                              #uuid "bfe4f9ac-312a-3ba5-b00d-a83cc2c20c6b"
@@ -39739,6 +39865,7 @@
                              #uuid "0e13524e-0d23-310c-a97e-3ef1583014b4"
                              #uuid "7b206828-146d-3340-82e3-5a3fec9830ce"
                              #uuid "408b8670-c241-3f45-9b76-b04a8a5d78f3"
+                             #uuid "805bace7-4667-3eb1-b90b-d680cd215d97"
                              #uuid "c0b2ebd9-f170-3134-8825-152bbf5dc18f"
                              #uuid "e8ffc938-d259-3b28-a666-523cc1c80a5a"
                              #uuid "374e6f87-7fb2-320e-be20-6ff4862ec4f4"
@@ -39974,6 +40101,7 @@
                              #uuid "5bfc6815-1e5f-3bed-88e3-c3f48ddf26de"
                              #uuid "ebca33bc-e7c8-3184-8102-aec5a1c7ea76"
                              #uuid "bf934921-f5a5-3742-96e2-11b1db348667"
+                             #uuid "e1fc9954-947d-357c-964d-6258c74f2959"
                              #uuid "86730855-0097-3994-8bf6-f05e109b4b0f"
                              #uuid "a1700f15-7f7d-3caa-86a2-0ff8d58ac84b"
                              #uuid "8a55d10a-eaaf-3da1-8c97-baec9e64e35f"
@@ -41023,6 +41151,7 @@
                              #uuid "d90302b3-1265-3d0a-b705-a54526dc0ebf"
                              #uuid "ce101a95-d774-349b-84e4-053fe3e5a3c5"
                              #uuid "52666523-7b49-34f0-aa87-c130e8f25a41"
+                             #uuid "e1fc9954-947d-357c-964d-6258c74f2959"
                              #uuid "86730855-0097-3994-8bf6-f05e109b4b0f"
                              #uuid "d3c109e9-3e98-31f9-9a48-d3381aed20f1"
                              #uuid "ea1e9a95-a0c8-3352-ac3d-331b07064cf8"
@@ -41280,6 +41409,7 @@
                              #uuid "c7b74e13-dff8-3831-98f4-1d81198c1337"
                              #uuid "716d9144-3975-3590-ad30-b65f0a10a42f"
                              #uuid "b8b0fd7a-104b-3981-8114-1003c63e6017"
+                             #uuid "805bace7-4667-3eb1-b90b-d680cd215d97"
                              #uuid "813c39fd-d53b-3512-a656-7c747e1b82bd"
                              #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "bd4049a7-2730-31a1-bbc9-4a077d75facc"
@@ -41702,6 +41832,7 @@
                              #uuid "803d7c13-7f8b-31e2-a73e-3382b8baebaa"
                              #uuid "cb11cb39-5be0-3a2d-9368-c3ae992edb85"
                              #uuid "bf934921-f5a5-3742-96e2-11b1db348667"
+                             #uuid "e1fc9954-947d-357c-964d-6258c74f2959"
                              #uuid "86730855-0097-3994-8bf6-f05e109b4b0f"
                              #uuid "b6c903eb-7705-3a7f-a618-e21540f101a2"
                              #uuid "12017920-a8e9-3112-b293-2f12ade395a1"
@@ -42245,6 +42376,7 @@
                              #uuid "83ad4685-b1e3-3677-911a-6839874b3310"
                              #uuid "0a4d85e2-2b97-3ffd-a1d4-9ffe55f8f5d1"
                              #uuid "9b237584-654f-31ef-a4a8-1c77510b4492"
+                             #uuid "805bace7-4667-3eb1-b90b-d680cd215d97"
                              #uuid "390a8b92-a855-31c5-8109-9468dfed0dd1"
                              #uuid "d6eb0823-dd11-3f46-9fbb-b010bdfadafa"
                              #uuid "7079890b-bb34-3f48-b263-6220df486355"
@@ -42270,6 +42402,7 @@
                              #uuid "062d0b76-da24-33fd-8000-e6b3dc70abd5"
                              #uuid "13789f73-4da7-347b-90b1-3ef4db63b8b8"
                              #uuid "836f059b-9ba6-3257-a52e-692011f59f88"
+                             #uuid "e1fc9954-947d-357c-964d-6258c74f2959"
                              #uuid "32f4f482-0b39-33c4-bc8b-b8b1ab3fdfa4"
                              #uuid "ba7c397e-f99f-3591-9fb6-46185e65fc43"
                              #uuid "8497566a-8959-34fe-aaa2-b597067c54ca"
@@ -43179,6 +43312,7 @@
                              #uuid "580b8ca8-1612-3624-91a8-07e586fce26e"
                              #uuid "716d9144-3975-3590-ad30-b65f0a10a42f"
                              #uuid "0e63d8d5-e6e8-3eba-bd68-4db21f8bce14"
+                             #uuid "805bace7-4667-3eb1-b90b-d680cd215d97"
                              #uuid "390a8b92-a855-31c5-8109-9468dfed0dd1"
                              #uuid "6a130755-be8d-352f-b47b-6dc976d07388"
                              #uuid "fb51ee1e-0d41-39bc-8144-862f9f46a475"

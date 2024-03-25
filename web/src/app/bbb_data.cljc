@@ -1351,6 +1351,10 @@
                              1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2689,
+                                                                :name
+                                                                "Action Queue"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2875,
                                                                 :name
                                                                 "End Game Bonuses"}
@@ -5333,6 +5337,10 @@
                                                                 :name
                                                                 "Line of Sight"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2959,
+                                                                :name
+                                                                "Map Addition"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2011,
                                                                 :name
                                                                 "Modular Board"}
@@ -6658,7 +6666,7 @@
                              :languages ["cs"],
                              :game/name "Drop It",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/kkF3MJrPU-byzAlFbxGYew__thumb/img/y0YSRjiGXFEawazsYFmVVoD3Q94=/fit-in/200x150/filters:strip_icc()/pic3958813.jpg"},
+                             "https://cf.geekdo-images.com/CwlOEAEzD-O09vdbvyD2Gw__thumb/img/MlBFEI8Stn8fmmHhF9Wgym9PHVU=/fit-in/200x150/filters:strip_icc()/pic7988716.jpg"},
                             #uuid "bbb13ad5-3267-3584-bfdf-e3ae4f92849b"
                             {:game/id
                              #uuid "bbb13ad5-3267-3584-bfdf-e3ae4f92849b",
@@ -11642,7 +11650,11 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2002,
                                                                 :name
-                                                                "Tile Placement"}),
+                                                                "Tile Placement"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2015,
+                                                                :name
+                                                                "Variable Player Powers"}),
                              :name "Karak",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -19168,7 +19180,7 @@
                                                                 2685,
                                                                 :name
                                                                 "Player Elimination"}),
-                             :name "Skull and Roses",
+                             :name "Skull",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1023,
@@ -21627,10 +21639,6 @@
                              1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
-                                                                2023,
-                                                                :name
-                                                                "Cooperative Game"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2875,
                                                                 :name
                                                                 "End Game Bonuses"}
@@ -23071,10 +23079,6 @@
                                                                 2040,
                                                                 :name
                                                                 "Hand Management"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2980,
-                                                                :name
-                                                                "Ladder Climbing"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2019,
                                                                 :name
@@ -26068,6 +26072,10 @@
                              2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2041,
+                                                                :name
+                                                                "Open Drafting"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2004,
                                                                 :name
                                                                 "Set Collection"}

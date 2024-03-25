@@ -569,10 +569,6 @@
                                                                 :name
                                                                 "Alliances"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                2080,
-                                                                :name
-                                                                "Area Majority / Influence"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2046,
                                                                 :name
                                                                 "Area Movement"}
@@ -608,14 +604,6 @@
                                                                 2844,
                                                                 :name
                                                                 "Order Counters"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2858,
-                                                                :name
-                                                                "Prisoner's Dilemma"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2876,
-                                                                :name
-                                                                "Race"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2020,
                                                                 :name
@@ -1781,13 +1769,13 @@
                              :name "Arboretum",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
-                                                                1023,
-                                                                :name
-                                                                "Bluffing"}
-                                   #:com.boardgamegeek.category{:id
                                                                 1002,
                                                                 :name
-                                                                "Card Game"}),
+                                                                "Card Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1098,
+                                                                :name
+                                                                "Number"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              30,
                              :com.boardgamegeek.boardgame/max-players
@@ -1901,6 +1889,10 @@
                              1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2689,
+                                                                :name
+                                                                "Action Queue"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2875,
                                                                 :name
                                                                 "End Game Bonuses"}
@@ -18638,6 +18630,12 @@
                              :game/name "Looterz: Rigor Mortis",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/KfbxC-iuFqW4_RQzdPlxAw__thumb/img/zPwWjIRxZT_SCr2yRtPAGGoUSKc=/fit-in/200x150/filters:strip_icc()/pic4286196.png"},
+                            #uuid "d15db2f3-6fbd-33ac-bbdf-28413e691b44"
+                            {:languages ["cs"],
+                             :name "Lords of Ragnarök CZ",
+                             :game/id
+                             #uuid "d15db2f3-6fbd-33ac-bbdf-28413e691b44",
+                             :game/name "Lords of Ragnarök CZ"},
                             #uuid "350f09c9-73d0-3aee-a367-78217c7f6186"
                             {:game/id
                              #uuid "350f09c9-73d0-3aee-a367-78217c7f6186",
@@ -20738,11 +20736,11 @@
                                                                 :name
                                                                 "Spies/Secret Agents"}),
                              :com.boardgamegeek.boardgame/max-play-time
-                             75,
+                             60,
                              :com.boardgamegeek.boardgame/max-players
                              5,
                              :com.boardgamegeek.boardgame/min-play-time
-                             45,
+                             60,
                              :com.boardgamegeek.boardgame/id "284653",
                              :languages ["cs"],
                              :game/name
@@ -21245,7 +21243,11 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2055,
                                                                 :name
-                                                                "Paper-and-Pencil"}),
+                                                                "Paper-and-Pencil"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                3113,
+                                                                :name
+                                                                "Spelling"}),
                              :name "Motamo",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -32538,10 +32540,6 @@
                              1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
-                                                                2023,
-                                                                :name
-                                                                "Cooperative Game"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2875,
                                                                 :name
                                                                 "End Game Bonuses"}
@@ -38188,9 +38186,21 @@
                                                                 :name
                                                                 "Grid Coverage"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2904,
+                                                                :name
+                                                                "Loans"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2041,
+                                                                :name
+                                                                "Open Drafting"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2819,
                                                                 :name
                                                                 "Solo / Solitaire Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2940,
+                                                                :name
+                                                                "Square Grid"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2002,
                                                                 :name
@@ -38203,9 +38213,9 @@
                                                                 :name
                                                                 "Ancient"}
                                    #:com.boardgamegeek.category{:id
-                                                                1029,
+                                                                1086,
                                                                 :name
-                                                                "City Building"}),
+                                                                "Territory Building"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              70,
                              :com.boardgamegeek.boardgame/max-players
@@ -39337,6 +39347,7 @@
                              #uuid "bf60676c-d80e-352e-b49d-1a33b3f3bc42"
                              #uuid "319955cb-2108-3a42-87d0-8f47850fc5a5"
                              #uuid "d35972eb-51dc-3248-b7b9-3ea187439560"
+                             #uuid "d15db2f3-6fbd-33ac-bbdf-28413e691b44"
                              #uuid "350f09c9-73d0-3aee-a367-78217c7f6186"
                              #uuid "d2803767-57b9-3b92-8cc4-7214938eb52b"
                              #uuid "28eb0c35-a26a-3850-b71e-053581f6d64a"
@@ -39909,6 +39920,7 @@
                              #uuid "94e0de20-7514-3900-9426-d0576dda4f4a"
                              #uuid "69cbea61-52e9-3a03-a680-54210b5a5c03"
                              #uuid "319955cb-2108-3a42-87d0-8f47850fc5a5"
+                             #uuid "d15db2f3-6fbd-33ac-bbdf-28413e691b44"
                              #uuid "f778a033-def5-376d-bd08-f8111bc00e4f"
                              #uuid "f7947a49-4872-37b1-af00-82ddfa8f2d66"
                              #uuid "28344d75-ba38-38c1-bef0-7945ca2d3a34"
@@ -40842,6 +40854,7 @@
                              #uuid "94e0de20-7514-3900-9426-d0576dda4f4a"
                              #uuid "69cbea61-52e9-3a03-a680-54210b5a5c03"
                              #uuid "319955cb-2108-3a42-87d0-8f47850fc5a5"
+                             #uuid "d15db2f3-6fbd-33ac-bbdf-28413e691b44"
                              #uuid "f778a033-def5-376d-bd08-f8111bc00e4f"
                              #uuid "f7947a49-4872-37b1-af00-82ddfa8f2d66"
                              #uuid "28344d75-ba38-38c1-bef0-7945ca2d3a34"
@@ -41773,6 +41786,7 @@
                              #uuid "94e0de20-7514-3900-9426-d0576dda4f4a"
                              #uuid "69cbea61-52e9-3a03-a680-54210b5a5c03"
                              #uuid "319955cb-2108-3a42-87d0-8f47850fc5a5"
+                             #uuid "d15db2f3-6fbd-33ac-bbdf-28413e691b44"
                              #uuid "f778a033-def5-376d-bd08-f8111bc00e4f"
                              #uuid "f7947a49-4872-37b1-af00-82ddfa8f2d66"
                              #uuid "28344d75-ba38-38c1-bef0-7945ca2d3a34"
@@ -42415,7 +42429,6 @@
                              #uuid "55b795d7-d8c7-3b09-8d1a-ec5e3c0c5ace"
                              #uuid "0c175e5e-1d3c-3a99-ad7d-dc689b05a3d7"
                              #uuid "81a6c906-52c9-30a1-ac1a-b703b0ce6d5c"
-                             #uuid "9ca2fb7a-a3f2-32d0-9a02-238d51d2781e"
                              #uuid "c42121cb-10e7-3942-8c8c-31dd4d3ca9c0"
                              #uuid "baf9b7dd-749d-37d7-888f-c84d255e682f"
                              #uuid "ce164ec5-d7aa-3247-b9f2-cfb37eb595eb"
@@ -42507,6 +42520,7 @@
                              #uuid "f34c07d8-a2a8-3a10-8e63-5059a3e9e35c"
                              #uuid "088f7a46-b531-3b14-ae5b-dcbb5fc02670"
                              #uuid "4f58ae3c-af6d-3621-9cbe-fa3962eab6a0"
+                             #uuid "9ca2fb7a-a3f2-32d0-9a02-238d51d2781e"
                              #uuid "a136b6ff-012b-3a9d-8faf-8fd7a5009e28"
                              #uuid "baeee031-ef6c-3119-8a34-b8a985cb373a"
                              #uuid "77a40be2-d1ee-324b-8ff0-df7bac2ecaa4"
@@ -42714,6 +42728,7 @@
                              #uuid "94e0de20-7514-3900-9426-d0576dda4f4a"
                              #uuid "69cbea61-52e9-3a03-a680-54210b5a5c03"
                              #uuid "319955cb-2108-3a42-87d0-8f47850fc5a5"
+                             #uuid "d15db2f3-6fbd-33ac-bbdf-28413e691b44"
                              #uuid "f778a033-def5-376d-bd08-f8111bc00e4f"
                              #uuid "f7947a49-4872-37b1-af00-82ddfa8f2d66"
                              #uuid "28344d75-ba38-38c1-bef0-7945ca2d3a34"
@@ -43315,6 +43330,7 @@
                              #uuid "f909880a-375a-3af0-957e-28c4a09bf83e"
                              #uuid "207ce45d-a4c3-30dc-80c6-3241182256e7"
                              #uuid "3384a03c-665a-3116-a474-cf5d4406c85a"
+                             #uuid "9ca2fb7a-a3f2-32d0-9a02-238d51d2781e"
                              #uuid "baf9b7dd-749d-37d7-888f-c84d255e682f"
                              #uuid "baeee031-ef6c-3119-8a34-b8a985cb373a"
                              #uuid "4ae48a68-3d4f-3c45-bde8-921047297bc6"
@@ -43364,7 +43380,6 @@
                              #uuid "3fe766de-a82f-37d1-a6e3-e1132b58ca3f"
                              #uuid "8e634999-001a-353f-bf77-b0bc3f1e2cfd"
                              #uuid "ebe52470-edc4-3691-a597-c4891e04962c"
-                             #uuid "9ca2fb7a-a3f2-32d0-9a02-238d51d2781e"
                              #uuid "653884e6-f793-3fb0-8148-8584248708db"
                              #uuid "92d5b588-3e72-383d-af4e-56444ae949a5"
                              #uuid "400e254b-cfaf-3ab6-aca8-85902f7690d4"

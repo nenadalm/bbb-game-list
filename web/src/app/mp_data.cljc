@@ -1569,7 +1569,11 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2002,
                                                                 :name
-                                                                "Tile Placement"}),
+                                                                "Tile Placement"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2015,
+                                                                :name
+                                                                "Variable Player Powers"}),
                              :name "Karak",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -2455,6 +2459,10 @@
                                                                 :name
                                                                 "Hand Management"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2915,
+                                                                :name
+                                                                "Negotiation"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2078,
                                                                 :name
                                                                 "Point to Point Movement"}
@@ -2466,6 +2474,10 @@
                                                                 2884,
                                                                 :name
                                                                 "Sudden Death Ending"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2686,
+                                                                :name
+                                                                "Take That"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2015,
                                                                 :name
@@ -2484,6 +2496,10 @@
                                                                 1010,
                                                                 :name
                                                                 "Fantasy"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1026,
+                                                                :name
+                                                                "Negotiation"}
                                    #:com.boardgamegeek.category{:id
                                                                 1086,
                                                                 :name
@@ -2722,7 +2738,7 @@
                             {:game/id
                              #uuid "14a7749e-31ee-3b66-af79-5bf4b407a824",
                              :com.boardgamegeek.boardgame/min-players
-                             1,
+                             2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -4161,7 +4177,6 @@
                              #uuid "397314e0-31af-3c7f-ba2e-cc1955a324c9"
                              #uuid "06f44a02-a372-340e-96f1-70be40f68cdd"
                              #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08"
-                             #uuid "14a7749e-31ee-3b66-af79-5bf4b407a824"
                              #uuid "f944b1ee-72e5-3ea8-832f-4eaf0dde6f09"
                              #uuid "63e5002f-f8a6-36bd-81b5-2f817477eecf"
                              #uuid "e5f11979-9a30-30ec-8084-92dd584b1214"
@@ -4195,6 +4210,7 @@
                              #uuid "645ab7f6-09eb-3401-988d-97cd930668c1"
                              #uuid "8af65315-b94d-3484-be10-eaf75cc6d55a"
                              #uuid "6e6f4eb8-c896-3609-ae50-49ede7fbf6ad"
+                             #uuid "14a7749e-31ee-3b66-af79-5bf4b407a824"
                              #uuid "d5fd1c48-4bc6-3542-8805-4964fab16e05"
                              #uuid "1121199f-e1d9-3b01-869d-476f8147b7c3"
                              #uuid "568da493-2833-3009-ad26-7108e0683081"

@@ -58,10 +58,6 @@
                                                                 :name
                                                                 "Alliances"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                2080,
-                                                                :name
-                                                                "Area Majority / Influence"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2046,
                                                                 :name
                                                                 "Area Movement"}
@@ -97,14 +93,6 @@
                                                                 2844,
                                                                 :name
                                                                 "Order Counters"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2858,
-                                                                :name
-                                                                "Prisoner's Dilemma"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2876,
-                                                                :name
-                                                                "Race"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2020,
                                                                 :name
@@ -574,6 +562,10 @@
                              1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2689,
+                                                                :name
+                                                                "Action Queue"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2875,
                                                                 :name
                                                                 "End Game Bonuses"}
@@ -6154,6 +6146,10 @@
                                                                 :name
                                                                 "Card Game"}
                                    #:com.boardgamegeek.category{:id
+                                                                1041,
+                                                                :name
+                                                                "Children's Game"}
+                                   #:com.boardgamegeek.category{:id
                                                                 1039,
                                                                 :name
                                                                 "Deduction"}
@@ -7696,10 +7692,47 @@
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/_89TPntfbaK-kgKqP-gV_A__thumb/img/BvoMwTrrPRq8uN3ytKUA74oxv_U=/fit-in/200x150/filters:strip_icc()/pic2602679.jpg"},
                             #uuid "9c006a5a-134a-337e-ace7-d2d45ece4f85"
-                            {:name "Tvoje tvář má známý hlas",
-                             :game/id
+                            {:game/id
                              #uuid "9c006a5a-134a-337e-ace7-d2d45ece4f85",
-                             :game/name "Tvoje tvář má známý hlas"},
+                             :com.boardgamegeek.boardgame/min-players
+                             4,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2073,
+                                                                :name
+                                                                "Acting"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2834,
+                                                                :name
+                                                                "Action Timer"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                3096,
+                                                                :name
+                                                                "Drawing"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2038,
+                                                                :name
+                                                                "Singing"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2019,
+                                                                :name
+                                                                "Team-Based Game"}),
+                             :name "Tvoje tvář má známý hlas",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1030,
+                                                                :name
+                                                                "Party Game"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/max-players
+                             12,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/id "416170",
+                             :game/name "Tvoje tvář má známý hlas",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/BtC9NLFhCwi2yRy8BcXjkQ__thumb/img/-hLukMcQKRMY7U3E9ax3hPLgwe8=/fit-in/200x150/filters:strip_icc()/pic8076317.jpg"},
                             #uuid "796d7bd5-b63e-3115-8d6c-5d889694a7be"
                             {:game/id
                              #uuid "796d7bd5-b63e-3115-8d6c-5d889694a7be",
@@ -9051,7 +9084,6 @@
                              #uuid "9e99a680-b769-398b-8a26-03f864348bdc"
                              #uuid "e54c200e-4eee-3dca-b05c-d741d5d75763"
                              #uuid "dd4c796e-41cd-370b-afdb-4262810c9368"
-                             #uuid "9c006a5a-134a-337e-ace7-d2d45ece4f85"
                              #uuid "235a77be-e5b8-393f-b4c4-b961471ec0ea"
                              #uuid "39f81c69-c5bb-3117-99d4-f810f31d3b8d"
                              #uuid "6818d9b0-124e-3b86-980e-432f030d3924"
@@ -9239,6 +9271,7 @@
                              #uuid "bc7cf3e6-fca5-3e22-a79e-bb8ec4d5867a"
                              #uuid "be02937f-37a3-3696-932e-f9fc52479250"
                              #uuid "6b0a1558-2d3f-3253-b7d2-c81760b3d306"
+                             #uuid "9c006a5a-134a-337e-ace7-d2d45ece4f85"
                              #uuid "c5419794-461c-31ab-8dea-327b50e6dc6d"],
                             :com.boardgamegeek.boardgame/max-players
                             [#uuid "36a6f6d5-0843-3632-9b4a-9032fbc42652"
@@ -9303,7 +9336,6 @@
                              #uuid "9e99a680-b769-398b-8a26-03f864348bdc"
                              #uuid "e54c200e-4eee-3dca-b05c-d741d5d75763"
                              #uuid "dd4c796e-41cd-370b-afdb-4262810c9368"
-                             #uuid "9c006a5a-134a-337e-ace7-d2d45ece4f85"
                              #uuid "235a77be-e5b8-393f-b4c4-b961471ec0ea"
                              #uuid "39f81c69-c5bb-3117-99d4-f810f31d3b8d"
                              #uuid "6818d9b0-124e-3b86-980e-432f030d3924"
@@ -9481,6 +9513,7 @@
                              #uuid "59f822bc-aa8e-319b-9e63-eb00919b367a"
                              #uuid "bc7cf3e6-fca5-3e22-a79e-bb8ec4d5867a"
                              #uuid "d8a9996a-9dd6-3f02-86c9-f3d3b3fea73a"
+                             #uuid "9c006a5a-134a-337e-ace7-d2d45ece4f85"
                              #uuid "d629b4f5-1d3e-3cc7-87e9-32b3a28065f6"
                              #uuid "323b1ea2-b5f4-3d78-9a10-e59c50de56a2"
                              #uuid "70b3f625-6197-3a53-a3b0-26bcc7a1ec50"
@@ -9554,7 +9587,6 @@
                              #uuid "9e99a680-b769-398b-8a26-03f864348bdc"
                              #uuid "e54c200e-4eee-3dca-b05c-d741d5d75763"
                              #uuid "dd4c796e-41cd-370b-afdb-4262810c9368"
-                             #uuid "9c006a5a-134a-337e-ace7-d2d45ece4f85"
                              #uuid "235a77be-e5b8-393f-b4c4-b961471ec0ea"
                              #uuid "39f81c69-c5bb-3117-99d4-f810f31d3b8d"
                              #uuid "6818d9b0-124e-3b86-980e-432f030d3924"
@@ -9652,6 +9684,7 @@
                              #uuid "afde8f77-5843-3220-a160-625c1950acc8"
                              #uuid "1dc41096-3614-3064-96d1-7d7a17e5f160"
                              #uuid "6b0a1558-2d3f-3253-b7d2-c81760b3d306"
+                             #uuid "9c006a5a-134a-337e-ace7-d2d45ece4f85"
                              #uuid "59f822bc-aa8e-319b-9e63-eb00919b367a"
                              #uuid "e2a74414-2984-3c99-84dc-424f782d6a9c"
                              #uuid "d629b4f5-1d3e-3cc7-87e9-32b3a28065f6"
@@ -9806,7 +9839,6 @@
                              #uuid "9e99a680-b769-398b-8a26-03f864348bdc"
                              #uuid "e54c200e-4eee-3dca-b05c-d741d5d75763"
                              #uuid "dd4c796e-41cd-370b-afdb-4262810c9368"
-                             #uuid "9c006a5a-134a-337e-ace7-d2d45ece4f85"
                              #uuid "235a77be-e5b8-393f-b4c4-b961471ec0ea"
                              #uuid "39f81c69-c5bb-3117-99d4-f810f31d3b8d"
                              #uuid "6818d9b0-124e-3b86-980e-432f030d3924"
@@ -9880,6 +9912,7 @@
                              #uuid "0380f4c8-9607-3ef4-8ade-916cfc0c7c3e"
                              #uuid "afde8f77-5843-3220-a160-625c1950acc8"
                              #uuid "6b0a1558-2d3f-3253-b7d2-c81760b3d306"
+                             #uuid "9c006a5a-134a-337e-ace7-d2d45ece4f85"
                              #uuid "59f822bc-aa8e-319b-9e63-eb00919b367a"
                              #uuid "d835a1f2-2ed6-3e39-ac35-dab94d1c4ef6"
                              #uuid "eaa9b08c-9718-39e9-84e8-e09ccf855ef0"

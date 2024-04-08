@@ -2706,6 +2706,12 @@
                              :game/id
                              #uuid "1b80ed45-6892-38db-a797-f2ab80dc6c93",
                              :game/name "Bambilion Šumava"},
+                            #uuid "7ea6051a-cc77-3254-a5b8-245bcd018d9c"
+                            {:languages ["cs"],
+                             :name "Bambilion: Písmenka a slova",
+                             :game/id
+                             #uuid "7ea6051a-cc77-3254-a5b8-245bcd018d9c",
+                             :game/name "Bambilion: Písmenka a slova"},
                             #uuid "bb8434ca-528e-3b5f-bfc5-5eebbe2c00a0"
                             {:game/id
                              #uuid "bb8434ca-528e-3b5f-bfc5-5eebbe2c00a0",
@@ -21856,6 +21862,13 @@
                              :game/id
                              #uuid "a2bda426-9ef2-3a23-99d4-eb3de0f683db",
                              :game/name "Na Prodej  (For Sale )"},
+                            #uuid "f1d89092-5834-37f5-81ea-d28a32fa0d11"
+                            {:languages ["cs"],
+                             :name "Na křídlech draků  (Wyrmspan)",
+                             :game/id
+                             #uuid "f1d89092-5834-37f5-81ea-d28a32fa0d11",
+                             :game/name
+                             "Na křídlech draků  (Wyrmspan)"},
                             #uuid "3dd30673-a184-3a4c-8ff2-4fdde8c6cf20"
                             {:languages ["cs"],
                              :name "Na křídlech: Perutě Evropy",
@@ -38975,6 +38988,13 @@
                              #uuid "de44d30f-5885-3179-b98f-e6444cf5c8b8",
                              :game/name
                              "Čtyři zahrady  (Four Gardens)"},
+                            #uuid "5e0bcdeb-e381-393e-88e9-fb27978c8b9e"
+                            {:languages ["cs"],
+                             :name "Čtyřmi slovy!  (So Clover CZ)",
+                             :game/id
+                             #uuid "5e0bcdeb-e381-393e-88e9-fb27978c8b9e",
+                             :game/name
+                             "Čtyřmi slovy!  (So Clover CZ)"},
                             #uuid "c7062e7b-0c9b-3eb7-9cf1-d71a7343128d"
                             {:game/id
                              #uuid "c7062e7b-0c9b-3eb7-9cf1-d71a7343128d",
@@ -39091,6 +39111,7 @@
                              #uuid "cbbebb71-825c-3c08-bc10-f97c4a2e357a"
                              #uuid "0d9a583a-7b74-395b-a193-db0734616552"
                              #uuid "1b80ed45-6892-38db-a797-f2ab80dc6c93"
+                             #uuid "7ea6051a-cc77-3254-a5b8-245bcd018d9c"
                              #uuid "bb8434ca-528e-3b5f-bfc5-5eebbe2c00a0"
                              #uuid "adfbd7e8-9f27-3644-ac74-b3284f8eb977"
                              #uuid "ee841205-75c0-3dff-8892-3bcea1743473"
@@ -39557,6 +39578,7 @@
                              #uuid "6a82d690-1f16-313c-818c-56406dff07cc"
                              #uuid "50b9ca05-2681-39da-82e4-e2a405bd0ea0"
                              #uuid "eddfdb4e-779e-3be0-aa7b-b8c307fad6b8"
+                             #uuid "f1d89092-5834-37f5-81ea-d28a32fa0d11"
                              #uuid "3dd30673-a184-3a4c-8ff2-4fdde8c6cf20"
                              #uuid "a2bda426-9ef2-3a23-99d4-eb3de0f683db"
                              #uuid "5d307230-a218-3fde-9af7-05a7412e9c34"
@@ -39966,6 +39988,7 @@
                              #uuid "46d80582-a16f-3d16-94db-183586b67c4d"
                              #uuid "74a5b53f-5a21-3df6-9c12-a9178cac6266"
                              #uuid "de44d30f-5885-3179-b98f-e6444cf5c8b8"
+                             #uuid "5e0bcdeb-e381-393e-88e9-fb27978c8b9e"
                              #uuid "c7062e7b-0c9b-3eb7-9cf1-d71a7343128d"
                              #uuid "b5e012fa-3b92-36e0-9e7f-4c53e9b7079e"
                              #uuid "f2cfd58c-e406-345d-9441-3db65796d449"
@@ -39975,6 +39998,7 @@
                             [#uuid "ddf2ff28-4862-3f4a-8514-a713dd853bfd"
                              #uuid "0d9a583a-7b74-395b-a193-db0734616552"
                              #uuid "1b80ed45-6892-38db-a797-f2ab80dc6c93"
+                             #uuid "7ea6051a-cc77-3254-a5b8-245bcd018d9c"
                              #uuid "adfbd7e8-9f27-3644-ac74-b3284f8eb977"
                              #uuid "ee841205-75c0-3dff-8892-3bcea1743473"
                              #uuid "062d0b76-da24-33fd-8000-e6b3dc70abd5"
@@ -40066,6 +40090,7 @@
                              #uuid "6a82d690-1f16-313c-818c-56406dff07cc"
                              #uuid "eddfdb4e-779e-3be0-aa7b-b8c307fad6b8"
                              #uuid "a2bda426-9ef2-3a23-99d4-eb3de0f683db"
+                             #uuid "f1d89092-5834-37f5-81ea-d28a32fa0d11"
                              #uuid "3dd30673-a184-3a4c-8ff2-4fdde8c6cf20"
                              #uuid "76e89514-72e2-3eed-8e60-36bff175a02a"
                              #uuid "e501f676-0ad8-3a79-af45-3b66e16cb943"
@@ -40152,6 +40177,7 @@
                              #uuid "46d80582-a16f-3d16-94db-183586b67c4d"
                              #uuid "74a5b53f-5a21-3df6-9c12-a9178cac6266"
                              #uuid "de44d30f-5885-3179-b98f-e6444cf5c8b8"
+                             #uuid "5e0bcdeb-e381-393e-88e9-fb27978c8b9e"
                              #uuid "b5e012fa-3b92-36e0-9e7f-4c53e9b7079e"
                              #uuid "f2cfd58c-e406-345d-9441-3db65796d449"
                              #uuid "ad3691c1-9c88-382f-864d-fc722e46458b"
@@ -40909,6 +40935,7 @@
                              #uuid "ddf2ff28-4862-3f4a-8514-a713dd853bfd"
                              #uuid "0d9a583a-7b74-395b-a193-db0734616552"
                              #uuid "1b80ed45-6892-38db-a797-f2ab80dc6c93"
+                             #uuid "7ea6051a-cc77-3254-a5b8-245bcd018d9c"
                              #uuid "adfbd7e8-9f27-3644-ac74-b3284f8eb977"
                              #uuid "ee841205-75c0-3dff-8892-3bcea1743473"
                              #uuid "062d0b76-da24-33fd-8000-e6b3dc70abd5"
@@ -41000,6 +41027,7 @@
                              #uuid "6a82d690-1f16-313c-818c-56406dff07cc"
                              #uuid "eddfdb4e-779e-3be0-aa7b-b8c307fad6b8"
                              #uuid "a2bda426-9ef2-3a23-99d4-eb3de0f683db"
+                             #uuid "f1d89092-5834-37f5-81ea-d28a32fa0d11"
                              #uuid "3dd30673-a184-3a4c-8ff2-4fdde8c6cf20"
                              #uuid "76e89514-72e2-3eed-8e60-36bff175a02a"
                              #uuid "e501f676-0ad8-3a79-af45-3b66e16cb943"
@@ -41087,6 +41115,7 @@
                              #uuid "46d80582-a16f-3d16-94db-183586b67c4d"
                              #uuid "74a5b53f-5a21-3df6-9c12-a9178cac6266"
                              #uuid "de44d30f-5885-3179-b98f-e6444cf5c8b8"
+                             #uuid "5e0bcdeb-e381-393e-88e9-fb27978c8b9e"
                              #uuid "b5e012fa-3b92-36e0-9e7f-4c53e9b7079e"
                              #uuid "f2cfd58c-e406-345d-9441-3db65796d449"
                              #uuid "ad3691c1-9c88-382f-864d-fc722e46458b"
@@ -41841,6 +41870,7 @@
                             [#uuid "ddf2ff28-4862-3f4a-8514-a713dd853bfd"
                              #uuid "0d9a583a-7b74-395b-a193-db0734616552"
                              #uuid "1b80ed45-6892-38db-a797-f2ab80dc6c93"
+                             #uuid "7ea6051a-cc77-3254-a5b8-245bcd018d9c"
                              #uuid "adfbd7e8-9f27-3644-ac74-b3284f8eb977"
                              #uuid "ee841205-75c0-3dff-8892-3bcea1743473"
                              #uuid "062d0b76-da24-33fd-8000-e6b3dc70abd5"
@@ -41933,6 +41963,7 @@
                              #uuid "6a82d690-1f16-313c-818c-56406dff07cc"
                              #uuid "eddfdb4e-779e-3be0-aa7b-b8c307fad6b8"
                              #uuid "a2bda426-9ef2-3a23-99d4-eb3de0f683db"
+                             #uuid "f1d89092-5834-37f5-81ea-d28a32fa0d11"
                              #uuid "3dd30673-a184-3a4c-8ff2-4fdde8c6cf20"
                              #uuid "76e89514-72e2-3eed-8e60-36bff175a02a"
                              #uuid "e501f676-0ad8-3a79-af45-3b66e16cb943"
@@ -42022,6 +42053,7 @@
                              #uuid "46d80582-a16f-3d16-94db-183586b67c4d"
                              #uuid "74a5b53f-5a21-3df6-9c12-a9178cac6266"
                              #uuid "de44d30f-5885-3179-b98f-e6444cf5c8b8"
+                             #uuid "5e0bcdeb-e381-393e-88e9-fb27978c8b9e"
                              #uuid "b5e012fa-3b92-36e0-9e7f-4c53e9b7079e"
                              #uuid "f2cfd58c-e406-345d-9441-3db65796d449"
                              #uuid "ad3691c1-9c88-382f-864d-fc722e46458b"
@@ -42775,6 +42807,7 @@
                              #uuid "ddf2ff28-4862-3f4a-8514-a713dd853bfd"
                              #uuid "0d9a583a-7b74-395b-a193-db0734616552"
                              #uuid "1b80ed45-6892-38db-a797-f2ab80dc6c93"
+                             #uuid "7ea6051a-cc77-3254-a5b8-245bcd018d9c"
                              #uuid "adfbd7e8-9f27-3644-ac74-b3284f8eb977"
                              #uuid "ee841205-75c0-3dff-8892-3bcea1743473"
                              #uuid "062d0b76-da24-33fd-8000-e6b3dc70abd5"
@@ -42875,6 +42908,7 @@
                              #uuid "6a82d690-1f16-313c-818c-56406dff07cc"
                              #uuid "eddfdb4e-779e-3be0-aa7b-b8c307fad6b8"
                              #uuid "a2bda426-9ef2-3a23-99d4-eb3de0f683db"
+                             #uuid "f1d89092-5834-37f5-81ea-d28a32fa0d11"
                              #uuid "3dd30673-a184-3a4c-8ff2-4fdde8c6cf20"
                              #uuid "76e89514-72e2-3eed-8e60-36bff175a02a"
                              #uuid "e501f676-0ad8-3a79-af45-3b66e16cb943"
@@ -42965,6 +42999,7 @@
                              #uuid "46d80582-a16f-3d16-94db-183586b67c4d"
                              #uuid "74a5b53f-5a21-3df6-9c12-a9178cac6266"
                              #uuid "de44d30f-5885-3179-b98f-e6444cf5c8b8"
+                             #uuid "5e0bcdeb-e381-393e-88e9-fb27978c8b9e"
                              #uuid "b5e012fa-3b92-36e0-9e7f-4c53e9b7079e"
                              #uuid "f2cfd58c-e406-345d-9441-3db65796d449"
                              #uuid "ad3691c1-9c88-382f-864d-fc722e46458b"

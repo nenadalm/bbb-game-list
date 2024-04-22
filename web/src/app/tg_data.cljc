@@ -2706,12 +2706,6 @@
                              :game/id
                              #uuid "1b80ed45-6892-38db-a797-f2ab80dc6c93",
                              :game/name "Bambilion Šumava"},
-                            #uuid "7ea6051a-cc77-3254-a5b8-245bcd018d9c"
-                            {:languages ["cs"],
-                             :name "Bambilion: Písmenka a slova",
-                             :game/id
-                             #uuid "7ea6051a-cc77-3254-a5b8-245bcd018d9c",
-                             :game/name "Bambilion: Písmenka a slova"},
                             #uuid "bb8434ca-528e-3b5f-bfc5-5eebbe2c00a0"
                             {:game/id
                              #uuid "bb8434ca-528e-3b5f-bfc5-5eebbe2c00a0",
@@ -9669,37 +9663,6 @@
                              "Dungeon Fighter: Second Edition",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/ZuseUrDocxDQC-nXa6mKSA__thumb/img/26YmQhpbrDgCehmPsy_D_awkBnI=/fit-in/200x150/filters:strip_icc()/pic6685018.jpg"},
-                            #uuid "9d38a574-40f5-3eb4-b190-52d01b63513a"
-                            {:game/id
-                             #uuid "9d38a574-40f5-3eb4-b190-52d01b63513a",
-                             :com.boardgamegeek.boardgame/min-players
-                             3,
-                             :com.boardgamegeek.boardgame/mechanics
-                             (list #:com.boardgamegeek.mechanic{:id
-                                                                3096,
-                                                                :name
-                                                                "Drawing"}),
-                             :name "Duplik",
-                             :com.boardgamegeek.boardgame/categories
-                             (list #:com.boardgamegeek.category{:id
-                                                                1079,
-                                                                :name
-                                                                "Humor"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1030,
-                                                                :name
-                                                                "Party Game"}),
-                             :com.boardgamegeek.boardgame/max-play-time
-                             45,
-                             :com.boardgamegeek.boardgame/max-players
-                             10,
-                             :com.boardgamegeek.boardgame/min-play-time
-                             45,
-                             :com.boardgamegeek.boardgame/id "22348",
-                             :languages ["cs"],
-                             :game/name "Duplik",
-                             :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/pw-YvF01pFqT34_zXKR7gg__thumb/img/huNjVpxL2O8EvugKDUY-VyknuRU=/fit-in/200x150/filters:strip_icc()/pic2631879.jpg"},
                             #uuid "408b8670-c241-3f45-9b76-b04a8a5d78f3"
                             {:game/id
                              #uuid "408b8670-c241-3f45-9b76-b04a8a5d78f3",
@@ -17415,6 +17378,12 @@
                              #uuid "10fa7de9-2be3-3f41-ae92-c1340e04bad5",
                              :game/name "Kronika zločinu: Noir",
                              :com.boardgamegeek.boardgame/id "249811"},
+                            #uuid "03af3295-9256-3548-83c3-5e9b46c3be34"
+                            {:languages ["cs"],
+                             :name "Kudy? Tudy!",
+                             :game/id
+                             #uuid "03af3295-9256-3548-83c3-5e9b46c3be34",
+                             :game/name "Kudy? Tudy!"},
                             #uuid "55d7d2af-b323-3f70-b358-0b7f83038436"
                             {:game/id
                              #uuid "55d7d2af-b323-3f70-b358-0b7f83038436",
@@ -39111,7 +39080,6 @@
                              #uuid "cbbebb71-825c-3c08-bc10-f97c4a2e357a"
                              #uuid "0d9a583a-7b74-395b-a193-db0734616552"
                              #uuid "1b80ed45-6892-38db-a797-f2ab80dc6c93"
-                             #uuid "7ea6051a-cc77-3254-a5b8-245bcd018d9c"
                              #uuid "bb8434ca-528e-3b5f-bfc5-5eebbe2c00a0"
                              #uuid "adfbd7e8-9f27-3644-ac74-b3284f8eb977"
                              #uuid "ee841205-75c0-3dff-8892-3bcea1743473"
@@ -39269,7 +39237,6 @@
                              #uuid "0e13524e-0d23-310c-a97e-3ef1583014b4"
                              #uuid "7b206828-146d-3340-82e3-5a3fec9830ce"
                              #uuid "4e2d7970-2892-30d5-ac68-031a404931ff"
-                             #uuid "9d38a574-40f5-3eb4-b190-52d01b63513a"
                              #uuid "408b8670-c241-3f45-9b76-b04a8a5d78f3"
                              #uuid "bd4da18d-a530-36bf-b807-5914656c702d"
                              #uuid "819efde6-2ea1-3725-b2b9-fcb7e45051e7"
@@ -39456,6 +39423,7 @@
                              #uuid "5e9542fa-8caf-36d2-85d9-7e51623785ab"
                              #uuid "4a9141c6-9e2e-398d-8335-1a81caf7d4b9"
                              #uuid "10fa7de9-2be3-3f41-ae92-c1340e04bad5"
+                             #uuid "03af3295-9256-3548-83c3-5e9b46c3be34"
                              #uuid "55d7d2af-b323-3f70-b358-0b7f83038436"
                              #uuid "e4eeaade-7504-3803-bb29-eddafc6252f3"
                              #uuid "f4a5cc7c-c380-31db-b09e-c807196b2b78"
@@ -39998,7 +39966,6 @@
                             [#uuid "ddf2ff28-4862-3f4a-8514-a713dd853bfd"
                              #uuid "0d9a583a-7b74-395b-a193-db0734616552"
                              #uuid "1b80ed45-6892-38db-a797-f2ab80dc6c93"
-                             #uuid "7ea6051a-cc77-3254-a5b8-245bcd018d9c"
                              #uuid "adfbd7e8-9f27-3644-ac74-b3284f8eb977"
                              #uuid "ee841205-75c0-3dff-8892-3bcea1743473"
                              #uuid "062d0b76-da24-33fd-8000-e6b3dc70abd5"
@@ -40055,6 +40022,7 @@
                              #uuid "4e059527-cd7e-38e3-a921-464a0663b524"
                              #uuid "43b2dcd5-ff95-306d-ac87-7f236e86f0d0"
                              #uuid "10fa7de9-2be3-3f41-ae92-c1340e04bad5"
+                             #uuid "03af3295-9256-3548-83c3-5e9b46c3be34"
                              #uuid "b9a1f272-5042-3b39-a492-dd8d00f2c6db"
                              #uuid "b9c532be-75ba-3dac-b7c6-cbce216a5433"
                              #uuid "e966bd34-59ac-31e0-904a-d66e727fc193"
@@ -40875,7 +40843,6 @@
                              #uuid "ffac9f56-7f7f-39c1-8eee-59daf0995720"
                              #uuid "9d6cda4e-2bd1-3907-b7d4-cc0afd484c88"
                              #uuid "0d1b6d3d-ebd1-3c17-b456-ebfda8a15e20"
-                             #uuid "9d38a574-40f5-3eb4-b190-52d01b63513a"
                              #uuid "bfe4f9ac-312a-3ba5-b00d-a83cc2c20c6b"
                              #uuid "83b0c92e-d5cf-356d-ac8d-f7b6623d798b"
                              #uuid "7a0abf1c-4866-37ba-9d51-43fe6c390186"
@@ -40935,7 +40902,6 @@
                              #uuid "ddf2ff28-4862-3f4a-8514-a713dd853bfd"
                              #uuid "0d9a583a-7b74-395b-a193-db0734616552"
                              #uuid "1b80ed45-6892-38db-a797-f2ab80dc6c93"
-                             #uuid "7ea6051a-cc77-3254-a5b8-245bcd018d9c"
                              #uuid "adfbd7e8-9f27-3644-ac74-b3284f8eb977"
                              #uuid "ee841205-75c0-3dff-8892-3bcea1743473"
                              #uuid "062d0b76-da24-33fd-8000-e6b3dc70abd5"
@@ -40992,6 +40958,7 @@
                              #uuid "4e059527-cd7e-38e3-a921-464a0663b524"
                              #uuid "43b2dcd5-ff95-306d-ac87-7f236e86f0d0"
                              #uuid "10fa7de9-2be3-3f41-ae92-c1340e04bad5"
+                             #uuid "03af3295-9256-3548-83c3-5e9b46c3be34"
                              #uuid "b9a1f272-5042-3b39-a492-dd8d00f2c6db"
                              #uuid "b9c532be-75ba-3dac-b7c6-cbce216a5433"
                              #uuid "e966bd34-59ac-31e0-904a-d66e727fc193"
@@ -41839,7 +41806,6 @@
                              #uuid "1189e267-87ad-3a23-8441-a568544e18cc"
                              #uuid "6b0a1558-2d3f-3253-b7d2-c81760b3d306"
                              #uuid "580b8ca8-1612-3624-91a8-07e586fce26e"
-                             #uuid "9d38a574-40f5-3eb4-b190-52d01b63513a"
                              #uuid "4584b35c-868d-36f9-b932-e14bc001202b"
                              #uuid "65b397da-a4ad-3880-b821-4f6f9d01cac1"
                              #uuid "3b80595a-c71d-32b0-835a-c1d26c74b74f"
@@ -41870,7 +41836,6 @@
                             [#uuid "ddf2ff28-4862-3f4a-8514-a713dd853bfd"
                              #uuid "0d9a583a-7b74-395b-a193-db0734616552"
                              #uuid "1b80ed45-6892-38db-a797-f2ab80dc6c93"
-                             #uuid "7ea6051a-cc77-3254-a5b8-245bcd018d9c"
                              #uuid "adfbd7e8-9f27-3644-ac74-b3284f8eb977"
                              #uuid "ee841205-75c0-3dff-8892-3bcea1743473"
                              #uuid "062d0b76-da24-33fd-8000-e6b3dc70abd5"
@@ -41927,6 +41892,7 @@
                              #uuid "4e059527-cd7e-38e3-a921-464a0663b524"
                              #uuid "43b2dcd5-ff95-306d-ac87-7f236e86f0d0"
                              #uuid "10fa7de9-2be3-3f41-ae92-c1340e04bad5"
+                             #uuid "03af3295-9256-3548-83c3-5e9b46c3be34"
                              #uuid "b9a1f272-5042-3b39-a492-dd8d00f2c6db"
                              #uuid "b9c532be-75ba-3dac-b7c6-cbce216a5433"
                              #uuid "e966bd34-59ac-31e0-904a-d66e727fc193"
@@ -42559,7 +42525,6 @@
                              #uuid "6ac412e5-f00f-37b6-9f4e-58f5d4355ec7"
                              #uuid "1d8df61a-ee67-38d9-8345-514f8f8c6d8d"
                              #uuid "7b206828-146d-3340-82e3-5a3fec9830ce"
-                             #uuid "9d38a574-40f5-3eb4-b190-52d01b63513a"
                              #uuid "9039597e-8a40-3efe-9d88-6f626e892ac5"
                              #uuid "0e4c91a1-1443-39c0-9f14-dee7fc0db44e"
                              #uuid "2f72154e-04bc-30b1-b763-6290cd60c0c2"
@@ -42807,7 +42772,6 @@
                              #uuid "ddf2ff28-4862-3f4a-8514-a713dd853bfd"
                              #uuid "0d9a583a-7b74-395b-a193-db0734616552"
                              #uuid "1b80ed45-6892-38db-a797-f2ab80dc6c93"
-                             #uuid "7ea6051a-cc77-3254-a5b8-245bcd018d9c"
                              #uuid "adfbd7e8-9f27-3644-ac74-b3284f8eb977"
                              #uuid "ee841205-75c0-3dff-8892-3bcea1743473"
                              #uuid "062d0b76-da24-33fd-8000-e6b3dc70abd5"
@@ -42871,6 +42835,7 @@
                              #uuid "4e059527-cd7e-38e3-a921-464a0663b524"
                              #uuid "43b2dcd5-ff95-306d-ac87-7f236e86f0d0"
                              #uuid "10fa7de9-2be3-3f41-ae92-c1340e04bad5"
+                             #uuid "03af3295-9256-3548-83c3-5e9b46c3be34"
                              #uuid "b9a1f272-5042-3b39-a492-dd8d00f2c6db"
                              #uuid "b9c532be-75ba-3dac-b7c6-cbce216a5433"
                              #uuid "e966bd34-59ac-31e0-904a-d66e727fc193"
@@ -43381,7 +43346,6 @@
                              #uuid "1d8df61a-ee67-38d9-8345-514f8f8c6d8d"
                              #uuid "ff902fe5-2e3d-307d-aaa3-8cb3b15da00e"
                              #uuid "2ca83da0-8515-306b-ae4a-0f82d66c97b8"
-                             #uuid "9d38a574-40f5-3eb4-b190-52d01b63513a"
                              #uuid "9039597e-8a40-3efe-9d88-6f626e892ac5"
                              #uuid "2f72154e-04bc-30b1-b763-6290cd60c0c2"
                              #uuid "be22581f-a4e0-37aa-ab8f-7dc7d7e5956f"

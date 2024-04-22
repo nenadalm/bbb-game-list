@@ -13105,7 +13105,7 @@
                                                                 2082,
                                                                 :name
                                                                 "Worker Placement"}),
-                             :name "Lucktails",
+                             :name "Lost Ruins of Arnak",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1022,
@@ -19190,7 +19190,7 @@
                                                                 2685,
                                                                 :name
                                                                 "Player Elimination"}),
-                             :name "Skull",
+                             :name "Skull and Roses",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1023,
@@ -22417,6 +22417,10 @@
                                                                 1051,
                                                                 :name
                                                                 "Napoleonic"}
+                                   #:com.boardgamegeek.category{:id
+                                                                2725,
+                                                                :name
+                                                                "Pike and Shot"}
                                    #:com.boardgamegeek.category{:id
                                                                 1019,
                                                                 :name

@@ -3,9 +3,13 @@
    [clojure.java.io]
    [clojure.xml]
    [clojure.string :as str]
+   [clojure.math :as m]
    [app.url :as url]))
 
 (def ^:private api-root "https://www.boardgamegeek.com/xmlapi2")
+
+(defn- round-10 [x]
+  (float (/ (m/round (* 10 x)) 10)))
 
 (defn- search-game-url [name]
   (clojure.java.io/as-url (str api-root
@@ -19,7 +23,7 @@
 
 (defn- game-details-url [game-id]
   (clojure.java.io/as-url (str api-root
-                               "/thing?type=boardgame&id="
+                               "/thing?type=boardgame&stats=1&id="
                                game-id)))
 
 (defn- game-item->game [game-item]
@@ -157,6 +161,16 @@
                                              {:com.boardgamegeek.mechanic/id (Integer/valueOf (-> item :attrs :id))
                                               :com.boardgamegeek.mechanic/name (-> item :attrs :value)})
                  game)
+         :statistics (assoc game
+                            :com.boardgamegeek.boardgame/rating
+                            (->> (:content item)
+                                 (some (fn [item] (when (= :ratings (:tag item)) item)))
+                                 :content
+                                 (some (fn [item] (when (= :average (:tag item)) item)))
+                                 :attrs
+                                 :value
+                                 Float/valueOf
+                                 round-10))
          game))
      {:com.boardgamegeek.boardgame/id (-> detail-item :attrs :id)}
      (:content detail-item))))

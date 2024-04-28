@@ -48,6 +48,7 @@
                      :com.boardgamegeek.boardgame/max-players
                      :com.boardgamegeek.boardgame/min-play-time
                      :com.boardgamegeek.boardgame/min-players
+                     :com.boardgamegeek.boardgame/rating
                      :com.boardgamegeek.boardgame/thumbnail
                      :com.boardgamegeek.boardgame/categories
                      :com.boardgamegeek.boardgame/mechanics]))

@@ -5,6 +5,7 @@
                              #uuid "9f321448-364f-355a-8a85-ad031a80aa0c",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2018,
@@ -52,6 +53,7 @@
                              #uuid "955b40d3-9ad1-3926-8c69-e53d0ab8326b",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2048,
@@ -90,6 +92,7 @@
                              #uuid "629e0d23-6bd7-35bc-abe5-da52d8053d16",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
@@ -125,6 +128,7 @@
                              #uuid "6e2e0573-9658-30af-a999-c50bbba62b41",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 7.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2984,
@@ -188,6 +192,7 @@
                              #uuid "aa2a14f6-6296-368a-8fab-970e48ba9430",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 8.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -291,6 +296,7 @@
                              #uuid "242f0de4-174e-36a8-a6d7-77ac1b023ca4",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -325,6 +331,7 @@
                              #uuid "65252a5f-02dc-3b06-b1ac-d24fcc132ea3",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -377,6 +384,7 @@
                              #uuid "fbbaa2e3-599e-3480-bf8a-64ef97ee61c2",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -420,6 +428,7 @@
                              #uuid "eacd7b54-1c2a-34c6-96a1-f4fa627dddb4",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2903,
@@ -496,6 +505,7 @@
                              #uuid "b7535fdf-ce2c-3b9b-949f-6998ac38c45b",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
@@ -559,6 +569,7 @@
                              #uuid "d2c146ec-def1-3163-b6b5-0f4671dce127",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2847,
@@ -664,6 +675,7 @@
                              #uuid "4ae89b7c-1850-347b-b746-2abedf2c12c6",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -729,6 +741,7 @@
                              #uuid "109f45b6-e18f-310e-80f2-998f26a19f1f",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2004,
@@ -756,6 +769,7 @@
                              #uuid "f658cb76-a25e-3167-aaff-697c5d2eb4de",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
@@ -819,6 +833,7 @@
                              #uuid "323b1ea2-b5f4-3d78-9a10-e59c50de56a2",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 6.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2073,
@@ -850,6 +865,7 @@
                              #uuid "9289c959-31a0-36c2-b234-2b5c62206d8e",
                              :com.boardgamegeek.boardgame/min-players
                              4,
+                             :com.boardgamegeek.boardgame/rating 5.7,
                              :name "Activity Knock Out",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -868,6 +884,7 @@
                              #uuid "8b6882f0-7f66-3806-8874-7bf364024062",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2057,
@@ -943,6 +960,7 @@
                              #uuid "9f98920b-8cb0-37ec-8d51-669877717dd9",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -994,6 +1012,7 @@
                              #uuid "c4b01705-fe2a-3ecc-ac52-d7eb50d8df07",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2046,
@@ -1117,6 +1136,7 @@
                              #uuid "c3f0245b-acf9-3eb5-9748-a64e5d5d83ca",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2838,
@@ -1185,6 +1205,7 @@
                              #uuid "adcdd4a3-2e0e-3be4-b71d-7ec36117aab3",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2903,
@@ -1220,6 +1241,7 @@
                              #uuid "ab094dfb-4f8a-37a4-8b52-9061ef896d9c",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -1267,6 +1289,7 @@
                              #uuid "e24d6854-6a3e-38bb-99d5-0f64960353ee",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2924,
@@ -1321,11 +1344,16 @@
                              #uuid "4f6a71be-0b8d-389d-a431-a8e4cbf59e46",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2838,
                                                                 :name
                                                                 "Action Drafting"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2689,
+                                                                :name
+                                                                "Action Queue"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2922,
                                                                 :name
@@ -1384,6 +1412,7 @@
                              #uuid "6af609e7-15fd-3aa4-b490-2be12897350b",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -1435,6 +1464,7 @@
                              #uuid "cf2fd2ba-1605-386f-8dd7-76ad0be4e361",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2978,
@@ -1478,6 +1508,7 @@
                              #uuid "bf1bae05-137f-3598-be0c-3461041d72ed",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -1525,6 +1556,7 @@
                              #uuid "610c7c4f-043d-3f06-b077-484eac9e7138",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -1584,6 +1616,7 @@
                              #uuid "9efcadf2-ca94-3a2a-ab5d-3f8d97feab54",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 5.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -1623,6 +1656,7 @@
                              #uuid "43771435-28f6-3221-b49b-19e26d73c06f",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2839,
@@ -1706,6 +1740,7 @@
                              #uuid "dc2cb127-f9f3-3b44-9c94-578ed6f040e4",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2902,
@@ -1757,6 +1792,7 @@
                              #uuid "d101317f-5da3-34d1-b370-236135bf9974",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -1800,6 +1836,7 @@
                              #uuid "b9fa49bb-1154-3669-b5a6-ba3e6c6aad86",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3002,
@@ -1839,6 +1876,7 @@
                              #uuid "1713679a-10c3-3433-98c7-5fc9654c7e7f",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -1895,6 +1933,7 @@
                              #uuid "0ec4024f-0e85-3ed0-aa2e-5260f718232c",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2689,
@@ -1978,6 +2017,7 @@
                              #uuid "906945d0-67aa-3e52-ad26-382a0431d46c",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -2038,6 +2078,7 @@
                              #uuid "c3d75f41-0a9b-3ae4-a6bc-05786684d61e",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -2142,6 +2183,7 @@
                              #uuid "9df1c579-aa18-332f-a0e6-704cf2b2ef3a",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -2199,6 +2241,7 @@
                              #uuid "732f76bc-d4c3-321a-8bed-ee52a9ed87c9",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -2252,6 +2295,7 @@
                              #uuid "59130bcd-d1d7-31e4-97e6-b6b01b40aec5",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -2283,6 +2327,7 @@
                              #uuid "c430478e-5c71-3e94-a330-d4764d86cffb",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 5.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -2314,6 +2359,7 @@
                              #uuid "40f087b9-9fe0-3988-a96a-d138cc6c5920",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -2345,6 +2391,7 @@
                              #uuid "3cce5f3e-af76-3098-ba8e-28f7bbba3f92",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2839,
@@ -2396,6 +2443,7 @@
                              #uuid "582d2648-b634-3370-a31e-bef979dab3f3",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -2451,6 +2499,7 @@
                              #uuid "77b28b72-1d4f-30b5-aafa-0bfa9d934cb7",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -2502,6 +2551,7 @@
                              #uuid "622a37a1-75a6-33d6-b9df-23cebf46e8bf",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -2562,6 +2612,7 @@
                              #uuid "d8f6900d-5012-3d09-8a9e-d26613e7690f",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -2613,6 +2664,7 @@
                              #uuid "87264792-7994-3532-a713-30d4d19ff2c3",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -2664,6 +2716,7 @@
                              #uuid "cbbebb71-825c-3c08-bc10-f97c4a2e357a",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2978,
@@ -2711,6 +2764,7 @@
                              #uuid "bb8434ca-528e-3b5f-bfc5-5eebbe2c00a0",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2876,
@@ -2769,6 +2823,7 @@
                              #uuid "9494bcbd-1f85-37bb-b15a-6ca10d64b159",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2839,
@@ -2852,6 +2907,7 @@
                              #uuid "af55aa3b-2861-3fd2-a0d6-34de854ec847",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 4.5,
                              :name "Bata-Mňau",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -2861,7 +2917,11 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1002,
                                                                 :name
-                                                                "Card Game"}),
+                                                                "Card Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1041,
+                                                                :name
+                                                                "Children's Game"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              10,
                              :com.boardgamegeek.boardgame/max-players
@@ -2885,6 +2945,7 @@
                              #uuid "2ff97e4c-4bf1-3756-bebd-17bffd29b782",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.4,
                              :name "Bataflash",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -2931,6 +2992,7 @@
                              #uuid "18cd45b1-ba2a-32ee-b61f-e041ca42ee6b",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 4.6,
                              :name "Batanimo",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -2968,6 +3030,7 @@
                              #uuid "836f059b-9ba6-3257-a52e-692011f59f88",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2047,
@@ -3004,6 +3067,7 @@
                              #uuid "a2d3c43e-0a6f-386d-9945-5b140fe37c1f",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -3051,6 +3115,7 @@
                              #uuid "8023727f-8bbd-3c6e-bb49-44197420bf7e",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2838,
@@ -3118,6 +3183,7 @@
                              #uuid "660cb8dd-c782-3542-8db8-9e1dc61af856",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -3155,6 +3221,7 @@
                              #uuid "4579992c-1258-315b-82de-a17fc00e7931",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -3205,6 +3272,7 @@
                              #uuid "3217ce01-8eac-3c72-9a4b-b8d875d52613",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2984,
@@ -3247,6 +3315,7 @@
                              #uuid "7a13cfac-835f-38bc-9277-6faf12172102",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -3290,6 +3359,7 @@
                              #uuid "67e7dac4-7bd2-325f-bf2b-739cdc5f39e3",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 1.0,
                              :name "Behind closed doors",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -3312,6 +3382,7 @@
                              #uuid "67413fd7-b71a-3be4-96c9-ed26f8cd2b62",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2903,
@@ -3363,6 +3434,7 @@
                              #uuid "a2dbf2df-169e-3980-951c-b4dd78a980da",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.9,
                              :name "Beppo der Bock",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -3393,6 +3465,7 @@
                              #uuid "56a44472-44e3-38c3-b9f4-fe5dbce03ac0",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -3436,6 +3509,7 @@
                              #uuid "d90302b3-1265-3d0a-b705-a54526dc0ebf",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -3491,6 +3565,7 @@
                              #uuid "f51d25d3-fc20-349d-b281-2a345ff34f69",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -3554,6 +3629,7 @@
                              #uuid "ce101a95-d774-349b-84e4-053fe3e5a3c5",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 6.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2073,
@@ -3600,6 +3676,7 @@
                              #uuid "52666523-7b49-34f0-aa87-c130e8f25a41",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -3675,6 +3752,7 @@
                              #uuid "edd2855d-5c47-38ad-b6fb-44e628f3f329",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2027,
@@ -3722,6 +3800,7 @@
                              #uuid "803d7c13-7f8b-31e2-a73e-3382b8baebaa",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2027,
@@ -3769,6 +3848,7 @@
                              #uuid "cb11cb39-5be0-3a2d-9368-c3ae992edb85",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2027,
@@ -3813,6 +3893,7 @@
                              #uuid "5bfc6815-1e5f-3bed-88e3-c3f48ddf26de",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
@@ -3840,6 +3921,7 @@
                              #uuid "ebca33bc-e7c8-3184-8102-aec5a1c7ea76",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -3895,6 +3977,7 @@
                              #uuid "9c343e26-e432-3535-8d4e-9e13cf274ee8",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2018,
@@ -3982,6 +4065,7 @@
                              #uuid "bf934921-f5a5-3742-96e2-11b1db348667",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2661,
@@ -4017,6 +4101,7 @@
                              #uuid "e1fc9954-947d-357c-964d-6258c74f2959",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2887,
@@ -4066,6 +4151,7 @@
                              #uuid "86730855-0097-3994-8bf6-f05e109b4b0f",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2004,
@@ -4116,6 +4202,7 @@
                              #uuid "a1700f15-7f7d-3caa-86a2-0ff8d58ac84b",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 4.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2004,
@@ -4154,6 +4241,7 @@
                              #uuid "8a55d10a-eaaf-3da1-8c97-baec9e64e35f",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -4201,6 +4289,7 @@
                              #uuid "66ad6e82-8a7f-3a9c-8406-9dd9b1f30d0f",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2900,
@@ -4252,6 +4341,7 @@
                              #uuid "6ad0eaaa-7b04-36af-8f2a-166f1309da22",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -4296,6 +4386,7 @@
                              #uuid "39fb7d86-25fd-3047-ab7d-75377012a2b9",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -4339,6 +4430,7 @@
                              #uuid "e6f2b917-44b7-3822-8d49-6493a0458968",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 8.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -4418,6 +4510,7 @@
                              #uuid "0d15a1dc-ce5f-38da-a84d-924abc619f42",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2857,
@@ -4497,6 +4590,7 @@
                              #uuid "a750a029-2f71-3100-948f-f901832a1a0e",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3002,
@@ -4540,6 +4634,7 @@
                              #uuid "d3c109e9-3e98-31f9-9a48-d3381aed20f1",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -4588,6 +4683,7 @@
                              #uuid "b6c903eb-7705-3a7f-a618-e21540f101a2",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -4631,6 +4727,7 @@
                              #uuid "ea1e9a95-a0c8-3352-ac3d-331b07064cf8",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2840,
@@ -4674,6 +4771,7 @@
                              #uuid "32f4f482-0b39-33c4-bc8b-b8b1ab3fdfa4",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.2,
                              :name "Bull's Eye",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -4704,6 +4802,7 @@
                              #uuid "414bbf5b-1083-3275-9983-4133937db58b",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -4743,6 +4842,7 @@
                              #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2956,
@@ -4815,6 +4915,7 @@
                              #uuid "9ed4a93e-4626-350b-91f2-61443dc039d7",
                              :com.boardgamegeek.boardgame/min-players
                              4,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -4878,6 +4979,7 @@
                              #uuid "12017920-a8e9-3112-b293-2f12ade395a1",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -4927,6 +5029,7 @@
                              #uuid "8056747b-0bf2-34b3-810f-8493783fe4ee",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2999,
@@ -4974,6 +5077,7 @@
                              #uuid "d51dd20c-a05f-3ab4-94c7-9020d535e5b3",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2043,
@@ -5037,6 +5141,7 @@
                              #uuid "3122fe6f-71fb-3f4b-88f5-e1713fe46e88",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -5092,6 +5197,7 @@
                              #uuid "2c6ce6c5-3993-3556-b505-954894176eea",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -5135,6 +5241,7 @@
                              #uuid "8497566a-8959-34fe-aaa2-b597067c54ca",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2047,
@@ -5164,6 +5271,7 @@
                              #uuid "6ea5359e-01a4-3842-8849-43125518289b",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -5223,6 +5331,7 @@
                              #uuid "26fc8e91-b745-33c1-b246-19cc7863a1b0",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -5252,6 +5361,7 @@
                              #uuid "bf4d4765-d94d-3060-9486-5f13ac46f5e4",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2047,
@@ -5291,6 +5401,7 @@
                              #uuid "06c5d6ce-c062-3ac0-bd43-6186b663fc10",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2676,
@@ -5362,6 +5473,7 @@
                              #uuid "59b85053-a3ac-3c1a-8f29-eaaa3baec4c3",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 8.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -5407,6 +5519,7 @@
                              #uuid "890488d0-a370-30a4-9788-a44754330b27",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2984,
@@ -5450,6 +5563,7 @@
                              #uuid "a83b8f23-d78e-3e62-90eb-d70f7995c982",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2999,
@@ -5513,6 +5627,7 @@
                              #uuid "19e95810-b511-372b-9f47-e2b106f8daf6",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -5576,6 +5691,7 @@
                              #uuid "a9765329-9901-3693-957e-8d97cfaa1536",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2978,
@@ -5630,6 +5746,7 @@
                              #uuid "04131825-c690-3fb4-b915-f0666907e59c",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -5689,6 +5806,7 @@
                              #uuid "59ccf897-4368-3ab7-ae8e-0ac969872f6e",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -5728,6 +5846,7 @@
                              #uuid "e7cd10af-5067-3d32-9a7c-47af030d6dc2",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2046,
@@ -5786,6 +5905,7 @@
                              #uuid "0e6bce9f-c8db-3221-8b4b-38620ad6e4dd",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2002,
@@ -5825,6 +5945,7 @@
                              #uuid "31443f78-5552-3274-a24d-a8e1b221db5e",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2903,
@@ -5884,6 +6005,7 @@
                              #uuid "28087ea1-d779-37a2-aace-3de132e108e5",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2839,
@@ -5927,6 +6049,7 @@
                              #uuid "da690762-4fc6-33ac-a335-c10db290bb0d",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -5974,6 +6097,7 @@
                              #uuid "43e10dfb-54a8-305b-bd37-ce84ad5d7339",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2839,
@@ -6037,6 +6161,7 @@
                              #uuid "3ab61f8a-771b-31fa-aa06-6cd69b680320",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -6088,6 +6213,7 @@
                              #uuid "db22be45-256d-35f8-98d8-31d955137c21",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -6131,6 +6257,7 @@
                              #uuid "cce98425-ad37-340e-877c-d3799e46b8e4",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2839,
@@ -6157,11 +6284,6 @@
                              :game/name "Chakra",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/KJ7S0Cv32wJ0CdBHj7gwcg__thumb/img/oEEMQN5ZsF5AbWsidOD2r1ktnJk=/fit-in/200x150/filters:strip_icc()/pic4487174.jpg"},
-                            #uuid "988fc856-b0f7-3024-bf4c-9c5997d0c1b9"
-                            {:name "Challengers! - Vyzyvatelé",
-                             :game/id
-                             #uuid "988fc856-b0f7-3024-bf4c-9c5997d0c1b9",
-                             :game/name "Challengers! - Vyzyvatelé"},
                             #uuid "c0dfcd00-7c9f-3754-900e-196ffd02605e"
                             {:languages ["cs"],
                              :name "Chci zpátky své zoubky",
@@ -6173,6 +6295,7 @@
                              #uuid "e92a8b76-37ea-302a-980e-d5dfd2c20ff1",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -6216,6 +6339,7 @@
                              #uuid "e950546e-10c0-3fa1-b719-5ff11240df0a",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :name "Kdo zachrání sýr?",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -6245,6 +6369,7 @@
                              #uuid "fdb07892-a50b-3405-8eb2-8a5429a70ee8",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -6285,7 +6410,7 @@
                                                                 :name
                                                                 "Fantasy"}),
                              :com.boardgamegeek.boardgame/max-play-time
-                             90,
+                             60,
                              :com.boardgamegeek.boardgame/max-players
                              4,
                              :com.boardgamegeek.boardgame/min-play-time
@@ -6300,6 +6425,7 @@
                              #uuid "7a83122d-f549-37e0-b1ef-7e67847e5161",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -6356,6 +6482,7 @@
                              #uuid "a69fbc4a-af33-397f-9435-19472f01a2a5",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -6383,6 +6510,7 @@
                              #uuid "f160f099-eb74-31d2-a545-84c0e6e1dc1f",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 5.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -6435,6 +6563,7 @@
                              #uuid "aed897be-39e0-35bd-a035-90e8d5a92731",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.5,
                              :name "Circus",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -6467,6 +6596,7 @@
                              #uuid "80313804-4f8a-33e9-9cb5-a76722ee06d0",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -6510,6 +6640,7 @@
                              #uuid "0b01eca8-56f1-3211-a5de-37dc736cf99b",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2686,
@@ -6545,6 +6676,7 @@
                              #uuid "5a9f1882-0b27-3da7-8d24-b13eda1849af",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -6613,6 +6745,7 @@
                              #uuid "2b27b06c-726d-3815-95f0-592fec35d1ad",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2013,
@@ -6672,6 +6805,7 @@
                              #uuid "ca247527-579f-3747-8708-2fd3551c0a6f",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -6715,6 +6849,7 @@
                              #uuid "f9647265-16a7-3b8b-9308-31c431b4161c",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2035,
@@ -6750,6 +6885,7 @@
                              #uuid "ae767445-c0ab-3c20-a1bf-d310f7e291ee",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -6793,6 +6929,7 @@
                              #uuid "fc4b5160-634a-3e54-b306-97e5771f843c",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2060,
@@ -6836,6 +6973,7 @@
                              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2893,
@@ -6891,6 +7029,7 @@
                              #uuid "c7b74e13-dff8-3831-98f4-1d81198c1337",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2893,
@@ -6942,6 +7081,7 @@
                              #uuid "aea576f6-ce96-344f-af7f-0c81dd2342ca",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -6981,6 +7121,7 @@
                              #uuid "08cddb57-6c00-3836-9593-a0b04fd84141",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -7020,6 +7161,7 @@
                              #uuid "9353a118-c201-398a-83cc-6d58ccb38f02",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 8.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2839,
@@ -7033,6 +7175,10 @@
                                                                 2924,
                                                                 :name
                                                                 "Auction: Dutch"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2664,
+                                                                :name
+                                                                "Deck, Bag, and Pool Building"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2875,
                                                                 :name
@@ -7099,6 +7245,7 @@
                              #uuid "11bac57e-7c50-37c5-881a-bd52d9c63c05",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 8.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2839,
@@ -7182,6 +7329,7 @@
                              #uuid "12aa1a49-7859-3aae-8f37-3e81ff48d8d1",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -7213,6 +7361,7 @@
                              #uuid "f2f5da5d-c378-37b9-8570-040b68cdbc11",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -7260,6 +7409,7 @@
                              #uuid "2fa1a73b-fa89-3a95-9764-a5a555132e37",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2047,
@@ -7303,6 +7453,7 @@
                              #uuid "bef85532-c251-3826-a9e4-2cb336105a3b",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2916,
@@ -7383,6 +7534,7 @@
                              #uuid "5882b568-d8a0-30ef-88a6-896f53b6eddb",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2960,
@@ -7418,6 +7570,7 @@
                              #uuid "a07de260-165e-353e-a142-dc602c389bc7",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2891,
@@ -7477,6 +7630,7 @@
                              #uuid "aa957d24-d097-3441-9853-2c23e057f382",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 3.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2048,
@@ -7519,6 +7673,7 @@
                              #uuid "61d4a5f0-353a-3a22-b04e-6da57557252d",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -7574,6 +7729,7 @@
                              #uuid "1f08e6e9-3aaf-35b9-923e-7854c6463b45",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2839,
@@ -7617,6 +7773,7 @@
                              #uuid "accf9b44-d60e-36aa-ab3e-293a0e91aed0",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -7665,6 +7822,7 @@
                              #uuid "bb6b8c20-7879-3ded-8e85-5b34182e69f3",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -7693,11 +7851,7 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2897,
                                                                 :name
-                                                                "Variable Set-up"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2082,
-                                                                :name
-                                                                "Worker Placement"}),
+                                                                "Variable Set-up"}),
                              :name "D.E.I.: Divide et Impera",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -7732,6 +7886,7 @@
                              #uuid "4e2d7970-2892-30d5-ac68-031a404931ff",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2883,
@@ -7767,6 +7922,7 @@
                              #uuid "bbcbe302-11e6-3139-8599-11b36019a52b",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -7804,6 +7960,7 @@
                              #uuid "ffac9f56-7f7f-39c1-8eee-59daf0995720",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 5.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2020,
@@ -7840,6 +7997,7 @@
                              #uuid "9d6cda4e-2bd1-3907-b7d4-cc0afd484c88",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -7888,6 +8046,7 @@
                              #uuid "022a27f8-e77e-3c5c-8808-6a3640c56d8f",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -7980,6 +8139,7 @@
                              #uuid "580b8ca8-1612-3624-91a8-07e586fce26e",
                              :com.boardgamegeek.boardgame/min-players
                              7,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2073,
@@ -8044,6 +8204,7 @@
                              #uuid "716d9144-3975-3590-ad30-b65f0a10a42f",
                              :com.boardgamegeek.boardgame/min-players
                              6,
+                             :com.boardgamegeek.boardgame/rating 8.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2073,
@@ -8108,6 +8269,7 @@
                              #uuid "0e63d8d5-e6e8-3eba-bd68-4db21f8bce14",
                              :com.boardgamegeek.boardgame/min-players
                              5,
+                             :com.boardgamegeek.boardgame/rating 8.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2073,
@@ -8166,6 +8328,7 @@
                              #uuid "83ad4685-b1e3-3677-911a-6839874b3310",
                              :com.boardgamegeek.boardgame/min-players
                              4,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3002,
@@ -8225,6 +8388,7 @@
                              #uuid "a5542cce-4009-3f65-bee2-5f2436d7ba63",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -8268,6 +8432,7 @@
                              #uuid "f45543b2-9edf-357f-9aaf-d97bfdb889f3",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -8325,6 +8490,7 @@
                              #uuid "b8b0fd7a-104b-3981-8114-1003c63e6017",
                              :com.boardgamegeek.boardgame/min-players
                              4,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2892,
@@ -8384,6 +8550,7 @@
                              #uuid "0a4d85e2-2b97-3ffd-a1d4-9ffe55f8f5d1",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -8437,6 +8604,7 @@
                              #uuid "86f0bb77-105e-3136-98ae-4837a11ed606",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -8479,6 +8647,7 @@
                              #uuid "7ae07557-9ed6-3c65-8a66-6a5fc1971814",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2661,
@@ -8521,6 +8690,7 @@
                              #uuid "6ac412e5-f00f-37b6-9f4e-58f5d4355ec7",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -8595,6 +8765,7 @@
                              #uuid "1d8df61a-ee67-38d9-8345-514f8f8c6d8d",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2887,
@@ -8625,7 +8796,11 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1017,
                                                                 :name
-                                                                "Dice"}),
+                                                                "Dice"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1030,
+                                                                :name
+                                                                "Party Game"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              45,
                              :com.boardgamegeek.boardgame/max-players
@@ -8642,6 +8817,7 @@
                              #uuid "ff902fe5-2e3d-307d-aaa3-8cb3b15da00e",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -8697,6 +8873,7 @@
                              #uuid "2ca83da0-8515-306b-ae4a-0f82d66c97b8",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2883,
@@ -8756,6 +8933,7 @@
                              #uuid "1a50d747-a9f8-360b-a3fa-a23af2050f77",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 5.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2011,
@@ -8795,6 +8973,7 @@
                              #uuid "25b621f7-7694-329c-b479-e84107f27b8c",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -8830,6 +9009,7 @@
                              #uuid "0d1b6d3d-ebd1-3c17-b456-ebfda8a15e20",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2027,
@@ -8873,6 +9053,7 @@
                              #uuid "2d9909a4-31ae-30d1-af63-3b9f78db7d1e",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2004,
@@ -8912,6 +9093,7 @@
                              #uuid "eb9ce38e-9186-383e-8a18-3f574ec0615f",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -8957,6 +9139,7 @@
                              #uuid "18096821-e263-354e-a326-3eec6ea90f06",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -9002,6 +9185,7 @@
                              #uuid "210b1279-df88-310f-8cea-6bd8db2dc205",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -9056,6 +9240,7 @@
                              #uuid "42c129de-ad59-30d3-b867-b063545715e1",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -9128,6 +9313,7 @@
                              #uuid "12218694-0010-31cc-a245-a502b7ed4b19",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
@@ -9187,6 +9373,7 @@
                              #uuid "ee597e88-39d1-3846-9a2c-0fbb8d7399fd",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2984,
@@ -9234,6 +9421,7 @@
                              #uuid "73e5d0f5-fdaa-3c18-8283-30354f069036",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -9318,6 +9506,7 @@
                              #uuid "7d27738d-36ff-374f-86c2-9034b74ee5cc",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2989,
@@ -9361,6 +9550,7 @@
                              #uuid "524df850-dfe3-3f19-bdb8-53d265552946",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -9418,6 +9608,7 @@
                              #uuid "9b237584-654f-31ef-a4a8-1c77510b4492",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 8.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2916,
@@ -9513,6 +9704,7 @@
                              #uuid "0e13524e-0d23-310c-a97e-3ef1583014b4",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2857,
@@ -9604,6 +9796,7 @@
                              #uuid "7b206828-146d-3340-82e3-5a3fec9830ce",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -9668,6 +9861,7 @@
                              #uuid "408b8670-c241-3f45-9b76-b04a8a5d78f3",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -9727,6 +9921,7 @@
                              #uuid "819efde6-2ea1-3725-b2b9-fcb7e45051e7",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 8.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2916,
@@ -9817,6 +10012,7 @@
                              #uuid "1ef06205-ebd0-36fb-be7e-bd5b6d2b1f4e",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -9892,6 +10088,7 @@
                              #uuid "c0e511bb-f6d7-36ad-b146-87534b398bcd",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2838,
@@ -9930,13 +10127,9 @@
                                                                 :name
                                                                 "Simultaneous Action Selection"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                2828,
+                                                                2827,
                                                                 :name
-                                                                "Turn Order: Progressive"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2826,
-                                                                :name
-                                                                "Turn Order: Stat-Based"}),
+                                                                "Turn Order: Auction"}),
                              :name "El Grande CZ",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -9963,6 +10156,7 @@
                              #uuid "805bace7-4667-3eb1-b90b-d680cd215d97",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -10038,6 +10232,7 @@
                              #uuid "c0b2ebd9-f170-3134-8825-152bbf5dc18f",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2004,
@@ -10077,6 +10272,7 @@
                              #uuid "e8ffc938-d259-3b28-a666-523cc1c80a5a",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -10128,6 +10324,7 @@
                              #uuid "bfe4f9ac-312a-3ba5-b00d-a83cc2c20c6b",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -10179,6 +10376,7 @@
                              #uuid "374e6f87-7fb2-320e-be20-6ff4862ec4f4",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -10267,6 +10465,7 @@
                              #uuid "e130d92f-6f98-3c0f-8f19-1b1f1975aba8",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2014,
@@ -10302,6 +10501,7 @@
                              #uuid "8c864d0f-c08c-3bd5-b3d8-b433df48f8dc",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -10349,6 +10549,7 @@
                              #uuid "d2af6bb8-b72d-37a9-a3c1-7850f8f570e8",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2046,
@@ -10404,6 +10605,7 @@
                              #uuid "83b0c92e-d5cf-356d-ac8d-f7b6623d798b",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -10443,6 +10645,7 @@
                              #uuid "7a0abf1c-4866-37ba-9d51-43fe6c390186",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -10482,6 +10685,7 @@
                              #uuid "7468cd03-4896-3b01-a419-ace0954c9c71",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -10523,6 +10727,7 @@
                              #uuid "2d873928-1613-35c0-b22b-ad4d141a20e9",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -10574,6 +10779,7 @@
                              #uuid "8da15a07-8c75-3cdd-9e79-7a7b9fc8d01f",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2956,
@@ -10629,6 +10835,7 @@
                              #uuid "182deae1-4ea2-3cb6-a9a3-ff03c832e910",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -10704,6 +10911,7 @@
                              #uuid "28fb716b-560b-30bd-96ae-9f05f7f1cec7",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -10758,6 +10966,7 @@
                              #uuid "9039597e-8a40-3efe-9d88-6f626e892ac5",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -10813,6 +11022,7 @@
                              #uuid "d2f54329-7bef-301f-8f4e-bdac47c6f6d3",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -10868,6 +11078,7 @@
                              #uuid "165261a9-0183-3e53-be82-ccc197c354b8",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -10927,6 +11138,7 @@
                              #uuid "4584b35c-868d-36f9-b932-e14bc001202b",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -10987,6 +11199,7 @@
                              #uuid "0e4c91a1-1443-39c0-9f14-dee7fc0db44e",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -11043,6 +11256,7 @@
                              #uuid "fa55b2f7-0a2a-3212-89a3-24e59c523d7c",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2984,
@@ -11090,6 +11304,7 @@
                              #uuid "fb51ee1e-0d41-39bc-8144-862f9f46a475",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -11158,6 +11373,7 @@
                              #uuid "892f09cf-3882-3c26-a359-382e4b2b3feb",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -11210,6 +11426,7 @@
                              #uuid "b9bd4c5f-ceb5-3988-b039-7b92652adaf8",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -11250,6 +11467,7 @@
                              #uuid "1d714c7e-6bf5-318f-8d76-9cba6e0d941d",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2876,
@@ -11289,6 +11507,7 @@
                              #uuid "106531a6-f0fc-3f18-ad87-95c230c97743",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2009,
@@ -11329,6 +11548,7 @@
                              #uuid "2f72154e-04bc-30b1-b763-6290cd60c0c2",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2984,
@@ -11376,6 +11596,7 @@
                              #uuid "813c39fd-d53b-3512-a656-7c747e1b82bd",
                              :com.boardgamegeek.boardgame/min-players
                              4,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2893,
@@ -11415,6 +11636,7 @@
                              #uuid "ba8767ef-4a32-3891-9ee3-868db4035df9",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2082,
@@ -11450,6 +11672,7 @@
                              #uuid "3325caa9-0053-3e4a-a495-03ae517ddd92",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2078,
@@ -11497,6 +11720,7 @@
                              #uuid "57ded919-c07c-303b-9b25-fe9cb3fa5063",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2984,
@@ -11536,6 +11760,7 @@
                              #uuid "5811ddf8-3db1-3a09-8220-054d2831bf1f",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :name "Fish'n'Shark",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -11569,6 +11794,7 @@
                              #uuid "4b8fd77f-4c4f-353c-b7cb-ae7f066cad26",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -11628,6 +11854,7 @@
                              #uuid "8d664ecf-338d-350e-9390-ab35cd43667d",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2947,
@@ -11665,6 +11892,7 @@
                              #uuid "6b17f1d4-4d78-3b36-ad3c-c6bf29954dfd",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :name "Florist",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -11686,6 +11914,7 @@
                              #uuid "532f8c74-c965-3a8b-84a5-bffce453945f",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2883,
@@ -11733,6 +11962,7 @@
                              #uuid "be22581f-a4e0-37aa-ab8f-7dc7d7e5956f",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -11774,6 +12004,7 @@
                              #uuid "77019157-27a1-3008-9fce-2ae005351ccb",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
@@ -11821,6 +12052,7 @@
                              #uuid "c4edcc25-a755-3d39-a9e4-bb19240eb5b5",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
@@ -11872,6 +12104,7 @@
                              #uuid "626478f2-93a7-323a-981f-e707bfaa1e23",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 0.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2839,
@@ -11948,6 +12181,7 @@
                              #uuid "390a8b92-a855-31c5-8109-9468dfed0dd1",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -12023,6 +12257,7 @@
                              #uuid "d611bfb2-0345-3185-be82-54b27eaa73aa",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -12072,6 +12307,7 @@
                              #uuid "2e3228d7-0912-39db-8dcf-b042f26f3029",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -12107,6 +12343,7 @@
                              #uuid "07782c22-a88d-3e82-a099-10124a9225a2",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -12146,6 +12383,7 @@
                              #uuid "acf0af3e-cbbf-3369-852a-443032ab6b41",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2956,
@@ -12209,6 +12447,7 @@
                              #uuid "5a94d3b8-a726-38db-9887-d5f807d5ddf6",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2047,
@@ -12248,6 +12487,7 @@
                              #uuid "1532d4fc-219c-34e0-ad5e-972261b3de21",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -12321,6 +12561,7 @@
                              #uuid "5a02a655-36e4-312d-92fe-d65320bd276f",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -12390,6 +12631,7 @@
                              #uuid "a7513661-ae07-3a86-8d29-86c7aed2d913",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :name "Fuse",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -12412,6 +12654,7 @@
                              #uuid "e8174208-0e82-3f10-9e40-41b9c05338b7",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2004,
@@ -12446,6 +12689,7 @@
                              #uuid "32644dee-4a8b-3424-b063-93643a611b6e",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -12537,6 +12781,7 @@
                              #uuid "251c85df-7a85-3370-b0b4-ceba79d9e19f",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -12617,6 +12862,7 @@
                              #uuid "9ecf0011-c0af-37eb-a590-f247005f0399",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2916,
@@ -12673,6 +12919,7 @@
                              #uuid "a4736bde-e1f2-3723-a17e-fb5d320ed3d4",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3001,
@@ -12712,6 +12959,7 @@
                              #uuid "745762e3-77d3-38cf-9287-c85681b42f9b",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2838,
@@ -12759,6 +13007,7 @@
                              #uuid "f8bb3d99-7327-3230-a0af-3c48c99cffa2",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2999,
@@ -12808,6 +13057,7 @@
                              #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2060,
@@ -12851,6 +13101,7 @@
                              #uuid "e0ac93db-046d-3764-a1e6-36c109df2ec4",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2689,
@@ -12890,6 +13141,7 @@
                              #uuid "397314e0-31af-3c7f-ba2e-cc1955a324c9",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2689,
@@ -13017,6 +13269,7 @@
                              #uuid "d623875f-27a4-3b37-bf37-7dc2c7f0f7a1",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -13080,6 +13333,7 @@
                              #uuid "b20024ea-3ba5-3768-998d-242981872153",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -13135,6 +13389,7 @@
                              #uuid "bd4049a7-2730-31a1-bbc9-4a077d75facc",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2060,
@@ -13178,6 +13433,7 @@
                              #uuid "65b397da-a4ad-3880-b821-4f6f9d01cac1",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2857,
@@ -13237,6 +13493,7 @@
                              #uuid "ff06ba4c-17be-35c6-8a0f-a32efafee47c",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
@@ -13272,6 +13529,7 @@
                              #uuid "dd61c3dc-259e-3c43-b22e-89409499b669",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2838,
@@ -13327,6 +13585,7 @@
                              #uuid "9e08725e-f986-3be8-99e0-748e18db8932",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -13398,6 +13657,7 @@
                              #uuid "e5c528dd-2ba9-3a89-ac17-c427f0c00414",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 8.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -13461,6 +13721,7 @@
                              #uuid "76137265-a966-3a57-9ae1-b161b28fcfac",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2981,
@@ -13520,6 +13781,7 @@
                              #uuid "6e67688b-a557-3c99-8aee-63f8396091b3",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3004,
@@ -13547,6 +13809,7 @@
                              #uuid "87859cf1-bc9d-35bb-b260-ef5458951d9b",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
@@ -13602,6 +13865,7 @@
                              #uuid "95b57155-f052-38ad-a70a-af6f4184829b",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.0,
                              :name "Guzzle",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -13635,6 +13899,7 @@
                              #uuid "a5fc263e-513f-3a6e-a196-9f328b3892c1",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -13678,6 +13943,7 @@
                              #uuid "e8d2a59c-f315-3860-9608-b04f893cbc93",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -13725,6 +13991,7 @@
                              #uuid "439c09fa-ae97-35cb-995b-5475d8003b22",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -13768,6 +14035,7 @@
                              #uuid "ce2f9532-e57f-32d9-b402-738e1c7c6ed5",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2060,
@@ -13815,6 +14083,7 @@
                              #uuid "31398d50-f5d1-3d94-83d2-c65a712bf213",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2073,
@@ -13863,6 +14132,7 @@
                              #uuid "f67161b7-2387-30a0-88d0-971bc82e9340",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2020,
@@ -13898,6 +14168,7 @@
                              #uuid "81cc0f79-3609-346a-8dde-65ed1c9f3c3a",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2893,
@@ -13953,6 +14224,7 @@
                              #uuid "c1753974-7b85-39e4-a1ac-609d31b4727d",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2060,
@@ -13992,6 +14264,7 @@
                              #uuid "031d1a86-0b29-34dc-91f0-c7c245b80952",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -14030,6 +14303,7 @@
                              #uuid "40f67934-93cd-3520-b7c8-a64a9c104eea",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -14069,6 +14343,7 @@
                              #uuid "458dbda4-c28c-3c1c-aaec-a510d4a007d0",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2057,
@@ -14145,6 +14420,7 @@
                              #uuid "c0755e4b-2acc-34dc-8e23-68825e95b8dc",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -14197,6 +14473,7 @@
                              #uuid "e49d9ae9-0d4d-3bb4-950a-5a205e95c3fb",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -14249,6 +14526,7 @@
                              #uuid "7d486371-bb65-3063-b535-ceba4189d8ed",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 6.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -14288,6 +14566,7 @@
                              #uuid "d5a32a25-6a91-3fed-9dc1-d23ad0a92a83",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2978,
@@ -14352,6 +14631,7 @@
                              #uuid "20c3fe79-6775-322c-8725-cee986a4e25c",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -14404,6 +14684,7 @@
                              #uuid "0f3bb751-5c10-3c8e-82e9-cd64197d6098",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2836,
@@ -14463,6 +14744,7 @@
                              #uuid "b911669b-9ed3-3c80-abf9-02c5b119141b",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2014,
@@ -14522,6 +14804,7 @@
                              #uuid "34a554d0-0c92-34d1-b7e8-78b92ecd459e",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -14604,6 +14887,7 @@
                              #uuid "b84c42b5-009a-32ee-8edc-426877e4340d",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -14642,6 +14926,7 @@
                              #uuid "aa23ea23-6fb1-3cf5-a359-aa1378577495",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -14685,6 +14970,7 @@
                              #uuid "70c60580-d453-30e3-8d22-2bd16106f13f",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -14726,6 +15012,7 @@
                              #uuid "68f89a22-6fba-3fb6-b878-22c7f78624c4",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3002,
@@ -14789,6 +15076,7 @@
                              #uuid "35abef5c-5e6a-3b5a-92ea-01743e1be438",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -14845,6 +15133,7 @@
                              #uuid "cfaa1b50-40b6-3505-ac20-548887267700",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
@@ -14880,6 +15169,7 @@
                              #uuid "1fadd4b0-ef60-3812-bca9-2f217bf21ae9",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2839,
@@ -14951,6 +15241,7 @@
                              #uuid "56392de7-3f8b-351c-9805-b28906c6e615",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -15000,11 +15291,16 @@
                              #uuid "3b80595a-c71d-32b0-835a-c1d26c74b74f",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2014,
                                                                 :name
-                                                                "Betting and Bluffing"}),
+                                                                "Betting and Bluffing"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2821,
+                                                                :name
+                                                                "Single Loser Game"}),
                              :name "How Dare You?",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -15067,6 +15363,7 @@
                              #uuid "d3f134a2-8267-352a-b918-4908ad80b458",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2004,
@@ -15094,6 +15391,7 @@
                              #uuid "6da53f25-b27b-3c31-8b0d-3928dc46f469",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2676,
@@ -15133,6 +15431,7 @@
                              #uuid "32091993-a825-34e6-88db-e237a4d06fad",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2060,
@@ -15172,6 +15471,7 @@
                              #uuid "f19eb369-8058-33e7-9cf0-27fe7d715c93",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2847,
@@ -15223,6 +15523,7 @@
                              #uuid "90b4a79a-a31a-3cfc-be15-cdac927b726b",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2984,
@@ -15303,6 +15604,7 @@
                              #uuid "5726e9d6-5727-3ba1-85a5-770ecaed567c",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -15363,6 +15665,7 @@
                              #uuid "30e67275-20a5-3d5f-94e0-30a3eb5454c1",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -15434,6 +15737,7 @@
                              #uuid "d6eb0823-dd11-3f46-9fbb-b010bdfadafa",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -15493,6 +15797,7 @@
                              #uuid "6b9e436c-9140-388c-b35f-5f0fc67428ed",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -15556,6 +15861,7 @@
                              #uuid "2bd856df-4932-3514-ac7d-7f2319d8cbe8",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2893,
@@ -15595,6 +15901,7 @@
                              #uuid "41e8ecf0-ca0c-3a1a-8740-caa3e52030c3",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -15650,6 +15957,7 @@
                              #uuid "382d7859-26a7-39df-bc78-8da02110b381",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -15692,6 +16000,7 @@
                              #uuid "8a922f93-0126-33ff-b831-8b0ab4c2f83d",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -15740,6 +16049,7 @@
                              #uuid "99dc7ddd-4fc0-3171-81f7-78194f1224b2",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2048,
@@ -15780,6 +16090,7 @@
                              #uuid "7831fa0f-81b4-331e-b8b6-f916c6fb9485",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -15814,11 +16125,20 @@
                              :game/name "Inuit: The Snow Folk",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/1rcgdy0jY1EaTGR_xKFdhg__thumb/img/V2KXCC8bp6x0rWjbeOYK2XRRhA4=/fit-in/200x150/filters:strip_icc()/pic4583623.jpg"},
+                            #uuid "46e058fd-5e41-3591-9411-4936f5c5ff13"
+                            {:languages ["en"],
+                             :name
+                             "Iron Clays 100  Printed box with chips",
+                             :game/id
+                             #uuid "46e058fd-5e41-3591-9411-4936f5c5ff13",
+                             :game/name
+                             "Iron Clays 100  Printed box with chips"},
                             #uuid "de91ae11-7e94-38a8-baa1-1f90508a8ecb"
                             {:game/id
                              #uuid "de91ae11-7e94-38a8-baa1-1f90508a8ecb",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 6.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2893,
@@ -15866,6 +16186,7 @@
                              #uuid "e7a6103f-38d2-3272-941a-41586b70f4ee",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2014,
@@ -15913,6 +16234,7 @@
                              #uuid "b7a25a7a-e77d-35fe-ae20-eddd04525fb1",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2984,
@@ -15985,6 +16307,7 @@
                              #uuid "1add2eb4-1fca-39b2-a15b-4a7d68571409",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -16069,6 +16392,7 @@
                              #uuid "e26fc84c-c582-34f2-a192-8570dd83f0d2",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 5.1,
                              :name "Juduku",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -16098,6 +16422,7 @@
                              #uuid "351afc22-dc4d-3e49-83dc-43cee54bd244",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2676,
@@ -16129,6 +16454,7 @@
                              #uuid "e9e59065-5acd-3d1d-876b-8cb866541534",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2893,
@@ -16174,6 +16500,7 @@
                              #uuid "1ae1c3ed-8683-3c0f-bf90-4825cca4060a",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -16217,6 +16544,7 @@
                              #uuid "9b4e21b4-88ea-3351-8b54-4b8ee022e785",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 5.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -16281,6 +16609,7 @@
                              #uuid "a4521a08-c086-3926-ad86-3123729d36a3",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -16316,6 +16645,7 @@
                              #uuid "05d517c5-4a68-32d5-84f6-4c50318896e9",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -16373,6 +16703,7 @@
                              #uuid "8905140b-6b9b-35d3-b4f7-8387ed73bfa1",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2839,
@@ -16399,6 +16730,10 @@
                                                                 :name
                                                                 "Scenario / Mission / Campaign Game"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2819,
+                                                                :name
+                                                                "Solo / Solitaire Game"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2015,
                                                                 :name
                                                                 "Variable Player Powers"}
@@ -16413,7 +16748,7 @@
                                                                 :name
                                                                 "Fantasy"}),
                              :com.boardgamegeek.boardgame/max-play-time
-                             50,
+                             40,
                              :com.boardgamegeek.boardgame/max-players
                              4,
                              :com.boardgamegeek.boardgame/min-play-time
@@ -16428,6 +16763,7 @@
                              #uuid "19210e2c-f21d-35cd-884e-63329202cd32",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
@@ -16531,6 +16867,7 @@
                              #uuid "4c03c1c8-385c-3fb9-b528-e10c4245668d",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2676,
@@ -16578,6 +16915,7 @@
                              #uuid "f29973cc-4af3-3957-97bc-6d1fd61be8d2",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2838,
@@ -16657,6 +16995,7 @@
                              #uuid "3fe766de-a82f-37d1-a6e3-e1132b58ca3f",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -16716,6 +17055,7 @@
                              #uuid "db0bf9bb-ef7f-3fca-92e4-e7c84d8a6b64",
                              :com.boardgamegeek.boardgame/min-players
                              4,
+                             :com.boardgamegeek.boardgame/rating 6.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2046,
@@ -16750,6 +17090,7 @@
                              #uuid "e725def6-1621-3244-9dac-fd6d1cc1d413",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -16809,6 +17150,7 @@
                              #uuid "e1d04b1f-1d94-3006-958a-ee81242dab6d",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -16876,6 +17218,7 @@
                              #uuid "2dc322b0-ef94-3b68-ad5e-19c30b35d348",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -16943,6 +17286,7 @@
                              #uuid "843ecaf0-bb25-3a67-af63-f8a4bc3708a3",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -16986,6 +17330,7 @@
                              #uuid "ccc28034-cccd-3176-be13-3384b2e3a258",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -17029,6 +17374,7 @@
                              #uuid "007cb741-f0af-3ac8-9ad9-d4e6a3c12a34",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2903,
@@ -17092,6 +17438,7 @@
                              #uuid "66acdd24-4c0e-315d-a6d5-b9ab3f85a311",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3002,
@@ -17137,6 +17484,7 @@
                              #uuid "19ae17f5-1f75-3b10-82f5-f26b6d5155d1",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2020,
@@ -17164,6 +17512,7 @@
                              #uuid "48e5673e-2e2b-3920-95c7-ccbfb525c47f",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -17198,6 +17547,7 @@
                              #uuid "ce26cd6d-057f-3f8e-b125-d0f30fec6420",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -17243,6 +17593,7 @@
                              #uuid "d5c94464-b964-39de-9794-a78996eba937",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -17278,6 +17629,7 @@
                              #uuid "6d98a554-acdc-3036-a4ac-033020e7adbd",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -17321,6 +17673,7 @@
                              #uuid "5e9542fa-8caf-36d2-85d9-7e51623785ab",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :name "Kotakote",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -17354,6 +17707,7 @@
                              #uuid "4a9141c6-9e2e-398d-8335-1a81caf7d4b9",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.8,
                              :name "Krev a písek",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -17389,6 +17743,7 @@
                              #uuid "55d7d2af-b323-3f70-b358-0b7f83038436",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2689,
@@ -17467,6 +17822,7 @@
                              #uuid "e4eeaade-7504-3803-bb29-eddafc6252f3",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2838,
@@ -17546,6 +17902,7 @@
                              #uuid "f4a5cc7c-c380-31db-b09e-c807196b2b78",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 0.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -17575,6 +17932,7 @@
                              #uuid "431c14ad-268c-3b95-bb3a-cc7c2ec6a17f",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.6,
                              :name "Lama Express",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -17605,11 +17963,16 @@
                              #uuid "17f5491b-ef80-3362-9d22-42cdfed5cf04",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2043,
                                                                 :name
                                                                 "Enclosure"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2026,
+                                                                :name
+                                                                "Hexagon Grid"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2959,
                                                                 :name
@@ -17656,6 +18019,7 @@
                              #uuid "bd3c8148-cd5b-3d18-a1cb-7b317d58843c",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3002,
@@ -17691,6 +18055,7 @@
                              #uuid "6f05591c-c7b4-32dd-817d-c41c0d9254d0",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2903,
@@ -17754,6 +18119,7 @@
                              #uuid "fd2066fa-b1f0-3a35-a1c6-e65bc2dd96a2",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -17815,6 +18181,7 @@
                              #uuid "51c90736-05e2-34f2-b2ef-498610ca3480",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2689,
@@ -17875,6 +18242,7 @@
                              #uuid "fba96141-e5e5-3862-8eff-ee85bc61f3f4",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -17934,6 +18302,7 @@
                              #uuid "5a156002-5793-338e-9399-def9bfd7eca6",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3101,
@@ -17991,6 +18360,7 @@
                              #uuid "05587661-3a66-3dc9-a71f-0d4bf8786c47",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -18022,6 +18392,7 @@
                              #uuid "0d1540eb-74e0-3b70-8f8e-e4f164d9bd62",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -18065,6 +18436,7 @@
                              #uuid "9b643420-ea43-3dc4-825a-5e74470e4222",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -18120,6 +18492,7 @@
                              #uuid "d2a53e87-e8ca-3ed3-84e3-aed4d85ed71e",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -18174,6 +18547,7 @@
                              #uuid "42bc3dbf-9e01-331c-a945-6a51ffabc00b",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.9,
                              :name "Malý okruh",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -18205,6 +18579,7 @@
                              #uuid "8d5cea55-283c-38eb-9585-8c63fa97afa6",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -18247,6 +18622,7 @@
                              #uuid "e78088c0-b988-34b7-8643-6def04b49319",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3007,
@@ -18281,6 +18657,7 @@
                              #uuid "edac02d9-f1aa-3d62-8c91-4d3c98df8a82",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2073,
@@ -18319,6 +18696,7 @@
                              #uuid "f909880a-375a-3af0-957e-28c4a09bf83e",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -18359,6 +18737,7 @@
                              #uuid "6cc16bd7-d92e-384a-be56-229a00aa2686",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -18442,6 +18821,7 @@
                              #uuid "16bfbf9c-4627-32cf-9cba-4134ec53c504",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2984,
@@ -18489,6 +18869,7 @@
                              #uuid "4d8d0458-8e02-304e-8c22-48af39589e8f",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2048,
@@ -18572,6 +18953,7 @@
                              #uuid "bf60676c-d80e-352e-b49d-1a33b3f3bc42",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3001,
@@ -18622,6 +19004,7 @@
                              #uuid "d35972eb-51dc-3248-b7b9-3ea187439560",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -18663,6 +19046,7 @@
                              #uuid "350f09c9-73d0-3aee-a367-78217c7f6186",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 8.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2931,
@@ -18740,6 +19124,7 @@
                              #uuid "d2803767-57b9-3b92-8cc4-7214938eb52b",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2661,
@@ -18766,6 +19151,7 @@
                              #uuid "28eb0c35-a26a-3850-b71e-053581f6d64a",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -18841,6 +19227,7 @@
                              #uuid "0b5d8490-cda6-3f85-ac58-70ed3aefe115",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3002,
@@ -18892,6 +19279,7 @@
                              #uuid "0e8f1e83-6a2f-3e60-b086-3b1e50cbff58",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -18957,6 +19345,7 @@
                              #uuid "a274b318-b1a3-30da-bca0-febc8d4f1208",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -19008,6 +19397,7 @@
                              #uuid "141c9f39-27f9-3e84-b303-58ac1f2e96ac",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -19034,6 +19424,7 @@
                              #uuid "207ce45d-a4c3-30dc-80c6-3241182256e7",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.2,
                              :name
                              "Mage Knight + rozšíření Lost Legion",
                              :com.boardgamegeek.boardgame/categories
@@ -19069,6 +19460,7 @@
                              #uuid "cdb9785e-e723-341e-933e-9853dce18179",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2893,
@@ -19144,6 +19536,7 @@
                              #uuid "a8becb73-3eaa-38f3-ae6b-c73a257ab7fc",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -19210,6 +19603,7 @@
                              #uuid "3e15747c-d9eb-38ad-ab64-c57b41d0f3e9",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2035,
@@ -19250,6 +19644,7 @@
                              #uuid "f9d69482-936d-3195-9705-beedee2957b2",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2924,
@@ -19308,6 +19703,7 @@
                              #uuid "f5aef75f-0075-3e43-8fd6-40e5917ccbd1",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2014,
@@ -19371,6 +19767,7 @@
                              #uuid "7e669d27-7faf-3da4-8f29-a5f580ef939f",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -19410,6 +19807,7 @@
                              #uuid "42f04f6a-24d8-3cce-9452-6fcc7b404894",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -19453,6 +19851,7 @@
                              #uuid "7079890b-bb34-3f48-b263-6220df486355",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2046,
@@ -19554,6 +19953,7 @@
                              #uuid "8e634999-001a-353f-bf77-b0bc3f1e2cfd",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -19585,6 +19985,7 @@
                              #uuid "a1b2be9a-2b4c-32eb-b6b9-74982bf63fb0",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -19611,6 +20012,7 @@
                              #uuid "3980f7ea-079b-3741-a713-8494f6bcbb9a",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -19710,6 +20112,7 @@
                              #uuid "3384a03c-665a-3116-a474-cf5d4406c85a",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2007,
@@ -19765,6 +20168,7 @@
                              #uuid "ebe52470-edc4-3691-a597-c4891e04962c",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2676,
@@ -19812,6 +20216,7 @@
                              #uuid "47f555c2-6175-353c-b83e-448f25cec713",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -19851,6 +20256,7 @@
                              #uuid "55b795d7-d8c7-3b09-8d1a-ec5e3c0c5ace",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2857,
@@ -19922,11 +20328,19 @@
                              "Marvel Champions: The Card Game",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/kRvUgYiaOq07kC67ZK5UoQ__thumb/img/SDNWntiB06KhAINl06CDPkoipDc=/fit-in/200x150/filters:strip_icc()/pic4900321.jpg"},
+                            #uuid "0f43a41e-4736-3871-a8a0-5d2fa4def085"
+                            {:languages ["cs"],
+                             :name "Marvel Dice Throne CZ: Sada 1",
+                             :game/id
+                             #uuid "0f43a41e-4736-3871-a8a0-5d2fa4def085",
+                             :game/name
+                             "Marvel Dice Throne CZ: Sada 1"},
                             #uuid "18602670-64d1-3fbf-a261-11437162ba61"
                             {:game/id
                              #uuid "18602670-64d1-3fbf-a261-11437162ba61",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -19982,6 +20396,7 @@
                              #uuid "87f3092a-3923-3567-9723-76d6f4f06d4b",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -20021,6 +20436,7 @@
                              #uuid "b90c1573-28dd-3818-a02a-5a66ae9b080a",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2891,
@@ -20068,6 +20484,7 @@
                              #uuid "09c4a456-2631-3d14-b4d0-2f8ae99427b4",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -20128,6 +20545,7 @@
                              #uuid "17d89de4-25e8-3876-86c3-9ef10f08cf3e",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2011,
@@ -20163,6 +20581,7 @@
                              #uuid "c3245b5d-dfa1-3a8c-aafd-dd1cc8d4602e",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2011,
@@ -20198,6 +20617,7 @@
                              #uuid "f34c07d8-a2a8-3a10-8e63-5059a3e9e35c",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -20253,6 +20673,7 @@
                              #uuid "0c175e5e-1d3c-3a99-ad7d-dc689b05a3d7",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -20306,6 +20727,7 @@
                              #uuid "e131f98f-dbd6-3c8d-a6dc-0f6427920266",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -20350,6 +20772,7 @@
                              #uuid "81a6c906-52c9-30a1-ac1a-b703b0ce6d5c",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -20393,6 +20816,7 @@
                              #uuid "a6bfec71-66d8-3fb9-8b84-4865e8f3771a",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2891,
@@ -20428,6 +20852,7 @@
                              #uuid "51f3db2c-ea25-3bc8-9773-ae255c53e3bc",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -20475,6 +20900,7 @@
                              #uuid "088f7a46-b531-3b14-ae5b-dcbb5fc02670",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2013,
@@ -20538,6 +20964,7 @@
                              #uuid "4f58ae3c-af6d-3621-9cbe-fa3962eab6a0",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2676,
@@ -20607,6 +21034,7 @@
                              #uuid "79413bfc-7937-3c16-be95-e34d45589ec4",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -20658,6 +21086,7 @@
                              #uuid "52f25279-06ae-3e8c-ae6f-8b793c40b13d",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -20710,6 +21139,7 @@
                              #uuid "a30da072-cadc-33fb-a861-d2f34538a919",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -20754,6 +21184,7 @@
                              #uuid "9ca2fb7a-a3f2-32d0-9a02-238d51d2781e",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -20819,6 +21250,7 @@
                              #uuid "eced8e22-98e3-304a-b1dc-d33a4b8c068a",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2081,
@@ -20858,6 +21290,7 @@
                              #uuid "ea6268a8-55e8-3d34-9e88-c4be753bc12f",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.0,
                              :name "Mix Family",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -20891,6 +21324,7 @@
                              #uuid "c42121cb-10e7-3942-8c8c-31dd4d3ca9c0",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3001,
@@ -20969,6 +21403,7 @@
                              #uuid "7e76977f-ea16-34cb-a94a-1b4dd61df74b",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -21020,6 +21455,7 @@
                              #uuid "697de288-3906-38e6-b492-2896721836e1",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -21051,6 +21487,7 @@
                              #uuid "4776badd-2543-3389-a848-cfb9baf44952",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -21098,6 +21535,7 @@
                              #uuid "a3d7836d-abfc-3547-8983-5bf0c54aa05c",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -21137,6 +21575,7 @@
                              #uuid "5c742d80-ea46-3f08-85b3-db52ffd6dd1d",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2060,
@@ -21196,6 +21635,7 @@
                              #uuid "6ca0c1ce-f6e9-3a5e-bda8-06d34efa6f07",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3002,
@@ -21226,6 +21666,7 @@
                              #uuid "c9abf9cd-138d-3cbb-8e74-30598c4722c7",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.4,
                              :name "Monstrio",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -21255,6 +21696,7 @@
                              #uuid "f99eb1ab-b22f-3ad8-be01-6560d35d334b",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -21306,6 +21748,7 @@
                              #uuid "1aa127eb-26c9-3f02-92aa-53f398895531",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 0.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2055,
@@ -21339,6 +21782,7 @@
                              #uuid "f5d99f8f-98f7-3c77-8360-1ad0e1e2141c",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -21386,6 +21830,7 @@
                              #uuid "a136b6ff-012b-3a9d-8faf-8fd7a5009e28",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2686,
@@ -21413,6 +21858,7 @@
                              #uuid "e3ff49f1-3a4e-3be2-9c80-51385adc499c",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2893,
@@ -21464,6 +21910,7 @@
                              #uuid "04e8ca48-5ffe-31d2-9e4e-3cd1a59616a4",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2999,
@@ -21515,6 +21962,7 @@
                              #uuid "baf9b7dd-749d-37d7-888f-c84d255e682f",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -21574,6 +22022,7 @@
                              #uuid "6de2d947-5379-351e-8015-c1bc84a64883",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -21609,6 +22058,7 @@
                              #uuid "267bafff-19bb-3a1c-b267-872cd5082c1e",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 5.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -21646,6 +22096,7 @@
                              #uuid "2ca189f5-8500-3bf3-99b6-ec3203b0c227",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2893,
@@ -21725,6 +22176,7 @@
                              #uuid "baeee031-ef6c-3119-8a34-b8a985cb373a",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -21778,6 +22230,7 @@
                              #uuid "50b9ca05-2681-39da-82e4-e2a405bd0ea0",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2047,
@@ -21850,6 +22303,7 @@
                              #uuid "5d307230-a218-3fde-9af7-05a7412e9c34",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2004,
@@ -21904,6 +22358,7 @@
                              #uuid "d6406c4b-0fe4-3380-90c9-aeeed2385252",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -21986,6 +22441,7 @@
                              #uuid "37c8022e-5e8b-3c80-ad5e-52dc040d1bc2",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -22058,6 +22514,7 @@
                              #uuid "77a40be2-d1ee-324b-8ff0-df7bac2ecaa4",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2004,
@@ -22089,6 +22546,7 @@
                              #uuid "4ae48a68-3d4f-3c45-bde8-921047297bc6",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2903,
@@ -22144,6 +22602,7 @@
                              #uuid "1c8b97c8-3b07-3621-acd5-dbc88a64b0ed",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2839,
@@ -22224,6 +22683,7 @@
                              #uuid "99c277a1-b2d5-313c-9f06-0a501a0328de",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2883,
@@ -22267,6 +22727,7 @@
                              #uuid "ce164ec5-d7aa-3247-b9f2-cfb37eb595eb",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
@@ -22330,6 +22791,7 @@
                              #uuid "af4f009b-95db-3e4a-8eea-dea7bd170d1a",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -22393,6 +22855,7 @@
                              #uuid "9a217965-2908-38f8-8853-e9ee91b394e1",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -22452,6 +22915,7 @@
                              #uuid "0170d252-3262-32c6-a950-02dfa5ae3fa8",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 8.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2850,
@@ -22515,6 +22979,7 @@
                              #uuid "6ba70c4c-e877-35fa-9dbf-89638184fbfa",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -22553,11 +23018,18 @@
                              :game/name "Nova Luna",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/k8OZeKYMN2vVSVCl5FD-UA__thumb/img/lRMeiFcB9C3ivyZlCoPRQe5xKNU=/fit-in/200x150/filters:strip_icc()/pic5382418.jpg"},
+                            #uuid "c62bf3b0-ff69-345c-91e7-ccd68356c64e"
+                            {:languages ["cs"],
+                             :name "Nukleum CZ",
+                             :game/id
+                             #uuid "c62bf3b0-ff69-345c-91e7-ccd68356c64e",
+                             :game/name "Nukleum CZ"},
                             #uuid "8db21097-2c19-3474-9c8d-76f531aaccb6"
                             {:game/id
                              #uuid "8db21097-2c19-3474-9c8d-76f531aaccb6",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2060,
@@ -22597,6 +23069,7 @@
                              #uuid "f2b6dcdc-344b-3345-a187-b3c6c19af47e",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -22644,6 +23117,7 @@
                              #uuid "644311b6-3b60-3133-8989-d7c1188467da",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2980,
@@ -22671,6 +23145,7 @@
                              #uuid "49964193-520a-3b88-8ee9-5f53fd4fb926",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -22706,6 +23181,7 @@
                              #uuid "d8c13c7d-5ab6-37f4-81a7-55501895e462",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -22758,6 +23234,7 @@
                              #uuid "1721f2c5-ba95-3192-850a-9a79ea7214d7",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 3.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -22824,6 +23301,7 @@
                              #uuid "4c9a3b19-02ab-3799-bce1-d0a69c5a9b3d",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -22927,6 +23405,7 @@
                              #uuid "bddc24af-3739-3b8e-bfcb-17b4a25b7153",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2891,
@@ -22990,6 +23469,7 @@
                              #uuid "db60f3b5-695f-3979-bd6c-23f3a362646b",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2887,
@@ -23032,6 +23512,7 @@
                              #uuid "cadee47f-c1f2-3967-97e3-24afe46ab9ef",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2035,
@@ -23063,6 +23544,7 @@
                              #uuid "9519832e-f554-3010-a8ab-f837c5fab298",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2838,
@@ -23118,6 +23600,7 @@
                              #uuid "15097e77-e128-3a51-ae26-bec165792257",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2689,
@@ -23165,6 +23648,7 @@
                              #uuid "9203651e-c4e8-32e4-88a3-66c57917b3af",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2026,
@@ -23192,6 +23676,7 @@
                              #uuid "c615af68-2f23-336d-bbd3-c7f8c02a133d",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 8.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -23284,6 +23769,7 @@
                              #uuid "08eb296f-6c1c-355a-aae1-79e0f03fbcf7",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -23339,6 +23825,7 @@
                              #uuid "1f927c3f-4487-367e-92e9-a052e83a56b2",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2046,
@@ -23396,6 +23883,7 @@
                              #uuid "20991b5c-db21-3dff-b4ea-b899b36516e6",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -23474,6 +23962,7 @@
                              #uuid "44860889-512e-3da4-aa01-2c71dd3c16f8",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2035,
@@ -23496,11 +23985,77 @@
                              :game/name "Pac-Man: The Board Game",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/OhmnxvPdcMEG69GxxDaQVw__thumb/img/kVdX-b3vL7KiLwIv4vIvXqtAFBM=/fit-in/200x150/filters:strip_icc()/pic4891484.jpg"},
+                            #uuid "78886d23-32f5-34e7-80e0-2a2490af4222"
+                            {:game/id
+                             #uuid "78886d23-32f5-34e7-80e0-2a2490af4222",
+                             :com.boardgamegeek.boardgame/min-players
+                             2,
+                             :com.boardgamegeek.boardgame/rating 8.1,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2001,
+                                                                :name
+                                                                "Action Points"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2080,
+                                                                :name
+                                                                "Area Majority / Influence"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                3002,
+                                                                :name
+                                                                "Deduction"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2040,
+                                                                :name
+                                                                "Hand Management"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2829,
+                                                                :name
+                                                                "Turn Order: Claim Action"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2082,
+                                                                :name
+                                                                "Worker Placement"}),
+                             :name
+                             "Kacíř: Zkáza Roanoke  (Pagan: Fate of Roanoke)",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1022,
+                                                                :name
+                                                                "Adventure"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1023,
+                                                                :name
+                                                                "Bluffing"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1002,
+                                                                :name
+                                                                "Card Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1039,
+                                                                :name
+                                                                "Deduction"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1010,
+                                                                :name
+                                                                "Fantasy"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             60,
+                             :com.boardgamegeek.boardgame/max-players
+                             2,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/id "319910",
+                             :languages ["cs"],
+                             :game/name "Pagan: Fate of Roanoke",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/rDVo_h2DLjKIyTDGpYye-Q__thumb/img/cSVU9JzRq4C454GUhgUyeyIcO5E=/fit-in/200x150/filters:strip_icc()/pic5697622.jpg"},
                             #uuid "7d15beb5-ff94-3f90-9da2-3667e353d799"
                             {:game/id
                              #uuid "7d15beb5-ff94-3f90-9da2-3667e353d799",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2060,
@@ -23540,6 +24095,7 @@
                              #uuid "c12fca96-7aa8-3f4d-a67f-2f1e11a04b36",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -23607,6 +24163,7 @@
                              #uuid "16eccea3-7466-307d-a135-5a10d31eb464",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -23658,6 +24215,7 @@
                              #uuid "c1fa67fc-99a3-39a4-962b-ba099f84d11c",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -23713,6 +24271,7 @@
                              #uuid "9a7870b2-3cb6-37e7-acfe-ed46712c2cfb",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2676,
@@ -23770,6 +24329,7 @@
                              #uuid "723444a8-0ed2-32f5-a340-fecb4028a2f8",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2984,
@@ -23825,6 +24385,7 @@
                              #uuid "58c83176-9e2d-34ea-9212-2bfad7bf44a8",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2073,
@@ -23884,6 +24445,7 @@
                              #uuid "e20d37a5-d7fc-34c3-9be6-fc18a8e71bfa",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -23947,6 +24509,7 @@
                              #uuid "4a19d6fd-5186-3002-ba4f-a2d64323a845",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2838,
@@ -24006,6 +24569,7 @@
                              #uuid "44de8c27-9942-39ca-997c-57ff932fc882",
                              :com.boardgamegeek.boardgame/min-players
                              4,
+                             :com.boardgamegeek.boardgame/rating 6.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2073,
@@ -24065,6 +24629,7 @@
                              #uuid "63fc96f6-b68b-3cde-9e5b-5d98e823a2ec",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.3,
                              :name "Disko švábi",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -24087,6 +24652,7 @@
                              #uuid "58650c03-6c66-3591-9bf8-f6351fcaf8df",
                              :com.boardgamegeek.boardgame/min-players
                              4,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3002,
@@ -24142,6 +24708,7 @@
                              #uuid "81828b40-f940-3ba2-999a-df65d1ece450",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2978,
@@ -24209,6 +24776,7 @@
                              #uuid "2c811b91-c19b-3f0d-b2e5-81e4ed4033fb",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2857,
@@ -24252,6 +24820,7 @@
                              #uuid "167c5afc-9c99-384c-8d31-b0c225665979",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2834,
@@ -24311,6 +24880,7 @@
                              #uuid "206eebbc-6bd0-3c38-9acf-d971a4675e97",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3007,
@@ -24349,6 +24919,7 @@
                              #uuid "65d96240-ed13-3343-936f-efc5e5e629d1",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -24388,6 +24959,7 @@
                              #uuid "bc3492f9-1397-3264-bd41-68d4d9924eff",
                              :com.boardgamegeek.boardgame/min-players
                              4,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2893,
@@ -24439,6 +25011,7 @@
                              #uuid "3d07949f-7f88-3b8d-acf5-2059634b8e65",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -24500,6 +25073,7 @@
                              #uuid "78454a46-ce58-392f-91e7-5dd0cd6a0ab5",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -24549,6 +25123,7 @@
                              #uuid "b11ddc7e-1671-30bd-a2dc-89dd757508d4",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2893,
@@ -24588,6 +25163,7 @@
                              #uuid "61490171-1e05-39c8-9e09-8bf89bd755e9",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.6,
                              :name "Piff Paff",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -24616,6 +25192,7 @@
                              #uuid "ea0f0a46-f093-3be6-b660-60fafc5ab5c5",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2004,
@@ -24658,6 +25235,7 @@
                              #uuid "fefb21c4-5026-3352-a417-b0c68197066e",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.5,
                              :name "Pipolo",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -24695,6 +25273,7 @@
                              #uuid "6b17afcf-eead-344c-949f-18dc96ad8ff8",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2661,
@@ -24741,6 +25320,7 @@
                              #uuid "56e1d33a-9fee-36d0-b563-93c68b60178b",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 0.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -24782,6 +25362,7 @@
                              #uuid "c6586b2e-09d0-3d0e-a643-1a1bb280657f",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2962,
@@ -24817,6 +25398,7 @@
                              #uuid "fe44ac8c-1b3a-3589-8df2-267c793e61ad",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -24872,6 +25454,7 @@
                              #uuid "8e1f183e-5009-31b2-9915-d4082611c56d",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2850,
@@ -24980,6 +25563,7 @@
                              #uuid "74dd130c-744a-3014-b556-a4e089b05ac3",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.2,
                              :name "Pocket Cats",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -25002,6 +25586,7 @@
                              #uuid "51f23ecc-5589-3f8b-a41d-55a75bfce72b",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -25051,6 +25636,7 @@
                              #uuid "54b141a9-4bee-378e-b867-fd1d4729f014",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -25101,6 +25687,7 @@
                              #uuid "653884e6-f793-3fb0-8148-8584248708db",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2081,
@@ -25132,6 +25719,7 @@
                              #uuid "f4c0e627-69c7-31af-b914-9f8b96993f4a",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -25174,6 +25762,7 @@
                              #uuid "db6d2f3a-d731-3ddd-9e97-4b857d9ac065",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -25241,6 +25830,7 @@
                              #uuid "719e0e67-ef80-3db4-85ca-f060202a40d2",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -25296,6 +25886,7 @@
                              #uuid "2bf97b37-e0eb-3320-91b7-a549c3ce28be",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
@@ -25356,6 +25947,7 @@
                              #uuid "ac940b0a-9a7a-3164-99e8-ce885cdb72fc",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -25399,6 +25991,7 @@
                              #uuid "79e6c904-6b30-30a8-92ac-f646dbf937aa",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -25466,6 +26059,7 @@
                              #uuid "98016605-ebea-3a58-83ee-72fc32abee96",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2920,
@@ -25517,6 +26111,7 @@
                              #uuid "b52998c1-cb63-308f-b3b2-4eba62ba228f",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2020,
@@ -25572,6 +26167,7 @@
                              #uuid "58beefca-efab-34cc-ba60-8bae6c1feeed",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -25642,6 +26238,7 @@
                              #uuid "c4f7488d-3623-30ab-9a8d-55418e7e379a",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2043,
@@ -25673,6 +26270,7 @@
                              #uuid "f7625727-1129-3703-96c0-442c8ac00dae",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 8.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2838,
@@ -25746,6 +26344,7 @@
                              #uuid "3e850aae-9e73-3e9f-ae41-3f5219abd997",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
@@ -25789,6 +26388,7 @@
                              #uuid "12ee3c5f-fc0b-3b05-acc6-33cb0c21bb8c",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -25844,6 +26444,7 @@
                              #uuid "51a96c70-3596-32cb-a963-92797e1fcaac",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -25893,6 +26494,7 @@
                              #uuid "b7804532-669d-3161-b022-06637a0f165a",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2048,
@@ -25924,6 +26526,7 @@
                              #uuid "f8e6b399-feeb-3da8-9192-4c06882e9dff",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -25966,11 +26569,100 @@
                              :game/name "Queenz: To Bee or Not to Bee",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/7DOwOXeX4cY8_aPuXnm3NQ__thumb/img/SgENUaPTi24f46CgbO0C6ubfptw=/fit-in/200x150/filters:strip_icc()/pic4680550.jpg"},
+                            #uuid "07bf513a-88c3-3f28-aa30-cb374f8a933d"
+                            {:game/id
+                             #uuid "07bf513a-88c3-3f28-aa30-cb374f8a933d",
+                             :com.boardgamegeek.boardgame/min-players
+                             4,
+                             :com.boardgamegeek.boardgame/rating 7.3,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                3002,
+                                                                :name
+                                                                "Deduction"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2891,
+                                                                :name
+                                                                "Hidden Roles"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2047,
+                                                                :name
+                                                                "Memory"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2892,
+                                                                :name
+                                                                "Roles with Asymmetric Information"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2020,
+                                                                :name
+                                                                "Simultaneous Action Selection"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2019,
+                                                                :name
+                                                                "Team-Based Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2814,
+                                                                :name
+                                                                "Traitor Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2015,
+                                                                :name
+                                                                "Variable Player Powers"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2017,
+                                                                :name
+                                                                "Voting"}),
+                             :name "Výprava",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1023,
+                                                                :name
+                                                                "Bluffing"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1002,
+                                                                :name
+                                                                "Card Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1039,
+                                                                :name
+                                                                "Deduction"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1010,
+                                                                :name
+                                                                "Fantasy"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1035,
+                                                                :name
+                                                                "Medieval"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1026,
+                                                                :name
+                                                                "Negotiation"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1030,
+                                                                :name
+                                                                "Party Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1081,
+                                                                :name
+                                                                "Spies/Secret Agents"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/max-players
+                             10,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/id "316287",
+                             :languages ["cs"],
+                             :game/name "Quest",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/IwEAO-GRsYdO6WeA0uWtFg__thumb/img/tuaYRLZDFkbzau0nE4tVpODc9NA=/fit-in/200x150/filters:strip_icc()/pic5578189.jpg"},
                             #uuid "92d5b588-3e72-383d-af4e-56444ae949a5"
                             {:game/id
                              #uuid "92d5b588-3e72-383d-af4e-56444ae949a5",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
@@ -26018,6 +26710,7 @@
                              #uuid "65651e4a-2784-338e-910a-800b9c593d51",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 5.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2020,
@@ -26049,6 +26742,7 @@
                              #uuid "56a53916-96df-3787-baa5-686dfce7ee2f",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2893,
@@ -26089,6 +26783,7 @@
                              #uuid "b7c512a7-a3f4-35d4-a416-c10bffb57bb4",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -26128,6 +26823,7 @@
                              #uuid "a25de331-0ee1-3c49-a544-820cb07931ab",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2843,
@@ -26211,6 +26907,7 @@
                              #uuid "ec36581d-580f-3030-bdd7-9bf6d6ef5c92",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -26262,6 +26959,7 @@
                              #uuid "510efff7-538f-3871-9abd-077a65943258",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -26317,6 +27015,7 @@
                              #uuid "11f36134-602d-3254-a3f5-c9a8cc1b6c5d",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -26364,6 +27063,7 @@
                              #uuid "74e3083f-4bcb-38b4-a7ff-9888df74f0f2",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2999,
@@ -26424,6 +27124,7 @@
                              #uuid "900d9ed7-fc3b-326d-afef-d12a491572d0",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2999,
@@ -26484,6 +27185,7 @@
                              #uuid "5a5b1484-64b0-3809-9916-77c738f86173",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2081,
@@ -26519,6 +27221,7 @@
                              #uuid "7e47816d-afd5-39cc-bc69-18a723fcab0a",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2883,
@@ -26574,6 +27277,7 @@
                              #uuid "2443cb2b-6405-348d-a6e5-2dd0f1d9fe61",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -26624,6 +27328,7 @@
                              #uuid "1672e0d2-3c00-3a98-9ca2-241690d238fc",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2850,
@@ -26659,6 +27364,7 @@
                              #uuid "1189e267-87ad-3a23-8441-a568544e18cc",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2014,
@@ -26715,6 +27421,7 @@
                              #uuid "3c4ac596-2c34-3f1c-b8c6-82395c9831dd",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -26778,6 +27485,7 @@
                              #uuid "96c60fbf-25ce-32c9-b4fc-cda399f0127d",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2014,
@@ -26813,6 +27521,7 @@
                              #uuid "05270639-49b3-3e5f-8d56-bef1b3ea38cc",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -26876,6 +27585,7 @@
                              #uuid "4c5eb20b-01ea-31cf-b3b7-2b8dacd51325",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2048,
@@ -26908,6 +27618,7 @@
                              #uuid "0070b6cf-8144-303d-9172-acada2b035df",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -26967,6 +27678,7 @@
                              #uuid "30bc69ba-3a66-3ba7-924b-2ab6271ab24a",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2857,
@@ -27030,6 +27742,7 @@
                              #uuid "d78a1701-177a-38ae-bfbc-cceb9f1eb63a",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -27085,6 +27798,7 @@
                              #uuid "84c3324f-cb93-3d1e-b656-782db9ca44b1",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2822,
@@ -27120,6 +27834,7 @@
                              #uuid "2d95dfc0-d7ba-3234-a8f4-b9ed76cf0521",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -27164,6 +27879,7 @@
                              #uuid "0eb891cc-6f97-31e0-8ea2-6eb429897a8f",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -27203,6 +27919,7 @@
                              #uuid "148309a1-2159-3de0-816b-266f7301dd3d",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2838,
@@ -27314,6 +28031,7 @@
                              #uuid "0691c252-5813-3cc2-80ca-1c030047cd4f",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2839,
@@ -27367,6 +28085,7 @@
                              #uuid "276a923e-0367-3880-ac78-586f6a3bf1fc",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2689,
@@ -27471,6 +28190,7 @@
                              #uuid "c98c1972-7b6a-3b8f-8f6b-4bf5ded39488",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 5.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2008,
@@ -27502,6 +28222,7 @@
                              #uuid "a425e777-c217-3384-98ea-85b675b66e54",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -27565,6 +28286,7 @@
                              #uuid "3cb4d334-08dc-39f9-aeb4-61c94b6afcc1",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 0.0,
                              :name "Rodinná trefa",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -27591,6 +28313,7 @@
                              #uuid "0de2e3c8-72b8-39d4-a562-494bf756d805",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -27638,6 +28361,7 @@
                              #uuid "9e1a4efa-fad4-375f-8749-c32a13e6adc7",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2026,
@@ -27681,6 +28405,7 @@
                              #uuid "fa03eb68-8ad8-3a1d-b593-d33dabd89bad",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 8.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2689,
@@ -27788,6 +28513,7 @@
                              #uuid "26d5b5fa-fce7-36f0-9895-5b1a0f796f52",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -27827,6 +28553,7 @@
                              #uuid "ddbb81a9-e3aa-36cf-a19a-d8eb2389efd4",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2883,
@@ -27886,6 +28613,7 @@
                              #uuid "42c74e54-0178-32f6-acbe-ee4d9ab219c9",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2850,
@@ -27921,6 +28649,7 @@
                              #uuid "af817d47-9021-3806-800d-7ef8dab08024",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 6.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -27984,6 +28713,7 @@
                              #uuid "bb7745e6-fe51-351f-843c-5012bd13d334",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -28047,6 +28777,7 @@
                              #uuid "93469e8e-68c6-31a3-86d3-22f005ecf98c",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -28122,6 +28853,7 @@
                              #uuid "d466f698-7e20-3b65-a44e-9d693eef0ba0",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2048,
@@ -28153,6 +28885,7 @@
                              #uuid "afebfaaf-e838-3b24-b2f8-8013fae2210c",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -28220,6 +28953,7 @@
                              #uuid "b690b563-5a9e-33ab-b1db-966af06f0610",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -28271,6 +29005,7 @@
                              #uuid "56b76a63-e526-3423-bd52-66cba254de06",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -28322,6 +29057,7 @@
                              #uuid "863b84e5-b5c4-3347-a920-d71c4a08a259",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2676,
@@ -28381,6 +29117,7 @@
                              #uuid "d4e2924c-5ec9-311a-9d7d-50e5e87b0995",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2047,
@@ -28423,6 +29160,7 @@
                              #uuid "56a04002-e62d-31a1-8cad-061d3692bd7f",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2009,
@@ -28461,6 +29199,7 @@
                              #uuid "54d913f7-40ee-3806-812b-359b818435f3",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2843,
@@ -28516,6 +29255,7 @@
                              #uuid "6d96e955-88f8-36df-920f-2e5fcb67f422",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2959,
@@ -28555,6 +29295,7 @@
                              #uuid "a65fe9b8-99d0-317b-9c91-7b969001669d",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2857,
@@ -28600,6 +29341,7 @@
                              #uuid "139c1606-3c15-355a-b04b-a665b400a786",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 0.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -28635,6 +29377,7 @@
                              #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -28771,6 +29514,7 @@
                              #uuid "903da5cd-9134-3284-a0de-79d9fe086800",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -28818,6 +29562,7 @@
                              #uuid "9e240104-2267-3839-a13f-3d4654f096cf",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2978,
@@ -28853,6 +29598,7 @@
                              #uuid "1ca2fbe2-49dd-3d9c-a21f-8bf69dfa4a4d",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3004,
@@ -28917,6 +29663,7 @@
                              #uuid "8af65315-b94d-3484-be10-eaf75cc6d55a",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -28956,6 +29703,7 @@
                              #uuid "5b8f01e9-de8f-3b0f-8a42-7dee3f866045",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -29023,6 +29771,7 @@
                              #uuid "7bc3dcd2-12c1-3ecd-abd5-8b91fb33d329",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3002,
@@ -29078,6 +29827,7 @@
                              #uuid "8a32a05c-7f2e-3703-9210-9e01ce9c31d0",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -29138,6 +29888,7 @@
                              #uuid "00faeb47-70a8-3d6d-8c04-cf6084b14ee5",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2956,
@@ -29173,6 +29924,7 @@
                              #uuid "b965b44f-68ee-3b25-a787-bb580f80fa61",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2840,
@@ -29208,6 +29960,7 @@
                              #uuid "1041ed8b-6d58-330f-9eb6-d9bf91eafd0c",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -29255,6 +30008,7 @@
                              #uuid "2b6a028d-e3ba-3fc7-bd7b-eb0150ff193e",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -29314,6 +30068,7 @@
                              #uuid "3992d652-f81d-3e86-bd6e-2e685cb351a3",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -29361,6 +30116,7 @@
                              #uuid "14a7749e-31ee-3b66-af79-5bf4b407a824",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -29404,6 +30160,7 @@
                              #uuid "1c438d81-d732-3d24-9a15-0372c1370f26",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2689,
@@ -29491,6 +30248,7 @@
                              #uuid "9fdae336-161d-3222-abd6-3f64b4b11829",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -29534,6 +30292,7 @@
                              #uuid "148ab85a-5658-3fa0-979d-4036b0922f5e",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2689,
@@ -29625,6 +30384,7 @@
                              #uuid "37bfb631-3305-3610-afc5-7e2ea26d353a",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -29684,6 +30444,7 @@
                              #uuid "d51ca673-6fb3-38ac-96f7-1f62f1999665",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -29719,6 +30480,7 @@
                              #uuid "82b23554-7a50-3ac8-9e27-0f06ea11f29c",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -29759,6 +30521,7 @@
                              #uuid "1121199f-e1d9-3b01-869d-476f8147b7c3",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -29822,6 +30585,7 @@
                              #uuid "568da493-2833-3009-ad26-7108e0683081",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2661,
@@ -29853,6 +30617,7 @@
                              #uuid "2e994ee0-a8fc-32ef-a229-a0d74edf07cf",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -29938,6 +30703,7 @@
                              #uuid "36ba7ec4-b0bb-31cd-b80b-f56507e62ec3",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -29980,6 +30746,7 @@
                              #uuid "62a168e9-6998-33df-8994-dc1a9cc38e74",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :name "Ponožkožrouti",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -30021,6 +30788,7 @@
                              #uuid "01edd27f-4ecb-31b3-a8d5-c5c8910461b4",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2939,
@@ -30054,6 +30822,7 @@
                              #uuid "d2d5cb9d-1faa-3a1e-9c8b-0175fdae6604",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -30089,6 +30858,7 @@
                              #uuid "10d911e5-7941-39b9-be87-c28bfb1114c0",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2984,
@@ -30152,6 +30922,7 @@
                              #uuid "0ef3c7ad-f9bd-3964-afb0-62c38bee7460",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2014,
@@ -30191,6 +30962,7 @@
                              #uuid "f73b3498-5f4f-3911-8d86-02f4f5b94222",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2839,
@@ -30282,6 +31054,7 @@
                              #uuid "6bc5f893-5eeb-33fd-86fe-73e8c61764f9",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -30329,6 +31102,7 @@
                              #uuid "85e81f28-537a-3748-822c-daaecca3b612",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -30376,6 +31150,7 @@
                              #uuid "b239de4e-91c1-3ccb-b7c2-db5c2d37d4a1",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3104,
@@ -30414,6 +31189,7 @@
                              #uuid "6bdd63a2-940d-3e46-a254-30ccff2b0d49",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3000,
@@ -30469,6 +31245,7 @@
                              #uuid "0e6ae61b-96ea-34fa-b4e9-cdd45a2bd542",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2984,
@@ -30525,6 +31302,7 @@
                              #uuid "7ce4acbd-f5ed-3800-9116-83ec4caff1ea",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -30588,6 +31366,7 @@
                              #uuid "e5652b2e-4627-3e76-8ad6-138018fc90f1",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2857,
@@ -30640,6 +31419,7 @@
                              #uuid "27f0aa7a-f0c9-3d3b-98d8-52ae102ed55a",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3002,
@@ -30692,6 +31472,7 @@
                              #uuid "249d39f7-a5f3-3211-872d-b2ef71a7b196",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -30763,6 +31544,7 @@
                              #uuid "26c546c9-d25c-3085-9e63-aa090a52188e",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -30822,6 +31604,7 @@
                              #uuid "d48d8911-1363-35be-88ae-3c9ef7bc1122",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -30873,6 +31656,7 @@
                              #uuid "c2b21ca7-0fde-3c61-97dc-0e2932e9e57e",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -30929,6 +31713,7 @@
                              #uuid "18a87579-31b1-3de8-b7d7-e9e2959c81e5",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2047,
@@ -30971,6 +31756,7 @@
                              #uuid "7c3801ac-e417-346c-a923-a047750758ea",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -31026,6 +31812,7 @@
                              #uuid "7e44a50f-3db3-39fb-a208-0639f3b1f89e",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2027,
@@ -31057,6 +31844,7 @@
                              #uuid "20983f50-1194-32d7-a997-686733ccc2fc",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -31088,6 +31876,7 @@
                              #uuid "ff42d2cf-049b-319e-9ff0-c232e1388e3d",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -31143,6 +31932,7 @@
                              #uuid "6a130755-be8d-352f-b47b-6dc976d07388",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2916,
@@ -31203,6 +31993,7 @@
                              #uuid "af81fcd3-6c2c-3080-ac39-0f077b425e0a",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -31220,6 +32011,10 @@
                                                                 2035,
                                                                 :name
                                                                 "Roll / Spin and Move"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2822,
+                                                                :name
+                                                                "Scenario / Mission / Campaign Game"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2940,
                                                                 :name
@@ -31266,6 +32061,7 @@
                              #uuid "b590a0b6-c7ba-3d03-aa28-36367e68bb34",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -31309,6 +32105,7 @@
                              #uuid "ceb63562-5a9f-390b-b6c2-aeed1a87482c",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2924,
@@ -31372,6 +32169,7 @@
                              #uuid "a1677222-3d0a-3cd1-82b9-754285d227fc",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -31411,6 +32209,7 @@
                              #uuid "aa8e6739-88dc-3a78-afe2-13ab530eaed8",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2906,
@@ -31452,6 +32251,7 @@
                              #uuid "1a0552ad-d7e9-34ab-8219-07d421fe44a7",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -31496,6 +32296,7 @@
                              #uuid "314bd01a-1b7d-35f3-8fd4-0ef6961af80f",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -31556,6 +32357,7 @@
                              #uuid "2a5b5627-05c4-3b18-9d05-af8b629909df",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2661,
@@ -31587,6 +32389,7 @@
                              #uuid "0554b10e-1ad7-393e-86f8-f7209b43db28",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 5.1,
                              :name "Hlídání oveček",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -31620,6 +32423,7 @@
                              #uuid "26be3438-f5ac-3d3e-b513-ea6f41d49436",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 4.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2002,
@@ -31655,6 +32459,7 @@
                              #uuid "1e78ea48-893a-3f8e-91e2-01c9ff0e706e",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2860,
@@ -31726,6 +32531,7 @@
                              #uuid "a7d936b6-1b82-3474-9935-ae596b33f366",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2046,
@@ -31834,6 +32640,7 @@
                              #uuid "629b05e7-b56f-3cc6-abdb-53ba49914e03",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -31873,6 +32680,7 @@
                              #uuid "018b1acc-9502-34ad-8479-cb3758bba5b5",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -31912,6 +32720,7 @@
                              #uuid "5efcd2b8-37bf-3480-8e79-e30354156e35",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -31955,6 +32764,7 @@
                              #uuid "72311a38-0d86-316b-a433-f562b5b84dec",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -32012,6 +32822,7 @@
                              #uuid "6a0aee82-c981-3d54-a38a-92361da50a1e",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -32111,6 +32922,7 @@
                              #uuid "9f292177-9a93-38e2-9734-f53920f99fa4",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -32183,6 +32995,7 @@
                              #uuid "90752400-dc30-3de0-a4f1-d89e68dbea33",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2838,
@@ -32238,6 +33051,7 @@
                              #uuid "c68bf216-f161-3787-a7ab-a3747d790f2d",
                              :com.boardgamegeek.boardgame/min-players
                              4,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3096,
@@ -32277,6 +33091,7 @@
                              #uuid "8bfea7c8-79ea-34cd-80fa-101cc5eb17b4",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2984,
@@ -32316,6 +33131,7 @@
                              #uuid "b8d0fc1e-149e-3471-87cd-01d04c6d0b1b",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2046,
@@ -32393,6 +33209,7 @@
                              #uuid "0071dfa9-ec41-35e2-befc-ecbe183ff272",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 8.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -32481,6 +33298,7 @@
                              #uuid "e9764e69-b1a8-3687-9d7d-cdfac1d8508f",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -32528,6 +33346,7 @@
                              #uuid "f944b1ee-72e5-3ea8-832f-4eaf0dde6f09",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2984,
@@ -32640,6 +33459,7 @@
                              #uuid "a1c77d4a-7ffb-3b08-865d-a6679be5016d",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -32726,6 +33546,7 @@
                              #uuid "032d7c7e-d262-340f-99fd-74db9066a96e",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -32773,6 +33594,7 @@
                              #uuid "3ff49f8f-93b1-35a0-949f-2607763888db",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2046,
@@ -32857,6 +33679,7 @@
                              #uuid "d532c507-7ab6-3c68-9ec2-06ce85b6244c",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2857,
@@ -32920,6 +33743,7 @@
                              #uuid "364c4df0-e173-356d-a8f8-719563431a4b",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2689,
@@ -32963,6 +33787,7 @@
                              #uuid "e8a532bb-f585-3696-aa3f-66916f52ed0a",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -33010,6 +33835,7 @@
                              #uuid "0d794c9d-d65b-3e94-8ce2-fe8020a2a53c",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -33053,6 +33879,7 @@
                              #uuid "f68e123c-db14-3e0b-a7e7-464a7a13c1c4",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 8.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -33120,6 +33947,7 @@
                              #uuid "c9a2e234-485c-3a5a-9e9c-9415c320ba20",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -33171,6 +33999,7 @@
                              #uuid "36df5cf8-5000-3cd6-96c3-2951f75e08cc",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2046,
@@ -33222,6 +34051,7 @@
                              #uuid "8ef40982-ddb2-31aa-ac2a-5d4dc15ee392",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 8.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2893,
@@ -33282,6 +34112,7 @@
                              #uuid "595f02eb-d247-3d88-95e4-06800f89e71a",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2893,
@@ -33329,11 +34160,48 @@
                              "The Crew: The Quest for Planet Nine",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__thumb/img/et-fnuozyOdBOVL-5kSS3_7I8fw=/fit-in/200x150/filters:strip_icc()/pic5687013.jpg"},
+                            #uuid "5db605a5-06d8-3e5b-95fb-4c2f93276915"
+                            {:game/id
+                             #uuid "5db605a5-06d8-3e5b-95fb-4c2f93276915",
+                             :com.boardgamegeek.boardgame/min-players
+                             3,
+                             :com.boardgamegeek.boardgame/rating 6.5,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2009,
+                                                                :name
+                                                                "Trick-taking"}),
+                             :name "Král trpaslíků  (The Dwarf King)",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1023,
+                                                                :name
+                                                                "Bluffing"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1002,
+                                                                :name
+                                                                "Card Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1010,
+                                                                :name
+                                                                "Fantasy"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             40,
+                             :com.boardgamegeek.boardgame/max-players
+                             5,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             40,
+                             :com.boardgamegeek.boardgame/id "85250",
+                             :languages ["cs"],
+                             :game/name "The Dwarf King",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/o1rhjVOjf2pfVp7IlknKfg__thumb/img/tbmzj-SeD1yw_l8rwfhJeCMDfBs=/fit-in/200x150/filters:strip_icc()/pic7170573.jpg"},
                             #uuid "1f6abbcc-6aa7-3fbf-8c11-f5ea47b5cb4d"
                             {:game/id
                              #uuid "1f6abbcc-6aa7-3fbf-8c11-f5ea47b5cb4d",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -33373,6 +34241,7 @@
                              #uuid "bf9bf9b2-2886-3710-a8cd-2ab56ce77646",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2893,
@@ -33428,6 +34297,7 @@
                              #uuid "26028520-893e-3306-9896-035f40510f08",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -33500,6 +34370,7 @@
                              #uuid "d10419f9-589f-3633-9197-75ce103e1ceb",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2003,
@@ -33543,6 +34414,7 @@
                              #uuid "fe45ab98-72df-3f8e-9c67-c204a60482da",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3002,
@@ -33590,6 +34462,7 @@
                              #uuid "496b2492-4f91-3476-9a1b-e3ee57b07eb0",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2999,
@@ -33650,6 +34523,7 @@
                              #uuid "75192d7c-a9bd-321f-8045-dcad38476583",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2018,
@@ -33705,6 +34579,7 @@
                              #uuid "4e98691b-7eb7-3ebf-b3e9-67eb915d101d",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2046,
@@ -33764,6 +34639,7 @@
                              #uuid "1735db9b-dbc7-3364-951c-14ef9db058fb",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2984,
@@ -33843,6 +34719,7 @@
                              #uuid "d76e5d16-4fa0-3c41-a89f-0129c643545a",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -33911,6 +34788,7 @@
                              #uuid "439d3f5b-8de5-3678-ada5-9f65c434f275",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -33966,6 +34844,7 @@
                              #uuid "134c5416-16b9-3118-a547-774f6df7bbcd",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2893,
@@ -34001,6 +34880,7 @@
                              #uuid "1e66bc81-324b-38fb-96fd-9b51fd39a9f4",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2055,
@@ -34028,6 +34908,7 @@
                              #uuid "328179c1-b299-3fe0-b5e4-8f5d594e2bb8",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2004,
@@ -34068,6 +34949,7 @@
                              #uuid "b450a927-d17f-3bd7-8ddb-f632069cb20d",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -34123,6 +35005,7 @@
                              #uuid "4a9aa376-3c03-376f-b25f-4430bd6352a7",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2887,
@@ -34182,6 +35065,7 @@
                              #uuid "2aa26e3d-e0d5-373a-a8d6-19fcf73a5e16",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -34253,6 +35137,7 @@
                              #uuid "4c229496-53e3-3b6c-8a5e-3aeeb0bfa53e",
                              :com.boardgamegeek.boardgame/min-players
                              5,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2891,
@@ -34332,6 +35217,7 @@
                              #uuid "af472b73-df4f-3397-a8c7-31a328913353",
                              :com.boardgamegeek.boardgame/min-players
                              5,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2885,
@@ -34415,6 +35301,7 @@
                              #uuid "5140d848-4910-3017-8f45-c2851658966b",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -34450,6 +35337,7 @@
                              #uuid "400e254b-cfaf-3ab6-aca8-85902f7690d4",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -34501,6 +35389,7 @@
                              #uuid "27d4ac0a-7730-3014-82a7-016f61fc488d",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2046,
@@ -34556,6 +35445,7 @@
                              #uuid "d0f18556-af0e-3394-89df-3d8b6f79f658",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2891,
@@ -34603,6 +35493,7 @@
                              #uuid "e0e54175-7540-3f5b-a047-12672a802190",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -34646,6 +35537,7 @@
                              #uuid "f4fc95a6-49c7-35b0-a88e-e67baaf858a2",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2046,
@@ -34693,6 +35585,7 @@
                              #uuid "73b934c0-ac5b-3552-adea-620ee27316b3",
                              :com.boardgamegeek.boardgame/min-players
                              8,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2891,
@@ -34757,6 +35650,7 @@
                              #uuid "1d2864e5-c46d-3c17-b6d1-b2a73d160f0e",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2838,
@@ -34816,6 +35710,7 @@
                              #uuid "8b9e9d5e-6d45-3a59-9c0f-80ee1d8cef85",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -34867,6 +35762,7 @@
                              #uuid "f1d35d9b-1816-3593-a053-63fb29075191",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -34963,6 +35859,7 @@
                              #uuid "a9b53967-4ee4-3edc-b22e-2a007b64a755",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 8.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -35037,6 +35934,7 @@
                              #uuid "9174edea-2d8c-30ee-a424-4c2c72371e18",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2831,
@@ -35089,6 +35987,7 @@
                              #uuid "90a300ed-ea38-3514-b744-0c43440fa4b3",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2883,
@@ -35154,6 +36053,7 @@
                              #uuid "d1e0ff14-93c9-3b59-bf10-ca25972c5299",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -35193,6 +36093,7 @@
                              #uuid "eb724c67-e0f6-3887-b518-2d3981f5ff19",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -35229,6 +36130,7 @@
                              #uuid "a25945e1-791c-30a2-a58e-554b333ef31d",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2984,
@@ -35280,6 +36182,7 @@
                              #uuid "0ff68302-89b7-3763-905c-94075e086793",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -35351,6 +36254,7 @@
                              #uuid "f3f1fedb-8b4b-34db-9549-d8e205c09bc9",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2838,
@@ -35402,6 +36306,7 @@
                              #uuid "0380f4c8-9607-3ef4-8ade-916cfc0c7c3e",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :name "Timeline: Česko",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -35432,6 +36337,7 @@
                              #uuid "09d2f307-9411-3353-ac97-3943d0e885b6",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -35531,6 +36437,7 @@
                              #uuid "a1284aa1-d39a-3c80-bf77-a4b161546066",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -35574,6 +36481,7 @@
                              #uuid "32fc8ca3-6144-3ce2-87b9-81d62e6ae848",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2839,
@@ -35653,6 +36561,7 @@
                              #uuid "38af37ce-841a-38a4-a7e4-c543267b49f1",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -35734,6 +36643,7 @@
                              #uuid "6b0a1558-2d3f-3253-b7d2-c81760b3d306",
                              :com.boardgamegeek.boardgame/min-players
                              4,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -35783,6 +36693,7 @@
                              #uuid "39d1eb9f-9eb9-3f0e-9de7-3288fdcc14cc",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 9.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -35810,6 +36721,7 @@
                              #uuid "1ee29179-682e-386d-8843-0187c3d52a93",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2999,
@@ -35857,6 +36769,7 @@
                              #uuid "f83368d2-b550-31b3-895e-87e2befac010",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -35900,6 +36813,7 @@
                              #uuid "9f482646-ec22-3677-9d94-e416c67eb207",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2893,
@@ -35951,6 +36865,7 @@
                              #uuid "c31af57c-a315-3610-b455-9d5f386f31e0",
                              :com.boardgamegeek.boardgame/min-players
                              4,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2893,
@@ -35998,6 +36913,7 @@
                              #uuid "75de0399-6071-3e43-9123-15a64cd7269f",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 6.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -36037,6 +36953,7 @@
                              #uuid "c7c696a4-cd43-3f05-8ded-2f78a4d85cb7",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2984,
@@ -36108,6 +37025,7 @@
                              #uuid "e644f123-9eea-3f19-8ff2-5a3e05feeb0b",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2048,
@@ -36146,6 +37064,7 @@
                              #uuid "12ce0579-8f6b-31a0-bf9c-e7294dacf0d7",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -36185,6 +37104,7 @@
                              #uuid "1179314e-0533-31b5-987e-22f5e003fe49",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -36238,6 +37158,7 @@
                              #uuid "922a511f-02d1-38e4-8939-0526d85ca519",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2048,
@@ -36269,6 +37190,7 @@
                              #uuid "bd3ff00c-f2a6-3c24-8fdb-b4fb0e513bc8",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -36352,6 +37274,7 @@
                              #uuid "634b6ab2-6f7d-3f0b-ac70-4ee0b1065515",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3002,
@@ -36391,6 +37314,7 @@
                              #uuid "78174947-89da-3734-9122-6f56f557addf",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2906,
@@ -36444,6 +37368,7 @@
                              #uuid "81c1c368-bf93-30c5-8b39-bc50b2d8b215",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2957,
@@ -36506,6 +37431,7 @@
                              #uuid "63e5002f-f8a6-36bd-81b5-2f817477eecf",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2978,
@@ -36549,6 +37475,7 @@
                              #uuid "68220b79-c894-383d-8dc4-f2e51309972d",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2978,
@@ -36580,6 +37507,7 @@
                              #uuid "f3230c1e-f2b9-3a0f-813d-851921cb4160",
                              :com.boardgamegeek.boardgame/min-players
                              8,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2824,
@@ -36615,6 +37543,7 @@
                              #uuid "91e0703a-ceed-3a05-8ba0-2c792821d8b6",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2883,
@@ -36672,23 +37601,9 @@
                              #uuid "b82dd467-6204-3835-94c1-82e70e9833c8",
                              :game/name "Umí prase létat? PLUS"},
                             #uuid "b53f1904-9de6-3763-8000-988dcce3e84d"
-                            {:languages ["cs"],
-                             :name "Bang!",
-                             :game/id
+                            {:game/id
                              #uuid "b53f1904-9de6-3763-8000-988dcce3e84d",
-                             :game/name "Unauthorized Production",
-                             :com.boardgamegeek.boardgame/id "76085",
-                             :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/_a-Xq2n7TvLGN3Gk9qT4XQ__thumb/img/H4qXO2afhRlb54LsMkQieBXSGWM=/fit-in/200x150/filters:strip_icc()/pic402657.jpg",
-                             :com.boardgamegeek.boardgame/categories
-                             (list #:com.boardgamegeek.category{:id
-                                                                1028,
-                                                                :name
-                                                                "Puzzle"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1037,
-                                                                :name
-                                                                "Real-time"}),
+                             :com.boardgamegeek.boardgame/rating 6.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2676,
@@ -36701,12 +37616,28 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2940,
                                                                 :name
-                                                                "Square Grid"})},
+                                                                "Square Grid"}),
+                             :name "Bang!",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1028,
+                                                                :name
+                                                                "Puzzle"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1037,
+                                                                :name
+                                                                "Real-time"}),
+                             :com.boardgamegeek.boardgame/id "76085",
+                             :languages ["cs"],
+                             :game/name "Unauthorized Production",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/_a-Xq2n7TvLGN3Gk9qT4XQ__thumb/img/H4qXO2afhRlb54LsMkQieBXSGWM=/fit-in/200x150/filters:strip_icc()/pic402657.jpg"},
                             #uuid "54b7d1a4-f4c9-3dfb-a3cf-e94ce0c9d660"
                             {:game/id
                              #uuid "54b7d1a4-f4c9-3dfb-a3cf-e94ce0c9d660",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -36778,6 +37709,7 @@
                              #uuid "f1b0634f-a4b8-333f-a62e-08129a23079b",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 6.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -36814,6 +37746,7 @@
                              #uuid "99060139-4d5e-36c5-9110-0c35b80fc62b",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -36886,6 +37819,7 @@
                              #uuid "4c186547-f2bd-3388-9594-2a1b168c5f2f",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2004,
@@ -36913,6 +37847,7 @@
                              #uuid "7a51eb3c-d160-3393-b631-9ae87020b9db",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -36964,6 +37899,7 @@
                              #uuid "a0c39cc9-1334-3a8e-9218-95ae2b8c96b9",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -37015,6 +37951,7 @@
                              #uuid "9fbc6586-abf0-31d2-b752-1b73b743ad8c",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -37071,6 +38008,7 @@
                              #uuid "1dae3b27-dca3-38c3-aba4-a146347190f9",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2014,
@@ -37109,6 +38047,7 @@
                              #uuid "b33646d7-b7b1-3dd6-9a17-a88f6ddb5926",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -37170,6 +38109,7 @@
                              #uuid "6f9c72fe-52e2-3025-a8bf-e067a0b52402",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2999,
@@ -37209,6 +38149,7 @@
                              #uuid "587c3e48-8a32-36cd-9cda-b14c50a58276",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -37248,6 +38189,7 @@
                              #uuid "0528a1b6-794c-36e6-b433-b90c38ff0297",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -37313,6 +38255,7 @@
                              #uuid "cf1e8f0b-c580-3564-8e6e-e3cc8df2c060",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -37361,6 +38304,7 @@
                              #uuid "5f16e37e-ceae-370d-80cd-e5f628ea4dd8",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2940,
@@ -37392,6 +38336,7 @@
                              #uuid "c92dfc67-57f3-321b-9b0e-4ebb6c806560",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2060,
@@ -37439,6 +38384,7 @@
                              #uuid "de261ed3-728c-3742-8482-7131a5e972ad",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -37490,6 +38436,7 @@
                              #uuid "02a4a96d-9bd9-3a08-a642-3871a8b83df8",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2018,
@@ -37538,6 +38485,7 @@
                              #uuid "04801d42-daa8-3ac6-9cc8-197e98542b66",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -37569,6 +38517,7 @@
                              #uuid "99cea7d8-0623-3dac-8661-32d60a1521c5",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2840,
@@ -37624,6 +38573,7 @@
                              #uuid "4f196764-56ef-3688-9d8a-d52be40637e9",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -37701,6 +38651,7 @@
                              #uuid "0d89f0cd-d744-3958-a1a4-171adda8d4c2",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -37741,6 +38692,7 @@
                              #uuid "44ca4f9f-417c-3200-b21f-4ae33fae9646",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2047,
@@ -37788,6 +38740,7 @@
                              #uuid "c2327e70-a0b4-3abc-b76e-aa977e3f8872",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2999,
@@ -37835,6 +38788,7 @@
                              #uuid "ded08eef-ffd9-3dc2-8af7-295b60bbb187",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2999,
@@ -37894,6 +38848,7 @@
                              #uuid "ae7bda5b-fa73-3e1b-b30b-c81fd70b93f5",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -37965,6 +38920,7 @@
                              #uuid "dae098c1-5f0d-34de-b89b-5ba806e2394c",
                              :com.boardgamegeek.boardgame/min-players
                              4,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2893,
@@ -38024,6 +38980,7 @@
                              #uuid "605b29d5-2d5d-30c9-bf02-1eb669804b8b",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2002,
@@ -38059,6 +39016,7 @@
                              #uuid "d51d8e8f-a91d-3b83-b448-ee3a7d5fca6b",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.5,
                              :name "Kdo jsem?",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -38085,6 +39043,7 @@
                              #uuid "e5f11979-9a30-30ec-8084-92dd584b1214",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 8.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2689,
@@ -38160,6 +39119,7 @@
                              #uuid "c5419794-461c-31ab-8dea-327b50e6dc6d",
                              :com.boardgamegeek.boardgame/min-players
                              4,
+                             :com.boardgamegeek.boardgame/rating 5.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2073,
@@ -38207,6 +39167,7 @@
                              #uuid "a267e7df-2fef-383c-a61a-a92ee1d2606b",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3002,
@@ -38234,6 +39195,7 @@
                              #uuid "fa2d1461-a0cf-3599-bcfa-d6b5d65b8107",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -38281,6 +39243,7 @@
                              #uuid "dc216457-d633-3029-b6c3-a809ffeb6d33",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -38337,6 +39300,7 @@
                              #uuid "4c3accb5-e037-3034-9ab0-b33660f66502",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -38394,6 +39358,7 @@
                              #uuid "cbb5c347-7790-3eec-b511-bd3860bed3ac",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -38425,6 +39390,7 @@
                              #uuid "c2319739-973e-323a-90ed-129851041bc3",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2004,
@@ -38456,6 +39422,7 @@
                              #uuid "4aa12881-3478-3740-bb7d-afe9029fa0a2",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -38493,6 +39460,7 @@
                              #uuid "cfcbdf3f-1945-378d-a710-e1989436e904",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -38540,6 +39508,7 @@
                              #uuid "e6e96b3d-1195-3e1a-9ccb-1393684b7b0c",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 6.1,
                              :name "Zanimatch",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -38586,6 +39555,7 @@
                              #uuid "c6093e2b-8b30-3888-bed6-88f58d2ada71",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 5.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -38616,6 +39586,7 @@
                              #uuid "0b0ba83c-ba8f-3c56-8b3e-a2fc3bc7f5a4",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -38687,6 +39658,7 @@
                              #uuid "4f86101d-5207-3b59-b2ae-ea1c5295a7b6",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2046,
@@ -38742,6 +39714,7 @@
                              #uuid "d770b14c-eca2-3467-b500-e9d3fdc3c81b",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -38793,6 +39766,7 @@
                              #uuid "e9d6b4db-5d87-34f0-950a-294e10a38f57",
                              :com.boardgamegeek.boardgame/min-players
                              1,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -38863,6 +39837,7 @@
                              #uuid "7369ff3a-fe64-30e3-8363-9067a97ac8b4",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 6.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2014,
@@ -38898,6 +39873,7 @@
                              #uuid "20b9e3e3-44eb-3584-8d01-1465595ca185",
                              :com.boardgamegeek.boardgame/min-players
                              3,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2047,
@@ -38969,6 +39945,7 @@
                              #uuid "c7062e7b-0c9b-3eb7-9cf1-d71a7343128d",
                              :com.boardgamegeek.boardgame/min-players
                              2,
+                             :com.boardgamegeek.boardgame/rating 8.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -39155,7 +40132,6 @@
                              #uuid "3ab61f8a-771b-31fa-aa06-6cd69b680320"
                              #uuid "db22be45-256d-35f8-98d8-31d955137c21"
                              #uuid "cce98425-ad37-340e-877c-d3799e46b8e4"
-                             #uuid "988fc856-b0f7-3024-bf4c-9c5997d0c1b9"
                              #uuid "c0dfcd00-7c9f-3754-900e-196ffd02605e"
                              #uuid "e92a8b76-37ea-302a-980e-d5dfd2c20ff1"
                              #uuid "e950546e-10c0-3fa1-b719-5ff11240df0a"
@@ -39377,6 +40353,7 @@
                              #uuid "8a922f93-0126-33ff-b831-8b0ab4c2f83d"
                              #uuid "99dc7ddd-4fc0-3171-81f7-78194f1224b2"
                              #uuid "7831fa0f-81b4-331e-b8b6-f916c6fb9485"
+                             #uuid "46e058fd-5e41-3591-9411-4936f5c5ff13"
                              #uuid "de91ae11-7e94-38a8-baa1-1f90508a8ecb"
                              #uuid "e7a6103f-38d2-3272-941a-41586b70f4ee"
                              #uuid "b7a25a7a-e77d-35fe-ae20-eddd04525fb1"
@@ -39490,6 +40467,7 @@
                              #uuid "ebe52470-edc4-3691-a597-c4891e04962c"
                              #uuid "47f555c2-6175-353c-b83e-448f25cec713"
                              #uuid "55b795d7-d8c7-3b09-8d1a-ec5e3c0c5ace"
+                             #uuid "0f43a41e-4736-3871-a8a0-5d2fa4def085"
                              #uuid "18602670-64d1-3fbf-a261-11437162ba61"
                              #uuid "87f3092a-3923-3567-9723-76d6f4f06d4b"
                              #uuid "b90c1573-28dd-3818-a02a-5a66ae9b080a"
@@ -39568,6 +40546,7 @@
                              #uuid "9a217965-2908-38f8-8853-e9ee91b394e1"
                              #uuid "0170d252-3262-32c6-a950-02dfa5ae3fa8"
                              #uuid "6ba70c4c-e877-35fa-9dbf-89638184fbfa"
+                             #uuid "c62bf3b0-ff69-345c-91e7-ccd68356c64e"
                              #uuid "8db21097-2c19-3474-9c8d-76f531aaccb6"
                              #uuid "f2b6dcdc-344b-3345-a187-b3c6c19af47e"
                              #uuid "644311b6-3b60-3133-8989-d7c1188467da"
@@ -39590,6 +40569,7 @@
                              #uuid "1f927c3f-4487-367e-92e9-a052e83a56b2"
                              #uuid "8c8b7b66-c85e-3535-a3f1-ef59f757235b"
                              #uuid "44860889-512e-3da4-aa01-2c71dd3c16f8"
+                             #uuid "78886d23-32f5-34e7-80e0-2a2490af4222"
                              #uuid "7d15beb5-ff94-3f90-9da2-3667e353d799"
                              #uuid "c12fca96-7aa8-3f4d-a67f-2f1e11a04b36"
                              #uuid "8f2c79bf-a0e7-32e6-b5d0-00b4e7780a2a"
@@ -39660,6 +40640,7 @@
                              #uuid "51a96c70-3596-32cb-a963-92797e1fcaac"
                              #uuid "b7804532-669d-3161-b022-06637a0f165a"
                              #uuid "f8e6b399-feeb-3da8-9192-4c06882e9dff"
+                             #uuid "07bf513a-88c3-3f28-aa30-cb374f8a933d"
                              #uuid "92d5b588-3e72-383d-af4e-56444ae949a5"
                              #uuid "65651e4a-2784-338e-910a-800b9c593d51"
                              #uuid "56a53916-96df-3787-baa5-686dfce7ee2f"
@@ -39826,6 +40807,7 @@
                              #uuid "36df5cf8-5000-3cd6-96c3-2951f75e08cc"
                              #uuid "8ef40982-ddb2-31aa-ac2a-5d4dc15ee392"
                              #uuid "595f02eb-d247-3d88-95e4-06800f89e71a"
+                             #uuid "5db605a5-06d8-3e5b-95fb-4c2f93276915"
                              #uuid "1f6abbcc-6aa7-3fbf-8c11-f5ea47b5cb4d"
                              #uuid "bf9bf9b2-2886-3710-a8cd-2ab56ce77646"
                              #uuid "26028520-893e-3306-9896-035f40510f08"
@@ -39971,7 +40953,6 @@
                              #uuid "062d0b76-da24-33fd-8000-e6b3dc70abd5"
                              #uuid "13789f73-4da7-347b-90b1-3ef4db63b8b8"
                              #uuid "ba7c397e-f99f-3591-9fb6-46185e65fc43"
-                             #uuid "988fc856-b0f7-3024-bf4c-9c5997d0c1b9"
                              #uuid "c0dfcd00-7c9f-3754-900e-196ffd02605e"
                              #uuid "bdf9fe19-683b-3444-969c-e03fbeafd086"
                              #uuid "a14b94bc-9ba2-3ed1-85ac-794e377d38d4"
@@ -40007,6 +40988,7 @@
                              #uuid "04b4de56-f512-367e-b66e-56b320e825b7"
                              #uuid "08e9d77c-24b0-3949-a2ea-fb3d4aaa9654"
                              #uuid "d5559208-e11a-385b-9ffd-efaa351985af"
+                             #uuid "46e058fd-5e41-3591-9411-4936f5c5ff13"
                              #uuid "53163841-adac-3fac-b917-af54dd0af89b"
                              #uuid "88a7c8de-9fb7-35ae-8479-cbd306124e98"
                              #uuid "e48cab8c-c188-3310-b051-9b6e0eba5f27"
@@ -40044,6 +41026,7 @@
                              #uuid "62b4027b-6b01-3d2c-99a2-41bcd2a96952"
                              #uuid "432457cc-475f-33aa-9d31-3c4c4bed4d7f"
                              #uuid "3ec97bd4-2f4c-30fe-b2b9-770045f0b8a4"
+                             #uuid "0f43a41e-4736-3871-a8a0-5d2fa4def085"
                              #uuid "9507e67e-6ece-30ee-af72-b7c680976e2a"
                              #uuid "c6815a57-6e17-30c2-b4b3-4c46bd7da474"
                              #uuid "342eda67-3260-3622-ac70-e10bd655867e"
@@ -40067,6 +41050,7 @@
                              #uuid "6d1681cd-2acc-39b4-8805-416762ae7504"
                              #uuid "8ec44a78-2e74-381f-885d-8ef7124beb41"
                              #uuid "65aa0bde-48c4-3bec-a79c-e6641034e599"
+                             #uuid "c62bf3b0-ff69-345c-91e7-ccd68356c64e"
                              #uuid "e7a47c9a-ec50-3cbb-a920-e790eeca29b2"
                              #uuid "ef0dce1f-5864-3993-b2b4-d12ede1adc42"
                              #uuid "5cc6f2a9-ff50-3ee3-b059-9a9e85b21c72"
@@ -40659,6 +41643,7 @@
                              #uuid "08eb296f-6c1c-355a-aae1-79e0f03fbcf7"
                              #uuid "1f927c3f-4487-367e-92e9-a052e83a56b2"
                              #uuid "44860889-512e-3da4-aa01-2c71dd3c16f8"
+                             #uuid "78886d23-32f5-34e7-80e0-2a2490af4222"
                              #uuid "7d15beb5-ff94-3f90-9da2-3667e353d799"
                              #uuid "16eccea3-7466-307d-a135-5a10d31eb464"
                              #uuid "c1fa67fc-99a3-39a4-962b-ba099f84d11c"
@@ -40872,6 +41857,7 @@
                              #uuid "d2d5cb9d-1faa-3a1e-9c8b-0175fdae6604"
                              #uuid "b239de4e-91c1-3ccb-b7c2-db5c2d37d4a1"
                              #uuid "0554b10e-1ad7-393e-86f8-f7209b43db28"
+                             #uuid "5db605a5-06d8-3e5b-95fb-4c2f93276915"
                              #uuid "75de0399-6071-3e43-9123-15a64cd7269f"
                              #uuid "9fbc6586-abf0-31d2-b752-1b73b743ad8c"
                              #uuid "e6e96b3d-1195-3e1a-9ccb-1393684b7b0c"
@@ -40885,6 +41871,7 @@
                              #uuid "44de8c27-9942-39ca-997c-57ff932fc882"
                              #uuid "58650c03-6c66-3591-9bf8-f6351fcaf8df"
                              #uuid "bc3492f9-1397-3264-bd41-68d4d9924eff"
+                             #uuid "07bf513a-88c3-3f28-aa30-cb374f8a933d"
                              #uuid "c68bf216-f161-3787-a7ab-a3747d790f2d"
                              #uuid "6b0a1558-2d3f-3253-b7d2-c81760b3d306"
                              #uuid "c31af57c-a315-3610-b455-9d5f386f31e0"
@@ -40907,7 +41894,6 @@
                              #uuid "062d0b76-da24-33fd-8000-e6b3dc70abd5"
                              #uuid "13789f73-4da7-347b-90b1-3ef4db63b8b8"
                              #uuid "ba7c397e-f99f-3591-9fb6-46185e65fc43"
-                             #uuid "988fc856-b0f7-3024-bf4c-9c5997d0c1b9"
                              #uuid "c0dfcd00-7c9f-3754-900e-196ffd02605e"
                              #uuid "bdf9fe19-683b-3444-969c-e03fbeafd086"
                              #uuid "a14b94bc-9ba2-3ed1-85ac-794e377d38d4"
@@ -40943,6 +41929,7 @@
                              #uuid "04b4de56-f512-367e-b66e-56b320e825b7"
                              #uuid "08e9d77c-24b0-3949-a2ea-fb3d4aaa9654"
                              #uuid "d5559208-e11a-385b-9ffd-efaa351985af"
+                             #uuid "46e058fd-5e41-3591-9411-4936f5c5ff13"
                              #uuid "53163841-adac-3fac-b917-af54dd0af89b"
                              #uuid "88a7c8de-9fb7-35ae-8479-cbd306124e98"
                              #uuid "e48cab8c-c188-3310-b051-9b6e0eba5f27"
@@ -40980,6 +41967,7 @@
                              #uuid "62b4027b-6b01-3d2c-99a2-41bcd2a96952"
                              #uuid "432457cc-475f-33aa-9d31-3c4c4bed4d7f"
                              #uuid "3ec97bd4-2f4c-30fe-b2b9-770045f0b8a4"
+                             #uuid "0f43a41e-4736-3871-a8a0-5d2fa4def085"
                              #uuid "9507e67e-6ece-30ee-af72-b7c680976e2a"
                              #uuid "c6815a57-6e17-30c2-b4b3-4c46bd7da474"
                              #uuid "342eda67-3260-3622-ac70-e10bd655867e"
@@ -41003,6 +41991,7 @@
                              #uuid "6d1681cd-2acc-39b4-8805-416762ae7504"
                              #uuid "8ec44a78-2e74-381f-885d-8ef7124beb41"
                              #uuid "65aa0bde-48c4-3bec-a79c-e6641034e599"
+                             #uuid "c62bf3b0-ff69-345c-91e7-ccd68356c64e"
                              #uuid "e7a47c9a-ec50-3cbb-a920-e790eeca29b2"
                              #uuid "ef0dce1f-5864-3993-b2b4-d12ede1adc42"
                              #uuid "5cc6f2a9-ff50-3ee3-b059-9a9e85b21c72"
@@ -41127,6 +42116,7 @@
                              #uuid "a1b2be9a-2b4c-32eb-b6b9-74982bf63fb0"
                              #uuid "db60f3b5-695f-3979-bd6c-23f3a362646b"
                              #uuid "9203651e-c4e8-32e4-88a3-66c57917b3af"
+                             #uuid "78886d23-32f5-34e7-80e0-2a2490af4222"
                              #uuid "4a19d6fd-5186-3002-ba4f-a2d64323a845"
                              #uuid "81828b40-f940-3ba2-999a-df65d1ece450"
                              #uuid "74dd130c-744a-3014-b556-a4e089b05ac3"
@@ -41637,6 +42627,7 @@
                              #uuid "c9a2e234-485c-3a5a-9e9c-9415c320ba20"
                              #uuid "8ef40982-ddb2-31aa-ac2a-5d4dc15ee392"
                              #uuid "595f02eb-d247-3d88-95e4-06800f89e71a"
+                             #uuid "5db605a5-06d8-3e5b-95fb-4c2f93276915"
                              #uuid "fe45ab98-72df-3f8e-9c67-c204a60482da"
                              #uuid "1e66bc81-324b-38fb-96fd-9b51fd39a9f4"
                              #uuid "8b9e9d5e-6d45-3a59-9c0f-80ee1d8cef85"
@@ -41811,6 +42802,7 @@
                              #uuid "3b80595a-c71d-32b0-835a-c1d26c74b74f"
                              #uuid "bddc24af-3739-3b8e-bfcb-17b4a25b7153"
                              #uuid "c1fa67fc-99a3-39a4-962b-ba099f84d11c"
+                             #uuid "07bf513a-88c3-3f28-aa30-cb374f8a933d"
                              #uuid "af817d47-9021-3806-800d-7ef8dab08024"
                              #uuid "018b1acc-9502-34ad-8479-cb3758bba5b5"
                              #uuid "4c229496-53e3-3b6c-8a5e-3aeeb0bfa53e"
@@ -41841,7 +42833,6 @@
                              #uuid "062d0b76-da24-33fd-8000-e6b3dc70abd5"
                              #uuid "13789f73-4da7-347b-90b1-3ef4db63b8b8"
                              #uuid "ba7c397e-f99f-3591-9fb6-46185e65fc43"
-                             #uuid "988fc856-b0f7-3024-bf4c-9c5997d0c1b9"
                              #uuid "c0dfcd00-7c9f-3754-900e-196ffd02605e"
                              #uuid "bdf9fe19-683b-3444-969c-e03fbeafd086"
                              #uuid "a14b94bc-9ba2-3ed1-85ac-794e377d38d4"
@@ -41877,6 +42868,7 @@
                              #uuid "04b4de56-f512-367e-b66e-56b320e825b7"
                              #uuid "08e9d77c-24b0-3949-a2ea-fb3d4aaa9654"
                              #uuid "d5559208-e11a-385b-9ffd-efaa351985af"
+                             #uuid "46e058fd-5e41-3591-9411-4936f5c5ff13"
                              #uuid "53163841-adac-3fac-b917-af54dd0af89b"
                              #uuid "88a7c8de-9fb7-35ae-8479-cbd306124e98"
                              #uuid "e48cab8c-c188-3310-b051-9b6e0eba5f27"
@@ -41914,6 +42906,7 @@
                              #uuid "62b4027b-6b01-3d2c-99a2-41bcd2a96952"
                              #uuid "432457cc-475f-33aa-9d31-3c4c4bed4d7f"
                              #uuid "3ec97bd4-2f4c-30fe-b2b9-770045f0b8a4"
+                             #uuid "0f43a41e-4736-3871-a8a0-5d2fa4def085"
                              #uuid "9507e67e-6ece-30ee-af72-b7c680976e2a"
                              #uuid "c6815a57-6e17-30c2-b4b3-4c46bd7da474"
                              #uuid "342eda67-3260-3622-ac70-e10bd655867e"
@@ -41938,6 +42931,7 @@
                              #uuid "6d1681cd-2acc-39b4-8805-416762ae7504"
                              #uuid "8ec44a78-2e74-381f-885d-8ef7124beb41"
                              #uuid "65aa0bde-48c4-3bec-a79c-e6641034e599"
+                             #uuid "c62bf3b0-ff69-345c-91e7-ccd68356c64e"
                              #uuid "e7a47c9a-ec50-3cbb-a920-e790eeca29b2"
                              #uuid "cadee47f-c1f2-3967-97e3-24afe46ab9ef"
                              #uuid "ef0dce1f-5864-3993-b2b4-d12ede1adc42"
@@ -42424,6 +43418,7 @@
                              #uuid "9a217965-2908-38f8-8853-e9ee91b394e1"
                              #uuid "6ba70c4c-e877-35fa-9dbf-89638184fbfa"
                              #uuid "20991b5c-db21-3dff-b4ea-b899b36516e6"
+                             #uuid "78886d23-32f5-34e7-80e0-2a2490af4222"
                              #uuid "9a7870b2-3cb6-37e7-acfe-ed46712c2cfb"
                              #uuid "723444a8-0ed2-32f5-a340-fecb4028a2f8"
                              #uuid "58c83176-9e2d-34ea-9212-2bfad7bf44a8"
@@ -42436,6 +43431,7 @@
                              #uuid "98016605-ebea-3a58-83ee-72fc32abee96"
                              #uuid "12ee3c5f-fc0b-3b05-acc6-33cb0c21bb8c"
                              #uuid "f8e6b399-feeb-3da8-9192-4c06882e9dff"
+                             #uuid "07bf513a-88c3-3f28-aa30-cb374f8a933d"
                              #uuid "92d5b588-3e72-383d-af4e-56444ae949a5"
                              #uuid "a25de331-0ee1-3c49-a544-820cb07931ab"
                              #uuid "96c60fbf-25ce-32c9-b4fc-cda399f0127d"
@@ -42506,6 +43502,7 @@
                              #uuid "d48d8911-1363-35be-88ae-3c9ef7bc1122"
                              #uuid "d532c507-7ab6-3c68-9ec2-06ce85b6244c"
                              #uuid "0d794c9d-d65b-3e94-8ce2-fe8020a2a53c"
+                             #uuid "5db605a5-06d8-3e5b-95fb-4c2f93276915"
                              #uuid "c7c696a4-cd43-3f05-8ded-2f78a4d85cb7"
                              #uuid "e5f11979-9a30-30ec-8084-92dd584b1214"
                              #uuid "2ca189f5-8500-3bf3-99b6-ec3203b0c227"
@@ -42782,7 +43779,6 @@
                              #uuid "ba7c397e-f99f-3591-9fb6-46185e65fc43"
                              #uuid "8497566a-8959-34fe-aaa2-b597067c54ca"
                              #uuid "26fc8e91-b745-33c1-b246-19cc7863a1b0"
-                             #uuid "988fc856-b0f7-3024-bf4c-9c5997d0c1b9"
                              #uuid "c0dfcd00-7c9f-3754-900e-196ffd02605e"
                              #uuid "bdf9fe19-683b-3444-969c-e03fbeafd086"
                              #uuid "a14b94bc-9ba2-3ed1-85ac-794e377d38d4"
@@ -42819,6 +43815,7 @@
                              #uuid "04b4de56-f512-367e-b66e-56b320e825b7"
                              #uuid "08e9d77c-24b0-3949-a2ea-fb3d4aaa9654"
                              #uuid "d5559208-e11a-385b-9ffd-efaa351985af"
+                             #uuid "46e058fd-5e41-3591-9411-4936f5c5ff13"
                              #uuid "53163841-adac-3fac-b917-af54dd0af89b"
                              #uuid "88a7c8de-9fb7-35ae-8479-cbd306124e98"
                              #uuid "e48cab8c-c188-3310-b051-9b6e0eba5f27"
@@ -42858,6 +43855,7 @@
                              #uuid "62b4027b-6b01-3d2c-99a2-41bcd2a96952"
                              #uuid "432457cc-475f-33aa-9d31-3c4c4bed4d7f"
                              #uuid "3ec97bd4-2f4c-30fe-b2b9-770045f0b8a4"
+                             #uuid "0f43a41e-4736-3871-a8a0-5d2fa4def085"
                              #uuid "9507e67e-6ece-30ee-af72-b7c680976e2a"
                              #uuid "c6815a57-6e17-30c2-b4b3-4c46bd7da474"
                              #uuid "342eda67-3260-3622-ac70-e10bd655867e"
@@ -42882,6 +43880,7 @@
                              #uuid "6d1681cd-2acc-39b4-8805-416762ae7504"
                              #uuid "8ec44a78-2e74-381f-885d-8ef7124beb41"
                              #uuid "65aa0bde-48c4-3bec-a79c-e6641034e599"
+                             #uuid "c62bf3b0-ff69-345c-91e7-ccd68356c64e"
                              #uuid "e7a47c9a-ec50-3cbb-a920-e790eeca29b2"
                              #uuid "cadee47f-c1f2-3967-97e3-24afe46ab9ef"
                              #uuid "ef0dce1f-5864-3993-b2b4-d12ede1adc42"
@@ -43244,6 +44243,7 @@
                              #uuid "ac940b0a-9a7a-3164-99e8-ce885cdb72fc"
                              #uuid "98016605-ebea-3a58-83ee-72fc32abee96"
                              #uuid "f8e6b399-feeb-3da8-9192-4c06882e9dff"
+                             #uuid "07bf513a-88c3-3f28-aa30-cb374f8a933d"
                              #uuid "56a53916-96df-3787-baa5-686dfce7ee2f"
                              #uuid "74e3083f-4bcb-38b4-a7ff-9888df74f0f2"
                              #uuid "900d9ed7-fc3b-326d-afef-d12a491572d0"
@@ -43297,6 +44297,7 @@
                              #uuid "d611bfb2-0345-3185-be82-54b27eaa73aa"
                              #uuid "68f89a22-6fba-3fb6-b878-22c7f78624c4"
                              #uuid "41e8ecf0-ca0c-3a1a-8740-caa3e52030c3"
+                             #uuid "8905140b-6b9b-35d3-b4f7-8387ed73bfa1"
                              #uuid "ccc28034-cccd-3176-be13-3384b2e3a258"
                              #uuid "48e5673e-2e2b-3920-95c7-ccbfb525c47f"
                              #uuid "6d98a554-acdc-3036-a4ac-033020e7adbd"
@@ -43316,6 +44317,7 @@
                              #uuid "10d911e5-7941-39b9-be87-c28bfb1114c0"
                              #uuid "d532c507-7ab6-3c68-9ec2-06ce85b6244c"
                              #uuid "0d794c9d-d65b-3e94-8ce2-fe8020a2a53c"
+                             #uuid "5db605a5-06d8-3e5b-95fb-4c2f93276915"
                              #uuid "fe45ab98-72df-3f8e-9c67-c204a60482da"
                              #uuid "54b7d1a4-f4c9-3dfb-a3cf-e94ce0c9d660"
                              #uuid "99060139-4d5e-36c5-9110-0c35b80fc62b"
@@ -43392,7 +44394,6 @@
                              #uuid "04801d42-daa8-3ac6-9cc8-197e98542b66"
                              #uuid "acf0af3e-cbbf-3369-852a-443032ab6b41"
                              #uuid "e0ac93db-046d-3764-a1e6-36c109df2ec4"
-                             #uuid "8905140b-6b9b-35d3-b4f7-8387ed73bfa1"
                              #uuid "58c83176-9e2d-34ea-9212-2bfad7bf44a8"
                              #uuid "58650c03-6c66-3591-9bf8-f6351fcaf8df"
                              #uuid "db6d2f3a-d731-3ddd-9e97-4b857d9ac065"
@@ -43416,6 +44417,7 @@
                              #uuid "a9765329-9901-3693-957e-8d97cfaa1536"
                              #uuid "3ab61f8a-771b-31fa-aa06-6cd69b680320"
                              #uuid "db22be45-256d-35f8-98d8-31d955137c21"
+                             #uuid "fdb07892-a50b-3405-8eb2-8a5429a70ee8"
                              #uuid "5a9f1882-0b27-3da7-8d24-b13eda1849af"
                              #uuid "9d6cda4e-2bd1-3907-b7d4-cc0afd484c88"
                              #uuid "6ac412e5-f00f-37b6-9f4e-58f5d4355ec7"
@@ -43459,6 +44461,7 @@
                              #uuid "d8c13c7d-5ab6-37f4-81a7-55501895e462"
                              #uuid "9519832e-f554-3010-a8ab-f837c5fab298"
                              #uuid "20991b5c-db21-3dff-b4ea-b899b36516e6"
+                             #uuid "78886d23-32f5-34e7-80e0-2a2490af4222"
                              #uuid "3d07949f-7f88-3b8d-acf5-2059634b8e65"
                              #uuid "fe44ac8c-1b3a-3589-8df2-267c793e61ad"
                              #uuid "c4f7488d-3623-30ab-9a8d-55418e7e379a"
@@ -43523,7 +44526,6 @@
                              #uuid "ebca33bc-e7c8-3184-8102-aec5a1c7ea76"
                              #uuid "d3c109e9-3e98-31f9-9a48-d3381aed20f1"
                              #uuid "04131825-c690-3fb4-b915-f0666907e59c"
-                             #uuid "fdb07892-a50b-3405-8eb2-8a5429a70ee8"
                              #uuid "7a83122d-f549-37e0-b1ef-7e67847e5161"
                              #uuid "1f08e6e9-3aaf-35b9-923e-7854c6463b45"
                              #uuid "bb6b8c20-7879-3ded-8e85-5b34182e69f3"

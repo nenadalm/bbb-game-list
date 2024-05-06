@@ -2483,7 +2483,7 @@
                              #uuid "3c213740-1920-3b32-acb4-a2877cd7aa17",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.3,
+                             :com.boardgamegeek.boardgame/rating 6.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2027,
@@ -4066,7 +4066,7 @@
                              #uuid "595f5c4f-c267-303b-adf4-1333c70a9460",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.7,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2060,
@@ -4628,7 +4628,7 @@
                                                                 2897,
                                                                 :name
                                                                 "Variable Set-up"}),
-                             :name "Codex Naturalis",
+                             :name "Clank!",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1022,
@@ -4645,7 +4645,6 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "201808",
-                             :languages ["cs"],
                              :game/name
                              "Clank!: A Deck-Building Adventure",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -7591,7 +7590,7 @@
                              #uuid "479a6c5c-cef5-357e-9c39-23eeb98c7833",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.7,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2003,
@@ -8434,7 +8433,7 @@
                              #uuid "4b8fd77f-4c4f-353c-b7cb-ae7f066cad26",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.5,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -9105,7 +9104,7 @@
                              #uuid "af89834e-3251-3aa9-a464-74b8d24a5091",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.3,
+                             :com.boardgamegeek.boardgame/rating 6.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -9902,7 +9901,7 @@
                                                                 2004,
                                                                 :name
                                                                 "Set Collection"}),
-                             :name "Hansa Teutonica",
+                             :name "Hanafuda",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1002,
@@ -9919,7 +9918,6 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "5451",
-                             :languages ["en"],
                              :game/name "Hanafuda",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/GfBu7Yk8CsKM50GclSNx8A__thumb/img/OEBT1R88KJBF6ow2sB8ZYw063lA=/fit-in/200x150/filters:strip_icc()/pic2649408.jpg"},
@@ -10416,7 +10414,7 @@
                              #uuid "3b80595a-c71d-32b0-835a-c1d26c74b74f",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 6.9,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2014,
@@ -10456,7 +10454,7 @@
                              #uuid "2d8b500e-f9e1-3ea2-a7d1-0927519e3c5f",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 6.7,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -11685,7 +11683,7 @@
                                                                 2055,
                                                                 :name
                                                                 "Paper-and-Pencil"}),
-                             :name "Jedním slovem",
+                             :name "Just One",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1030,
@@ -11702,10 +11700,10 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "254640",
-                             :languages ["cs"],
+                             :languages ["en"],
                              :game/name "Just One",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/ocAuKT9hp99yBY77e4uuPg__thumb/img/ESTo05e9zuU6VJs3RyusEYGdc3Y=/fit-in/200x150/filters:strip_icc()/pic5137279.jpg"},
+                             "https://cf.geekdo-images.com/qKcKjHpzAvLddwBhyindag__thumb/img/HhZu2qLp9wyX9PNgvmDE8_hCl-0=/fit-in/200x150/filters:strip_icc()/pic4268499.jpg"},
                             #uuid "d74c2f95-1746-33fe-9fb1-5ee8e294c2ce"
                             {:game/id
                              #uuid "d74c2f95-1746-33fe-9fb1-5ee8e294c2ce",
@@ -16999,7 +16997,7 @@
                                                                 2019,
                                                                 :name
                                                                 "Team-Based Game"}),
-                             :name "Rodinná Trefa",
+                             :name "Párty trefa",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1039,
@@ -17335,7 +17333,7 @@
                              #uuid "3a5ef90f-d1e4-33da-a92a-7c9ff5227c38",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 5.8,
+                             :com.boardgamegeek.boardgame/rating 5.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2014,
@@ -18458,7 +18456,7 @@
                              #uuid "93469e8e-68c6-31a3-86d3-22f005ecf98c",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.5,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -19318,7 +19316,7 @@
                              #uuid "1ff52127-7c82-3033-9ce2-104b0bd614bf",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.7,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -24022,7 +24020,7 @@
                              #uuid "98205fa8-31bb-366a-bc9a-34ee54eed0b2",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.7,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2048,
@@ -25396,7 +25394,7 @@
                              #uuid "57153155-cc42-3c05-8286-785a35ed3749",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.8,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2013,
@@ -26467,7 +26465,7 @@
                              #uuid "9e638769-cea3-3302-ad66-52b732cdbe2e",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.7,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2009,

@@ -3985,66 +3985,11 @@
                              #uuid "047559ff-5346-3b80-8cdc-d4e7eb0f9b8f",
                              :game/name
                              "Gormiti – Soubor her Gormiti – Nezlobte se Gormiti – Ohňová hora Gormiti – Kvarteto Guessin 10"},
-                            #uuid "1d1a2ae0-fb88-3712-920f-eff40e773d32"
-                            {:game/id
-                             #uuid "1d1a2ae0-fb88-3712-920f-eff40e773d32",
-                             :com.boardgamegeek.boardgame/min-players
-                             2,
-                             :com.boardgamegeek.boardgame/rating 7.1,
-                             :com.boardgamegeek.boardgame/mechanics
-                             (list #:com.boardgamegeek.mechanic{:id
-                                                                2676,
-                                                                :name
-                                                                "Grid Movement"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2040,
-                                                                :name
-                                                                "Hand Management"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2026,
-                                                                :name
-                                                                "Hexagon Grid"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2975,
-                                                                :name
-                                                                "Line of Sight"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2011,
-                                                                :name
-                                                                "Modular Board"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2965,
-                                                                :name
-                                                                "Multiple Maps"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2661,
-                                                                :name
-                                                                "Push Your Luck"}),
-                             :name "Harry Potter: Game Box",
-                             :com.boardgamegeek.boardgame/categories
-                             (list #:com.boardgamegeek.category{:id
-                                                                1010,
-                                                                :name
-                                                                "Fantasy"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1047,
-                                                                :name
-                                                                "Miniatures"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1019,
-                                                                :name
-                                                                "Wargame"}),
-                             :com.boardgamegeek.boardgame/max-play-time
-                             60,
-                             :com.boardgamegeek.boardgame/max-players
-                             2,
-                             :com.boardgamegeek.boardgame/min-play-time
-                             40,
-                             :com.boardgamegeek.boardgame/id "411542",
-                             :game/name
-                             "Harry Potter Miniatures Adventure Game: Wizarding Duels Starter Box",
-                             :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/6NNXuPsSPXvafu5ci_TwWg__thumb/img/G0FdgCMB0YTnsxkzrqcTLX56Dnw=/fit-in/200x150/filters:strip_icc()/pic8022376.jpg"},
+                            #uuid "e1777c5f-f8df-31ab-8c31-057d2053d59c"
+                            {:name "Harry Potter: Game Box",
+                             :game/id
+                             #uuid "e1777c5f-f8df-31ab-8c31-057d2053d59c",
+                             :game/name "Harry Potter: Game Box"},
                             #uuid "36909430-0351-3b32-85bf-6b63dfdd185a"
                             {:name "Harry Potter: Kvíz",
                              :game/id
@@ -5173,7 +5118,7 @@
                              #uuid "6e70d710-37e8-3fb7-be6b-83bb2fbf3d8d",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.2,
+                             :com.boardgamegeek.boardgame/rating 6.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -9278,7 +9223,7 @@
                              #uuid "65b397da-a4ad-3880-b821-4f6f9d01cac1"
                              #uuid "dd61c3dc-259e-3c43-b22e-89409499b669"
                              #uuid "047559ff-5346-3b80-8cdc-d4e7eb0f9b8f"
-                             #uuid "1d1a2ae0-fb88-3712-920f-eff40e773d32"
+                             #uuid "e1777c5f-f8df-31ab-8c31-057d2053d59c"
                              #uuid "36909430-0351-3b32-85bf-6b63dfdd185a"
                              #uuid "d2cc9608-7d76-3eb3-93d7-1debaaddb37a"
                              #uuid "d6863f31-0815-30f5-af67-6af1cfe75ed3"
@@ -9462,6 +9407,7 @@
                              #uuid "80c27b63-9c1e-36f5-b5f1-9f24cafd1c7a"
                              #uuid "cc7ecf4c-1fd4-3bd9-9c11-a16301458655"
                              #uuid "047559ff-5346-3b80-8cdc-d4e7eb0f9b8f"
+                             #uuid "e1777c5f-f8df-31ab-8c31-057d2053d59c"
                              #uuid "36909430-0351-3b32-85bf-6b63dfdd185a"
                              #uuid "d2cc9608-7d76-3eb3-93d7-1debaaddb37a"
                              #uuid "d6863f31-0815-30f5-af67-6af1cfe75ed3"
@@ -9586,7 +9532,6 @@
                              #uuid "c8f93560-ab90-3e08-af95-140ebb860697"
                              #uuid "e2257f79-e77e-34b7-87b1-a0924290c7f3"
                              #uuid "65b397da-a4ad-3880-b821-4f6f9d01cac1"
-                             #uuid "1d1a2ae0-fb88-3712-920f-eff40e773d32"
                              #uuid "c273a092-a5a1-3f22-8383-3637506a4b94"
                              #uuid "5915a81b-221d-3aa3-a64a-78a9a04a1200"
                              #uuid "d7e42284-8dbc-392b-baaf-f8545b14ad3a"
@@ -9719,6 +9664,7 @@
                              #uuid "80c27b63-9c1e-36f5-b5f1-9f24cafd1c7a"
                              #uuid "cc7ecf4c-1fd4-3bd9-9c11-a16301458655"
                              #uuid "047559ff-5346-3b80-8cdc-d4e7eb0f9b8f"
+                             #uuid "e1777c5f-f8df-31ab-8c31-057d2053d59c"
                              #uuid "36909430-0351-3b32-85bf-6b63dfdd185a"
                              #uuid "d2cc9608-7d76-3eb3-93d7-1debaaddb37a"
                              #uuid "d6863f31-0815-30f5-af67-6af1cfe75ed3"
@@ -9776,7 +9722,6 @@
                              #uuid "c56337cc-54ed-3e22-8b76-d1092f67310c"
                              #uuid "ffac9f56-7f7f-39c1-8eee-59daf0995720"
                              #uuid "25b621f7-7694-329c-b479-e84107f27b8c"
-                             #uuid "1d1a2ae0-fb88-3712-920f-eff40e773d32"
                              #uuid "cc6dacc2-e35e-3eab-9e8e-8b9c0cfe41d5"
                              #uuid "456d479c-8791-3533-bc06-24219803ec40"
                              #uuid "ec36581d-580f-3030-bdd7-9bf6d6ef5c92"
@@ -9972,6 +9917,7 @@
                              #uuid "80c27b63-9c1e-36f5-b5f1-9f24cafd1c7a"
                              #uuid "cc7ecf4c-1fd4-3bd9-9c11-a16301458655"
                              #uuid "047559ff-5346-3b80-8cdc-d4e7eb0f9b8f"
+                             #uuid "e1777c5f-f8df-31ab-8c31-057d2053d59c"
                              #uuid "36909430-0351-3b32-85bf-6b63dfdd185a"
                              #uuid "d2cc9608-7d76-3eb3-93d7-1debaaddb37a"
                              #uuid "d6863f31-0815-30f5-af67-6af1cfe75ed3"
@@ -10117,7 +10063,6 @@
                              #uuid "d835a1f2-2ed6-3e39-ac35-dab94d1c4ef6"
                              #uuid "b8c09ce4-ca90-336f-877e-85fdef379d92"
                              #uuid "050802c0-f2a9-37b7-864e-c5095699a90d"
-                             #uuid "1d1a2ae0-fb88-3712-920f-eff40e773d32"
                              #uuid "4e268231-46e6-3761-88eb-9e87ebbc8573"
                              #uuid "e5f11979-9a30-30ec-8084-92dd584b1214"
                              #uuid "0c86876d-01a3-3928-9aa1-97e7df37deca"
@@ -10228,6 +10173,7 @@
                              #uuid "80c27b63-9c1e-36f5-b5f1-9f24cafd1c7a"
                              #uuid "cc7ecf4c-1fd4-3bd9-9c11-a16301458655"
                              #uuid "047559ff-5346-3b80-8cdc-d4e7eb0f9b8f"
+                             #uuid "e1777c5f-f8df-31ab-8c31-057d2053d59c"
                              #uuid "36909430-0351-3b32-85bf-6b63dfdd185a"
                              #uuid "d2cc9608-7d76-3eb3-93d7-1debaaddb37a"
                              #uuid "d6863f31-0815-30f5-af67-6af1cfe75ed3"
@@ -10392,7 +10338,6 @@
                              #uuid "33ef9db6-536f-307e-9b5a-71695627acc0"
                              #uuid "e2257f79-e77e-34b7-87b1-a0924290c7f3"
                              #uuid "dd61c3dc-259e-3c43-b22e-89409499b669"
-                             #uuid "1d1a2ae0-fb88-3712-920f-eff40e773d32"
                              #uuid "5915a81b-221d-3aa3-a64a-78a9a04a1200"
                              #uuid "d7e42284-8dbc-392b-baaf-f8545b14ad3a"
                              #uuid "7b024967-b40e-3766-9c5b-086d694b6350"

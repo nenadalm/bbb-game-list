@@ -5265,7 +5265,7 @@
                                                                 :name
                                                                 "Medieval"}),
                              :com.boardgamegeek.boardgame/max-play-time
-                             40,
+                             30,
                              :com.boardgamegeek.boardgame/max-players
                              4,
                              :com.boardgamegeek.boardgame/min-play-time
@@ -7280,7 +7280,7 @@
                              #uuid "0de2e3c8-72b8-39d4-a562-494bf756d805",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.5,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -8435,7 +8435,7 @@
                              #uuid "e64a40ce-1e9c-3e3b-94be-a3d33cd4bfb3",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.9,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2002,
@@ -12673,6 +12673,7 @@
                              #uuid "e4b769db-2a42-392d-b311-b02c3545d07d"
                              #uuid "6db176b1-017b-3430-a362-e2d6ee99cc67"
                              #uuid "141c9f39-27f9-3e84-b303-58ac1f2e96ac"
+                             #uuid "f9d69482-936d-3195-9705-beedee2957b2"
                              #uuid "c99cde22-b6f1-33af-8b53-93e358341985"
                              #uuid "4e734e9c-177f-37f2-8df6-2eddace65994"
                              #uuid "15097e77-e128-3a51-ae26-bec165792257"
@@ -12705,7 +12706,6 @@
                              #uuid "eaa9b08c-9718-39e9-84e8-e09ccf855ef0"
                              #uuid "dd6f7a14-de47-37f2-bb22-bd37cf04e69b"
                              #uuid "7923614a-0e46-3f3d-8fcc-0e9ae658f123"
-                             #uuid "f9d69482-936d-3195-9705-beedee2957b2"
                              #uuid "a8747e8a-6f71-36b4-8d89-cc80e57b68bf"
                              #uuid "99060139-4d5e-36c5-9110-0c35b80fc62b"
                              #uuid "2ca189f5-8500-3bf3-99b6-ec3203b0c227"

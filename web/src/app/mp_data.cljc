@@ -1972,10 +1972,6 @@
                                                                 :name
                                                                 "Set Collection"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                2005,
-                                                                :name
-                                                                "Stock Holding"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2939,
                                                                 :name
                                                                 "Track Movement"}
@@ -1988,11 +1984,7 @@
                              (list #:com.boardgamegeek.category{:id
                                                                 1021,
                                                                 :name
-                                                                "Economic"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1026,
-                                                                :name
-                                                                "Negotiation"}),
+                                                                "Economic"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              180,
                              :com.boardgamegeek.boardgame/max-players

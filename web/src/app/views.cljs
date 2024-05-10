@@ -68,6 +68,12 @@
      (when (:new data)
        [:sup "new"])]))
 
+(defn- rating [game]
+  (when-let [rating (:com.boardgamegeek.boardgame/rating game)]
+    [:<>
+     "Rating: " rating
+     [:br]]))
+
 (defn- game [data]
   [:tr
    [:td
@@ -76,6 +82,7 @@
     [title data]
     [:br]
     [:br]
+    [rating data]
     [languages data]
     [categories data]
     [mechanics data]]
@@ -139,6 +146,7 @@
     [:div
      [thumbnail game]]
     [:div
+     [rating game]
      (let [min-players (:com.boardgamegeek.boardgame/min-players game)
            max-players (:com.boardgamegeek.boardgame/max-players game)]
        (when (and min-players max-players)

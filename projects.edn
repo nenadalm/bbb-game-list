@@ -10,6 +10,10 @@
   :description "List of games at Mana Potion."
   :project "mp"
   :label "manapotion.cz"}
+ {:title "Games - Municipal Library of Prague"
+  :description "List of games at Municipal Library of Prague"
+  :project "mlp"
+  :label "mlp.cz"}
  {:title "Games - Peklo, nebe, ráj"
   :description "List of games at Peklo, nebe, ráj."
   :project "pnr"

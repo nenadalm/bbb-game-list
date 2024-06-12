@@ -9,7 +9,7 @@
 
 (def ^:private uncached-url-stream
   "boardgamegeek.com returns 429 Too Many Requests in case we are too quick."
-  (u/blocking-debounce 2000 ->uncached-stream*))
+  (u/blocking-debounce 3000 ->uncached-stream*))
 
 (defn ->cached-stream [url]
   (if-let [x (url-cache/load url)]

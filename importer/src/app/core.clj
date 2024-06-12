@@ -111,6 +111,7 @@
      (assoc m k (mapv :game/id (sort-by keyfn games))))
    {}
    [[:game/name (comp clojure.string/lower-case :game/name)]
+    [:com.boardgamegeek.boardgame/rating :com.boardgamegeek.boardgame/rating]
     [:com.boardgamegeek.boardgame/min-players :com.boardgamegeek.boardgame/min-players]
     [:com.boardgamegeek.boardgame/max-players :com.boardgamegeek.boardgame/max-players]
     [:com.boardgamegeek.boardgame/min-play-time :com.boardgamegeek.boardgame/min-play-time]

@@ -19,5 +19,10 @@
       f)))
 
 (defn store [url content]
-  (with-open [xout (clojure.java.io/output-stream (url->file url))]
-    (.transferTo content xout)))
+  (let [file (url->file url)]
+    (try
+      (with-open [xout (clojure.java.io/output-stream file)]
+        (.transferTo content xout))
+      (catch Throwable t
+        (.delete file)
+        (throw t)))))

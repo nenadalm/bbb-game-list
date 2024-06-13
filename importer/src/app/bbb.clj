@@ -21,7 +21,7 @@
 
 (def ^:private game-list-doc
   "bbb often returns 504"
-  (u/retry 3 game-list-doc*))
+  (u/retry 3 0 game-list-doc*))
 
 (defn- doc->next-page [doc]
   (when-let [href (not-empty (.attr (.select doc ".w-pagination-next") "href"))]

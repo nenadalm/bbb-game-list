@@ -8,11 +8,14 @@
       (let [start (java.time.Instant/now)
             pause-ms (.toMillis (java.time.Duration/between @prev-end start))]
         (Thread/sleep (max 0 (- ms pause-ms)))
-        (let [res (apply f args)]
-          (reset! prev-end (java.time.Instant/now))
-          res)))))
+        (try
+          (apply f args)
+          (finally
+            (reset! prev-end (java.time.Instant/now))))))))
 
-(defn retry [n f]
+(defn retry
+  "Returns function with same arguments as `f` that if throws is retried at most `n` times with delay of `ms` ms."
+  [n ms f]
   (fn [& args]
     (loop [attempt 1]
       (let [result (try
@@ -25,5 +28,7 @@
                            (.printStackTrace t)
                            ::retry))))]
         (if (= ::retry result)
-          (recur (inc attempt))
+          (do
+            (Thread/sleep ms)
+            (recur (inc attempt)))
           result)))))

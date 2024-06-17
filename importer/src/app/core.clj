@@ -73,7 +73,7 @@
                            (comp
                             (map :com.boardgamegeek.boardgame/id)
                             (filter some?)
-                            (partition-all 100)
+                            (partition-all 80) ;; requests crash with `Premature EOF` exception with value `100`
                             (map (fn [ids]
                                    (bgg/games-details ids)))
                             cat

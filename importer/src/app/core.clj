@@ -8,7 +8,8 @@
    [clojure.data.priority-map :as priority-map]
    [clojure.edn :as edn]
    [clojure.string]
-   [clojure.java.io :as io]))
+   [clojure.java.io :as io]
+   [jsonista.core :as j]))
 
 (defn- tap [x]
   (binding [*out* *err*]
@@ -128,8 +129,12 @@
   (pp/with-pprint-dispatch clojure-dispatch
     (pp/pprint (list 'def 'game-data (games->db games)))))
 
-(defn create-data [_]
-  (let [projects (read-edn "../projects.edn")]
+(defn list-projects [_]
+  (println (j/write-value-as-string (mapv :project (read-edn "../projects.edn")))))
+
+(defn create-data [{:keys [project]}]
+  (let [projects (read-edn "../projects.edn")
+        projects (if project (filterv #(= (:project %) project) projects) projects)]
     (doseq [project projects]
       (let [games-path (str "../web/src/app/" (:project project) "_data.cljc")
             games (project->games project)]

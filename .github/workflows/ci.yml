@@ -44,12 +44,16 @@ jobs:
       - uses: DeLaGuardo/setup-clojure@master
         with:
           cli: '1.11.3.1463'
+      - name: Get yarn cache directory path
+        id: yarn-cache-dir-path
+        run: echo "dir=$(yarn cache dir)" >> $GITHUB_OUTPUT
       - uses: actions/cache@v4
+        id: yarn-cache
         with:
-          path: '~/.npm'
-          key: "${{ runner.OS }}-node-${{ hashFiles('**/package-lock.json') }}"
+          path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
           restore-keys: |
-            ${{ runner.OS }}-node-
+            ${{ runner.os }}-yarn-
       - uses: actions/cache@v4
         with:
           path: '~/.m2'

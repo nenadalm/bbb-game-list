@@ -80,10 +80,10 @@ jobs:
         with:
           path: web/src/app
           merge-multiple: true
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v5
-        with:
-          commit-message: Update game list
-          title: Update game list
-          branch: create-pull-request/update-game-list
-          delete-branch: true
+      - name: Push changes
+        run: |
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add .
+          git commit -m "Update game list" || true
+          git push

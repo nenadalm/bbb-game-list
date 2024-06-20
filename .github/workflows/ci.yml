@@ -31,6 +31,8 @@ jobs:
   deploy:
     needs: test
     if: github.ref == 'refs/heads/master'
+    concurrency:
+      group: ${{ github.workflow }}-deploy
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v4

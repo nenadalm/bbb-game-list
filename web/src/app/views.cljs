@@ -82,10 +82,11 @@
     [title data]
     [:br]
     [:br]
-    [rating data]
     [languages data]
     [categories data]
     [mechanics data]]
+   [:td
+    (:com.boardgamegeek.boardgame/rating data)]
    [:td
     [min-players data]]
    [:td
@@ -122,6 +123,9 @@
                            :on-change #(re-frame/dispatch [::events/show-only-new (.-target.checked ^js %)])}] "only new"])]
        [sortable-th {:text "Title"
                      :key :game/name
+                     :sorting sorting}]
+       [sortable-th {:text "Rating"
+                     :key :com.boardgamegeek.boardgame/rating
                      :sorting sorting}]
        [sortable-th {:text "Min players"
                      :key :com.boardgamegeek.boardgame/min-players
@@ -186,6 +190,8 @@
                      (js/console.log))}
        [sort-option {:text "Title"
                      :key :game/name}]
+       [sort-option {:text "Rating"
+                     :key :com.boardgamegeek.boardgame/rating}]
        [sort-option {:text "Max players"
                      :key :com.boardgamegeek.boardgame/max-players}]
        [sort-option {:text "Min players"

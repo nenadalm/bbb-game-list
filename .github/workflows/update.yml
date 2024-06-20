@@ -9,7 +9,7 @@ concurrency:
 
 jobs:
   get-projects:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     outputs:
       projects: ${{ steps.get-projects.outputs.projects }}
     steps:
@@ -34,7 +34,7 @@ jobs:
           echo "projects=$(clojure -X app.core/list-projects)" >> "$GITHUB_OUTPUT"
   update:
     needs: get-projects
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     strategy:
       max-parallel: 1
       matrix:
@@ -76,7 +76,7 @@ jobs:
           retention-days: 7
   create-pr:
     needs: update
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - name: Download data

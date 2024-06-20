@@ -186,8 +186,7 @@
        {:value (keyword->str (:app/sort-key sorting))
         :on-change (fn [^js e]
                      (let [key (keyword (.-currentTarget.value e))]
-                       (re-frame/dispatch [::events/sort-by key (:app/sort-dir sorting)]))
-                     (js/console.log))}
+                       (re-frame/dispatch [::events/sort-by key (:app/sort-dir sorting)])))}
        [sort-option {:text "Title"
                      :key :game/name}]
        [sort-option {:text "Rating"
@@ -201,9 +200,9 @@
        [sort-option {:text "Min playing time"
                      :key :com.boardgamegeek.boardgame/min-play-time}]]]
      [:select
-      {:on-change (fn [^js e]
+      {:value (name (:app/sort-dir sorting))
+       :on-change (fn [^js e]
                     (re-frame/dispatch [::events/sort-by (:app/sort-key sorting) (keyword (.-currentTarget.value e))]))}
-      {:value (name (:app/sort-dir sorting))}
       [:option {:value "asc"} "Asc"]
       [:option {:value "desc"} "Desc"]]]))
 

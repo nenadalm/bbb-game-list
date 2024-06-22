@@ -1,6 +1,6 @@
 (ns app.util)
 
-(defn blocking-debounce
+(defn blocking-throttle
   "Returns function with same arguments as `f` that can be called at most once every `ms` ms. In case function would be called more times, current thread is blocked up to `ms` ms."
   [ms f]
   (let [prev-end (atom java.time.Instant/EPOCH)]

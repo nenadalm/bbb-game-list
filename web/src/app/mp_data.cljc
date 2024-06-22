@@ -2201,6 +2201,57 @@
                              :game/id
                              #uuid "f6068788-fa71-3717-8441-2e5e0260834a",
                              :game/name "Máme rádi Česko"},
+                            #uuid "138ed5fc-39eb-3ede-a8ce-9def49904d22"
+                            {:game/id
+                             #uuid "138ed5fc-39eb-3ede-a8ce-9def49904d22",
+                             :com.boardgamegeek.boardgame/min-players
+                             2,
+                             :com.boardgamegeek.boardgame/rating 9.0,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2850,
+                                                                :name
+                                                                "Events"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2885,
+                                                                :name
+                                                                "Finale Ending"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2837,
+                                                                :name
+                                                                "Interrupts"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2831,
+                                                                :name
+                                                                "Real-Time"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2028,
+                                                                :name
+                                                                "Role Playing"}),
+                             :name "Play",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1024,
+                                                                :name
+                                                                "Horror"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1118,
+                                                                :name
+                                                                "Mature / Adult"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1037,
+                                                                :name
+                                                                "Real-time"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/max-players
+                             8,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             15,
+                             :com.boardgamegeek.boardgame/id "398736",
+                             :game/name "PLAY ▶️",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/84v0HlU0bjU5Phi5kl8YsQ__thumb/img/ZXnBrYwuDrYcJ2NoY4RxYVVeDfQ=/fit-in/200x150/filters:strip_icc()/pic7681342.png"},
                             #uuid "d5380d3b-56d5-3783-a863-1af12c39f5c7"
                             {:game/id
                              #uuid "d5380d3b-56d5-3783-a863-1af12c39f5c7",
@@ -2291,11 +2342,6 @@
                              :game/name "Pass the Bomb: Party Edition",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/A8imof3sLbW_tsXLquzJcA__thumb/img/4NNgWXtCnW8z0YdA89kCZxG45P8=/fit-in/200x150/filters:strip_icc()/pic746578.jpg"},
-                            #uuid "de3c731b-e563-3838-889a-07179d301d7b"
-                            {:name "Play",
-                             :game/id
-                             #uuid "de3c731b-e563-3838-889a-07179d301d7b",
-                             :game/name "Play"},
                             #uuid "db6d2f3a-d731-3ddd-9e97-4b857d9ac065"
                             {:game/id
                              #uuid "db6d2f3a-d731-3ddd-9e97-4b857d9ac065",
@@ -4193,7 +4239,7 @@
                              #uuid "f6068788-fa71-3717-8441-2e5e0260834a"
                              #uuid "d5380d3b-56d5-3783-a863-1af12c39f5c7"
                              #uuid "5651f80b-d4b0-37ec-8031-f1e46a5a7799"
-                             #uuid "de3c731b-e563-3838-889a-07179d301d7b"
+                             #uuid "138ed5fc-39eb-3ede-a8ce-9def49904d22"
                              #uuid "db6d2f3a-d731-3ddd-9e97-4b857d9ac065"
                              #uuid "148309a1-2159-3de0-816b-266f7301dd3d"
                              #uuid "3da3ce69-4e95-3c15-beec-5d9ec2078260"
@@ -4244,7 +4290,6 @@
                              #uuid "320d6726-64ed-3f5e-8bc4-3067c812dd37"
                              #uuid "02903731-ad15-37de-9c20-a2b5d418e080"
                              #uuid "f6068788-fa71-3717-8441-2e5e0260834a"
-                             #uuid "de3c731b-e563-3838-889a-07179d301d7b"
                              #uuid "23c6fc68-d556-3a3f-aab4-2c8c559e8ef2"
                              #uuid "ddfc5844-5274-3243-9787-e20f58d19186"
                              #uuid "ffbade7f-eeb6-3b06-98cb-ba4d41da37eb"
@@ -4320,7 +4365,8 @@
                              #uuid "0e13524e-0d23-310c-a97e-3ef1583014b4"
                              #uuid "06f44a02-a372-340e-96f1-70be40f68cdd"
                              #uuid "f944b1ee-72e5-3ea8-832f-4eaf0dde6f09"
-                             #uuid "397314e0-31af-3c7f-ba2e-cc1955a324c9"],
+                             #uuid "397314e0-31af-3c7f-ba2e-cc1955a324c9"
+                             #uuid "138ed5fc-39eb-3ede-a8ce-9def49904d22"],
                             :com.boardgamegeek.boardgame/min-players
                             [#uuid "6274b5d8-6ac8-3f82-a53b-5a48c53ff26a"
                              #uuid "97a4cd73-0268-3981-b1da-8a812d7057d0"
@@ -4334,7 +4380,6 @@
                              #uuid "320d6726-64ed-3f5e-8bc4-3067c812dd37"
                              #uuid "02903731-ad15-37de-9c20-a2b5d418e080"
                              #uuid "f6068788-fa71-3717-8441-2e5e0260834a"
-                             #uuid "de3c731b-e563-3838-889a-07179d301d7b"
                              #uuid "23c6fc68-d556-3a3f-aab4-2c8c559e8ef2"
                              #uuid "ddfc5844-5274-3243-9787-e20f58d19186"
                              #uuid "ffbade7f-eeb6-3b06-98cb-ba4d41da37eb"
@@ -4372,6 +4417,7 @@
                              #uuid "4ae3e384-dcfb-3a91-b09c-45c12b08bca9"
                              #uuid "c16382ee-4092-3c09-b57b-6a1d8c840bbb"
                              #uuid "2ca189f5-8500-3bf3-99b6-ec3203b0c227"
+                             #uuid "138ed5fc-39eb-3ede-a8ce-9def49904d22"
                              #uuid "d5380d3b-56d5-3783-a863-1af12c39f5c7"
                              #uuid "5651f80b-d4b0-37ec-8031-f1e46a5a7799"
                              #uuid "3da3ce69-4e95-3c15-beec-5d9ec2078260"
@@ -4424,7 +4470,6 @@
                              #uuid "320d6726-64ed-3f5e-8bc4-3067c812dd37"
                              #uuid "02903731-ad15-37de-9c20-a2b5d418e080"
                              #uuid "f6068788-fa71-3717-8441-2e5e0260834a"
-                             #uuid "de3c731b-e563-3838-889a-07179d301d7b"
                              #uuid "23c6fc68-d556-3a3f-aab4-2c8c559e8ef2"
                              #uuid "ddfc5844-5274-3243-9787-e20f58d19186"
                              #uuid "ffbade7f-eeb6-3b06-98cb-ba4d41da37eb"
@@ -4491,6 +4536,7 @@
                              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a"
                              #uuid "69895ff2-b990-3611-827e-f4f7fd32eb8a"
                              #uuid "4d6bfce7-c3d0-3def-8625-e405087939ed"
+                             #uuid "138ed5fc-39eb-3ede-a8ce-9def49904d22"
                              #uuid "6e6f4eb8-c896-3609-ae50-49ede7fbf6ad"
                              #uuid "568da493-2833-3009-ad26-7108e0683081"
                              #uuid "2c43dc7f-08f4-3ad6-a185-fcd54997b760"
@@ -4514,7 +4560,6 @@
                              #uuid "320d6726-64ed-3f5e-8bc4-3067c812dd37"
                              #uuid "02903731-ad15-37de-9c20-a2b5d418e080"
                              #uuid "f6068788-fa71-3717-8441-2e5e0260834a"
-                             #uuid "de3c731b-e563-3838-889a-07179d301d7b"
                              #uuid "23c6fc68-d556-3a3f-aab4-2c8c559e8ef2"
                              #uuid "ddfc5844-5274-3243-9787-e20f58d19186"
                              #uuid "ffbade7f-eeb6-3b06-98cb-ba4d41da37eb"
@@ -4529,6 +4574,7 @@
                              #uuid "a0969dfc-5294-3b41-82bf-220e859197db"
                              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a"
                              #uuid "165261a9-0183-3e53-be82-ccc197c354b8"
+                             #uuid "138ed5fc-39eb-3ede-a8ce-9def49904d22"
                              #uuid "14a7749e-31ee-3b66-af79-5bf4b407a824"
                              #uuid "6bdd63a2-940d-3e46-a254-30ccff2b0d49"
                              #uuid "9174edea-2d8c-30ee-a424-4c2c72371e18"
@@ -4604,7 +4650,6 @@
                              #uuid "320d6726-64ed-3f5e-8bc4-3067c812dd37"
                              #uuid "02903731-ad15-37de-9c20-a2b5d418e080"
                              #uuid "f6068788-fa71-3717-8441-2e5e0260834a"
-                             #uuid "de3c731b-e563-3838-889a-07179d301d7b"
                              #uuid "23c6fc68-d556-3a3f-aab4-2c8c559e8ef2"
                              #uuid "ddfc5844-5274-3243-9787-e20f58d19186"
                              #uuid "ffbade7f-eeb6-3b06-98cb-ba4d41da37eb"
@@ -4632,6 +4677,7 @@
                              #uuid "b2980c72-2a1a-3e7a-b030-3718ce5491d8"
                              #uuid "e1d04b1f-1d94-3006-958a-ee81242dab6d"
                              #uuid "d8ac8dc4-6760-3f12-96c2-e3420b291781"
+                             #uuid "138ed5fc-39eb-3ede-a8ce-9def49904d22"
                              #uuid "8af65315-b94d-3484-be10-eaf75cc6d55a"
                              #uuid "14a7749e-31ee-3b66-af79-5bf4b407a824"
                              #uuid "6bc5f893-5eeb-33fd-86fe-73e8c61764f9"

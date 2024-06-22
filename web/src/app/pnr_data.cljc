@@ -7709,7 +7709,7 @@
                              #uuid "9fd7dbe4-dacc-3642-859e-95f00c7e1491",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.8,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :name "Timeline – Klasik",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -7833,7 +7833,7 @@
                              #uuid "0380f4c8-9607-3ef4-8ade-916cfc0c7c3e",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.7,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :name "Timeline – Česko",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -9547,17 +9547,17 @@
                              #uuid "cea3a438-b39d-3d81-b0ff-f14f292dde69"
                              #uuid "e82fd46b-0550-331f-a786-eaa614549608"
                              #uuid "441920cf-d8db-37ee-90dc-7abd5bdc4b15"
+                             #uuid "9fd7dbe4-dacc-3642-859e-95f00c7e1491"
                              #uuid "1fb00fa5-ea0d-3168-a980-49878f0381e4"
                              #uuid "6cc83527-84d6-329c-88b6-da8e2dcde79d"
-                             #uuid "0380f4c8-9607-3ef4-8ade-916cfc0c7c3e"
                              #uuid "63e5002f-f8a6-36bd-81b5-2f817477eecf"
                              #uuid "792b29e4-83dd-3d9a-b742-caff48bed20c"
                              #uuid "dd61c3dc-259e-3c43-b22e-89409499b669"
                              #uuid "ace4a8d8-b917-333c-9310-1632f7d5b24c"
                              #uuid "f69b4b89-a1c0-31da-8e14-95eea67408a3"
                              #uuid "b2864ad3-bc96-37cf-8ddd-40018ad6c855"
-                             #uuid "9fd7dbe4-dacc-3642-859e-95f00c7e1491"
                              #uuid "5d4f4640-bfb0-3303-9114-cfe09489b735"
+                             #uuid "0380f4c8-9607-3ef4-8ade-916cfc0c7c3e"
                              #uuid "5af4832c-3c6d-3e4b-883d-4fbba7190317"
                              #uuid "533ab429-f2f6-3e50-aab3-b0a465d8fa11"
                              #uuid "bf8d01be-0dae-35e4-a457-a3f4049c8606"

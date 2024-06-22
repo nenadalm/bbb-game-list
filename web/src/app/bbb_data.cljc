@@ -11002,7 +11002,7 @@
                              #uuid "2a245220-fd64-3bc2-a5ee-5c53656b6436",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 5.3,
+                             :com.boardgamegeek.boardgame/rating 5.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3007,
@@ -12943,7 +12943,7 @@
                              #uuid "6f05591c-c7b4-32dd-817d-c41c0d9254d0",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.9,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2903,
@@ -16761,7 +16761,7 @@
                              :languages ["en"],
                              :game/name "Ponzi Scheme",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/tRVRbDIiFRNM99NxNEgx8Q__thumb/img/Hy-8Tafx6CDDHvpXNT-az9vGAb8=/fit-in/200x150/filters:strip_icc()/pic2599086.jpg"},
+                             "https://cf.geekdo-images.com/c7eDqWqXn1Gxb3R8nmQkgA__thumb/img/C5Ll5quZC5FAOWQVV4Qym0aHQRs=/fit-in/200x150/filters:strip_icc()/pic7647050.png"},
                             #uuid "db6d2f3a-d731-3ddd-9e97-4b857d9ac065"
                             {:game/id
                              #uuid "db6d2f3a-d731-3ddd-9e97-4b857d9ac065",
@@ -27435,7 +27435,6 @@
                              #uuid "65b397da-a4ad-3880-b821-4f6f9d01cac1"
                              #uuid "fd143db8-a765-3a1c-a119-b934a7feaf44"
                              #uuid "99c1f5d3-b8a0-34f2-a4d1-97bfd885a25d"
-                             #uuid "2a245220-fd64-3bc2-a5ee-5c53656b6436"
                              #uuid "3384a03c-665a-3116-a474-cf5d4406c85a"
                              #uuid "bb467399-0770-350e-8b91-f1818186011e"
                              #uuid "32288419-57f9-3b53-a2df-4b3393930c5a"
@@ -27452,6 +27451,7 @@
                              #uuid "7b48cbf8-0b26-36aa-ad84-19d8bf93f23a"
                              #uuid "1ceaeab6-397f-308a-b02e-6652106f2fbd"
                              #uuid "d0ddb471-d540-37a0-9a2b-09e8b30dc223"
+                             #uuid "2a245220-fd64-3bc2-a5ee-5c53656b6436"
                              #uuid "58fb7a8c-d0f1-36b0-b1f5-b7091fbb0ba0"
                              #uuid "b17747c8-2344-37e0-af25-4c86481d8b35"
                              #uuid "99a5171b-604b-3566-81a2-6df0c0357b8b"
@@ -27915,6 +27915,7 @@
                              #uuid "54b7d1a4-f4c9-3dfb-a3cf-e94ce0c9d660"
                              #uuid "0b19c10a-bb77-3af8-aa4d-afff0d8b7fbe"
                              #uuid "5a9f1882-0b27-3da7-8d24-b13eda1849af"
+                             #uuid "6f05591c-c7b4-32dd-817d-c41c0d9254d0"
                              #uuid "3da5cc5f-9fb3-3782-9160-2f93b5c6df0f"
                              #uuid "a1711949-2505-3f44-824a-82de9d20148a"
                              #uuid "42c74e54-0178-32f6-acbe-ee4d9ab219c9"
@@ -27930,7 +27931,6 @@
                              #uuid "31443f78-5552-3274-a24d-a8e1b221db5e"
                              #uuid "19ada482-4ae3-35b4-b89a-46cb469a807e"
                              #uuid "86f0bb77-105e-3136-98ae-4837a11ed606"
-                             #uuid "6f05591c-c7b4-32dd-817d-c41c0d9254d0"
                              #uuid "9fa3f01d-ac6e-3690-9837-54da6c87150f"
                              #uuid "f3f1fedb-8b4b-34db-9549-d8e205c09bc9"
                              #uuid "81c1c368-bf93-30c5-8b39-bc50b2d8b215"

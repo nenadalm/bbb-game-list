@@ -62,7 +62,7 @@ jobs:
       - uses: actions/cache@v4
         with:
           path: './importer/resources/.cache/url'
-          key: "url-${{ steps.get-month.outputs.day }}"
+          key: "url-${{ matrix.project }}-${{ steps.get-month.outputs.day }}"
       - name:
         run: |
           cd ./importer/

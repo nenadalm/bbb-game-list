@@ -427,6 +427,10 @@
                                                                 :name
                                                                 "Open Drafting"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2876,
+                                                                :name
+                                                                "Race"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2004,
                                                                 :name
                                                                 "Set Collection"}
@@ -919,6 +923,10 @@
                                                                 2040,
                                                                 :name
                                                                 "Hand Management"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                3099,
+                                                                :name
+                                                                "Multi-Use Cards"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2915,
                                                                 :name
@@ -1593,10 +1601,6 @@
                                                                 :name
                                                                 "Grid Coverage"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                2039,
-                                                                :name
-                                                                "Line Drawing"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2055,
                                                                 :name
                                                                 "Paper-and-Pencil"}
@@ -2050,7 +2054,7 @@
                              #uuid "e4b0026b-d75c-3e0c-89b5-7c3838936aeb",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 4.4,
+                             :com.boardgamegeek.boardgame/rating 4.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -8927,7 +8931,7 @@
                              #uuid "070c9dc3-b880-35ed-9c3d-cd55ff519d26",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.3,
+                             :com.boardgamegeek.boardgame/rating 6.4,
                              :name "Taco, kotě, pizza",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -10590,6 +10594,10 @@
                                                                 :name
                                                                 "Action Points"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2018,
+                                                                :name
+                                                                "Campaign / Battle Card Driven"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2857,
                                                                 :name
                                                                 "Card Play Conflict Resolution"}
@@ -10765,6 +10773,10 @@
                                                                 2040,
                                                                 :name
                                                                 "Hand Management"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2876,
+                                                                :name
+                                                                "Race"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2819,
                                                                 :name
@@ -12116,12 +12128,12 @@
                              #uuid "7f5189ca-4731-3666-98c6-d9971b474aa1"
                              #uuid "9cc75669-5ba5-34e5-be80-cbbde8781a53"
                              #uuid "ae69fd52-b2d7-301f-b531-4cd3c89a269f"
-                             #uuid "070c9dc3-b880-35ed-9c3d-cd55ff519d26"
                              #uuid "9174edea-2d8c-30ee-a424-4c2c72371e18"
                              #uuid "377d98f7-b3ec-3359-9349-834721f22c39"
                              #uuid "08060cd2-7b8a-368b-a377-e19d60c63c13"
                              #uuid "e1430e4c-80e9-31f8-9ecf-0ed7fd002067"
                              #uuid "9cf42701-85ad-3877-9a0f-cf57a5acf172"
+                             #uuid "070c9dc3-b880-35ed-9c3d-cd55ff519d26"
                              #uuid "c3ab8870-b2d0-3f3d-a44a-120ab450ca92"
                              #uuid "3869917f-f9bd-38a8-9d4e-09d2c2ef7c7e"
                              #uuid "53522ad6-7a42-3c5c-8f4a-c9fc089fbbb4"

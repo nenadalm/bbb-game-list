@@ -602,6 +602,10 @@
                                                                 :name
                                                                 "Open Drafting"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2876,
+                                                                :name
+                                                                "Race"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2004,
                                                                 :name
                                                                 "Set Collection"}
@@ -1964,7 +1968,7 @@
                              #uuid "12aa1a49-7859-3aae-8f37-3e81ff48d8d1",
                              :com.boardgamegeek.boardgame/min-players
                              3,
-                             :com.boardgamegeek.boardgame/rating 6.6,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -5673,7 +5677,7 @@
                              #uuid "ec36581d-580f-3030-bdd7-9bf6d6ef5c92",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.9,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -5948,7 +5952,7 @@
                              #uuid "a3d30234-f274-3f67-a78d-ad34093c87cc",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.1,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2967,
@@ -7763,7 +7767,7 @@
                              :com.boardgamegeek.boardgame/id "99975",
                              :game/name "Timeline: Discoveries",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/uc54FvZTrpUs3WZlYyDQRA__thumb/img/DoXrmZ_bYgeImh6b_vXS-g6Xd6g=/fit-in/200x150/filters:strip_icc()/pic1724655.jpg"},
+                             "https://cf.geekdo-images.com/W4k1xY12JeQ1iKyBKAF4_A__thumb/img/A0nlIGEdSsUMVD-op_AbOaEgxKg=/fit-in/200x150/filters:strip_icc()/pic8286833.png"},
                             #uuid "5d4f4640-bfb0-3303-9114-cfe09489b735"
                             {:game/id
                              #uuid "5d4f4640-bfb0-3303-9114-cfe09489b735",
@@ -9536,12 +9540,12 @@
                              #uuid "4e268231-46e6-3761-88eb-9e87ebbc8573"
                              #uuid "4c75b84b-9de0-3946-a3e6-e81fc9009a6f"
                              #uuid "f8283731-6cf2-3086-8140-494037314bf5"
-                             #uuid "12aa1a49-7859-3aae-8f37-3e81ff48d8d1"
                              #uuid "31ba7682-b7bb-3351-b4b3-1c697db33ece"
                              #uuid "ffac9f56-7f7f-39c1-8eee-59daf0995720"
                              #uuid "e2a74414-2984-3c99-84dc-424f782d6a9c"
                              #uuid "350c0005-7a4e-3243-9b0c-ac54dff86da9"
                              #uuid "d835a1f2-2ed6-3e39-ac35-dab94d1c4ef6"
+                             #uuid "12aa1a49-7859-3aae-8f37-3e81ff48d8d1"
                              #uuid "f7e0e453-7454-313b-8d8e-ac658002908e"
                              #uuid "7b024967-b40e-3766-9c5b-086d694b6350"
                              #uuid "cea3a438-b39d-3d81-b0ff-f14f292dde69"
@@ -9578,7 +9582,6 @@
                              #uuid "5b349ead-c3fb-374b-bb6c-47fcc3843355"
                              #uuid "f96c3950-d47e-3da3-ab6e-d11dab35ef55"
                              #uuid "4584b35c-868d-36f9-b932-e14bc001202b"
-                             #uuid "a3d30234-f274-3f67-a78d-ad34093c87cc"
                              #uuid "1f6abbcc-6aa7-3fbf-8c11-f5ea47b5cb4d"
                              #uuid "196a1ec4-36af-3f5f-b085-ecf35fd9a8ba"
                              #uuid "057abd33-3d4e-3b86-910f-0222e183f56e"
@@ -9591,6 +9594,7 @@
                              #uuid "0c1b6c21-730c-3ab9-a3ae-ecfeec2876d5"
                              #uuid "0b5d8490-cda6-3f85-ac58-70ed3aefe115"
                              #uuid "2ca189f5-8500-3bf3-99b6-ec3203b0c227"
+                             #uuid "a3d30234-f274-3f67-a78d-ad34093c87cc"
                              #uuid "039128b4-9d27-3393-9744-2cc0a740cd09"
                              #uuid "43e10dfb-54a8-305b-bd37-ce84ad5d7339"
                              #uuid "33ef9db6-536f-307e-9b5a-71695627acc0"
@@ -9612,8 +9616,8 @@
                              #uuid "26c546c9-d25c-3085-9e63-aa090a52188e"
                              #uuid "1713679a-10c3-3433-98c7-5fc9654c7e7f"
                              #uuid "805bace7-4667-3eb1-b90b-d680cd215d97"
-                             #uuid "0528a1b6-794c-36e6-b433-b90c38ff0297"
                              #uuid "ec36581d-580f-3030-bdd7-9bf6d6ef5c92"
+                             #uuid "0528a1b6-794c-36e6-b433-b90c38ff0297"
                              #uuid "c12fca96-7aa8-3f4d-a67f-2f1e11a04b36"
                              #uuid "ef26bb3d-8f42-3d2a-828e-f5fae7e6ec6a"
                              #uuid "e5f11979-9a30-30ec-8084-92dd584b1214"

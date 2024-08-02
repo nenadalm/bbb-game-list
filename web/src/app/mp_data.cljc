@@ -1642,7 +1642,7 @@
                              #uuid "abc5edec-2835-3550-b622-c491cdafdb5e",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.7,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -1998,7 +1998,7 @@
                              :com.boardgamegeek.boardgame/id "1406",
                              :game/name "Monopoly",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/AE3wQTdyMKZOCUMvTChuLg__thumb/img/hITJ6wqmmAkXQWWAmJ9Ov2HYwds=/fit-in/200x150/filters:strip_icc()/pic4082496.jpg"},
+                             "https://cf.geekdo-images.com/9nGoBZ0MRbi6rdH47sj2Qg__thumb/img/ezXcyEsHhS9iRxmuGe8SmiLLXlM=/fit-in/200x150/filters:strip_icc()/pic5786795.jpg"},
                             #uuid "4ae3e384-dcfb-3a91-b09c-45c12b08bca9"
                             {:game/id
                              #uuid "4ae3e384-dcfb-3a91-b09c-45c12b08bca9",
@@ -3436,11 +3436,7 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2874,
                                                                 :name
-                                                                "Victory Points as a Resource"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2933,
-                                                                :name
-                                                                "Worker Placement, Different Worker Types"}),
+                                                                "Victory Points as a Resource"}),
                              :name "Terra Mystica",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -4351,10 +4347,10 @@
                              #uuid "568da493-2833-3009-ad26-7108e0683081"
                              #uuid "90a300ed-ea38-3514-b744-0c43440fa4b3"
                              #uuid "b2980c72-2a1a-3e7a-b030-3718ce5491d8"
+                             #uuid "abc5edec-2835-3550-b622-c491cdafdb5e"
                              #uuid "ae7bda5b-fa73-3e1b-b30b-c81fd70b93f5"
                              #uuid "0b0ba83c-ba8f-3c56-8b3e-a2fc3bc7f5a4"
                              #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
-                             #uuid "abc5edec-2835-3550-b622-c491cdafdb5e"
                              #uuid "148309a1-2159-3de0-816b-266f7301dd3d"
                              #uuid "182deae1-4ea2-3cb6-a9a3-ff03c832e910"
                              #uuid "0ac49038-fe25-3aa3-b33b-ce180b8b84ed"

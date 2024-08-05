@@ -3509,6 +3509,45 @@
                              :game/name "Fancy Feathers",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/kywCNsXHaHLEkiayTedxKg__thumb/img/2XRoP39DRViigS1oXwLjfJpUB_Q=/fit-in/200x150/filters:strip_icc()/pic6893165.jpg"},
+                            #uuid "fb4d5be2-1ce4-3fbe-ba92-c19f8e9e2133"
+                            {:game/id
+                             #uuid "fb4d5be2-1ce4-3fbe-ba92-c19f8e9e2133",
+                             :com.boardgamegeek.boardgame/min-players
+                             2,
+                             :com.boardgamegeek.boardgame/rating 7.5,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2023,
+                                                                :name
+                                                                "Cooperative Game"}),
+                             :name "Duch",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1041,
+                                                                :name
+                                                                "Children's Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1020,
+                                                                :name
+                                                                "Exploration"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1024,
+                                                                :name
+                                                                "Horror"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1040,
+                                                                :name
+                                                                "Murder/Mystery"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             60,
+                             :com.boardgamegeek.boardgame/max-players
+                             4,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/id "370445",
+                             :game/name "Fantasma",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/Og1MxvnMM7UVCLhYoq-adQ__thumb/img/9my_PaJtSeDNKrTHDQzaw5O6XKw=/fit-in/200x150/filters:strip_icc()/pic7063131.jpg"},
                             #uuid "ebe3d298-d25e-3110-8e34-1c079e9455d9"
                             {:game/id
                              #uuid "ebe3d298-d25e-3110-8e34-1c079e9455d9",
@@ -13393,6 +13432,7 @@
                              #uuid "9039597e-8a40-3efe-9d88-6f626e892ac5"
                              #uuid "fb51ee1e-0d41-39bc-8144-862f9f46a475"
                              #uuid "9b4051d8-75f9-3bd9-8280-85bedb7631dc"
+                             #uuid "fb4d5be2-1ce4-3fbe-ba92-c19f8e9e2133"
                              #uuid "ebe3d298-d25e-3110-8e34-1c079e9455d9"
                              #uuid "9fddaddf-db2a-3903-ab7b-b2c76fc96662"
                              #uuid "57ded919-c07c-303b-9b25-fe9cb3fa5063"
@@ -13839,6 +13879,7 @@
                              #uuid "61d4a5f0-353a-3a22-b04e-6da57557252d"
                              #uuid "e554048e-f89f-35cd-95e1-da990f125216"
                              #uuid "e8ffc938-d259-3b28-a666-523cc1c80a5a"
+                             #uuid "fb4d5be2-1ce4-3fbe-ba92-c19f8e9e2133"
                              #uuid "ebe3d298-d25e-3110-8e34-1c079e9455d9"
                              #uuid "6da53f25-b27b-3c31-8b0d-3928dc46f469"
                              #uuid "e4b769db-2a42-392d-b311-b02c3545d07d"
@@ -14040,6 +14081,7 @@
                              #uuid "bf515360-5eca-32d5-ac9d-fb620b905619"
                              #uuid "013ec032-d346-3d4b-a443-1c6ab1f8f224"
                              #uuid "9b4051d8-75f9-3bd9-8280-85bedb7631dc"
+                             #uuid "fb4d5be2-1ce4-3fbe-ba92-c19f8e9e2133"
                              #uuid "ebe3d298-d25e-3110-8e34-1c079e9455d9"
                              #uuid "57ded919-c07c-303b-9b25-fe9cb3fa5063"
                              #uuid "532f8c74-c965-3a8b-84a5-bffce453945f"
@@ -14284,6 +14326,7 @@
                              #uuid "ea25ad16-dccd-378f-afde-9dae72c6b4d9"
                              #uuid "013ec032-d346-3d4b-a443-1c6ab1f8f224"
                              #uuid "fb51ee1e-0d41-39bc-8144-862f9f46a475"
+                             #uuid "fb4d5be2-1ce4-3fbe-ba92-c19f8e9e2133"
                              #uuid "9fddaddf-db2a-3903-ab7b-b2c76fc96662"
                              #uuid "32644dee-4a8b-3424-b063-93643a611b6e"
                              #uuid "33ef9db6-536f-307e-9b5a-71695627acc0"
@@ -14619,6 +14662,7 @@
                              #uuid "b2980c72-2a1a-3e7a-b030-3718ce5491d8"
                              #uuid "6f2ffff5-504b-328f-a5e1-6e0b31c653af"
                              #uuid "9039597e-8a40-3efe-9d88-6f626e892ac5"
+                             #uuid "fb4d5be2-1ce4-3fbe-ba92-c19f8e9e2133"
                              #uuid "a4736bde-e1f2-3723-a17e-fb5d320ed3d4"
                              #uuid "439c09fa-ae97-35cb-995b-5475d8003b22"
                              #uuid "6da53f25-b27b-3c31-8b0d-3928dc46f469"
@@ -14959,6 +15003,7 @@
                              #uuid "eb217a25-dcdb-36d7-82c8-54229b459c13"
                              #uuid "18f07592-2d59-3b71-bb29-09e91aed1ab7"
                              #uuid "5b349ead-c3fb-374b-bb6c-47fcc3843355"
+                             #uuid "fb4d5be2-1ce4-3fbe-ba92-c19f8e9e2133"
                              #uuid "57ded919-c07c-303b-9b25-fe9cb3fa5063"
                              #uuid "4f9f9b34-9d05-3a76-bd28-f330fea3bc5c"
                              #uuid "33ef9db6-536f-307e-9b5a-71695627acc0"

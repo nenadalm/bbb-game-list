@@ -28189,6 +28189,12 @@
                              "Project L: Kickstarter Edition",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/WgvYQlEgbuEoOFxg4GGbMA__thumb/img/MWv006Gtudwq7H2EdLaBET3J1y4=/fit-in/200x150/filters:strip_icc()/pic5630012.jpg"},
+                            #uuid "5c75ee11-a5ff-35be-8254-1acddb8f849f"
+                            {:languages ["cs"],
+                             :name "Průzkumníci  (Trailblazers)",
+                             :game/id
+                             #uuid "5c75ee11-a5ff-35be-8254-1acddb8f849f",
+                             :game/name "Průzkumníci  (Trailblazers)"},
                             #uuid "d2b74a0f-ed30-326c-9815-c3cf543eb98d"
                             {:languages ["cs"],
                              :name "Ptačí napětí",
@@ -43678,6 +43684,7 @@
                              #uuid "e2c9a91a-15d8-36b7-b6da-d21fe1f55f02"
                              #uuid "f041d940-31e1-3a36-8c8b-4eaba0285f75"
                              #uuid "58beefca-efab-34cc-ba60-8bae6c1feeed"
+                             #uuid "5c75ee11-a5ff-35be-8254-1acddb8f849f"
                              #uuid "d2b74a0f-ed30-326c-9815-c3cf543eb98d"
                              #uuid "aecb8b64-eead-30b5-aa59-092281ce9f3c"
                              #uuid "69fd9f0b-cea1-3cd9-87c4-e67cc86745c3"
@@ -44085,6 +44092,7 @@
                              #uuid "06ce5008-6b1f-3feb-9d8d-77232bbe4e1b"
                              #uuid "e2c9a91a-15d8-36b7-b6da-d21fe1f55f02"
                              #uuid "f041d940-31e1-3a36-8c8b-4eaba0285f75"
+                             #uuid "5c75ee11-a5ff-35be-8254-1acddb8f849f"
                              #uuid "d2b74a0f-ed30-326c-9815-c3cf543eb98d"
                              #uuid "aecb8b64-eead-30b5-aa59-092281ce9f3c"
                              #uuid "69fd9f0b-cea1-3cd9-87c4-e67cc86745c3"
@@ -45039,6 +45047,7 @@
                              #uuid "06ce5008-6b1f-3feb-9d8d-77232bbe4e1b"
                              #uuid "e2c9a91a-15d8-36b7-b6da-d21fe1f55f02"
                              #uuid "f041d940-31e1-3a36-8c8b-4eaba0285f75"
+                             #uuid "5c75ee11-a5ff-35be-8254-1acddb8f849f"
                              #uuid "d2b74a0f-ed30-326c-9815-c3cf543eb98d"
                              #uuid "aecb8b64-eead-30b5-aa59-092281ce9f3c"
                              #uuid "69fd9f0b-cea1-3cd9-87c4-e67cc86745c3"
@@ -45994,6 +46003,7 @@
                              #uuid "06ce5008-6b1f-3feb-9d8d-77232bbe4e1b"
                              #uuid "e2c9a91a-15d8-36b7-b6da-d21fe1f55f02"
                              #uuid "f041d940-31e1-3a36-8c8b-4eaba0285f75"
+                             #uuid "5c75ee11-a5ff-35be-8254-1acddb8f849f"
                              #uuid "d2b74a0f-ed30-326c-9815-c3cf543eb98d"
                              #uuid "aecb8b64-eead-30b5-aa59-092281ce9f3c"
                              #uuid "69fd9f0b-cea1-3cd9-87c4-e67cc86745c3"
@@ -46951,6 +46961,7 @@
                              #uuid "06ce5008-6b1f-3feb-9d8d-77232bbe4e1b"
                              #uuid "e2c9a91a-15d8-36b7-b6da-d21fe1f55f02"
                              #uuid "f041d940-31e1-3a36-8c8b-4eaba0285f75"
+                             #uuid "5c75ee11-a5ff-35be-8254-1acddb8f849f"
                              #uuid "d2b74a0f-ed30-326c-9815-c3cf543eb98d"
                              #uuid "aecb8b64-eead-30b5-aa59-092281ce9f3c"
                              #uuid "69fd9f0b-cea1-3cd9-87c4-e67cc86745c3"
@@ -47914,6 +47925,7 @@
                              #uuid "06ce5008-6b1f-3feb-9d8d-77232bbe4e1b"
                              #uuid "e2c9a91a-15d8-36b7-b6da-d21fe1f55f02"
                              #uuid "f041d940-31e1-3a36-8c8b-4eaba0285f75"
+                             #uuid "5c75ee11-a5ff-35be-8254-1acddb8f849f"
                              #uuid "d2b74a0f-ed30-326c-9815-c3cf543eb98d"
                              #uuid "aecb8b64-eead-30b5-aa59-092281ce9f3c"
                              #uuid "69fd9f0b-cea1-3cd9-87c4-e67cc86745c3"

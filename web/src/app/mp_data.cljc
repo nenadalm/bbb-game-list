@@ -2652,7 +2652,7 @@
                              :com.boardgamegeek.boardgame/id "438",
                              :game/name "Scotland Yard",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/NbHZjHmQcA5_TenhVJtJ3w__thumb/img/BfD9cR1-u_qNUNNZ2i4Bg8XKYhg=/fit-in/200x150/filters:strip_icc()/pic4527702.jpg"},
+                             "https://cf.geekdo-images.com/yEhaXszPTy5N4hiY469DPA__thumb/img/vDtUEdMUid0w4RKHmlwxz9a-Beo=/fit-in/200x150/filters:strip_icc()/pic8377405.jpg"},
                             #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08"
                             {:game/id
                              #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08",
@@ -2839,7 +2839,7 @@
                              #uuid "14a7749e-31ee-3b66-af79-5bf4b407a824",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.5,
+                             :com.boardgamegeek.boardgame/rating 6.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -3039,7 +3039,7 @@
                              #uuid "2c43dc7f-08f4-3ad6-a185-fcd54997b760",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 4.4,
+                             :com.boardgamegeek.boardgame/rating 4.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -3480,10 +3480,6 @@
                                                                 2912,
                                                                 :name
                                                                 "Contracts"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2043,
-                                                                :name
-                                                                "Enclosure"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2875,
                                                                 :name
@@ -4311,12 +4307,12 @@
                              #uuid "9174edea-2d8c-30ee-a424-4c2c72371e18"
                              #uuid "2d524242-4e27-370f-a042-49942d61f783"
                              #uuid "4ae3e384-dcfb-3a91-b09c-45c12b08bca9"
+                             #uuid "14a7749e-31ee-3b66-af79-5bf4b407a824"
                              #uuid "53522ad6-7a42-3c5c-8f4a-c9fc089fbbb4"
                              #uuid "7369ff3a-fe64-30e3-8363-9067a97ac8b4"
                              #uuid "eaa9b08c-9718-39e9-84e8-e09ccf855ef0"
                              #uuid "a528cdc2-c5e5-3afb-8043-1cfa5cde859a"
                              #uuid "645ab7f6-09eb-3401-988d-97cd930668c1"
-                             #uuid "14a7749e-31ee-3b66-af79-5bf4b407a824"
                              #uuid "d8ac8dc4-6760-3f12-96c2-e3420b291781"
                              #uuid "7bae0b38-0a96-3ecc-b46e-2fb84ebd8dd8"
                              #uuid "6bdd63a2-940d-3e46-a254-30ccff2b0d49"

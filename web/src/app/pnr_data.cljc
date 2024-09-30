@@ -96,6 +96,10 @@
                                                                 :name
                                                                 "Order Counters"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2685,
+                                                                :name
+                                                                "Player Elimination"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2020,
                                                                 :name
                                                                 "Simultaneous Action Selection"}
@@ -1347,7 +1351,7 @@
                              #uuid "79e3405d-8685-332c-9fd2-4ababa46ed46",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -2219,7 +2223,7 @@
                              #uuid "22806fca-d16c-38ed-8bec-c2f2b76d18ce",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.2,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -3713,6 +3717,10 @@
                                                                 2819,
                                                                 :name
                                                                 "Solo / Solitaire Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2027,
+                                                                :name
+                                                                "Storytelling"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 3100,
                                                                 :name
@@ -9812,6 +9820,7 @@
                              #uuid "3a7f511c-194e-3707-81dd-81e27ec511c4"
                              #uuid "c447c2a3-10c7-33af-988c-afd6b8bacbc2"
                              #uuid "bf9bf9b2-2886-3710-a8cd-2ab56ce77646"
+                             #uuid "79e3405d-8685-332c-9fd2-4ababa46ed46"
                              #uuid "da690762-4fc6-33ac-a335-c10db290bb0d"
                              #uuid "5b349ead-c3fb-374b-bb6c-47fcc3843355"
                              #uuid "0c1b6c21-730c-3ab9-a3ae-ecfeec2876d5"
@@ -9821,17 +9830,16 @@
                              #uuid "196a1ec4-36af-3f5f-b085-ecf35fd9a8ba"
                              #uuid "057abd33-3d4e-3b86-910f-0222e183f56e"
                              #uuid "28e54304-62fc-38c9-9b76-058878323d57"
-                             #uuid "79e3405d-8685-332c-9fd2-4ababa46ed46"
                              #uuid "c7b74e13-dff8-3831-98f4-1d81198c1337"
                              #uuid "aea576f6-ce96-344f-af7f-0c81dd2342ca"
                              #uuid "d3bad680-dd48-304a-97d8-542415ea7f40"
-                             #uuid "22806fca-d16c-38ed-8bec-c2f2b76d18ce"
                              #uuid "69895ff2-b990-3611-827e-f4f7fd32eb8a"
                              #uuid "0b5d8490-cda6-3f85-ac58-70ed3aefe115"
                              #uuid "2ca189f5-8500-3bf3-99b6-ec3203b0c227"
                              #uuid "a3d30234-f274-3f67-a78d-ad34093c87cc"
                              #uuid "039128b4-9d27-3393-9744-2cc0a740cd09"
                              #uuid "43e10dfb-54a8-305b-bd37-ce84ad5d7339"
+                             #uuid "22806fca-d16c-38ed-8bec-c2f2b76d18ce"
                              #uuid "33ef9db6-536f-307e-9b5a-71695627acc0"
                              #uuid "06e9bd9c-0975-32da-acdf-2b1942d57f1e"
                              #uuid "c56337cc-54ed-3e22-8b76-d1092f67310c"

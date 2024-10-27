@@ -14,7 +14,7 @@
 (defn mount-root []
   (re-frame/clear-subscription-cache!)
   (reagent-dom/render [views/app {:source-label "bohemiaboardsandbrews.com"
-                                  :source-url "http://bohemiaboardsandbrews.com/games/"}]
+                                  :source-url "https://www.bohemiaboardsandbrews.com/knihovna-her"}]
                       (.getElementById js/document "app")))
 
 (defn ^:export init []

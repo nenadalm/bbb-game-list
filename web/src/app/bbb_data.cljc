@@ -76,7 +76,7 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
                                                                 :name
-                                                                "Auction/Bidding"}
+                                                                "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2041,
                                                                 :name
@@ -714,7 +714,7 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
                                                                 :name
-                                                                "Auction/Bidding"}
+                                                                "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2887,
                                                                 :name
@@ -1698,7 +1698,7 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
                                                                 :name
-                                                                "Auction/Bidding"}
+                                                                "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2923,
                                                                 :name
@@ -1843,7 +1843,7 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
                                                                 :name
-                                                                "Auction/Bidding"}
+                                                                "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2019,
                                                                 :name
@@ -2697,7 +2697,7 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
                                                                 :name
-                                                                "Auction/Bidding"}
+                                                                "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2919,
                                                                 :name
@@ -3100,7 +3100,7 @@
                              #uuid "ffd08129-da06-3b4e-a8fb-c63db63c01f8",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3002,
@@ -3401,7 +3401,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1081,
                                                                 :name
-                                                                "Spies/Secret Agents"}),
+                                                                "Spies / Secret Agents"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              90,
                              :com.boardgamegeek.boardgame/max-players
@@ -4943,7 +4943,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1040,
                                                                 :name
-                                                                "Murder/Mystery"}),
+                                                                "Murder / Mystery"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              90,
                              :com.boardgamegeek.boardgame/max-players
@@ -4959,7 +4959,7 @@
                              #uuid "5b349ead-c3fb-374b-bb6c-47fcc3843355",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.3,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2838,
@@ -5122,7 +5122,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1040,
                                                                 :name
-                                                                "Murder/Mystery"}),
+                                                                "Murder / Mystery"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              40,
                              :com.boardgamegeek.boardgame/max-players
@@ -5174,7 +5174,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1081,
                                                                 :name
-                                                                "Spies/Secret Agents"}
+                                                                "Spies / Secret Agents"}
                                    #:com.boardgamegeek.category{:id
                                                                 1025,
                                                                 :name
@@ -5234,7 +5234,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1081,
                                                                 :name
-                                                                "Spies/Secret Agents"}
+                                                                "Spies / Secret Agents"}
                                    #:com.boardgamegeek.category{:id
                                                                 1025,
                                                                 :name
@@ -5286,7 +5286,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1081,
                                                                 :name
-                                                                "Spies/Secret Agents"}
+                                                                "Spies / Secret Agents"}
                                    #:com.boardgamegeek.category{:id
                                                                 1025,
                                                                 :name
@@ -5342,7 +5342,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1081,
                                                                 :name
-                                                                "Spies/Secret Agents"}),
+                                                                "Spies / Secret Agents"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              15,
                              :com.boardgamegeek.boardgame/max-players
@@ -5398,7 +5398,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1081,
                                                                 :name
-                                                                "Spies/Secret Agents"}),
+                                                                "Spies / Secret Agents"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              60,
                              :com.boardgamegeek.boardgame/max-players
@@ -6126,7 +6126,7 @@
                              #uuid "5e9fb619-5319-3aa6-a826-7e0f06fa85ea",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.4,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -6216,7 +6216,7 @@
                              #uuid "7c3ecb12-3069-39da-ad3f-8f578ca0549e",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 4.4,
+                             :com.boardgamegeek.boardgame/rating 4.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -6481,7 +6481,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1081,
                                                                 :name
-                                                                "Spies/Secret Agents"}),
+                                                                "Spies / Secret Agents"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              75,
                              :com.boardgamegeek.boardgame/max-players
@@ -6657,7 +6657,7 @@
                              (list #:com.boardgamegeek.category{:id
                                                                 1040,
                                                                 :name
-                                                                "Murder/Mystery"}),
+                                                                "Murder / Mystery"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              150,
                              :com.boardgamegeek.boardgame/max-players
@@ -6774,7 +6774,7 @@
                              #uuid "f442518c-c10d-3657-95ec-f4a0709a8f8a",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.8,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3004,
@@ -7209,7 +7209,7 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
                                                                 :name
-                                                                "Auction/Bidding"}
+                                                                "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2014,
                                                                 :name
@@ -7512,7 +7512,7 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
                                                                 :name
-                                                                "Auction/Bidding"}
+                                                                "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2040,
                                                                 :name
@@ -7559,7 +7559,7 @@
                              #uuid "000fad46-7734-372c-bfce-d551b75863f7",
                              :com.boardgamegeek.boardgame/min-players
                              3,
-                             :com.boardgamegeek.boardgame/rating 6.7,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -8869,7 +8869,7 @@
                              #uuid "68cea2b4-9ca7-3e26-a125-07d2663c3ae5",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.3,
+                             :com.boardgamegeek.boardgame/rating 6.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2831,
@@ -9236,7 +9236,7 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
                                                                 :name
-                                                                "Auction/Bidding"}
+                                                                "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2920,
                                                                 :name
@@ -9582,7 +9582,7 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
                                                                 :name
-                                                                "Auction/Bidding"}
+                                                                "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2081,
                                                                 :name
@@ -10068,7 +10068,7 @@
                              #uuid "65b397da-a4ad-3880-b821-4f6f9d01cac1",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 5.2,
+                             :com.boardgamegeek.boardgame/rating 5.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2857,
@@ -10128,7 +10128,7 @@
                              #uuid "12c9e572-e277-309b-b59f-7d14593f19db",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 6.9,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -10457,7 +10457,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1081,
                                                                 :name
-                                                                "Spies/Secret Agents"}),
+                                                                "Spies / Secret Agents"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              30,
                              :com.boardgamegeek.boardgame/max-players
@@ -10560,7 +10560,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1081,
                                                                 :name
-                                                                "Spies/Secret Agents"}),
+                                                                "Spies / Secret Agents"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              75,
                              :com.boardgamegeek.boardgame/max-players
@@ -11070,7 +11070,7 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 3005,
                                                                 :name
-                                                                "Slide/Push"}
+                                                                "Slide / Push"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2944,
                                                                 :name
@@ -11110,7 +11110,7 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
                                                                 :name
-                                                                "Auction/Bidding"}
+                                                                "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2041,
                                                                 :name
@@ -11301,7 +11301,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1040,
                                                                 :name
-                                                                "Murder/Mystery"}
+                                                                "Murder / Mystery"}
                                    #:com.boardgamegeek.category{:id
                                                                 1028,
                                                                 :name
@@ -11730,7 +11730,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1040,
                                                                 :name
-                                                                "Murder/Mystery"}),
+                                                                "Murder / Mystery"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              20,
                              :com.boardgamegeek.boardgame/max-players
@@ -12692,7 +12692,7 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3005,
                                                                 :name
-                                                                "Slide/Push"}
+                                                                "Slide / Push"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2015,
                                                                 :name
@@ -13110,7 +13110,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1040,
                                                                 :name
-                                                                "Murder/Mystery"}),
+                                                                "Murder / Mystery"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              45,
                              :com.boardgamegeek.boardgame/max-players
@@ -13714,7 +13714,7 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 3005,
                                                                 :name
-                                                                "Slide/Push"}
+                                                                "Slide / Push"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2940,
                                                                 :name
@@ -13918,7 +13918,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1040,
                                                                 :name
-                                                                "Murder/Mystery"}),
+                                                                "Murder / Mystery"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              120,
                              :com.boardgamegeek.boardgame/max-players
@@ -14307,7 +14307,7 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
                                                                 :name
-                                                                "Auction/Bidding"}
+                                                                "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2919,
                                                                 :name
@@ -14557,7 +14557,7 @@
                              #uuid "86ecccf9-dc57-3282-9fba-97bc1488cecd",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.4,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -15247,7 +15247,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1040,
                                                                 :name
-                                                                "Murder/Mystery"}),
+                                                                "Murder / Mystery"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              45,
                              :com.boardgamegeek.boardgame/max-players
@@ -15344,7 +15344,7 @@
                              #uuid "314a8106-847d-3cbb-babe-a36b8ee15564",
                              :com.boardgamegeek.boardgame/min-players
                              3,
-                             :com.boardgamegeek.boardgame/rating 6.8,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -15682,7 +15682,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1040,
                                                                 :name
-                                                                "Murder/Mystery"}),
+                                                                "Murder / Mystery"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              180,
                              :com.boardgamegeek.boardgame/max-players
@@ -15781,7 +15781,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1040,
                                                                 :name
-                                                                "Murder/Mystery"}
+                                                                "Murder / Mystery"}
                                    #:com.boardgamegeek.category{:id
                                                                 2710,
                                                                 :name
@@ -16065,7 +16065,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1040,
                                                                 :name
-                                                                "Murder/Mystery"}
+                                                                "Murder / Mystery"}
                                    #:com.boardgamegeek.category{:id
                                                                 1030,
                                                                 :name
@@ -16418,7 +16418,7 @@
                              #uuid "c0eef12a-9d87-3d5b-a03c-f46a23b023e3",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.1,
+                             :com.boardgamegeek.boardgame/rating 6.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -16948,7 +16948,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1081,
                                                                 :name
-                                                                "Spies/Secret Agents"}),
+                                                                "Spies / Secret Agents"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              15,
                              :com.boardgamegeek.boardgame/max-players
@@ -16965,7 +16965,7 @@
                              #uuid "bddc24af-3739-3b8e-bfcb-17b4a25b7153",
                              :com.boardgamegeek.boardgame/min-players
                              3,
-                             :com.boardgamegeek.boardgame/rating 7.0,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2891,
@@ -17162,7 +17162,7 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
                                                                 :name
-                                                                "Auction/Bidding"}
+                                                                "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2931,
                                                                 :name
@@ -18101,7 +18101,7 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2012,
                                                                 :name
-                                                                "Auction/Bidding"}
+                                                                "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2040,
                                                                 :name
@@ -18234,7 +18234,7 @@
                              #uuid "566c7907-484e-3c7b-b9a8-500c6965fb1f",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.1,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3004,
@@ -18782,7 +18782,7 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
                                                                 :name
-                                                                "Auction/Bidding"}
+                                                                "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2040,
                                                                 :name
@@ -18822,7 +18822,7 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2012,
                                                                 :name
-                                                                "Auction/Bidding"}
+                                                                "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2927,
                                                                 :name
@@ -18870,7 +18870,7 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2012,
                                                                 :name
-                                                                "Auction/Bidding"}
+                                                                "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2041,
                                                                 :name
@@ -19127,7 +19127,7 @@
                              #uuid "e314d54e-de1a-3463-a189-1b801433dd5e",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.2,
+                             :com.boardgamegeek.boardgame/rating 6.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -19679,7 +19679,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1081,
                                                                 :name
-                                                                "Spies/Secret Agents"}),
+                                                                "Spies / Secret Agents"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              90,
                              :com.boardgamegeek.boardgame/max-players
@@ -20122,7 +20122,7 @@
                              #uuid "cb8633c3-f558-338f-86a1-507b0b69c69d",
                              :com.boardgamegeek.boardgame/min-players
                              3,
-                             :com.boardgamegeek.boardgame/rating 6.6,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2019,
@@ -20512,7 +20512,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1081,
                                                                 :name
-                                                                "Spies/Secret Agents"}),
+                                                                "Spies / Secret Agents"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              45,
                              :com.boardgamegeek.boardgame/max-players
@@ -20722,7 +20722,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1040,
                                                                 :name
-                                                                "Murder/Mystery"}
+                                                                "Murder / Mystery"}
                                    #:com.boardgamegeek.category{:id
                                                                 1028,
                                                                 :name
@@ -20882,7 +20882,7 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
                                                                 :name
-                                                                "Auction/Bidding"}
+                                                                "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2987,
                                                                 :name
@@ -20998,7 +20998,7 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
                                                                 :name
-                                                                "Auction/Bidding"}
+                                                                "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 3097,
                                                                 :name
@@ -21690,7 +21690,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1081,
                                                                 :name
-                                                                "Spies/Secret Agents"}),
+                                                                "Spies / Secret Agents"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              120,
                              :com.boardgamegeek.boardgame/max-players
@@ -22041,7 +22041,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1081,
                                                                 :name
-                                                                "Spies/Secret Agents"}),
+                                                                "Spies / Secret Agents"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              15,
                              :com.boardgamegeek.boardgame/max-players
@@ -22291,7 +22291,7 @@
                              #uuid "8cb5b968-7b73-3122-b9a4-20caa3e6a993",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.0,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -22382,7 +22382,7 @@
                              #uuid "8ba768ba-5f32-3f6f-80c8-52550f880c9a",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.0,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2956,
@@ -22910,7 +22910,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1081,
                                                                 :name
-                                                                "Spies/Secret Agents"}),
+                                                                "Spies / Secret Agents"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              30,
                              :com.boardgamegeek.boardgame/max-players
@@ -23090,7 +23090,7 @@
                              #uuid "993f217f-ae0d-33c1-b31d-a68fe56c11fe",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.5,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2922,
@@ -23966,7 +23966,7 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2840,
                                                                 :name
-                                                                "Action/Event"}
+                                                                "Action / Event"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2080,
                                                                 :name
@@ -24290,7 +24290,7 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2012,
                                                                 :name
-                                                                "Auction/Bidding"}
+                                                                "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2040,
                                                                 :name
@@ -24668,7 +24668,7 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2840,
                                                                 :name
-                                                                "Action/Event"}
+                                                                "Action / Event"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2080,
                                                                 :name
@@ -24866,7 +24866,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1081,
                                                                 :name
-                                                                "Spies/Secret Agents"}),
+                                                                "Spies / Secret Agents"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              30,
                              :com.boardgamegeek.boardgame/max-players
@@ -24935,7 +24935,7 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
                                                                 :name
-                                                                "Auction/Bidding"}
+                                                                "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2932,
                                                                 :name
@@ -25443,7 +25443,7 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2012,
                                                                 :name
-                                                                "Auction/Bidding"}
+                                                                "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2072,
                                                                 :name
@@ -25579,7 +25579,7 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2012,
                                                                 :name
-                                                                "Auction/Bidding"}
+                                                                "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2875,
                                                                 :name
@@ -25753,7 +25753,7 @@
                              #uuid "163a099c-29ca-3b37-8d62-091a6c0f1149",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.1,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2046,
@@ -26539,7 +26539,7 @@
                              #uuid "f29a9bf5-31a4-3def-ac66-505e6adc5abf",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2860,
@@ -26848,7 +26848,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1040,
                                                                 :name
-                                                                "Murder/Mystery"}
+                                                                "Murder / Mystery"}
                                    #:com.boardgamegeek.category{:id
                                                                 1026,
                                                                 :name
@@ -27276,7 +27276,7 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
                                                                 :name
-                                                                "Auction/Bidding"}
+                                                                "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2924,
                                                                 :name
@@ -27630,7 +27630,7 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
                                                                 :name
-                                                                "Auction/Bidding"}
+                                                                "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2685,
                                                                 :name
@@ -29410,8 +29410,8 @@
                              #uuid "7a13b440-0bc8-3c7f-8c89-0876bc560b28"
                              #uuid "3cb7c941-c2b9-384a-a1c2-9a5d95c7b5fd"
                              #uuid "34bccc32-c3ce-3d4a-bb12-067fe302e8e3"
-                             #uuid "7c3ecb12-3069-39da-ad3f-8f578ca0549e"
                              #uuid "62326243-6ea0-3ce1-aef6-c1d285dbdc80"
+                             #uuid "7c3ecb12-3069-39da-ad3f-8f578ca0549e"
                              #uuid "e369d9fd-2ab5-3455-9298-16db19e37fd4"
                              #uuid "a4eb9598-b375-3f22-8363-e0295ac2f5f2"
                              #uuid "63c8eeb1-6a44-345d-a1f7-ca33537c2780"
@@ -29422,11 +29422,11 @@
                              #uuid "3a47e770-d479-3cdb-aa0d-ca26c7430b90"
                              #uuid "35474b73-b019-37a7-b3d6-ee8eb6df3f8c"
                              #uuid "76a33f97-02f4-3a7e-ada3-46bd2544ae02"
+                             #uuid "65b397da-a4ad-3880-b821-4f6f9d01cac1"
                              #uuid "81ed0760-1bde-3c0c-bb8b-bfec97603c12"
                              #uuid "ec9a79c1-8253-3d39-9f07-8382ba20e59f"
                              #uuid "1a30c214-a750-3e08-97aa-c85a7fa01368"
                              #uuid "4d2f36b0-64bb-3770-bdfa-ae0708082c4c"
-                             #uuid "65b397da-a4ad-3880-b821-4f6f9d01cac1"
                              #uuid "fd143db8-a765-3a1c-a119-b934a7feaf44"
                              #uuid "32288419-57f9-3b53-a2df-4b3393930c5a"
                              #uuid "99c1f5d3-b8a0-34f2-a4d1-97bfd885a25d"
@@ -29490,9 +29490,9 @@
                              #uuid "165261a9-0183-3e53-be82-ccc197c354b8"
                              #uuid "71f91e12-ab77-3da3-8a39-063650e3b2e7"
                              #uuid "984c20a2-ad28-3167-b8ae-fcef61acbced"
-                             #uuid "c0eef12a-9d87-3d5b-a03c-f46a23b023e3"
                              #uuid "20263815-62ac-3093-af3d-0f4a0f0538bb"
                              #uuid "52bfe89c-73d9-3a87-b498-188a2e2f101b"
+                             #uuid "e314d54e-de1a-3463-a189-1b801433dd5e"
                              #uuid "5f04dffc-be2c-351d-adf5-f41fb7084b4e"
                              #uuid "125402e7-7e6e-32b2-b2a6-46f6f856c000"
                              #uuid "2115fbc0-ba7a-3017-b867-c0a6304c3052"
@@ -29501,6 +29501,7 @@
                              #uuid "bfc38140-c8e9-322f-bf33-cd14f900042f"
                              #uuid "3c213740-1920-3b32-acb4-a2877cd7aa17"
                              #uuid "b6c61944-aa1e-3c86-aa02-084421f2c5b9"
+                             #uuid "68cea2b4-9ca7-3e26-a125-07d2663c3ae5"
                              #uuid "b1c48330-4f0d-3b7d-bb69-b9644919d62f"
                              #uuid "c9e680a4-40fb-3a3e-bc38-6556dd90712b"
                              #uuid "4c03c1c8-385c-3fb9-b528-e10c4245668d"
@@ -29508,9 +29509,9 @@
                              #uuid "9b6f89e9-4d1f-3225-bb98-6f002cd93509"
                              #uuid "5a156002-5793-338e-9399-def9bfd7eca6"
                              #uuid "5e26dbae-a7e1-30b8-980e-fb1487fab4a0"
+                             #uuid "c0eef12a-9d87-3d5b-a03c-f46a23b023e3"
                              #uuid "44de8c27-9942-39ca-997c-57ff932fc882"
                              #uuid "2fddd16e-1cc9-3362-9ea4-f5666acdfb05"
-                             #uuid "e314d54e-de1a-3463-a189-1b801433dd5e"
                              #uuid "310b5bc9-eb03-362b-811c-6ceb8acb4e53"
                              #uuid "be02937f-37a3-3696-932e-f9fc52479250"
                              #uuid "76d0a4d5-6c58-32a4-940f-25915760d406"
@@ -29520,7 +29521,6 @@
                              #uuid "2bded185-da51-3430-9462-fa200b501c28"
                              #uuid "c4b03b0d-d5cb-3866-bfee-4a20095c11d6"
                              #uuid "f5420b61-5e19-313e-8af2-cf5be82c637b"
-                             #uuid "68cea2b4-9ca7-3e26-a125-07d2663c3ae5"
                              #uuid "8ff4b8ab-16a4-36fd-bd85-8db7a695238e"
                              #uuid "b1ea21fb-2177-3fed-af81-0a3967e76069"
                              #uuid "921fd253-64a4-3ab8-b307-e8b375693fb8"
@@ -29610,6 +29610,7 @@
                              #uuid "7433759c-17d9-3f7d-8a20-dd0fff1a478d"
                              #uuid "22d1c628-02a5-3775-85a6-90babf4b04b4"
                              #uuid "12aa1a49-7859-3aae-8f37-3e81ff48d8d1"
+                             #uuid "000fad46-7734-372c-bfce-d551b75863f7"
                              #uuid "227364b4-dffe-38e9-8183-293de1530af4"
                              #uuid "cd19fd52-bf5e-3ad5-8ccf-0d6664374368"
                              #uuid "ebb7a837-d8f1-3d0c-a149-24e17e4005dc"
@@ -29623,7 +29624,6 @@
                              #uuid "6de2d947-5379-351e-8015-c1bc84a64883"
                              #uuid "df4c4520-3102-33f1-9a51-ee304c193f23"
                              #uuid "ccb76e02-75c8-3c47-b15c-965e56313bd2"
-                             #uuid "cb8633c3-f558-338f-86a1-507b0b69c69d"
                              #uuid "e261ac28-9c39-30db-81d4-e7551f8b4fe6"
                              #uuid "91213b2a-a925-328e-8ab4-b47bf6ed7a81"
                              #uuid "d2d5cb9d-1faa-3a1e-9c8b-0175fdae6604"
@@ -29636,21 +29636,25 @@
                              #uuid "96a67278-0517-3baf-ae87-8c2b12ba5839"
                              #uuid "cbed48f7-5fef-3645-9ebc-db33807e504c"
                              #uuid "f72af12f-4736-3bde-84b0-ca91070cf43c"
+                             #uuid "f442518c-c10d-3657-95ec-f4a0709a8f8a"
                              #uuid "3b94132b-40e6-384e-9a3c-ab80c3cee057"
-                             #uuid "000fad46-7734-372c-bfce-d551b75863f7"
                              #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "b89d6bd4-4fd0-321f-85a1-f829a425f0c9"
                              #uuid "b934a68e-f1d0-3352-b170-afb9fa2103da"
                              #uuid "88465ed6-c98e-3695-9106-84b5a779bebc"
+                             #uuid "314a8106-847d-3cbb-babe-a36b8ee15564"
                              #uuid "4578b280-9265-3868-8670-e39b70b610f9"
                              #uuid "d18a26f4-6f25-37b2-a861-2147cf47cf18"
                              #uuid "e5279fe2-9e7a-313b-9b5d-e2d1f6a1e8db"
                              #uuid "54e65a7b-483f-36df-bb68-7fe323b63cfa"
                              #uuid "e6d5c2ee-6c34-370d-b344-30cc5ee8a749"
                              #uuid "441920cf-d8db-37ee-90dc-7abd5bdc4b15"
+                             #uuid "cb8633c3-f558-338f-86a1-507b0b69c69d"
                              #uuid "2e994ee0-a8fc-32ef-a229-a0d74edf07cf"
                              #uuid "cd9b3130-0865-3759-962d-9c3eab8d03f4"
                              #uuid "bdc861dc-6b29-3561-92f7-d53f184e07fc"
+                             #uuid "8cb5b968-7b73-3122-b9a4-20caa3e6a993"
+                             #uuid "163a099c-29ca-3b37-8d62-091a6c0f1149"
                              #uuid "aacb653d-e587-34a7-a360-4c3956b4f677"
                              #uuid "63e5002f-f8a6-36bd-81b5-2f817477eecf"
                              #uuid "44ca4f9f-417c-3200-b21f-4ae33fae9646"
@@ -29665,7 +29669,6 @@
                              #uuid "7d1c07ba-7b59-3e65-b308-f82e4f02765e"
                              #uuid "b1b7f4bc-2440-32df-812f-bc28dbe11cb7"
                              #uuid "1bf19e97-0984-3eb0-8ea2-af4995dc8d02"
-                             #uuid "f442518c-c10d-3657-95ec-f4a0709a8f8a"
                              #uuid "eb9ce38e-9186-383e-8a18-3f574ec0615f"
                              #uuid "3ccea9ee-b5e6-3443-bfca-2e0d74941a53"
                              #uuid "91a5169d-5877-3642-9a52-54c4f01655da"
@@ -29680,7 +29683,6 @@
                              #uuid "a2008070-14f7-3ef4-b245-e2d68cc00b65"
                              #uuid "3d2c4800-def5-35c1-bdf0-e71150ae856c"
                              #uuid "bf872173-47bf-3140-9c89-3a8fe3e8fdea"
-                             #uuid "314a8106-847d-3cbb-babe-a36b8ee15564"
                              #uuid "e9261875-2cfa-39a4-84b7-17f7bf97c22a"
                              #uuid "51c249b0-90c8-3a66-8732-f796a82e5382"
                              #uuid "2bc22d15-7e2b-3a2d-aaaa-46fe0f8945e2"
@@ -29707,7 +29709,6 @@
                              #uuid "9f6c0ecb-64e8-35df-a18a-c94fb1dd73ef"
                              #uuid "479a6c5c-cef5-357e-9c39-23eeb98c7833"
                              #uuid "06f16796-b740-3756-979f-29b64214313c"
-                             #uuid "12c9e572-e277-309b-b59f-7d14593f19db"
                              #uuid "34a554d0-0c92-34d1-b7e8-78b92ecd459e"
                              #uuid "1b2a1ef5-4042-3ba6-826b-7d8fe796f7ba"
                              #uuid "22b3df14-e100-33a6-a098-e396cb523d6a"
@@ -29743,6 +29744,7 @@
                              #uuid "d3484476-c0fa-320c-950e-54b1e11f3c25"
                              #uuid "b3a0794c-8e53-3490-adc8-9c993a450d0b"
                              #uuid "7873a90e-ea1b-3b3b-8ca8-4820dc662976"
+                             #uuid "12c9e572-e277-309b-b59f-7d14593f19db"
                              #uuid "81cc0f79-3609-346a-8dde-65ed1c9f3c3a"
                              #uuid "75466a84-a8e4-3539-bad7-a8f56097c633"
                              #uuid "3b80595a-c71d-32b0-835a-c1d26c74b74f"
@@ -29752,12 +29754,10 @@
                              #uuid "b755730e-e213-3b2e-8031-c6800e3e5a06"
                              #uuid "fca4c654-eb32-38e1-bcaf-ff34fac77213"
                              #uuid "b75229d9-66a3-3ee4-86f4-e1e5f353d9a4"
-                             #uuid "bddc24af-3739-3b8e-bfcb-17b4a25b7153"
+                             #uuid "566c7907-484e-3c7b-b9a8-500c6965fb1f"
                              #uuid "9e1a4efa-fad4-375f-8749-c32a13e6adc7"
                              #uuid "fb0ff21a-5708-3887-803b-77c51714573d"
                              #uuid "88857068-79d6-3142-9e20-b8c7fd8b986d"
-                             #uuid "8cb5b968-7b73-3122-b9a4-20caa3e6a993"
-                             #uuid "8ba768ba-5f32-3f6f-80c8-52550f880c9a"
                              #uuid "2c63539a-a2a5-3415-b3d7-89edc773ac8b"
                              #uuid "018b1acc-9502-34ad-8479-cb3758bba5b5"
                              #uuid "bf9bf9b2-2886-3710-a8cd-2ab56ce77646"
@@ -29772,6 +29772,7 @@
                              #uuid "08708af1-c9c2-33fb-a3a0-4277691da74d"
                              #uuid "a1082e57-0aad-3776-a608-5196f13818f6"
                              #uuid "8a55d10a-eaaf-3da1-8c97-baec9e64e35f"
+                             #uuid "ffd08129-da06-3b4e-a8fb-c63db63c01f8"
                              #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7"
                              #uuid "9e840d33-76b5-3f12-b91c-286ba5961e48"
                              #uuid "85574f84-6988-3f70-bc40-ac7e3a7a33d1"
@@ -29783,15 +29784,16 @@
                              #uuid "c8421b97-0ee5-3772-8e2e-469e6ae25545"
                              #uuid "8e71006d-00ad-3c79-963c-92863e451c60"
                              #uuid "36f8c047-0a0d-34e8-920b-337b779969ab"
+                             #uuid "bddc24af-3739-3b8e-bfcb-17b4a25b7153"
                              #uuid "54b141a9-4bee-378e-b867-fd1d4729f014"
                              #uuid "e1405ecf-c37a-3cdf-9bc0-46ca9df2e685"
                              #uuid "db6d2f3a-d731-3ddd-9e97-4b857d9ac065"
-                             #uuid "566c7907-484e-3c7b-b9a8-500c6965fb1f"
                              #uuid "74e3083f-4bcb-38b4-a7ff-9888df74f0f2"
                              #uuid "1fff84e0-9d09-3677-a846-84f01c21b161"
                              #uuid "b7ef96e9-33f1-3f65-9f90-b57a72f045bc"
                              #uuid "01f7b705-9b33-3897-969b-343e8a6e682e"
                              #uuid "23cacdef-82dc-32b9-a8a4-39e224c75d3f"
+                             #uuid "8ba768ba-5f32-3f6f-80c8-52550f880c9a"
                              #uuid "4634a6e0-4966-34e2-9444-6dc29ae74e70"
                              #uuid "820bcff2-c486-3e04-a228-09e01a255128"
                              #uuid "27d7c429-d5af-3a2f-8c6d-a14c6c951d67"
@@ -29801,16 +29803,16 @@
                              #uuid "d6175495-c80f-347a-992b-592840105369"
                              #uuid "15f3d8ea-d060-3f55-a545-46198aa6f6e1"
                              #uuid "21742bd7-b99f-3dd8-a07a-f967e3ad9d6d"
-                             #uuid "163a099c-29ca-3b37-8d62-091a6c0f1149"
                              #uuid "82f39d2c-7691-3894-83aa-e9050bf23f11"
                              #uuid "166381ed-c073-3e1e-94ac-8fbbfc0cdffd"
+                             #uuid "f29a9bf5-31a4-3def-ac66-505e6adc5abf"
                              #uuid "2d7c2d23-5fac-3ff4-8aac-33c2ce47eb1c"
                              #uuid "28e54304-62fc-38c9-9b76-058878323d57"
                              #uuid "87e650b2-4bb6-3255-aef0-45199c66a153"
                              #uuid "cc6d3c9f-7a71-39c8-abd4-59a9b3ebf30b"
-                             #uuid "ffd08129-da06-3b4e-a8fb-c63db63c01f8"
                              #uuid "0727c24e-c484-3017-9850-a0e366a7dd42"
                              #uuid "e0dfaae0-12bd-33ef-94b1-4c34842456b4"
+                             #uuid "5b349ead-c3fb-374b-bb6c-47fcc3843355"
                              #uuid "c7b74e13-dff8-3831-98f4-1d81198c1337"
                              #uuid "d2f54329-7bef-301f-8f4e-bdac47c6f6d3"
                              #uuid "5866bed5-5204-3028-b384-b7472b792ac0"
@@ -29835,7 +29837,6 @@
                              #uuid "cb4c3448-07c8-36e6-8cbd-28f45339be1d"
                              #uuid "4c229496-53e3-3b6c-8a5e-3aeeb0bfa53e"
                              #uuid "8ae6e417-a5fe-36fa-9be3-bd2c6ac61840"
-                             #uuid "f29a9bf5-31a4-3def-ac66-505e6adc5abf"
                              #uuid "a4c71b2c-5d3a-37c3-8bba-9e4707f01715"
                              #uuid "d993f311-557a-391d-ab21-677ab586a01b"
                              #uuid "f757734b-6b91-3192-b50e-bce1dede85a0"
@@ -29844,13 +29845,14 @@
                              #uuid "622a37a1-75a6-33d6-b9df-23cebf46e8bf"
                              #uuid "22bff7d3-5a9d-31ed-ba8c-24c415ad46c0"
                              #uuid "414bbf5b-1083-3275-9983-4133937db58b"
-                             #uuid "5b349ead-c3fb-374b-bb6c-47fcc3843355"
+                             #uuid "5e9fb619-5319-3aa6-a826-7e0f06fa85ea"
                              #uuid "12218694-0010-31cc-a245-a502b7ed4b19"
                              #uuid "77019157-27a1-3008-9fce-2ae005351ccb"
                              #uuid "33ef9db6-536f-307e-9b5a-71695627acc0"
                              #uuid "90b4a79a-a31a-3cfc-be15-cdac927b726b"
                              #uuid "843ecaf0-bb25-3a67-af63-f8a4bc3708a3"
                              #uuid "59ead8d1-e124-3cfb-b9f3-ace06f43e703"
+                             #uuid "86ecccf9-dc57-3282-9fba-97bc1488cecd"
                              #uuid "2472ff38-3e0f-32ea-88c4-ad04315d5d62"
                              #uuid "37c8022e-5e8b-3c80-ad5e-52dc040d1bc2"
                              #uuid "6ba70c4c-e877-35fa-9dbf-89638184fbfa"
@@ -29868,7 +29870,6 @@
                              #uuid "09e49bb6-1f03-33a3-bfbe-8937e2e031e8"
                              #uuid "c56337cc-54ed-3e22-8b76-d1092f67310c"
                              #uuid "76363628-3f30-3180-8a81-686256476d5d"
-                             #uuid "5e9fb619-5319-3aa6-a826-7e0f06fa85ea"
                              #uuid "ea25ad16-dccd-378f-afde-9dae72c6b4d9"
                              #uuid "02be19ec-134a-3ed9-9db8-482abd66bbe3"
                              #uuid "34c99f3a-1325-32c3-865d-f7e597f25a8d"
@@ -29879,7 +29880,6 @@
                              #uuid "548d40ad-9562-3712-a0a0-f072f66b395c"
                              #uuid "6db176b1-017b-3430-a362-e2d6ee99cc67"
                              #uuid "7923614a-0e46-3f3d-8fcc-0e9ae658f123"
-                             #uuid "86ecccf9-dc57-3282-9fba-97bc1488cecd"
                              #uuid "a67c128c-49d5-38ad-912f-da0345e1971c"
                              #uuid "46b22649-54be-3b28-b76f-c68ed2951c92"
                              #uuid "863b84e5-b5c4-3347-a920-d71c4a08a259"
@@ -29914,7 +29914,6 @@
                              #uuid "7f5c4b62-c9ec-3866-8ad6-598ebab4623a"
                              #uuid "6c1f7ff8-38a7-36da-97a1-e81977744191"
                              #uuid "7c3801ac-e417-346c-a923-a047750758ea"
-                             #uuid "993f217f-ae0d-33c1-b31d-a68fe56c11fe"
                              #uuid "e9764e69-b1a8-3687-9d7d-cdfac1d8508f"
                              #uuid "ee251f41-b54c-3c3d-ad55-d9a6adef30ea"
                              #uuid "90a300ed-ea38-3514-b744-0c43440fa4b3"
@@ -29935,6 +29934,7 @@
                              #uuid "81828b40-f940-3ba2-999a-df65d1ece450"
                              #uuid "4e6a41b4-aabd-37d9-9d10-9dfd1d11e5c7"
                              #uuid "1ff52127-7c82-3033-9ce2-104b0bd614bf"
+                             #uuid "993f217f-ae0d-33c1-b31d-a68fe56c11fe"
                              #uuid "54b7d1a4-f4c9-3dfb-a3cf-e94ce0c9d660"
                              #uuid "ae7bda5b-fa73-3e1b-b30b-c81fd70b93f5"
                              #uuid "0b0ba83c-ba8f-3c56-8b3e-a2fc3bc7f5a4"

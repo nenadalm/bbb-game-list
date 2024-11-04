@@ -59,6 +59,14 @@
       (:game/name data)]
      (when (:new data)
        [:sup "new"])
+     " "
+     (if (:favorite data)
+       [:button
+        {:on-click #(re-frame/dispatch [::events/remove-favorite-game bgg-id])}
+        [i/black-star]]
+       [:button
+        {:on-click #(re-frame/dispatch [::events/add-favorite-game bgg-id])}
+        [i/white-star]])
      (when-not (= (:game/name data) (:name data))
        [:<>
         [:br]
@@ -112,15 +120,11 @@
      icon]))
 
 (defn game-list []
-  (let [sorting @(re-frame/subscribe [::subsc/sorting])
-        filter-new-enabled @(re-frame/subscribe [::subsc/feature-enabled :app.filter/new])]
+  (let [sorting @(re-frame/subscribe [::subsc/sorting])]
     [:table.game-list
      [:thead
       [:tr
-       [:th
-        (when filter-new-enabled
-          [:label [:input {:type "checkbox"
-                           :on-change #(re-frame/dispatch [::events/show-only-new (.-target.checked ^js %)])}] "only new"])]
+       [:th]
        [sortable-th {:text "Title"
                      :key :game/name
                      :sorting sorting}]
@@ -214,19 +218,21 @@
       ^{:key (:game/id g)} [game-card g])]])
 
 (defn- settings [view]
-  (case view
-    :list
-    [:div.settings
-     [:<>
-      [:button
-       {:on-click #(re-frame/dispatch [::events/set-view :table])}
-       "Show table"]]]
-    :table
-    [:div.settings
-     [:<>
-      [:button
-       {:on-click #(re-frame/dispatch [::events/set-view :list])}
-       "Show list"]]]))
+  [:div.settings
+   (case view
+     :list
+     [:button
+      {:on-click #(re-frame/dispatch [::events/set-view :table])}
+      "Show table"]
+     :table
+     [:button
+      {:on-click #(re-frame/dispatch [::events/set-view :list])}
+      "Show list"])
+   [:label
+    [:input
+     {:type "checkbox"
+      :on-change #(re-frame/dispatch [::events/show-only-favorites (.-target.checked ^js %)])}]
+    "Favorites only"]])
 
 (def ^:private
   view->component

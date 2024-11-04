@@ -100,6 +100,14 @@ td {
     content: '\2193';
 }
 
+.i-black-star::before {
+    content: '\2605';
+}
+
+.i-white-star::before {
+    content: '\2606';
+}
+
 .i-country-us::before {
     content: '\1f1fa \1f1f8';
 }

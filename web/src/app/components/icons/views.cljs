@@ -6,6 +6,12 @@
 (defn arrow-down []
   [:span.i-arrow-down])
 
+(defn black-star []
+  [:span.i-black-star])
+
+(defn white-star []
+  [:span.i-white-star])
+
 (defn language [s]
   (let [class (case s
                 "cs" "i-country-cz"

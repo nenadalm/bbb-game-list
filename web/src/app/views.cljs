@@ -4,7 +4,8 @@
    [goog.string :refer [unescapeEntities]]
    [app.subs :as subsc]
    [app.events :as events]
-   [app.components.icons.views :as i]))
+   [app.components.icons.views :as i]
+   [app.components.storage.views :as storage]))
 
 (defn- min-players [data]
   (:com.boardgamegeek.boardgame/min-players data))
@@ -217,6 +218,10 @@
     (for [g @(re-frame/subscribe [::subsc/game-list])]
       ^{:key (:game/id g)} [game-card g])]])
 
+(defn login []
+  [:div.settings--actions
+   [storage/selector]])
+
 (defn- settings [view]
   [:div.settings
    (case view
@@ -232,7 +237,8 @@
     [:input
      {:type "checkbox"
       :on-change #(re-frame/dispatch [::events/show-only-favorites (.-target.checked ^js %)])}]
-    "Favorites only"]])
+    "Favorites only"]
+   [login]])
 
 (def ^:private
   view->component

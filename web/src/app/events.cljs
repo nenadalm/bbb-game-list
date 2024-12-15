@@ -4,15 +4,20 @@
    [clojure.edn :as edn]
    [nenadalm.clojure-utils.re-frame.local-storage :as ls]
    [app.storage.protocols :as storage]
-   [app.storage.local-storage :as local-storage]))
+   [app.components.storage.events :as storage-events]))
 
 (def ^:private settings-key "nenadalm.bbb-game-list/settings")
-(def ^:private favorite-games-key "nenadalm.bbb-game-list/favorite-games")
 
 (def ^:private default-settings
   {:view :table})
 
-(def ^:private favorites-storage (local-storage/create-set favorite-games-key))
+(def ^:private favorites-storage (storage-events/create-favorites-storage))
+
+(re-frame/reg-event-fx
+ ::load-favorites
+ (fn [{:keys [db]} _]
+   {:db (assoc db
+               :favorite-games (storage/get-all favorites-storage))}))
 
 (re-frame/reg-event-fx
  ::init
@@ -24,7 +29,8 @@
                 :app/sort-dir :asc
                 :app/features (into #{} features)
                 :settings (merge default-settings (edn/read-string settings))
-                :favorite-games (storage/get-all favorites-storage)})}))
+                :favorite-games (storage/get-all favorites-storage)})
+    :fx [[::storage-events/sync {:storage favorites-storage :on-success [::load-favorites]}]]}))
 
 (re-frame/reg-event-db
  ::sort-by
@@ -49,9 +55,11 @@
 (re-frame/reg-event-fx
  ::add-favorite-game
  (fn [{:keys [db]} [_ v]]
-   {:db (assoc db :favorite-games (storage/add-item favorites-storage v))}))
+   {:db (assoc db :favorite-games (storage/add-item favorites-storage v))
+    :fx [[::storage-events/sync {:storage favorites-storage :on-success [::load-favorites]}]]}))
 
 (re-frame/reg-event-fx
  ::remove-favorite-game
  (fn [{:keys [db]} [_ v]]
-   {:db (assoc db :favorite-games (storage/remove-item favorites-storage v))}))
+   {:db (assoc db :favorite-games (storage/remove-item favorites-storage v))
+    :fx [[::storage-events/sync {:storage favorites-storage :on-success [::load-favorites]}]]}))

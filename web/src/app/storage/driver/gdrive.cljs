@@ -2,15 +2,30 @@
   "https://developers.google.com/drive/api/reference/rest/v3/files"
   (:require
    [clojure.edn :as edn]
+   [clojure.string :as str]
    [app.storage.protocols :refer [IFile]]))
 
 (def ^:private client-id "720826429334-od5ga7l0rdjc5tvkd09r9276gbj8asm1.apps.googleusercontent.com")
 (def ^:private client-secret "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")
 
+(defn- get-redirect-path []
+  (when (str/ends-with? js/location.hostname ".github.io")
+    (str/join
+     "/"
+     (concat
+      (->> (str/split "/bbb-game-list/bbb.html" #"/")
+           (take 2))
+      [""]))))
+
+(defn- get-redirect-uri []
+  (str js/location.origin
+       (get-redirect-path)
+       "?auth_response=google"))
+
 (defn get-login-url []
   (str "https://accounts.google.com/o/oauth2/v2/auth?"
        "client_id=" client-id
-       "&redirect_uri=" js/location.protocol "//" js/location.host "?auth_response=google"
+       "&redirect_uri=" (js/encodeURIComponent (get-redirect-uri))
        "&response_type=code"
        "&scope=" (js/encodeURIComponent "https://www.googleapis.com/auth/drive.appdata")
        "&access_type=offline"

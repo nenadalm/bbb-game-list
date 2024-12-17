@@ -45,7 +45,7 @@
                    #js {:code code
                         :client_id client-id
                         :client_secret client-secret
-                        :redirect_uri (str js/location.protocol "//" js/location.host "?auth_response=google")
+                        :redirect_uri (get-redirect-uri)
                         :grant_type "authorization_code"})})
       (.then throw-on-error)
       (.then #(.json %))

@@ -31,6 +31,11 @@
                                "/thing?type=boardgame&stats=1&id="
                                game-id)))
 
+(defn- game-collection-url [username]
+  (clojure.java.io/as-url (str api-root
+                               "/collection?own=1&username="
+                               (java.net.URLEncoder/encode username))))
+
 (defn- game-item->game [game-item]
   (reduce
    (fn [game item]
@@ -207,3 +212,16 @@
        detail-item->game
        (-> (clojure.xml/parse xin)
            :content)))))
+
+(defn username->games [username]
+  (let [url (game-collection-url username)]
+    (with-open [xin (url/->uncached-stream url)]
+      (mapv (fn [content]
+              {:com.boardgamegeek.boardgame/id (get-in content [:attrs :objectid])
+               :name (some
+                      (fn [tag]
+                        (when (= :name (:tag tag))
+                          (first (:content tag))))
+                      (:content content))})
+            (-> (clojure.xml/parse xin)
+                :content)))))

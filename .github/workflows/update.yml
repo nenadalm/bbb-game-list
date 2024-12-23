@@ -42,8 +42,6 @@ jobs:
         exclude:
           # mp has currently broken list of games (only categories with no games in them)
           - project: mp
-          # tg removed bgg_id info
-          - project: tg
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-java@v4

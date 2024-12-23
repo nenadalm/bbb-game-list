@@ -6651,33 +6651,6 @@
                              :game/name "Libertalia",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/LeUx57CGYdnIEsnGebOB0A__thumb/img/BRF-D_TW7oHr7t6Yh0F9wx_zFI4=/fit-in/200x150/filters:strip_icc()/pic1326136.jpg"},
-                            #uuid "e78088c0-b988-34b7-8643-6def04b49319"
-                            {:game/id
-                             #uuid "e78088c0-b988-34b7-8643-6def04b49319",
-                             :com.boardgamegeek.boardgame/min-players
-                             2,
-                             :com.boardgamegeek.boardgame/rating 7.0,
-                             :com.boardgamegeek.boardgame/mechanics
-                             (list #:com.boardgamegeek.mechanic{:id
-                                                                3007,
-                                                                :name
-                                                                "Matching"}),
-                             :name "Little match",
-                             :com.boardgamegeek.boardgame/categories
-                             (list #:com.boardgamegeek.category{:id
-                                                                1041,
-                                                                :name
-                                                                "Children's Game"}),
-                             :com.boardgamegeek.boardgame/max-play-time
-                             10,
-                             :com.boardgamegeek.boardgame/max-players
-                             4,
-                             :com.boardgamegeek.boardgame/min-play-time
-                             10,
-                             :com.boardgamegeek.boardgame/id "320846",
-                             :game/name "Little Match",
-                             :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/LYp-0bV3C6Kte492R0mGwQ__thumb/img/cXuwxcekNSJNgozozYlH0lOz3vQ=/fit-in/200x150/filters:strip_icc()/pic5687920.jpg"},
                             #uuid "6cc16bd7-d92e-384a-be56-229a00aa2686"
                             {:game/id
                              #uuid "6cc16bd7-d92e-384a-be56-229a00aa2686",
@@ -15088,7 +15061,6 @@
                              #uuid "cea0708e-9ebc-3fdf-b81f-ace3b0f3f138"
                              #uuid "28b5308a-71c0-3727-890f-f47eb8c196d6"
                              #uuid "21ff8206-77bd-34eb-b63b-2bf9585ea90d"
-                             #uuid "e78088c0-b988-34b7-8643-6def04b49319"
                              #uuid "6cc16bd7-d92e-384a-be56-229a00aa2686"
                              #uuid "d35972eb-51dc-3248-b7b9-3ea187439560"
                              #uuid "8f555ef1-9f9f-3862-bcf8-1c2e72e8ea97"
@@ -15433,7 +15405,6 @@
                              #uuid "39969cc9-e8ad-37d1-89be-5ce9fe0824fb"
                              #uuid "a07de260-165e-353e-a142-dc602c389bc7"
                              #uuid "aa0f7ad4-eb74-30e8-9824-21bcf181b19c"
-                             #uuid "e78088c0-b988-34b7-8643-6def04b49319"
                              #uuid "672f55d1-984e-3447-a14e-bc89c2195c2b"
                              #uuid "9a217965-2908-38f8-8853-e9ee91b394e1"
                              #uuid "58c83176-9e2d-34ea-9212-2bfad7bf44a8"
@@ -15797,7 +15768,6 @@
                              #uuid "aecc77c6-bfad-3a88-b455-19b8d2c86bc8"
                              #uuid "cea0708e-9ebc-3fdf-b81f-ace3b0f3f138"
                              #uuid "21ff8206-77bd-34eb-b63b-2bf9585ea90d"
-                             #uuid "e78088c0-b988-34b7-8643-6def04b49319"
                              #uuid "6cc16bd7-d92e-384a-be56-229a00aa2686"
                              #uuid "d35972eb-51dc-3248-b7b9-3ea187439560"
                              #uuid "8f555ef1-9f9f-3862-bcf8-1c2e72e8ea97"
@@ -16065,7 +16035,6 @@
                              #uuid "843ecaf0-bb25-3a67-af63-f8a4bc3708a3"
                              #uuid "780d1127-223d-3642-ac78-1a9f7ad42273"
                              #uuid "aecc77c6-bfad-3a88-b455-19b8d2c86bc8"
-                             #uuid "e78088c0-b988-34b7-8643-6def04b49319"
                              #uuid "6cc16bd7-d92e-384a-be56-229a00aa2686"
                              #uuid "28eb0c35-a26a-3850-b71e-053581f6d64a"
                              #uuid "0b5d8490-cda6-3f85-ac58-70ed3aefe115"
@@ -16318,7 +16287,6 @@
                              #uuid "fc4b5160-634a-3e54-b306-97e5771f843c"
                              #uuid "aa0f7ad4-eb74-30e8-9824-21bcf181b19c"
                              #uuid "bd4049a7-2730-31a1-bbc9-4a077d75facc"
-                             #uuid "e78088c0-b988-34b7-8643-6def04b49319"
                              #uuid "be88402c-5149-3063-ab79-7e0e257de370"
                              #uuid "3da3ce69-4e95-3c15-beec-5d9ec2078260"
                              #uuid "71e79ef8-0600-3398-990c-febe3b0b758d"
@@ -16642,7 +16610,6 @@
                              #uuid "d5c94464-b964-39de-9794-a78996eba937"
                              #uuid "aa0f7ad4-eb74-30e8-9824-21bcf181b19c"
                              #uuid "d2d9225d-4676-3278-9d51-cc75491cfc30"
-                             #uuid "e78088c0-b988-34b7-8643-6def04b49319"
                              #uuid "3da3ce69-4e95-3c15-beec-5d9ec2078260"
                              #uuid "71e79ef8-0600-3398-990c-febe3b0b758d"
                              #uuid "f65bc525-eb32-3043-9f19-fe5cf845acd7"

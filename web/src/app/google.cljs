@@ -42,4 +42,10 @@
                    (set-tokens
                     (assoc tokens
                            :access-token (:access_token tokens-response)
-                           :expires-in (time-in-seconds (:expires_in tokens-response))))))))))
+                           :expires-in (time-in-seconds (:expires_in tokens-response))))))
+          (.catch (fn [err]
+                    (when (instance? ExceptionInfo err)
+                      (let [status (get-in (ex-data err) [:response :status])]
+                        (when (= 400 status)
+                          (disconnect))))
+                    (throw err)))))))

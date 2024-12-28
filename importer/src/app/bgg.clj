@@ -1,11 +1,13 @@
 (ns app.bgg
   (:require
-   [clojure.java.io]
+   [clojure.java.io :as io]
    [clojure.xml]
    [clojure.string :as str]
    [clojure.math :as m]
+   [clojure.edn :as edn]
    [jsonista.core :as j]
-   [app.url :as url]))
+   [app.url :as url]
+   [app.cache :as cache]))
 
 (def ^:private api-root "https://www.boardgamegeek.com/xmlapi2")
 
@@ -197,21 +199,35 @@
      {:com.boardgamegeek.boardgame/id (-> detail-item :attrs :id)}
      (:content detail-item))))
 
-(defn game-details [game-id]
-  (let [url (game-details-url game-id)]
-    (with-open [xin (url/->cached-stream url)]
-      (-> (clojure.xml/parse xin)
-          :content
-          first
-          detail-item->game))))
+(defn- cache-game-detail [id detail]
+  (cache/store (str "bgg.game-detail__" id) (pr-str detail)))
+
+(defn- load-cached-game-detail [id]
+  (edn/read-string (cache/load (str "bgg.game-detail__" id))))
 
 (defn games-details [game-ids]
-  (let [url (game-details-url (str/join "," game-ids))]
-    (with-open [xin (url/->cached-stream url)]
-      (mapv
-       detail-item->game
-       (-> (clojure.xml/parse xin)
-           :content)))))
+  (let [{:keys [games ids]} (reduce
+                             (fn [acc game-id]
+                               (if-let [detail (load-cached-game-detail game-id)]
+                                 (update acc :games conj (detail-item->game detail))
+                                 (update acc :ids conj game-id)))
+                             {:details []
+                              :ids []}
+                             game-ids)]
+    (into
+     games
+     (comp
+      (partition-all 20)
+      (map (fn [ids]
+             (with-open [xin (url/->uncached-stream (game-details-url (str/join "," ids)))]
+               (-> (clojure.xml/parse xin)
+                   :content))))
+      cat
+      (map (fn [detail]
+             (let [game (detail-item->game detail)]
+               (cache-game-detail (:com.boardgamegeek.boardgame/id game) detail)
+               game))))
+     ids)))
 
 (defn username->games [username]
   (let [url (game-collection-url username)]

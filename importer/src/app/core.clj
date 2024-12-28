@@ -70,17 +70,16 @@
 
 (defn- enrich-games [games]
   (let [games-with-id (mapv enrich-game-with-id games)
+        bgg-ids (into #{}
+                      (comp
+                       (map :com.boardgamegeek.boardgame/id)
+                       (filter some?))
+                      games-with-id)
         id->bgg-game (into {}
                            (comp
-                            (map :com.boardgamegeek.boardgame/id)
-                            (filter some?)
-                            (partition-all 20)
-                            (map (fn [ids]
-                                   (bgg/games-details ids)))
-                            cat
                             (map (fn [bgg-game]
                                    [(:com.boardgamegeek.boardgame/id bgg-game) bgg-game])))
-                           games-with-id)]
+                           (bgg/games-details bgg-ids))]
     (mapv
      (fn [game]
        (-> (merge game (id->bgg-game (:com.boardgamegeek.boardgame/id game)))

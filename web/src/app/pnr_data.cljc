@@ -867,7 +867,7 @@
                              #uuid "730d3c4b-93ce-3490-97bd-3758114ee83d",
                              :com.boardgamegeek.boardgame/min-players
                              3,
-                             :com.boardgamegeek.boardgame/rating 8.2,
+                             :com.boardgamegeek.boardgame/rating 8.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -6593,13 +6593,13 @@
                              :com.boardgamegeek.boardgame/id "196379",
                              :game/name "Shit Happens",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/d1RGD6HdWfX6loyZU23DDw__thumb/img/1inAKM--jeX28TP2lvvP27HxeKs=/fit-in/200x150/filters:strip_icc()/pic3303204.jpg"},
+                             "https://cf.geekdo-images.com/-DIfXIDpTWS7m3J9yg87oQ__thumb/img/SB8g7W1Zh3o4V9M1o1s4xMpGgTU=/fit-in/200x150/filters:strip_icc()/pic3943080.jpg"},
                             #uuid "c1904e0a-a2d8-3f44-a56e-baac5c91cbe8"
                             {:game/id
                              #uuid "c1904e0a-a2d8-3f44-a56e-baac5c91cbe8",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 5.8,
+                             :com.boardgamegeek.boardgame/rating 5.7,
                              :name "Shit Happens: 50 odstínů hnědi",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -10250,12 +10250,12 @@
                              #uuid "5915a81b-221d-3aa3-a64a-78a9a04a1200"
                              #uuid "2230c905-fd3a-3362-9ebf-8e914af7be7c"
                              #uuid "02d7474b-8feb-367f-8aa2-d9ff2a2066b5"
+                             #uuid "c1904e0a-a2d8-3f44-a56e-baac5c91cbe8"
                              #uuid "c5419794-461c-31ab-8dea-327b50e6dc6d"
                              #uuid "270a53b8-caba-3721-8ecd-a69ccdb2859a"
                              #uuid "3a1acd2a-f48b-3114-b132-42b7b94aa4eb"
                              #uuid "8a0fc606-e72c-3657-85fb-d5d52136d558"
                              #uuid "88ebc129-6fd2-34e1-9c56-e508af43b2f6"
-                             #uuid "c1904e0a-a2d8-3f44-a56e-baac5c91cbe8"
                              #uuid "d32a635c-ff5d-3c73-a609-d313801541d4"
                              #uuid "6e8ce4f2-3cc4-37b8-9002-721e44843aaf"
                              #uuid "319e3fcc-abc7-317d-8d7f-d70b3b9d277c"
@@ -10383,10 +10383,10 @@
                              #uuid "e5f11979-9a30-30ec-8084-92dd584b1214"
                              #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08"
                              #uuid "0071dfa9-ec41-35e2-befc-ecbe183ff272"
-                             #uuid "730d3c4b-93ce-3490-97bd-3758114ee83d"
                              #uuid "9494bcbd-1f85-37bb-b15a-6ca10d64b159"
                              #uuid "5ddc1e9d-0dc4-38ba-a376-d5a380106615"
                              #uuid "796d7bd5-b63e-3115-8d6c-5d889694a7be"
+                             #uuid "730d3c4b-93ce-3490-97bd-3758114ee83d"
                              #uuid "2bc85979-1d40-3c94-8a0b-468b75a7d1e4"
                              #uuid "f73b3498-5f4f-3911-8d86-02f4f5b94222"
                              #uuid "a9b53967-4ee4-3edc-b22e-2a007b64a755"

@@ -5,7 +5,6 @@
    [clojure.string :as str]
    [clojure.math :as m]
    [clojure.edn :as edn]
-   [jsonista.core :as j]
    [app.url :as url]
    [app.cache :as cache]))
 
@@ -22,10 +21,6 @@
 (defn- search-game-non-exact-url [name]
   (clojure.java.io/as-url (str api-root
                                "/search?exact=0&type=boardgame&query="
-                               (java.net.URLEncoder/encode name))))
-
-(defn- search-game-frontend-url [name]
-  (clojure.java.io/as-url (str "https://boardgamegeek.com/search/boardgame?nosession=1&showcount=20&q="
                                (java.net.URLEncoder/encode name))))
 
 (defn- game-details-url [game-id]
@@ -60,17 +55,6 @@
   (let [url (search-game-non-exact-url name)]
     (with-open [xin (url/->cached-stream url)]
       (result->games (clojure.xml/parse xin)))))
-
-(defn- search-game-frontend [name]
-  (let [url (search-game-frontend-url name)]
-    (with-open [xin (url/->cached-stream url {:headers {"Accept" "application/json"}})]
-      (not-empty
-       (mapv
-        (fn [item]
-          {:id (:id item)
-           :type (:subtype item)
-           :name (:name item)})
-        (:items (j/read-value xin j/keyword-keys-object-mapper)))))))
 
 (defn- name-length [game]
   (count (:name game)))
@@ -143,8 +127,7 @@
     (first
      (or
       (first-result #(some-game-result (search-game-exact %)) pn)
-      (first-result #(one-game-result (search-game-non-exact %) %) pn)
-      (first-result #(one-game-result (search-game-frontend %) %) pn)))))
+      (first-result #(one-game-result (search-game-non-exact %) %) pn)))))
 
 (defn- non-zero [x]
   (if (= 0 x) nil x))

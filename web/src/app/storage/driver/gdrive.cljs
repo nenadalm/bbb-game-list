@@ -60,7 +60,7 @@
                    #js {:refresh_token refresh-token
                         :client_id client-id
                         :client_secret client-secret
-                        :grant_type "access_token"})})
+                        :grant_type "refresh_token"})})
       (.then throw-on-error)
       (.then #(.json %))
       (.then (fn [js-obj]

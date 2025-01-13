@@ -39,10 +39,12 @@
       (js/Promise.resolve (:access-token tokens))
       (-> (gdrive/access-token (:refresh-token tokens))
           (.then (fn [tokens-response]
-                   (set-tokens
-                    (assoc tokens
-                           :access-token (:access_token tokens-response)
-                           :expires-in (time-in-seconds (:expires_in tokens-response))))))
+                   (let [access-token (:access_token tokens-response)]
+                     (set-tokens
+                      (assoc tokens
+                             :access-token access-token
+                             :expires-in (time-in-seconds (:expires_in tokens-response))))
+                     access-token)))
           (.catch (fn [err]
                     (when (instance? ExceptionInfo err)
                       (let [status (get-in (ex-data err) [:response :status])]

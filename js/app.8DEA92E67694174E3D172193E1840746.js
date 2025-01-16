@@ -1,5 +1,0 @@
-(function(){
-'use strict';var vt=function(f){return fetch("https://oauth2.googleapis.com/token",{method:"POST",body:new URLSearchParams({code:f,client_id:"720826429334-od5ga7l0rdjc5tvkd09r9276gbj8asm1.apps.googleusercontent.com",client_secret:"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",redirect_uri:$APP.Yo(),grant_type:"authorization_code"})}).then($APP.bp).then(function(k){return k.json()}).then(function(k){return $APP.Gh(k)})},wt=function(f){return vt(f).then(function(k){return $APP.mp(new $APP.b(null,3,[$APP.pp,
-$APP.Ur.g(k),$APP.np,$APP.qp.g(k),$APP.op,$APP.jp($APP.rp.g(k))],null))})},xt=function(){switch((new URL(location.href)).searchParams.get("auth_response")){case "google":var f=new URLSearchParams(location.search);wt(f.get("code")).then(function(){localStorage.setItem("nenadalm.bbb-game-list.storage/request",$APP.rh($APP.m([$APP.Yp])));return location.href=JSON.parse(f.get("state")).url})}};$APP.na("app.core.init",function(){xt();var f=navigator;f=null==f?null:f.serviceWorker;return null==f?null:f.register("worker.js")});
-}).call(this);
-//# sourceMappingURL=app.8DEA92E67694174E3D172193E1840746.js.map

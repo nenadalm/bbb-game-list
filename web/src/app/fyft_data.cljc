@@ -817,7 +817,7 @@
                              :languages ["cs"],
                              :game/name "CATAN",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__thumb/img/8a9HeqFydO7Uun_le9bXWPnidcA=/fit-in/200x150/filters:strip_icc()/pic2419375.jpg"},
+                             "https://cf.geekdo-images.com/PyUol9QxBnZQCJqZI6bmSA__thumb/img/virV2Bm82Dql7gh-LZScBwqByik=/fit-in/200x150/filters:strip_icc()/pic8632666.png"},
                             #uuid "7d809fbf-1e03-3ebf-bb51-ead962dd8b24"
                             {:languages ["de"],
                              :name "Camel Up (2nd edition)",
@@ -5648,6 +5648,46 @@
                              #uuid "c1adca2f-ca4e-3669-8ef2-8c3505f751c8",
                              :game/name "Titans: 5th Player",
                              :com.boardgamegeek.boardgame/id "338156"},
+                            #uuid "75de0399-6071-3e43-9123-15a64cd7269f"
+                            {:game/id
+                             #uuid "75de0399-6071-3e43-9123-15a64cd7269f",
+                             :com.boardgamegeek.boardgame/min-players
+                             3,
+                             :com.boardgamegeek.boardgame/rating 6.1,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2040,
+                                                                :name
+                                                                "Hand Management"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2865,
+                                                                :name
+                                                                "Player Judge"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2020,
+                                                                :name
+                                                                "Simultaneous Action Selection"}),
+                             :name "Komu zvoní tramvaj",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1118,
+                                                                :name
+                                                                "Mature / Adult"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1030,
+                                                                :name
+                                                                "Party Game"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             90,
+                             :com.boardgamegeek.boardgame/max-players
+                             13,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/id "282171",
+                             :languages ["cs"],
+                             :game/name "Trial by Trolley",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/r1GDaTzdNoSz2gcZELRFng__thumb/img/EHxVkr3rv0ag28bTD4nAzDgKklI=/fit-in/200x150/filters:strip_icc()/pic4835109.png"},
                             #uuid "311d7b9b-459b-3f49-8222-ac97e1674a4a"
                             {:languages ["en"],
                              :name "Truck Off",
@@ -6238,6 +6278,7 @@
                              #uuid "08b6d232-f558-3e55-94ab-cef9ff9f27a7"
                              #uuid "c1adca2f-ca4e-3669-8ef2-8c3505f751c8"
                              #uuid "c37b4f43-2e6b-3084-97d4-dac23dd3996e"
+                             #uuid "75de0399-6071-3e43-9123-15a64cd7269f"
                              #uuid "311d7b9b-459b-3f49-8222-ac97e1674a4a"
                              #uuid "54b7d1a4-f4c9-3dfb-a3cf-e94ce0c9d660"
                              #uuid "99060139-4d5e-36c5-9110-0c35b80fc62b"
@@ -6306,6 +6347,7 @@
                              #uuid "5f5d8bf8-11c9-3d8e-aa78-9e18d7a6818c"
                              #uuid "165261a9-0183-3e53-be82-ccc197c354b8"
                              #uuid "7d486371-bb65-3063-b535-ceba4189d8ed"
+                             #uuid "75de0399-6071-3e43-9123-15a64cd7269f"
                              #uuid "61bf01cf-dd60-3480-87f3-ea25e8a5939f"
                              #uuid "f690879e-3b38-34a3-972f-13c9aaf6ec52"
                              #uuid "65b34b98-5756-3717-a631-8b5b60bded8c"
@@ -6538,6 +6580,7 @@
                              #uuid "c73c60b0-041e-3c17-a45e-f32238f2cb6e"
                              #uuid "e9e59065-5acd-3d1d-876b-8cb866541534"
                              #uuid "446e92f1-5cd2-3512-9ccd-983ef968e692"
+                             #uuid "75de0399-6071-3e43-9123-15a64cd7269f"
                              #uuid "eaa9b08c-9718-39e9-84e8-e09ccf855ef0"
                              #uuid "83ad4685-b1e3-3677-911a-6839874b3310"
                              #uuid "61bf01cf-dd60-3480-87f3-ea25e8a5939f"
@@ -6687,6 +6730,7 @@
                              #uuid "61bf01cf-dd60-3480-87f3-ea25e8a5939f"
                              #uuid "5b444b22-2047-3124-af08-48687f72a6b5"
                              #uuid "4c229496-53e3-3b6c-8a5e-3aeeb0bfa53e"
+                             #uuid "75de0399-6071-3e43-9123-15a64cd7269f"
                              #uuid "a83b8f23-d78e-3e62-90eb-d70f7995c982"],
                             :com.boardgamegeek.boardgame/min-play-time
                             [#uuid "26241e99-b112-3a8d-9c7a-935a273f10d1"
@@ -6795,6 +6839,7 @@
                              #uuid "4c229496-53e3-3b6c-8a5e-3aeeb0bfa53e"
                              #uuid "90a300ed-ea38-3514-b744-0c43440fa4b3"
                              #uuid "0170915b-1ae2-3680-a63a-684297fdb59f"
+                             #uuid "75de0399-6071-3e43-9123-15a64cd7269f"
                              #uuid "59b85053-a3ac-3c1a-8f29-eaaa3baec4c3"
                              #uuid "dd6f7a14-de47-37f2-bb22-bd37cf04e69b"
                              #uuid "182deae1-4ea2-3cb6-a9a3-ff03c832e910"
@@ -6962,6 +7007,7 @@
                              #uuid "af81fcd3-6c2c-3080-ac39-0f077b425e0a"
                              #uuid "ee251f41-b54c-3c3d-ad55-d9a6adef30ea"
                              #uuid "0ff68302-89b7-3763-905c-94075e086793"
+                             #uuid "75de0399-6071-3e43-9123-15a64cd7269f"
                              #uuid "cf1e8f0b-c580-3564-8e6e-e3cc8df2c060"
                              #uuid "21489cfd-6859-3a26-9603-e63a04e4e720"
                              #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08"

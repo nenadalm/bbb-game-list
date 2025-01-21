@@ -6,6 +6,10 @@
   :description "List of games at FYFT."
   :project "fyft"
   :label "fyft.cz"}
+ {:title "Games - Geekárna"
+  :description "List of games at Geekárna."
+  :project "geekarna"
+  :label "geekarna.cz"}
  {:title "Games - Herní prostor"
   :description "List of games at Herní prostor."
   :project "hp"

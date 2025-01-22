@@ -1,4 +1,4 @@
-(ns app.tg
+(ns app.project.tg
   (:require
    [app.bgg :as bgg]))
 

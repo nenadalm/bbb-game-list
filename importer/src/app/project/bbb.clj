@@ -1,4 +1,4 @@
-(ns app.bbb
+(ns app.project.bbb
   (:require
    [clojure.string]
    [clojure.java.io]

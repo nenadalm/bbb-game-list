@@ -1,4 +1,4 @@
-(ns app.mlp
+(ns app.project.mlp
   (:require
    [clojure.java.io]
    [app.util :as u])

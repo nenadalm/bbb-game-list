@@ -1,4 +1,4 @@
-(ns app.mp
+(ns app.project.mp
   (:require
    [clojure.string :as str]
    [clojure.java.io])

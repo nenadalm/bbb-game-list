@@ -1,4 +1,4 @@
-(ns app.fyft
+(ns app.project.fyft
   (:require
    [clojure.string :as str]
    [clojure.java.io])

@@ -1,4 +1,4 @@
-(ns app.hp
+(ns app.project.hp
   (:require
    [clojure.string]
    [clojure.java.io])

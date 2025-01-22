@@ -91,7 +91,7 @@
      games-with-id)))
 
 (defn- project->games [project]
-  (let [ns-name (str "app." (:project project))
+  (let [ns-name (str "app.project." (:project project))
         ns (symbol ns-name)
         _ (require ns)
         fsym (symbol ns-name "games")

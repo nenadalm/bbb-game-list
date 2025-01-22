@@ -1,4 +1,4 @@
-(ns app.geekarna
+(ns app.project.geekarna
   (:require
    [clojure.string :as str]
    [clojure.java.io])

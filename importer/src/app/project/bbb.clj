@@ -2,9 +2,7 @@
   (:require
    [clojure.string]
    [clojure.java.io]
-   [app.util :as u])
-  (:import
-   [org.jsoup Jsoup]))
+   [app.project :as p]))
 
 (def ^:private games-list-url "https://www.bohemiaboardsandbrews.com/knihovna-her")
 
@@ -14,14 +12,6 @@
    "/game-languages/french" "fr"
    "/game-languages/german" "de"
    "/game-languages/russian" "ru"})
-
-(defn- game-list-doc* [url]
-  (with-open [xin (clojure.java.io/input-stream (java.net.URL. url))]
-    (Jsoup/parse xin "utf-8" url)))
-
-(def ^:private game-list-doc
-  "bbb often returns 504"
-  (u/retry 3 0 game-list-doc*))
 
 (defn- doc->next-page [doc]
   (when-let [href (not-empty (.attr (.select doc ".w-pagination-next") "href"))]
@@ -45,7 +35,7 @@
 
 (defn- game->languages [game]
   (let [additional-info-url (.attr (.first (.select game "a.hide")) "abs:href")
-        info-doc (game-list-doc additional-info-url)]
+        info-doc (p/parse-html additional-info-url)]
     (into
      []
      (map (fn [el]
@@ -64,7 +54,7 @@
   (loop [url games-list-url
          futures []]
     (if url
-      (let [doc (game-list-doc url)]
+      (let [doc (p/parse-html url)]
         (recur (doc->next-page doc)
                (conj futures (future (pmap game->game-info (doc->game-list doc))))))
       (into [] (mapcat deref) futures))))

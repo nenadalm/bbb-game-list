@@ -1,9 +1,8 @@
 (ns app.project.hp
   (:require
    [clojure.string]
-   [clojure.java.io])
-  (:import
-   [org.jsoup Jsoup]))
+   [clojure.java.io]
+   [app.project :as p]))
 
 (def ^:private games-list-url "https://www.herniprostor.cz/pujcovna/")
 
@@ -20,12 +19,8 @@
     (filter seq))
    (.select game-list "tr:not(:first-child) td:first-child span")))
 
-(defn- game-list-doc []
-  (with-open [xin (clojure.java.io/input-stream (java.net.URL. games-list-url))]
-    (Jsoup/parse xin "utf-8" games-list-url)))
-
 (defn games []
-  (let [game-names (->> (game-list-doc)
+  (let [game-names (->> (p/parse-html games-list-url)
                         game-list->game-names)]
     (mapv
      (fn [game-name]

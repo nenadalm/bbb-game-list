@@ -2,19 +2,20 @@
   (:require
    [clojure.java.io]
    [app.url-cache :as url-cache]
-   [app.util :as u]))
+   [app.util :as u]
+   [app.http.url :as http]))
 
 (defn- ->uncached-stream* [url {:keys [headers] :as opts}]
-  (let [conn (.openConnection url)]
-    (doseq [[k v] headers]
-      (.setRequestProperty conn k v))
-    (.connect conn)
-    (if (== 202 (.getResponseCode conn))
+  (let [response (http/request
+                  {:url url
+                   :headers headers
+                   :as :stream})]
+    (if (== 202 (:status response))
       (do
         (tap> "Response: 202 - retrying...")
         (Thread/sleep 2000)
         (recur url opts))
-      (.getInputStream conn))))
+      (:body response))))
 
 (def ^:private uncached-url-stream
   "boardgamegeek.com returns `429 Too Many Requests` in case we are too quick, sometimes it fails with eof error."

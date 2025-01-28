@@ -1,15 +1,10 @@
 (ns app.project.fyft
   (:require
    [clojure.string :as str]
-   [clojure.java.io])
-  (:import
-   [org.jsoup Jsoup]))
+   [clojure.java.io]
+   [app.project :as p]))
 
 (def ^:private games-list-url "https://www.fyft.cz/fyft-herna-praha-holesovice/")
-
-(defn- game-list-doc []
-  (with-open [xin (clojure.java.io/input-stream (java.net.URL. games-list-url))]
-    (Jsoup/parse xin "utf-8" games-list-url)))
 
 (defn- language->code [language]
   (let [lower (str/lower-case (str/trim language))]
@@ -33,4 +28,4 @@
               (and (< 1 (count line))
                    (not= "V + W" line))))
     (map game->game-info))
-   (.select (game-list-doc) "table td")))
+   (.select (p/parse-html games-list-url) "table td")))

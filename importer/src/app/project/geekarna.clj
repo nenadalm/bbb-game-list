@@ -1,15 +1,10 @@
 (ns app.project.geekarna
   (:require
    [clojure.string :as str]
-   [clojure.java.io])
-  (:import
-   [org.jsoup Jsoup]))
+   [clojure.java.io]
+   [app.project :as p]))
 
 (def ^:private games-list-url "https://www.geekarna.cz/deskovky/")
-
-(defn- game-list-doc []
-  (with-open [xin (clojure.java.io/input-stream (java.net.URL. games-list-url))]
-    (Jsoup/parse xin "utf-8" games-list-url)))
 
 (defn- language->code [language]
   (let [lower (str/lower-case (str/trim language))]
@@ -36,4 +31,4 @@
   (mapv
    (fn [game]
      (game->game-info (.text game)))
-   (.select (game-list-doc) ".games.list h3")))
+   (.select (p/parse-html games-list-url) ".games.list h3")))

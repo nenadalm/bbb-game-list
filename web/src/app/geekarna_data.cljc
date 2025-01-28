@@ -659,7 +659,7 @@
                              :com.boardgamegeek.boardgame/id "13",
                              :game/name "CATAN",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/W3Bsga_uLP9kO91gZ7H8yw__thumb/img/8a9HeqFydO7Uun_le9bXWPnidcA=/fit-in/200x150/filters:strip_icc()/pic2419375.jpg"},
+                             "https://cf.geekdo-images.com/PyUol9QxBnZQCJqZI6bmSA__thumb/img/virV2Bm82Dql7gh-LZScBwqByik=/fit-in/200x150/filters:strip_icc()/pic8632666.png"},
                             #uuid "922ebe9d-cf67-3bd3-bebd-adeba294f061"
                             {:game/id
                              #uuid "922ebe9d-cf67-3bd3-bebd-adeba294f061",
@@ -2549,7 +2549,7 @@
                              #uuid "7637a637-6058-32ec-b2bf-3795a79d68bc",
                              :com.boardgamegeek.boardgame/min-players
                              3,
-                             :com.boardgamegeek.boardgame/rating 4.9,
+                             :com.boardgamegeek.boardgame/rating 5.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2017,
@@ -3301,7 +3301,7 @@
                              :com.boardgamegeek.boardgame/id "163412",
                              :game/name "Patchwork",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/wLW7pFn0--20lEizEz5p3A__thumb/img/P49TUiytgjmRAtKsfO7Y3yU_xic=/fit-in/200x150/filters:strip_icc()/pic2270442.jpg"},
+                             "https://cf.geekdo-images.com/RDOwMRBnIb3Ehl6GyXj9xg__thumb/img/nxex9ASN99exPLXEc9E4s08qZzc=/fit-in/200x150/filters:strip_icc()/pic8669620.jpg"},
                             #uuid "2d8e773d-0e5c-3aae-b72c-64c3a9a44fb0"
                             {:game/id
                              #uuid "2d8e773d-0e5c-3aae-b72c-64c3a9a44fb0",

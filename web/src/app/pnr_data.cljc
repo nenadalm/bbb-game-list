@@ -4160,7 +4160,7 @@
                              #uuid "65b397da-a4ad-3880-b821-4f6f9d01cac1",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 5.3,
+                             :com.boardgamegeek.boardgame/rating 5.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2857,
@@ -6597,7 +6597,7 @@
                              #uuid "6e6f4eb8-c896-3609-ae50-49ede7fbf6ad",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 5.3,
+                             :com.boardgamegeek.boardgame/rating 5.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2047,
@@ -10264,14 +10264,14 @@
                              #uuid "6c6d9544-48ed-3747-bdb5-1937a50de656"
                              #uuid "4e246238-a085-3796-9723-fada5118f929"
                              #uuid "4d2f36b0-64bb-3770-bdfa-ae0708082c4c"
-                             #uuid "c92dfc67-57f3-321b-9b0e-4ebb6c806560"
                              #uuid "65b397da-a4ad-3880-b821-4f6f9d01cac1"
+                             #uuid "c92dfc67-57f3-321b-9b0e-4ebb6c806560"
                              #uuid "780d1127-223d-3642-ac78-1a9f7ad42273"
-                             #uuid "6e6f4eb8-c896-3609-ae50-49ede7fbf6ad"
                              #uuid "18f44b1a-7909-3605-8afc-baafc0aed75c"
                              #uuid "13dac682-20f1-38b7-941f-a2bd99859234"
                              #uuid "e8a36d91-6250-31b2-8e08-f2d0aeeef88f"
                              #uuid "6e70d710-37e8-3fb7-be6b-83bb2fbf3d8d"
+                             #uuid "6e6f4eb8-c896-3609-ae50-49ede7fbf6ad"
                              #uuid "83bc6d7a-f0b7-32c4-9654-2c5b4889232b"
                              #uuid "59f822bc-aa8e-319b-9e63-eb00919b367a"
                              #uuid "49a22e23-101e-3710-abe3-3f967b72e21d"

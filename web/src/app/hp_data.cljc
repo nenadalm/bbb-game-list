@@ -3480,7 +3480,7 @@
                              :com.boardgamegeek.boardgame/max-play-time
                              20,
                              :com.boardgamegeek.boardgame/max-players
-                             7,
+                             6,
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "223040",
@@ -7400,7 +7400,7 @@
                              :com.boardgamegeek.boardgame/id "9220",
                              :game/name "Saboteur",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/0vJwP6NGa7GHPZKC3gplUw__thumb/img/B3j-is62fP09eHP34uFG_gsxNQs=/fit-in/200x150/filters:strip_icc()/pic3989824.jpg"},
+                             "https://cf.geekdo-images.com/oeN-MHAJKsC2KCI3avKj9w__thumb/img/y8tkP8BdgOoiErg2macZ1JG847Q=/fit-in/200x150/filters:strip_icc()/pic8679622.jpg"},
                             #uuid "03073139-0dab-349e-a8d2-e3fa11a3b6f3"
                             {:game/id
                              #uuid "03073139-0dab-349e-a8d2-e3fa11a3b6f3",
@@ -10229,7 +10229,7 @@
                              #uuid "e569f33c-48a2-3246-9c1e-d21707a2a932",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.7,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -11868,6 +11868,7 @@
                              #uuid "4051cae7-fb70-3a36-95fc-e3c3a11e991a"
                              #uuid "cea0708e-9ebc-3fdf-b81f-ace3b0f3f138"
                              #uuid "a25945e1-791c-30a2-a58e-554b333ef31d"
+                             #uuid "e569f33c-48a2-3246-9c1e-d21707a2a932"
                              #uuid "87f7e39b-1174-3e39-aa35-cdb52f9572df"
                              #uuid "350c0005-7a4e-3243-9b0c-ac54dff86da9"
                              #uuid "7a1e450f-9cd7-3ead-9cf7-76977d58bd6f"
@@ -11879,7 +11880,6 @@
                              #uuid "7e44a50f-3db3-39fb-a208-0639f3b1f89e"
                              #uuid "134c5416-16b9-3118-a547-774f6df7bbcd"
                              #uuid "63e5002f-f8a6-36bd-81b5-2f817477eecf"
-                             #uuid "e569f33c-48a2-3246-9c1e-d21707a2a932"
                              #uuid "3e302b86-f47c-3d22-9b4d-c253439d9970"
                              #uuid "014f4da6-7752-3558-b762-f9b4104f16db"
                              #uuid "027df389-a20d-3cbe-886e-a91e5b10d58a"
@@ -12485,6 +12485,7 @@
                              #uuid "fc4b5160-634a-3e54-b306-97e5771f843c"
                              #uuid "dd6f7a14-de47-37f2-bb22-bd37cf04e69b"
                              #uuid "a07de260-165e-353e-a142-dc602c389bc7"
+                             #uuid "ebe3d298-d25e-3110-8e34-1c079e9455d9"
                              #uuid "77019157-27a1-3008-9fce-2ae005351ccb"
                              #uuid "b637cb61-ad5a-38ad-a7c2-bb785678af37"
                              #uuid "6db176b1-017b-3430-a362-e2d6ee99cc67"
@@ -12516,7 +12517,6 @@
                              #uuid "eaa9b08c-9718-39e9-84e8-e09ccf855ef0"
                              #uuid "8a55d10a-eaaf-3da1-8c97-baec9e64e35f"
                              #uuid "477c2070-414c-35f9-be19-d3d3d72b49d2"
-                             #uuid "ebe3d298-d25e-3110-8e34-1c079e9455d9"
                              #uuid "2ca189f5-8500-3bf3-99b6-ec3203b0c227"
                              #uuid "9a217965-2908-38f8-8853-e9ee91b394e1"
                              #uuid "28e54304-62fc-38c9-9b76-058878323d57"

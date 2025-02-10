@@ -594,6 +594,74 @@
                              :game/name "Black Mirror: NOSEDIVE",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/I6nuG9Hm3_4pUWbSWt1TBg__thumb/img/8ZxZ_Q70AP7XKKhIiGSz4f6YQAI=/fit-in/200x150/filters:strip_icc()/pic4412654.jpg"},
+                            #uuid "976db20c-913d-3df8-a781-4574c78c4a48"
+                            {:game/id
+                             #uuid "976db20c-913d-3df8-a781-4574c78c4a48",
+                             :com.boardgamegeek.boardgame/min-players
+                             3,
+                             :com.boardgamegeek.boardgame/rating 6.9,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2072,
+                                                                :name
+                                                                "Dice Rolling"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2875,
+                                                                :name
+                                                                "End Game Bonuses"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2040,
+                                                                :name
+                                                                "Hand Management"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2871,
+                                                                :name
+                                                                "Kill Steal"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2661,
+                                                                :name
+                                                                "Push Your Luck"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2820,
+                                                                :name
+                                                                "Semi-Cooperative Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2020,
+                                                                :name
+                                                                "Simultaneous Action Selection"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2686,
+                                                                :name
+                                                                "Take That"}),
+                             :name "Bloodborne Karetní hra",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1002,
+                                                                :name
+                                                                "Card Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1010,
+                                                                :name
+                                                                "Fantasy"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1024,
+                                                                :name
+                                                                "Horror"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1101,
+                                                                :name
+                                                                "Video Game Theme"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             45,
+                             :com.boardgamegeek.boardgame/max-players
+                             5,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/id "195856",
+                             :languages ["cs"],
+                             :game/name "Bloodborne: The Card Game",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/zczRMJvEEGhqLGwxxOQQuw__thumb/img/du70HBRGXpFIpyTiyZlp0wtZLns=/fit-in/200x150/filters:strip_icc()/pic3297526.jpg"},
                             #uuid "48c935bd-d766-3d59-a1ea-b4444f642a62"
                             {:languages ["en"],
                              :name
@@ -5972,6 +6040,50 @@
                              :game/name "Viticulture",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/WrnWFA1Sysm3-nQyBe1sUA__thumb/img/udscIXtuApQ6rFYHjfAM5zMKfFs=/fit-in/200x150/filters:strip_icc()/pic2619743.jpg"},
+                            #uuid "17f2bdac-1ea8-3f22-ba63-b08b48b20bdd"
+                            {:game/id
+                             #uuid "17f2bdac-1ea8-3f22-ba63-b08b48b20bdd",
+                             :com.boardgamegeek.boardgame/min-players
+                             2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2838,
+                                                                :name
+                                                                "Action Drafting"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2978,
+                                                                :name
+                                                                "Grid Coverage"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2026,
+                                                                :name
+                                                                "Hexagon Grid"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2041,
+                                                                :name
+                                                                "Open Drafting"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2048,
+                                                                :name
+                                                                "Pattern Building"}),
+                             :name "Vivid Memories",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1028,
+                                                                :name
+                                                                "Puzzle"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             45,
+                             :com.boardgamegeek.boardgame/max-players
+                             4,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/id "316090",
+                             :languages ["en"],
+                             :game/name "Vivid Memories",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/-KMXyStWyla5jh_BRO803w__thumb/img/3j7TG-J5bxigP1RaTbNnHcHnr6A=/fit-in/200x150/filters:strip_icc()/pic6074555.png"},
                             #uuid "2282e2ee-3d70-323f-b58b-975d34ee334c"
                             {:languages ["cs"],
                              :name "Vyhraj život",
@@ -6160,6 +6272,7 @@
                              #uuid "1da7935d-1dc8-3705-b9a6-21facff6a801"
                              #uuid "ea54ac8f-f680-35d5-9d35-1d0511a3af2c"
                              #uuid "22159b48-2926-367c-ba02-030f0fb2da4a"
+                             #uuid "976db20c-913d-3df8-a781-4574c78c4a48"
                              #uuid "48c935bd-d766-3d59-a1ea-b4444f642a62"
                              #uuid "08060cd2-7b8a-368b-a377-e19d60c63c13"
                              #uuid "e6f2b917-44b7-3822-8d49-6493a0458968"
@@ -6284,6 +6397,7 @@
                              #uuid "99060139-4d5e-36c5-9110-0c35b80fc62b"
                              #uuid "56e4acb7-927c-3c3e-af73-81fcb8add208"
                              #uuid "cf1e8f0b-c580-3564-8e6e-e3cc8df2c060"
+                             #uuid "17f2bdac-1ea8-3f22-ba63-b08b48b20bdd"
                              #uuid "2282e2ee-3d70-323f-b58b-975d34ee334c"
                              #uuid "b5d236c9-502e-3642-af0d-9b77f15c7843"
                              #uuid "e5f11979-9a30-30ec-8084-92dd584b1214"
@@ -6363,10 +6477,12 @@
                              #uuid "d8ac8dc4-6760-3f12-96c2-e3420b291781"
                              #uuid "a136b6ff-012b-3a9d-8faf-8fd7a5009e28"
                              #uuid "01edd27f-4ecb-31b3-a8d5-c5c8910461b4"
+                             #uuid "17f2bdac-1ea8-3f22-ba63-b08b48b20bdd"
                              #uuid "7b024967-b40e-3766-9c5b-086d694b6350"
                              #uuid "134c5416-16b9-3118-a547-774f6df7bbcd"
                              #uuid "f441d486-f4fe-3599-a05c-3e2a9db44d72"
                              #uuid "e64a40ce-1e9c-3e3b-94be-a3d33cd4bfb3"
+                             #uuid "976db20c-913d-3df8-a781-4574c78c4a48"
                              #uuid "ed2dab37-2f6d-3f1b-9ec5-40cacb2a1714"
                              #uuid "c0369449-3628-349a-a853-e01310284635"
                              #uuid "2da3c827-ccab-3485-9cb9-921b4f1addfa"
@@ -6571,8 +6687,10 @@
                              #uuid "99060139-4d5e-36c5-9110-0c35b80fc62b"
                              #uuid "56e4acb7-927c-3c3e-af73-81fcb8add208"
                              #uuid "cf1e8f0b-c580-3564-8e6e-e3cc8df2c060"
+                             #uuid "17f2bdac-1ea8-3f22-ba63-b08b48b20bdd"
                              #uuid "d93a081b-6c5a-3ab8-871e-8c286cef8e0f"
                              #uuid "22159b48-2926-367c-ba02-030f0fb2da4a"
+                             #uuid "976db20c-913d-3df8-a781-4574c78c4a48"
                              #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7"
                              #uuid "2d524242-4e27-370f-a042-49942d61f783"
                              #uuid "f441d486-f4fe-3599-a05c-3e2a9db44d72"
@@ -6680,7 +6798,9 @@
                              #uuid "0170915b-1ae2-3680-a63a-684297fdb59f"
                              #uuid "08b6d232-f558-3e55-94ab-cef9ff9f27a7"
                              #uuid "99060139-4d5e-36c5-9110-0c35b80fc62b"
+                             #uuid "17f2bdac-1ea8-3f22-ba63-b08b48b20bdd"
                              #uuid "43771435-28f6-3221-b49b-19e26d73c06f"
+                             #uuid "976db20c-913d-3df8-a781-4574c78c4a48"
                              #uuid "59b85053-a3ac-3c1a-8f29-eaaa3baec4c3"
                              #uuid "2d524242-4e27-370f-a042-49942d61f783"
                              #uuid "65b34b98-5756-3717-a631-8b5b60bded8c"
@@ -6820,6 +6940,7 @@
                              #uuid "aa2a14f6-6296-368a-8fab-970e48ba9430"
                              #uuid "b4f41567-772b-3138-88ba-70d5964ad01b"
                              #uuid "d8f6900d-5012-3d09-8a9e-d26613e7690f"
+                             #uuid "976db20c-913d-3df8-a781-4574c78c4a48"
                              #uuid "a83b8f23-d78e-3e62-90eb-d70f7995c982"
                              #uuid "2d524242-4e27-370f-a042-49942d61f783"
                              #uuid "65b34b98-5756-3717-a631-8b5b60bded8c"
@@ -6840,6 +6961,7 @@
                              #uuid "90a300ed-ea38-3514-b744-0c43440fa4b3"
                              #uuid "0170915b-1ae2-3680-a63a-684297fdb59f"
                              #uuid "75de0399-6071-3e43-9123-15a64cd7269f"
+                             #uuid "17f2bdac-1ea8-3f22-ba63-b08b48b20bdd"
                              #uuid "59b85053-a3ac-3c1a-8f29-eaaa3baec4c3"
                              #uuid "dd6f7a14-de47-37f2-bb22-bd37cf04e69b"
                              #uuid "182deae1-4ea2-3cb6-a9a3-ff03c832e910"
@@ -6978,10 +7100,12 @@
                              #uuid "56e4acb7-927c-3c3e-af73-81fcb8add208"
                              #uuid "b4f41567-772b-3138-88ba-70d5964ad01b"
                              #uuid "d8f6900d-5012-3d09-8a9e-d26613e7690f"
+                             #uuid "976db20c-913d-3df8-a781-4574c78c4a48"
                              #uuid "a83b8f23-d78e-3e62-90eb-d70f7995c982"
                              #uuid "85574f84-6988-3f70-bc40-ac7e3a7a33d1"
                              #uuid "0691c252-5813-3cc2-80ca-1c030047cd4f"
                              #uuid "5b444b22-2047-3124-af08-48687f72a6b5"
+                             #uuid "17f2bdac-1ea8-3f22-ba63-b08b48b20bdd"
                              #uuid "e0ac93db-046d-3764-a1e6-36c109df2ec4"
                              #uuid "719e0e67-ef80-3db4-85ca-f060202a40d2"
                              #uuid "fdb07892-a50b-3405-8eb2-8a5429a70ee8"

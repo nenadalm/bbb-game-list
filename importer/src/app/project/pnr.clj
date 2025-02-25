@@ -4,21 +4,29 @@
    [clojure.java.io]
    [app.project :as p]))
 
-(def ^:private games-list-url "https://www.pekloneberaj.cz/stolni-hry-2023/")
+(def ^:private games-list-url "https://pekloneberaj.cz/pages/stolni-hry")
 
 (defn- doc->game-list [doc]
-  (.select doc "h2[class=wp-block-heading]"))
+  (.select doc "h2:not(:first-child)"))
 
 (defn game->game-info [game]
-  {:name (-> (.text game)
-             (str/replace #"^–" "")
-             str/trim)
-   :cz.zatrolene-hry.boardgame/url (-> game
-                                       (.nextElementSibling)
-                                       (.select "a[href*=zatrolene-hry.cz]")
-                                       (.attr "href")
-                                       not-empty)})
+  (let [url (-> game
+                (.nextElementSibling)
+                (.select "a[href*=www.zatrolene-hry.cz]")
+                (.attr "href")
+                not-empty)]
+    (cond->
+     {:name (-> (.text game)
+                (str/replace #"^–" "")
+                str/trim)}
+      url (assoc :cz.zatrolene-hry.boardgame/url url))))
 
 (defn games []
   (let [doc (p/parse-html games-list-url)]
-    (mapv game->game-info (doc->game-list doc))))
+    (into
+     []
+     (comp
+      (map game->game-info)
+      (filter (fn [game]
+                (<= 2 (count (:name game))))))
+     (doc->game-list doc))))

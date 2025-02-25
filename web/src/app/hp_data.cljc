@@ -389,10 +389,6 @@
                                                                 :name
                                                                 "Open Drafting"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                2876,
-                                                                :name
-                                                                "Race"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2004,
                                                                 :name
                                                                 "Set Collection"}
@@ -4068,9 +4064,9 @@
                              :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
-                                                                2020,
+                                                                2831,
                                                                 :name
-                                                                "Simultaneous Action Selection"}),
+                                                                "Real-Time"}),
                              :name "Šťastný candát",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -5301,11 +5297,7 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 3003,
                                                                 :name
-                                                                "Induction"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2831,
-                                                                :name
-                                                                "Real-Time"}),
+                                                                "Induction"}),
                              :name "Mazaný lišák",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -6822,6 +6814,10 @@
                                                                 :name
                                                                 "Resource Queue"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2819,
+                                                                :name
+                                                                "Solo / Solitaire Game"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2002,
                                                                 :name
                                                                 "Tile Placement"}),
@@ -6920,17 +6916,25 @@
                                                                 :name
                                                                 "Enclosure"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2900,
+                                                                :name
+                                                                "Market"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2041,
                                                                 :name
                                                                 "Open Drafting"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2048,
+                                                                :name
+                                                                "Pattern Building"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2002,
                                                                 :name
                                                                 "Tile Placement"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                2079,
+                                                                2829,
                                                                 :name
-                                                                "Variable Phase Order"}),
+                                                                "Turn Order: Claim Action"}),
                              :name "Queendomino",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -8482,7 +8486,7 @@
                              #uuid "c2b21ca7-0fde-3c61-97dc-0e2932e9e57e",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.3,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -8754,7 +8758,7 @@
                              #uuid "070c9dc3-b880-35ed-9c3d-cd55ff519d26",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.1,
+                             :com.boardgamegeek.boardgame/rating 6.2,
                              :name "Taco, kotě, pizza",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -10045,7 +10049,7 @@
                              #uuid "89e7d319-ef83-3fca-bdfb-bbfb7ea8b1e3",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.9,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2661,
@@ -10362,10 +10366,6 @@
                                                                 2001,
                                                                 :name
                                                                 "Action Points"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2018,
-                                                                :name
-                                                                "Campaign / Battle Card Driven"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2857,
                                                                 :name
@@ -11831,7 +11831,6 @@
                              #uuid "3ff39d3a-cb32-3553-870a-64ef0cb321d5"
                              #uuid "9db165b4-98ba-3935-9f4e-a7bd23beb693"
                              #uuid "761cd5e5-55ee-39c8-b789-0273d2493fe8"
-                             #uuid "070c9dc3-b880-35ed-9c3d-cd55ff519d26"
                              #uuid "3c1fd801-7f7f-37a7-8609-c31c50b7911d"
                              #uuid "3239ae98-cebb-39ad-b9d7-146053655aa1"
                              #uuid "d4d366c3-ef56-36f3-9d46-11c9b253a40c"
@@ -11839,6 +11838,7 @@
                              #uuid "44de8c27-9942-39ca-997c-57ff932fc882"
                              #uuid "98f21854-baa2-356c-8d3f-bc39eb43f485"
                              #uuid "7f5189ca-4731-3666-98c6-d9971b474aa1"
+                             #uuid "070c9dc3-b880-35ed-9c3d-cd55ff519d26"
                              #uuid "9cc75669-5ba5-34e5-be80-cbbde8781a53"
                              #uuid "0ec60d5c-8917-3f40-b112-a6c42456b59a"
                              #uuid "9174edea-2d8c-30ee-a424-4c2c72371e18"
@@ -11889,6 +11889,7 @@
                              #uuid "c99cde22-b6f1-33af-8b53-93e358341985"
                              #uuid "dee45e08-5103-32ec-93b7-17d391b64576"
                              #uuid "e64a40ce-1e9c-3e3b-94be-a3d33cd4bfb3"
+                             #uuid "89e7d319-ef83-3fca-bdfb-bbfb7ea8b1e3"
                              #uuid "cbb5c347-7790-3eec-b511-bd3860bed3ac"
                              #uuid "74d868fa-fa8c-37d0-8565-f672807e7ef7"
                              #uuid "4d77e635-44ee-324b-b8e1-1cd07bd913a4"
@@ -11896,7 +11897,6 @@
                              #uuid "cdb9785e-e723-341e-933e-9853dce18179"
                              #uuid "f9d69482-936d-3195-9705-beedee2957b2"
                              #uuid "9e9da29c-5207-3cc2-8277-db0c9cb05c25"
-                             #uuid "89e7d319-ef83-3fca-bdfb-bbfb7ea8b1e3"
                              #uuid "36749cc5-01bd-3292-aaaf-44525fc6ed7b"
                              #uuid "be01908f-633f-35da-be89-80701db8ed25"
                              #uuid "59ccf897-4368-3ab7-ae8e-0ac969872f6e"
@@ -11948,7 +11948,6 @@
                              #uuid "03073139-0dab-349e-a8d2-e3fa11a3b6f3"
                              #uuid "1121199f-e1d9-3b01-869d-476f8147b7c3"
                              #uuid "0e6ae61b-96ea-34fa-b4e9-cdd45a2bd542"
-                             #uuid "c2b21ca7-0fde-3c61-97dc-0e2932e9e57e"
                              #uuid "8b9e9d5e-6d45-3a59-9c0f-80ee1d8cef85"
                              #uuid "e9d6b4db-5d87-34f0-950a-294e10a38f57"
                              #uuid "3217ce01-8eac-3c72-9a4b-b8d875d52613"
@@ -11965,6 +11964,7 @@
                              #uuid "347be2ac-80a7-3752-9e45-7a5d226c5886"
                              #uuid "6bc5f893-5eeb-33fd-86fe-73e8c61764f9"
                              #uuid "7ecc8a10-bd56-3f75-93c2-cae1822b117e"
+                             #uuid "c2b21ca7-0fde-3c61-97dc-0e2932e9e57e"
                              #uuid "52666523-7b49-34f0-aa87-c130e8f25a41"
                              #uuid "d51dd20c-a05f-3ab4-94c7-9020d535e5b3"
                              #uuid "06c5d6ce-c062-3ac0-bd43-6186b663fc10"

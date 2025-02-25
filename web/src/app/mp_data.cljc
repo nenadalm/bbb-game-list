@@ -383,10 +383,6 @@
                                                                 :name
                                                                 "Open Drafting"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                2876,
-                                                                :name
-                                                                "Race"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2004,
                                                                 :name
                                                                 "Set Collection"}
@@ -796,10 +792,6 @@
                                                                 2900,
                                                                 :name
                                                                 "Market"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                3099,
-                                                                :name
-                                                                "Multi-Use Cards"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2081,
                                                                 :name
@@ -1274,7 +1266,7 @@
                              #uuid "f159751b-d636-327e-aedf-917fbfaf7655",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.4,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -1658,6 +1650,10 @@
                                                                 :name
                                                                 "Solo / Solitaire Game"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                3100,
+                                                                :name
+                                                                "Tags"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2897,
                                                                 :name
                                                                 "Variable Set-up"}
@@ -2009,6 +2005,10 @@
                                                                 2846,
                                                                 :name
                                                                 "Once-Per-Game Abilities"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2028,
+                                                                :name
+                                                                "Role Playing"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2822,
                                                                 :name
@@ -3824,7 +3824,7 @@
                              #uuid "6e6f4eb8-c896-3609-ae50-49ede7fbf6ad",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 5.4,
+                             :com.boardgamegeek.boardgame/rating 5.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2047,
@@ -3896,6 +3896,10 @@
                                                                 2822,
                                                                 :name
                                                                 "Scenario / Mission / Campaign Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2070,
+                                                                :name
+                                                                "Simulation"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2935,
                                                                 :name
@@ -4399,10 +4403,6 @@
                              :com.boardgamegeek.boardgame/rating 8.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
-                                                                2080,
-                                                                :name
-                                                                "Area Majority / Influence"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2956,
                                                                 :name
                                                                 "Chaining"}
@@ -5499,10 +5499,10 @@
                              #uuid "9174edea-2d8c-30ee-a424-4c2c72371e18"
                              #uuid "bb8434ca-528e-3b5f-bfc5-5eebbe2c00a0"
                              #uuid "104f4887-a6bd-328c-bbca-6b51911b4a05"
-                             #uuid "f159751b-d636-327e-aedf-917fbfaf7655"
                              #uuid "456d479c-8791-3533-bc06-24219803ec40"
                              #uuid "7369ff3a-fe64-30e3-8363-9067a97ac8b4"
                              #uuid "c8f93560-ab90-3e08-af95-140ebb860697"
+                             #uuid "f159751b-d636-327e-aedf-917fbfaf7655"
                              #uuid "24e29fc0-4246-32b5-8d1a-158e40691c8b"
                              #uuid "06dfeee1-4208-36aa-86e8-d750140dbeaa"
                              #uuid "f4fc95a6-49c7-35b0-a88e-e67baaf858a2"

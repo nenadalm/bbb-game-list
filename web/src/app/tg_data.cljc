@@ -10982,6 +10982,85 @@
                              :game/name "Endeavor",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/595ae0scpXIHHVHSc4xfwQ__thumb/img/juQPKjimski28am3hhiCvvLMwvU=/fit-in/200x150/filters:strip_icc()/pic379881.jpg"},
+                            #uuid "56026338-ad3d-31ac-8ff9-8af04f5212e2"
+                            {:game/id
+                             #uuid "56026338-ad3d-31ac-8ff9-8af04f5212e2",
+                             :com.boardgamegeek.boardgame/min-players
+                             1,
+                             :com.boardgamegeek.boardgame/rating 8.2,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2001,
+                                                                :name
+                                                                "Action Points"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2839,
+                                                                :name
+                                                                "Action Retrieval"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2956,
+                                                                :name
+                                                                "Chaining"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2023,
+                                                                :name
+                                                                "Cooperative Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2875,
+                                                                :name
+                                                                "End Game Bonuses"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2676,
+                                                                :name
+                                                                "Grid Movement"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2959,
+                                                                :name
+                                                                "Map Addition"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2011,
+                                                                :name
+                                                                "Modular Board"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2822,
+                                                                :name
+                                                                "Scenario / Mission / Campaign Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2819,
+                                                                :name
+                                                                "Solo / Solitaire Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2849,
+                                                                :name
+                                                                "Tech Trees / Tech Tracks"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2897,
+                                                                :name
+                                                                "Variable Set-up"}),
+                             :name "Endeavor: Deep Sea",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1084,
+                                                                :name
+                                                                "Environmental"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1020,
+                                                                :name
+                                                                "Exploration"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1008,
+                                                                :name
+                                                                "Nautical"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             120,
+                             :com.boardgamegeek.boardgame/max-players
+                             4,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             60,
+                             :com.boardgamegeek.boardgame/id "367966",
+                             :game/name "Endeavor: Deep Sea",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/wIbevITv9W79ELP8rEZoKA__thumb/img/7_DqsUgdrpbeLfkA2ko8bXhgpGw=/fit-in/200x150/filters:strip_icc()/pic6996584.jpg"},
                             #uuid "8e14f402-27a2-361e-9ea5-1d0c00568fc7"
                             {:name "Endless Winter: Ancestors",
                              :game/id
@@ -41091,6 +41170,7 @@
                              #uuid "c0b2ebd9-f170-3134-8825-152bbf5dc18f"
                              #uuid "e8ffc938-d259-3b28-a666-523cc1c80a5a"
                              #uuid "bfe4f9ac-312a-3ba5-b00d-a83cc2c20c6b"
+                             #uuid "56026338-ad3d-31ac-8ff9-8af04f5212e2"
                              #uuid "8e14f402-27a2-361e-9ea5-1d0c00568fc7"
                              #uuid "7e4bdbd1-1b7e-37e9-af75-3f3c2c34d4df"
                              #uuid "5dbaa12f-a9cb-3f13-8a05-b58192eeb328"
@@ -42735,6 +42815,7 @@
                              #uuid "9494bcbd-1f85-37bb-b15a-6ca10d64b159"
                              #uuid "6356c80b-7f7e-3b79-90de-bb5b6b80bccb"
                              #uuid "0e63d8d5-e6e8-3eba-bd68-4db21f8bce14"
+                             #uuid "56026338-ad3d-31ac-8ff9-8af04f5212e2"
                              #uuid "e5c528dd-2ba9-3a89-ac17-c427f0c00414"
                              #uuid "9b643420-ea43-3dc4-825a-5e74470e4222"
                              #uuid "4c9a3b19-02ab-3799-bce1-d0a69c5a9b3d"
@@ -42991,6 +43072,7 @@
                              #uuid "805bace7-4667-3eb1-b90b-d680cd215d97"
                              #uuid "c0b2ebd9-f170-3134-8825-152bbf5dc18f"
                              #uuid "e8ffc938-d259-3b28-a666-523cc1c80a5a"
+                             #uuid "56026338-ad3d-31ac-8ff9-8af04f5212e2"
                              #uuid "d2af6bb8-b72d-37a9-a3c1-7850f8f570e8"
                              #uuid "8da15a07-8c75-3cdd-9e79-7a7b9fc8d01f"
                              #uuid "182deae1-4ea2-3cb6-a9a3-ff03c832e910"
@@ -44022,6 +44104,7 @@
                              #uuid "0e13524e-0d23-310c-a97e-3ef1583014b4"
                              #uuid "1ef06205-ebd0-36fb-be7e-bd5b6d2b1f4e"
                              #uuid "c0b2ebd9-f170-3134-8825-152bbf5dc18f"
+                             #uuid "56026338-ad3d-31ac-8ff9-8af04f5212e2"
                              #uuid "8c864d0f-c08c-3bd5-b3d8-b433df48f8dc"
                              #uuid "2d873928-1613-35c0-b22b-ad4d141a20e9"
                              #uuid "8da15a07-8c75-3cdd-9e79-7a7b9fc8d01f"
@@ -45433,6 +45516,7 @@
                              #uuid "819efde6-2ea1-3725-b2b9-fcb7e45051e7"
                              #uuid "c0b2ebd9-f170-3134-8825-152bbf5dc18f"
                              #uuid "e8ffc938-d259-3b28-a666-523cc1c80a5a"
+                             #uuid "56026338-ad3d-31ac-8ff9-8af04f5212e2"
                              #uuid "d2af6bb8-b72d-37a9-a3c1-7850f8f570e8"
                              #uuid "0dd59ef4-94af-32c3-9021-969eba589827"
                              #uuid "7468cd03-4896-3b01-a419-ace0954c9c71"
@@ -46440,6 +46524,7 @@
                              #uuid "18096821-e263-354e-a326-3eec6ea90f06"
                              #uuid "0e13524e-0d23-310c-a97e-3ef1583014b4"
                              #uuid "c0b2ebd9-f170-3134-8825-152bbf5dc18f"
+                             #uuid "56026338-ad3d-31ac-8ff9-8af04f5212e2"
                              #uuid "d2af6bb8-b72d-37a9-a3c1-7850f8f570e8"
                              #uuid "8da15a07-8c75-3cdd-9e79-7a7b9fc8d01f"
                              #uuid "d2f54329-7bef-301f-8f4e-bdac47c6f6d3"

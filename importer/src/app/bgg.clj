@@ -6,6 +6,7 @@
    [clojure.math :as m]
    [clojure.edn :as edn]
    [app.url :as url]
+   [app.util :as u]
    [app.cache :as cache]))
 
 (def ^:private api-root "https://www.boardgamegeek.com/xmlapi2")
@@ -33,6 +34,20 @@
                                "/collection?own=1&username="
                                (java.net.URLEncoder/encode username))))
 
+(defn- parse-cached-xml* [url]
+  (with-open [xin (url/->cached-stream url)]
+    (clojure.xml/parse xin)))
+
+(def ^{:arglists (:arglists (meta #'parse-cached-xml*))} parse-cached-xml
+  (u/retry 3 0 parse-cached-xml*))
+
+(defn- parse-uncached-xml* [url]
+  (with-open [xin (url/->uncached-stream url)]
+    (clojure.xml/parse xin)))
+
+(def ^{:arglists (:arglists (meta #'parse-uncached-xml*))} parse-uncached-xml
+  (u/retry 3 0 parse-uncached-xml*))
+
 (defn- game-item->game [game-item]
   (reduce
    (fn [game item]
@@ -48,13 +63,11 @@
 
 (defn- search-game-exact [name]
   (let [url (search-game-url name)]
-    (with-open [xin (url/->cached-stream url)]
-      (result->games (clojure.xml/parse xin)))))
+    (result->games (parse-cached-xml url))))
 
 (defn- search-game-non-exact [name]
   (let [url (search-game-non-exact-url name)]
-    (with-open [xin (url/->cached-stream url)]
-      (result->games (clojure.xml/parse xin)))))
+    (result->games (parse-cached-xml url))))
 
 (defn- name-length [game]
   (count (:name game)))
@@ -202,9 +215,7 @@
      (comp
       (partition-all 20)
       (map (fn [ids]
-             (with-open [xin (url/->uncached-stream (game-details-url (str/join "," ids)))]
-               (-> (clojure.xml/parse xin)
-                   :content))))
+             (:content (parse-uncached-xml (game-details-url (str/join "," ids))))))
       cat
       (map (fn [detail]
              (let [game (detail-item->game detail)]
@@ -214,13 +225,12 @@
 
 (defn username->games [username]
   (let [url (game-collection-url username)]
-    (with-open [xin (url/->uncached-stream url)]
-      (mapv (fn [content]
-              {:com.boardgamegeek.boardgame/id (get-in content [:attrs :objectid])
-               :name (some
-                      (fn [tag]
-                        (when (= :name (:tag tag))
-                          (first (:content tag))))
-                      (:content content))})
-            (-> (clojure.xml/parse xin)
-                :content)))))
+    (mapv (fn [content]
+            {:com.boardgamegeek.boardgame/id (get-in content [:attrs :objectid])
+             :name (some
+                    (fn [tag]
+                      (when (= :name (:tag tag))
+                        (first (:content tag))))
+                    (:content content))})
+          (-> (parse-uncached-xml url)
+              :content))))

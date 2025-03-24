@@ -36207,7 +36207,7 @@
                                                                 2897,
                                                                 :name
                                                                 "Variable Set-up"}),
-                             :name "The Quacks of Quedlinburg",
+                             :name "Quacks",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1035,

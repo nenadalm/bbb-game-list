@@ -678,7 +678,7 @@
                              #uuid "550d05ab-240e-3337-838a-f814ff0de287",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 5.8,
+                             :com.boardgamegeek.boardgame/rating 5.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2014,
@@ -2871,6 +2871,10 @@
                                                                 :name
                                                                 "Hand Management"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2876,
+                                                                :name
+                                                                "Race"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2686,
                                                                 :name
                                                                 "Take That"}
@@ -3252,6 +3256,10 @@
                                                                 2040,
                                                                 :name
                                                                 "Hand Management"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                3099,
+                                                                :name
+                                                                "Multi-Use Cards"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2078,
                                                                 :name

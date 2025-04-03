@@ -5,17 +5,25 @@
    [app.util :as u]
    [app.http.url :as http]))
 
+(defn- ok? [response]
+  (<= 200 (:status response) 299))
+
 (defn- ->uncached-stream* [url {:keys [headers] :as opts}]
   (let [response (http/request
                   {:url url
                    :headers headers
                    :as :stream})]
-    (if (== 202 (:status response))
+    (cond
+      (== 202 (:status response))
       (do
         (tap> "Response: 202 - retrying...")
         (Thread/sleep 2000)
         (recur url opts))
-      (:body response))))
+
+      (ok? response)
+      (:body response)
+
+      :else (throw (ex-info "Unexpected response." {:status (:status response)})))))
 
 (def ^:private uncached-url-stream
   "boardgamegeek.com returns `429 Too Many Requests` in case we are too quick, sometimes it fails with eof error."

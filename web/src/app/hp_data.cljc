@@ -3897,6 +3897,10 @@
                                                                 :name
                                                                 "Cooperative Game"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2850,
+                                                                :name
+                                                                "Events"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2676,
                                                                 :name
                                                                 "Grid Movement"}
@@ -5238,7 +5242,7 @@
                              #uuid "7923614a-0e46-3f3d-8fcc-0e9ae658f123",
                              :com.boardgamegeek.boardgame/min-players
                              3,
-                             :com.boardgamegeek.boardgame/rating 7.4,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -8151,7 +8155,7 @@
                              :com.boardgamegeek.boardgame/id "9220",
                              :game/name "Saboteur",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/oeN-MHAJKsC2KCI3avKj9w__thumb/img/y8tkP8BdgOoiErg2macZ1JG847Q=/fit-in/200x150/filters:strip_icc()/pic8679622.jpg"},
+                             "https://cf.geekdo-images.com/0vJwP6NGa7GHPZKC3gplUw__thumb/img/B3j-is62fP09eHP34uFG_gsxNQs=/fit-in/200x150/filters:strip_icc()/pic3989824.jpg"},
                             #uuid "03073139-0dab-349e-a8d2-e3fa11a3b6f3"
                             {:game/id
                              #uuid "03073139-0dab-349e-a8d2-e3fa11a3b6f3",
@@ -9277,7 +9281,7 @@
                              #uuid "c2b21ca7-0fde-3c61-97dc-0e2932e9e57e",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.3,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -12973,6 +12977,7 @@
                              #uuid "33ef9db6-536f-307e-9b5a-71695627acc0"
                              #uuid "90b4a79a-a31a-3cfc-be15-cdac927b726b"
                              #uuid "843ecaf0-bb25-3a67-af63-f8a4bc3708a3"
+                             #uuid "7923614a-0e46-3f3d-8fcc-0e9ae658f123"
                              #uuid "1f927c3f-4487-367e-92e9-a052e83a56b2"
                              #uuid "4a19d6fd-5186-3002-ba4f-a2d64323a845"
                              #uuid "2c40cbc2-ccb0-39ee-adb2-622f1540de8b"
@@ -12980,7 +12985,6 @@
                              #uuid "03073139-0dab-349e-a8d2-e3fa11a3b6f3"
                              #uuid "1121199f-e1d9-3b01-869d-476f8147b7c3"
                              #uuid "0e6ae61b-96ea-34fa-b4e9-cdd45a2bd542"
-                             #uuid "c2b21ca7-0fde-3c61-97dc-0e2932e9e57e"
                              #uuid "8b9e9d5e-6d45-3a59-9c0f-80ee1d8cef85"
                              #uuid "3217ce01-8eac-3c72-9a4b-b8d875d52613"
                              #uuid "06e9bd9c-0975-32da-acdf-2b1942d57f1e"
@@ -12990,12 +12994,12 @@
                              #uuid "5726e9d6-5727-3ba1-85a5-770ecaed567c"
                              #uuid "548d40ad-9562-3712-a0a0-f072f66b395c"
                              #uuid "6db176b1-017b-3430-a362-e2d6ee99cc67"
-                             #uuid "7923614a-0e46-3f3d-8fcc-0e9ae658f123"
                              #uuid "658f866b-fbc1-3666-ba14-ad2719dd52c5"
                              #uuid "0de2e3c8-72b8-39d4-a562-494bf756d805"
                              #uuid "347be2ac-80a7-3752-9e45-7a5d226c5886"
                              #uuid "6bc5f893-5eeb-33fd-86fe-73e8c61764f9"
                              #uuid "7ecc8a10-bd56-3f75-93c2-cae1822b117e"
+                             #uuid "c2b21ca7-0fde-3c61-97dc-0e2932e9e57e"
                              #uuid "e9d6b4db-5d87-34f0-950a-294e10a38f57"
                              #uuid "52666523-7b49-34f0-aa87-c130e8f25a41"
                              #uuid "d51dd20c-a05f-3ab4-94c7-9020d535e5b3"

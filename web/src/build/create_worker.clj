@@ -24,8 +24,11 @@
        (u/asset (str "js/" (:project project) "_app.js") module-id->output-name)]))
    projects))
 
+(defn- file->ns [s]
+  (str/replace s "_" "-"))
+
 (defn- extract-project-thumbnails [project]
-  (let [ns-name (str "app." (:project project) "-data")
+  (let [ns-name (str "app." (file->ns (:project project)) "-data")
         ns (symbol ns-name)
         _ (require ns)
         fsym (symbol ns-name "game-data")

@@ -7,7 +7,7 @@
    [app.uuid :as uuid]
    [clojure.data.priority-map :as priority-map]
    [clojure.edn :as edn]
-   [clojure.string]
+   [clojure.string :as str]
    [clojure.java.io :as io]
    [jsonista.core :as j]))
 
@@ -90,8 +90,11 @@
            frontend-game))
      games-with-id)))
 
+(defn- file->ns [s]
+  (str/replace s "_" "-"))
+
 (defn- project->games [project]
-  (let [ns-name (str "app.project." (:project project))
+  (let [ns-name (str "app.project." (file->ns (:project project)))
         ns (symbol ns-name)
         _ (require ns)
         fsym (symbol ns-name "games")
@@ -142,4 +145,4 @@
         (spit
          games-path
          (with-out-str
-           (print-games (str "app." (:project project) "-data") games)))))))
+           (print-games (str "app." (file->ns (:project project)) "-data") games)))))))

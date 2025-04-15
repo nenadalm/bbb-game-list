@@ -18,6 +18,8 @@
                             :depends-on #{:cljs_base}}
                   :tg_app {:entries [app.tg-core]
                            :depends-on #{:cljs_base}}
+                  :the_grail_app {:entries [app.the-grail-core]
+                                  :depends-on #{:cljs_base}}
                   :mlp_app {:entries [app.mlp-core]
                             :depends-on #{:cljs_base}}
                   :app {:entries [app.core]

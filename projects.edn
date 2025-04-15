@@ -26,6 +26,10 @@
   :description "List of games at Peklo, nebe, ráj."
   :project "pnr"
   :label "pekloneberaj.cz"}
+ {:title "Games - The Grail"
+  :description "List of games at The Grail."
+  :project "the_grail"
+  :label "thegrail.cz"}
  {:title "Games - Tlama games"
   :description "List of games at Tlama games."
   :project "tg"

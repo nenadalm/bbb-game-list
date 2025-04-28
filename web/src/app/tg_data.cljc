@@ -18946,6 +18946,45 @@
                              :game/name "Le Havre",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/y7Rqd3S6J7vyVhicR1bqTQ__thumb/img/w1iHoYZCVTDZI6gsPuxOScA7FqU=/fit-in/200x150/filters:strip_icc()/pic6091101.jpg"},
+                            #uuid "2ba9e4a3-1e9f-32b8-9db3-c005c2f08a13"
+                            {:game/id
+                             #uuid "2ba9e4a3-1e9f-32b8-9db3-c005c2f08a13",
+                             :com.boardgamegeek.boardgame/min-players
+                             2,
+                             :com.boardgamegeek.boardgame/rating 7.3,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2676,
+                                                                :name
+                                                                "Grid Movement"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2026,
+                                                                :name
+                                                                "Hexagon Grid"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2041,
+                                                                :name
+                                                                "Open Drafting"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2015,
+                                                                :name
+                                                                "Variable Player Powers"}),
+                             :name "Leaders",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1009,
+                                                                :name
+                                                                "Abstract Strategy"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             20,
+                             :com.boardgamegeek.boardgame/max-players
+                             2,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             10,
+                             :com.boardgamegeek.boardgame/id "432716",
+                             :game/name "Leaders",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/4FF8-0JXhMWFGpJFhM6ugA__thumb/img/AczCshRltNR1QcDSXkBSZWQ0oB4=/fit-in/200x150/filters:strip_icc()/pic8729013.png"},
                             #uuid "c3b5e1f7-de11-3645-bb1d-a6c5415b1fa5"
                             {:game/id
                              #uuid "c3b5e1f7-de11-3645-bb1d-a6c5415b1fa5",
@@ -41608,6 +41647,7 @@
                              #uuid "17f5491b-ef80-3362-9d22-42cdfed5cf04"
                              #uuid "bd3c8148-cd5b-3d18-a1cb-7b317d58843c"
                              #uuid "6f05591c-c7b4-32dd-817d-c41c0d9254d0"
+                             #uuid "2ba9e4a3-1e9f-32b8-9db3-c005c2f08a13"
                              #uuid "c3b5e1f7-de11-3645-bb1d-a6c5415b1fa5"
                              #uuid "3a4ae9c6-fdc8-3ac9-9b02-a84c07355187"
                              #uuid "3f9888ff-abc6-3698-a36f-a13274947173"
@@ -42809,6 +42849,7 @@
                              #uuid "382d7859-26a7-39df-bc78-8da02110b381"
                              #uuid "2dc322b0-ef94-3b68-ad5e-19c30b35d348"
                              #uuid "843ecaf0-bb25-3a67-af63-f8a4bc3708a3"
+                             #uuid "2ba9e4a3-1e9f-32b8-9db3-c005c2f08a13"
                              #uuid "6cc16bd7-d92e-384a-be56-229a00aa2686"
                              #uuid "eced8e22-98e3-304a-b1dc-d33a4b8c068a"
                              #uuid "37c8022e-5e8b-3c80-ad5e-52dc040d1bc2"
@@ -43738,6 +43779,7 @@
                              #uuid "ed2baf70-63da-3cbe-9737-466f5a29fe95"
                              #uuid "431c14ad-268c-3b95-bb3a-cc7c2ec6a17f"
                              #uuid "17f5491b-ef80-3362-9d22-42cdfed5cf04"
+                             #uuid "2ba9e4a3-1e9f-32b8-9db3-c005c2f08a13"
                              #uuid "fd2066fa-b1f0-3a35-a1c6-e65bc2dd96a2"
                              #uuid "4921b8e8-521a-3a27-9aac-936218a067c7"
                              #uuid "21ff8206-77bd-34eb-b63b-2bf9585ea90d"
@@ -44252,6 +44294,7 @@
                              #uuid "e7a6103f-38d2-3272-941a-41586b70f4ee"
                              #uuid "351afc22-dc4d-3e49-83dc-43cee54bd244"
                              #uuid "007cb741-f0af-3ac8-9ad9-d4e6a3c12a34"
+                             #uuid "2ba9e4a3-1e9f-32b8-9db3-c005c2f08a13"
                              #uuid "6d729a9e-ee0a-3454-ac72-27d2753d1d74"
                              #uuid "2dba63c8-4c8d-330a-b80b-bbefbca8823b"
                              #uuid "cadee47f-c1f2-3967-97e3-24afe46ab9ef"
@@ -45210,6 +45253,7 @@
                              #uuid "9b4e21b4-88ea-3351-8b54-4b8ee022e785"
                              #uuid "4c03c1c8-385c-3fb9-b528-e10c4245668d"
                              #uuid "ce26cd6d-057f-3f8e-b125-d0f30fec6420"
+                             #uuid "2ba9e4a3-1e9f-32b8-9db3-c005c2f08a13"
                              #uuid "fd2066fa-b1f0-3a35-a1c6-e65bc2dd96a2"
                              #uuid "5a156002-5793-338e-9399-def9bfd7eca6"
                              #uuid "d2a53e87-e8ca-3ed3-84e3-aed4d85ed71e"
@@ -46256,6 +46300,7 @@
                              #uuid "2ce06884-0e20-35e7-a4ee-53f7b330dc67"
                              #uuid "4c03c1c8-385c-3fb9-b528-e10c4245668d"
                              #uuid "ed2baf70-63da-3cbe-9737-466f5a29fe95"
+                             #uuid "2ba9e4a3-1e9f-32b8-9db3-c005c2f08a13"
                              #uuid "fd2066fa-b1f0-3a35-a1c6-e65bc2dd96a2"
                              #uuid "0b5d8490-cda6-3f85-ac58-70ed3aefe115"
                              #uuid "0e8f1e83-6a2f-3e60-b086-3b1e50cbff58"

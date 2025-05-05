@@ -12,13 +12,33 @@
                                                                 :name
                                                                 "Closed Drafting"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2875,
+                                                                :name
+                                                                "End Game Bonuses"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2040,
                                                                 :name
                                                                 "Hand Management"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2981,
+                                                                :name
+                                                                "Melding and Splaying"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                3099,
+                                                                :name
+                                                                "Multi-Use Cards"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 3104,
                                                                 :name
                                                                 "Neighbor Scope"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2846,
+                                                                :name
+                                                                "Once-Per-Game Abilities"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2823,
+                                                                :name
+                                                                "Score-and-Reset Game"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2004,
                                                                 :name
@@ -28,9 +48,21 @@
                                                                 :name
                                                                 "Simultaneous Action Selection"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                3100,
+                                                                :name
+                                                                "Tags"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2849,
+                                                                :name
+                                                                "Tech Trees / Tech Tracks"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2015,
                                                                 :name
-                                                                "Variable Player Powers"}),
+                                                                "Variable Player Powers"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2897,
+                                                                :name
+                                                                "Variable Set-up"}),
                              :name "7 Divů světa",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -83,9 +115,9 @@
                                                                 :name
                                                                 "Layering"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                2900,
+                                                                2981,
                                                                 :name
-                                                                "Market"}
+                                                                "Melding and Splaying"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2011,
                                                                 :name
@@ -103,6 +135,10 @@
                                                                 :name
                                                                 "Open Drafting"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2823,
+                                                                :name
+                                                                "Score-and-Reset Game"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2004,
                                                                 :name
                                                                 "Set Collection"}
@@ -118,6 +154,10 @@
                                                                 2849,
                                                                 :name
                                                                 "Tech Trees / Tech Tracks"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2939,
+                                                                :name
+                                                                "Track Movement"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2888,
                                                                 :name
@@ -299,7 +339,7 @@
                              :com.boardgamegeek.boardgame/id "8790",
                              :game/name "Activity",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/fwtr2yHp4w2dhXqDvS_sJw__thumb/img/ZGhVGeJIFFC1jbb3Ux4LhJ512Rk=/fit-in/200x150/filters:strip_icc()/pic3186165.jpg"},
+                             "https://cf.geekdo-images.com/91COAIDHz_rkVyqC4kezvQ__thumb/img/Ax--8AeevbtLXG7tbeFOe26EOcg=/fit-in/200x150/filters:strip_icc()/pic6911655.jpg"},
                             #uuid "7d309184-ca47-30a1-8ead-7135f26f59fd"
                             {:game/id
                              #uuid "7d309184-ca47-30a1-8ead-7135f26f59fd",
@@ -526,6 +566,10 @@
                                                                 :name
                                                                 "End Game Bonuses"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2978,
+                                                                :name
+                                                                "Grid Coverage"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2041,
                                                                 :name
                                                                 "Open Drafting"}
@@ -537,6 +581,10 @@
                                                                 2004,
                                                                 :name
                                                                 "Set Collection"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2940,
+                                                                :name
+                                                                "Square Grid"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2002,
                                                                 :name
@@ -777,6 +825,10 @@
                              :com.boardgamegeek.boardgame/rating 8.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2956,
+                                                                :name
+                                                                "Chaining"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2040,
                                                                 :name
                                                                 "Hand Management"}
@@ -891,6 +943,10 @@
                                                                 2909,
                                                                 :name
                                                                 "Random Production"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2686,
+                                                                :name
+                                                                "Take That"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2008,
                                                                 :name
@@ -1083,6 +1139,10 @@
                                                                 :name
                                                                 "Communication Limits"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                3002,
+                                                                :name
+                                                                "Deduction"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2047,
                                                                 :name
                                                                 "Memory"}
@@ -1090,6 +1150,10 @@
                                                                 2661,
                                                                 :name
                                                                 "Push Your Luck"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2876,
+                                                                :name
+                                                                "Race"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2019,
                                                                 :name
@@ -1173,6 +1237,14 @@
                                                                 :name
                                                                 "Communication Limits"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2876,
+                                                                :name
+                                                                "Race"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2831,
+                                                                :name
+                                                                "Real-Time"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2019,
                                                                 :name
                                                                 "Team-Based Game"}),
@@ -1186,6 +1258,10 @@
                                                                 1030,
                                                                 :name
                                                                 "Party Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1037,
+                                                                :name
+                                                                "Real-time"}
                                    #:com.boardgamegeek.category{:id
                                                                 1025,
                                                                 :name
@@ -1844,9 +1920,17 @@
                                                                 :name
                                                                 "Hand Management"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2661,
+                                                                :name
+                                                                "Push Your Luck"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2004,
                                                                 :name
-                                                                "Set Collection"}),
+                                                                "Set Collection"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2686,
+                                                                :name
+                                                                "Take That"}),
                              :name "Královské rošády",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -2825,7 +2909,7 @@
                              #uuid "9b35ef05-2feb-3e25-b2ef-379d47111a53",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 8.2,
+                             :com.boardgamegeek.boardgame/rating 8.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -3121,6 +3205,10 @@
                                                                 :name
                                                                 "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2927,
+                                                                :name
+                                                                "Auction: Multiple Lot"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2920,
                                                                 :name
                                                                 "Auction: Sealed Bid"}
@@ -3128,6 +3216,10 @@
                                                                 2922,
                                                                 :name
                                                                 "Constrained Bidding"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2875,
+                                                                :name
+                                                                "End Game Bonuses"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2926,
                                                                 :name
@@ -3174,7 +3266,7 @@
                              #uuid "0170d252-3262-32c6-a950-02dfa5ae3fa8",
                              :com.boardgamegeek.boardgame/min-players
                              3,
-                             :com.boardgamegeek.boardgame/rating 7.8,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2850,
@@ -3249,9 +3341,21 @@
                                                                 :name
                                                                 "Action Points"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2956,
+                                                                :name
+                                                                "Chaining"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2912,
+                                                                :name
+                                                                "Contracts"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2023,
                                                                 :name
                                                                 "Cooperative Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2850,
+                                                                :name
+                                                                "Events"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2040,
                                                                 :name
@@ -3269,19 +3373,35 @@
                                                                 :name
                                                                 "Set Collection"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2070,
+                                                                :name
+                                                                "Simulation"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 3100,
                                                                 :name
                                                                 "Tags"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2008,
+                                                                :name
+                                                                "Trading"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2015,
                                                                 :name
-                                                                "Variable Player Powers"}),
+                                                                "Variable Player Powers"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2897,
+                                                                :name
+                                                                "Variable Set-up"}),
                              :name "Pandemic",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 2145,
                                                                 :name
-                                                                "Medical"}),
+                                                                "Medical"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1097,
+                                                                :name
+                                                                "Travel"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              45,
                              :com.boardgamegeek.boardgame/max-players
@@ -3977,6 +4097,18 @@
                                                                 :name
                                                                 "Simulation"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2828,
+                                                                :name
+                                                                "Turn Order: Progressive"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2015,
+                                                                :name
+                                                                "Variable Player Powers"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2897,
+                                                                :name
+                                                                "Variable Set-up"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2935,
                                                                 :name
                                                                 "Worker Placement with Dice Workers"}),
@@ -4334,7 +4466,11 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1098,
                                                                 :name
-                                                                "Number"}),
+                                                                "Number"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1030,
+                                                                :name
+                                                                "Party Game"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              45,
                              :com.boardgamegeek.boardgame/max-players
@@ -4402,6 +4538,10 @@
                                                                 :name
                                                                 "Dice Rolling"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2856,
+                                                                :name
+                                                                "Die Icon Resolution"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2875,
                                                                 :name
                                                                 "End Game Bonuses"}
@@ -4426,9 +4566,17 @@
                                                                 :name
                                                                 "Pattern Building"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2876,
+                                                                :name
+                                                                "Race"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2004,
                                                                 :name
                                                                 "Set Collection"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                3100,
+                                                                :name
+                                                                "Tags"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2002,
                                                                 :name
@@ -4555,7 +4703,7 @@
                              #uuid "f944b1ee-72e5-3ea8-832f-4eaf0dde6f09",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 8.4,
+                             :com.boardgamegeek.boardgame/rating 8.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2984,
@@ -4624,6 +4772,10 @@
                              :name "Mars teraformace",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
+                                                                1015,
+                                                                :name
+                                                                "Civilization"}
+                                   #:com.boardgamegeek.category{:id
                                                                 1021,
                                                                 :name
                                                                 "Economic"}
@@ -4669,9 +4821,21 @@
                                                                 :name
                                                                 "Hand Management"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2876,
+                                                                :name
+                                                                "Race"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2823,
+                                                                :name
+                                                                "Score-and-Reset Game"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2009,
                                                                 :name
-                                                                "Trick-taking"}),
+                                                                "Trick-taking"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2826,
+                                                                :name
+                                                                "Turn Order: Stat-Based"}),
                              :name "Liška podšitá",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -5620,15 +5784,15 @@
                              #uuid "0071dfa9-ec41-35e2-befc-ecbe183ff272"
                              #uuid "e5f11979-9a30-30ec-8084-92dd584b1214"
                              #uuid "aa2a14f6-6296-368a-8fab-970e48ba9430"
+                             #uuid "9b35ef05-2feb-3e25-b2ef-379d47111a53"
                              #uuid "fa03eb68-8ad8-3a1d-b593-d33dabd89bad"
                              #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08"
                              #uuid "a7d936b6-1b82-3474-9935-ae596b33f366"
                              #uuid "eacd7b54-1c2a-34c6-96a1-f4fa627dddb4"
-                             #uuid "9b35ef05-2feb-3e25-b2ef-379d47111a53"
                              #uuid "ee1eea0e-7583-3d7b-aff5-526c4139d995"
+                             #uuid "f944b1ee-72e5-3ea8-832f-4eaf0dde6f09"
                              #uuid "0e13524e-0d23-310c-a97e-3ef1583014b4"
                              #uuid "06f44a02-a372-340e-96f1-70be40f68cdd"
-                             #uuid "f944b1ee-72e5-3ea8-832f-4eaf0dde6f09"
                              #uuid "0ec4024f-0e85-3ed0-aa2e-5260f718232c"
                              #uuid "e6f2b917-44b7-3822-8d49-6493a0458968"
                              #uuid "e4aa4bf2-7c2c-3f92-9ea4-b86a7a51095c"

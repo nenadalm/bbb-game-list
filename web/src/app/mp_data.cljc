@@ -600,10 +600,6 @@
                                                                 :name
                                                                 "Abstract Strategy"}
                                    #:com.boardgamegeek.category{:id
-                                                                1028,
-                                                                :name
-                                                                "Puzzle"}
-                                   #:com.boardgamegeek.category{:id
                                                                 1070,
                                                                 :name
                                                                 "Renaissance"}),

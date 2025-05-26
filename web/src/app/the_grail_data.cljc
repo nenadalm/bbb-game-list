@@ -111,10 +111,6 @@
                                                                 :name
                                                                 "Income"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                3001,
-                                                                :name
-                                                                "Layering"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2981,
                                                                 :name
                                                                 "Melding and Splaying"}
@@ -163,17 +159,9 @@
                                                                 :name
                                                                 "Tug of War"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                2015,
-                                                                :name
-                                                                "Variable Player Powers"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2897,
                                                                 :name
-                                                                "Variable Set-up"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2874,
-                                                                :name
-                                                                "Victory Points as a Resource"}),
+                                                                "Variable Set-up"}),
                              :name "7 Divů světa duel",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -599,10 +587,6 @@
                                                                 1009,
                                                                 :name
                                                                 "Abstract Strategy"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1028,
-                                                                :name
-                                                                "Puzzle"}
                                    #:com.boardgamegeek.category{:id
                                                                 1070,
                                                                 :name
@@ -1740,7 +1724,7 @@
                              #uuid "e4aa4bf2-7c2c-3f92-9ea4-b86a7a51095c",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 8.6,
+                             :com.boardgamegeek.boardgame/rating 8.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -2780,10 +2764,6 @@
                                                                 2870,
                                                                 :name
                                                                 "Re-rolling and Locking"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                3100,
-                                                                :name
-                                                                "Tags"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2686,
                                                                 :name
@@ -6303,8 +6283,8 @@
                              #uuid "0e13524e-0d23-310c-a97e-3ef1583014b4"
                              #uuid "06f44a02-a372-340e-96f1-70be40f68cdd"
                              #uuid "0ec4024f-0e85-3ed0-aa2e-5260f718232c"
-                             #uuid "e6f2b917-44b7-3822-8d49-6493a0458968"
                              #uuid "e4aa4bf2-7c2c-3f92-9ea4-b86a7a51095c"
+                             #uuid "e6f2b917-44b7-3822-8d49-6493a0458968"
                              #uuid "397314e0-31af-3c7f-ba2e-cc1955a324c9"],
                             :com.boardgamegeek.boardgame/min-players
                             [#uuid "667e0ced-a3ec-32f8-946a-b20c0f4325bf"

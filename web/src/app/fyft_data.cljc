@@ -1763,7 +1763,11 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1035,
                                                                 :name
-                                                                "Medieval"}),
+                                                                "Medieval"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1115,
+                                                                :name
+                                                                "Religious"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              150,
                              :com.boardgamegeek.boardgame/max-players
@@ -3723,7 +3727,7 @@
                              #uuid "719e0e67-ef80-3db4-85ca-f060202a40d2",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.6,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -5943,7 +5947,7 @@
                              #uuid "08b6d232-f558-3e55-94ab-cef9ff9f27a7",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.5,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -6804,19 +6808,19 @@
                              #uuid "e0ac93db-046d-3764-a1e6-36c109df2ec4"
                              #uuid "c0755e4b-2acc-34dc-8e23-68825e95b8dc"
                              #uuid "af81fcd3-6c2c-3080-ac39-0f077b425e0a"
+                             #uuid "08b6d232-f558-3e55-94ab-cef9ff9f27a7"
                              #uuid "fdb07892-a50b-3405-8eb2-8a5429a70ee8"
                              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a"
                              #uuid "53a695cf-9848-3886-83f2-221b8e81c67a"
+                             #uuid "719e0e67-ef80-3db4-85ca-f060202a40d2"
                              #uuid "5b444b22-2047-3124-af08-48687f72a6b5"
                              #uuid "7c3801ac-e417-346c-a923-a047750758ea"
                              #uuid "ee251f41-b54c-3c3d-ad55-d9a6adef30ea"
                              #uuid "90a300ed-ea38-3514-b744-0c43440fa4b3"
-                             #uuid "08b6d232-f558-3e55-94ab-cef9ff9f27a7"
                              #uuid "cf1e8f0b-c580-3564-8e6e-e3cc8df2c060"
                              #uuid "d8f6900d-5012-3d09-8a9e-d26613e7690f"
                              #uuid "a83b8f23-d78e-3e62-90eb-d70f7995c982"
                              #uuid "e9e59065-5acd-3d1d-876b-8cb866541534"
-                             #uuid "719e0e67-ef80-3db4-85ca-f060202a40d2"
                              #uuid "50fc1352-f62f-3b32-851f-4bdec9eda627"
                              #uuid "85e81f28-537a-3748-822c-daaecca3b612"
                              #uuid "7ce4acbd-f5ed-3800-9116-83ec4caff1ea"

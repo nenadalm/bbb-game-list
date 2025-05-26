@@ -725,10 +725,6 @@
                                                                 :name
                                                                 "Abstract Strategy"}
                                    #:com.boardgamegeek.category{:id
-                                                                1028,
-                                                                :name
-                                                                "Puzzle"}
-                                   #:com.boardgamegeek.category{:id
                                                                 1070,
                                                                 :name
                                                                 "Renaissance"}),
@@ -1843,11 +1839,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1084,
                                                                 :name
-                                                                "Environmental"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1028,
-                                                                :name
-                                                                "Puzzle"}),
+                                                                "Environmental"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              45,
                              :com.boardgamegeek.boardgame/max-players
@@ -3107,7 +3099,7 @@
                              #uuid "e1d3745d-6aba-36a2-b3b7-2d61e60665cd",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.1,
+                             :com.boardgamegeek.boardgame/rating 6.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2046,
@@ -3266,6 +3258,14 @@
                                                                 2072,
                                                                 :name
                                                                 "Dice Rolling"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2856,
+                                                                :name
+                                                                "Die Icon Resolution"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2048,
+                                                                :name
+                                                                "Pattern Building"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2004,
                                                                 :name
@@ -5370,7 +5370,7 @@
                              #uuid "7923614a-0e46-3f3d-8fcc-0e9ae658f123",
                              :com.boardgamegeek.boardgame/min-players
                              3,
-                             :com.boardgamegeek.boardgame/rating 7.3,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -13092,7 +13092,6 @@
                              #uuid "70b3f625-6197-3a53-a3b0-26bcc7a1ec50"
                              #uuid "a710c2c2-dc00-390a-8a08-37a6e643f5d3"
                              #uuid "fc4b5160-634a-3e54-b306-97e5771f843c"
-                             #uuid "e1d3745d-6aba-36a2-b3b7-2d61e60665cd"
                              #uuid "165261a9-0183-3e53-be82-ccc197c354b8"
                              #uuid "7d486371-bb65-3063-b535-ceba4189d8ed"
                              #uuid "9db165b4-98ba-3935-9f4e-a7bd23beb693"
@@ -13102,6 +13101,7 @@
                              #uuid "34fadff6-95df-37e2-8506-3ee70980871b"
                              #uuid "3239ae98-cebb-39ad-b9d7-146053655aa1"
                              #uuid "d29a32f7-a832-3687-b160-1e915d7a1465"
+                             #uuid "e1d3745d-6aba-36a2-b3b7-2d61e60665cd"
                              #uuid "d4d366c3-ef56-36f3-9d46-11c9b253a40c"
                              #uuid "4c03c1c8-385c-3fb9-b528-e10c4245668d"
                              #uuid "207ce45d-a4c3-30dc-80c6-3241182256e7"
@@ -13225,7 +13225,6 @@
                              #uuid "33ef9db6-536f-307e-9b5a-71695627acc0"
                              #uuid "90b4a79a-a31a-3cfc-be15-cdac927b726b"
                              #uuid "843ecaf0-bb25-3a67-af63-f8a4bc3708a3"
-                             #uuid "7923614a-0e46-3f3d-8fcc-0e9ae658f123"
                              #uuid "1f927c3f-4487-367e-92e9-a052e83a56b2"
                              #uuid "4a19d6fd-5186-3002-ba4f-a2d64323a845"
                              #uuid "2c40cbc2-ccb0-39ee-adb2-622f1540de8b"
@@ -13243,6 +13242,7 @@
                              #uuid "5726e9d6-5727-3ba1-85a5-770ecaed567c"
                              #uuid "548d40ad-9562-3712-a0a0-f072f66b395c"
                              #uuid "6db176b1-017b-3430-a362-e2d6ee99cc67"
+                             #uuid "7923614a-0e46-3f3d-8fcc-0e9ae658f123"
                              #uuid "658f866b-fbc1-3666-ba14-ad2719dd52c5"
                              #uuid "0de2e3c8-72b8-39d4-a562-494bf756d805"
                              #uuid "347be2ac-80a7-3752-9e45-7a5d226c5886"

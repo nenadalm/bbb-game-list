@@ -813,6 +813,10 @@
                                                                 :name
                                                                 "Chaining"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2875,
+                                                                :name
+                                                                "End Game Bonuses"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2040,
                                                                 :name
                                                                 "Hand Management"}
@@ -829,9 +833,17 @@
                                                                 :name
                                                                 "Market"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                3099,
+                                                                :name
+                                                                "Multi-Use Cards"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2081,
                                                                 :name
                                                                 "Network and Route Building"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2911,
+                                                                :name
+                                                                "Ownership"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 3100,
                                                                 :name
@@ -840,6 +852,10 @@
                                                                 2849,
                                                                 :name
                                                                 "Tech Trees / Tech Tracks"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2002,
+                                                                :name
+                                                                "Tile Placement"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2826,
                                                                 :name
@@ -904,9 +920,17 @@
                                                                 :name
                                                                 "Hexagon Grid"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2987,
+                                                                :name
+                                                                "Hidden Victory Points"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2902,
                                                                 :name
                                                                 "Income"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2900,
+                                                                :name
+                                                                "Market"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2011,
                                                                 :name
@@ -1259,7 +1283,7 @@
                              :com.boardgamegeek.boardgame/id "178900",
                              :game/name "Codenames",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/F_KDEu0GjdClml8N7c8Imw__thumb/img/yl8iXxSNwguMeg3KkmfFO9SMVVc=/fit-in/200x150/filters:strip_icc()/pic2582929.jpg"},
+                             "https://cf.geekdo-images.com/nC6ifPCDnAItwoKSKXVrnw__thumb/img/1iZav_8ZqurrDbvkZA9GcFhB5x0=/fit-in/200x150/filters:strip_icc()/pic8907965.jpg"},
                             #uuid "ce41796c-1b17-3a2c-b75d-41b274740ade"
                             {:game/id
                              #uuid "ce41796c-1b17-3a2c-b75d-41b274740ade",
@@ -1724,7 +1748,7 @@
                              #uuid "e4aa4bf2-7c2c-3f92-9ea4-b86a7a51095c",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 8.5,
+                             :com.boardgamegeek.boardgame/rating 8.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -2033,21 +2057,45 @@
                              :com.boardgamegeek.boardgame/rating 6.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2875,
+                                                                :name
+                                                                "End Game Bonuses"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2040,
                                                                 :name
                                                                 "Hand Management"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2987,
+                                                                :name
+                                                                "Hidden Victory Points"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2661,
                                                                 :name
                                                                 "Push Your Luck"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2016,
+                                                                :name
+                                                                "Secret Unit Deployment"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2004,
                                                                 :name
                                                                 "Set Collection"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                3100,
+                                                                :name
+                                                                "Tags"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2686,
                                                                 :name
-                                                                "Take That"}),
+                                                                "Take That"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2002,
+                                                                :name
+                                                                "Tile Placement"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2897,
+                                                                :name
+                                                                "Variable Set-up"}),
                              :name "Královské rošády",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -3061,10 +3109,6 @@
                                                                 :name
                                                                 "Role Playing"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                3005,
-                                                                :name
-                                                                "Slide / Push"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2015,
                                                                 :name
                                                                 "Variable Player Powers"}),
@@ -3294,10 +3338,6 @@
                                                                 1039,
                                                                 :name
                                                                 "Deduction"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1024,
-                                                                :name
-                                                                "Horror"}
                                    #:com.boardgamegeek.category{:id
                                                                 1040,
                                                                 :name
@@ -6283,8 +6323,8 @@
                              #uuid "0e13524e-0d23-310c-a97e-3ef1583014b4"
                              #uuid "06f44a02-a372-340e-96f1-70be40f68cdd"
                              #uuid "0ec4024f-0e85-3ed0-aa2e-5260f718232c"
-                             #uuid "e4aa4bf2-7c2c-3f92-9ea4-b86a7a51095c"
                              #uuid "e6f2b917-44b7-3822-8d49-6493a0458968"
+                             #uuid "e4aa4bf2-7c2c-3f92-9ea4-b86a7a51095c"
                              #uuid "397314e0-31af-3c7f-ba2e-cc1955a324c9"],
                             :com.boardgamegeek.boardgame/min-players
                             [#uuid "667e0ced-a3ec-32f8-946a-b20c0f4325bf"

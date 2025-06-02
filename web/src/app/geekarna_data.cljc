@@ -642,9 +642,17 @@
                                                                 :name
                                                                 "Hexagon Grid"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2987,
+                                                                :name
+                                                                "Hidden Victory Points"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2902,
                                                                 :name
                                                                 "Income"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2900,
+                                                                :name
+                                                                "Market"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2011,
                                                                 :name
@@ -811,6 +819,10 @@
                                                                 :name
                                                                 "Tile Placement"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2897,
+                                                                :name
+                                                                "Variable Set-up"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2082,
                                                                 :name
                                                                 "Worker Placement"}),
@@ -891,7 +903,7 @@
                              #uuid "a746daa4-3b3b-3641-8d2a-2960040d29b5",
                              :com.boardgamegeek.boardgame/min-players
                              4,
-                             :com.boardgamegeek.boardgame/rating 5.8,
+                             :com.boardgamegeek.boardgame/rating 5.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -1079,7 +1091,7 @@
                              :com.boardgamegeek.boardgame/id "178900",
                              :game/name "Codenames",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/F_KDEu0GjdClml8N7c8Imw__thumb/img/yl8iXxSNwguMeg3KkmfFO9SMVVc=/fit-in/200x150/filters:strip_icc()/pic2582929.jpg"},
+                             "https://cf.geekdo-images.com/nC6ifPCDnAItwoKSKXVrnw__thumb/img/1iZav_8ZqurrDbvkZA9GcFhB5x0=/fit-in/200x150/filters:strip_icc()/pic8907965.jpg"},
                             #uuid "489b3ae2-2c96-3502-b825-0636379da46e"
                             {:game/id
                              #uuid "489b3ae2-2c96-3502-b825-0636379da46e",
@@ -2466,10 +2478,6 @@
                              :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
-                                                                3096,
-                                                                :name
-                                                                "Drawing"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2843,
                                                                 :name
                                                                 "Follow"}
@@ -5634,10 +5642,10 @@
                              #uuid "8fa5bb75-e6e9-3d77-924a-b5d93b90596e"
                              #uuid "ccf557ca-1a7c-3651-ade8-1c9892ff7a16"
                              #uuid "7e7fdd38-98cc-3f0f-a059-308e820a2013"
+                             #uuid "a746daa4-3b3b-3641-8d2a-2960040d29b5"
                              #uuid "6566b035-8535-3d7d-8318-9c4c18212156"
                              #uuid "7773e888-3f4b-385d-a9f4-e7a0b2d97090"
                              #uuid "cd23e680-b327-30fd-8432-428bdfb50d1a"
-                             #uuid "a746daa4-3b3b-3641-8d2a-2960040d29b5"
                              #uuid "016a3787-7fcd-3c9a-a430-826e242fcbe1"
                              #uuid "b90c1573-28dd-3818-a02a-5a66ae9b080a"
                              #uuid "95dbca90-3ebf-3ef6-9601-a650c4f9aa3e"

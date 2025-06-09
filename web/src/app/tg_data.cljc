@@ -9128,6 +9128,61 @@
                              :game/name "Deckscape: Test Time",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/wU3b9Li_euyNddvPDYdLww__thumb/img/hFKe2MEsNE4dX3HGe5Cfc2j9CG4=/fit-in/200x150/filters:strip_icc()/pic3425752.png"},
+                            #uuid "b5b2db78-9f1e-382a-8d7c-b30a4ae9549d"
+                            {:game/id
+                             #uuid "b5b2db78-9f1e-382a-8d7c-b30a4ae9549d",
+                             :com.boardgamegeek.boardgame/min-players
+                             1,
+                             :com.boardgamegeek.boardgame/rating 7.6,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2023,
+                                                                :name
+                                                                "Cooperative Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2072,
+                                                                :name
+                                                                "Dice Rolling"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2900,
+                                                                :name
+                                                                "Market"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2661,
+                                                                :name
+                                                                "Push Your Luck"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2870,
+                                                                :name
+                                                                "Re-rolling and Locking"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2004,
+                                                                :name
+                                                                "Set Collection"}),
+                             :name "Deep Regrets",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1017,
+                                                                :name
+                                                                "Dice"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1024,
+                                                                :name
+                                                                "Horror"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1008,
+                                                                :name
+                                                                "Nautical"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             150,
+                             :com.boardgamegeek.boardgame/max-players
+                             5,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/id "397931",
+                             :game/name "Deep Regrets",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/WUvpRzsNSZgq1gyvjiQcWw__thumb/img/XJyLMXaTHUGyAv7n-G0DpR1W1SU=/fit-in/200x150/filters:strip_icc()/pic8156363.jpg"},
                             #uuid "0d012da8-9087-3be1-aa25-17d61a081d3d"
                             {:game/id
                              #uuid "0d012da8-9087-3be1-aa25-17d61a081d3d",
@@ -42265,6 +42320,7 @@
                              #uuid "83ad4685-b1e3-3677-911a-6839874b3310"
                              #uuid "a5542cce-4009-3f65-bee2-5f2436d7ba63"
                              #uuid "f45543b2-9edf-357f-9aaf-d97bfdb889f3"
+                             #uuid "b5b2db78-9f1e-382a-8d7c-b30a4ae9549d"
                              #uuid "0d012da8-9087-3be1-aa25-17d61a081d3d"
                              #uuid "db1f4ab5-845d-3f61-a83d-5df13e0c2397"
                              #uuid "b8b0fd7a-104b-3981-8114-1003c63e6017"
@@ -43830,6 +43886,7 @@
                              #uuid "7a83122d-f549-37e0-b1ef-7e67847e5161"
                              #uuid "7afb01c9-f1ac-31db-8083-1e738bc2d079"
                              #uuid "a9891b51-9bb7-310a-af41-db5fdc006d4c"
+                             #uuid "b5b2db78-9f1e-382a-8d7c-b30a4ae9549d"
                              #uuid "0a4d85e2-2b97-3ffd-a1d4-9ffe55f8f5d1"
                              #uuid "42c129de-ad59-30d3-b867-b063545715e1"
                              #uuid "88da5a7c-55fb-3d61-b996-23695022ab76"
@@ -44209,6 +44266,7 @@
                              #uuid "bbcbe302-11e6-3139-8599-11b36019a52b"
                              #uuid "a5542cce-4009-3f65-bee2-5f2436d7ba63"
                              #uuid "f45543b2-9edf-357f-9aaf-d97bfdb889f3"
+                             #uuid "b5b2db78-9f1e-382a-8d7c-b30a4ae9549d"
                              #uuid "0d012da8-9087-3be1-aa25-17d61a081d3d"
                              #uuid "0a4d85e2-2b97-3ffd-a1d4-9ffe55f8f5d1"
                              #uuid "6ac412e5-f00f-37b6-9f4e-58f5d4355ec7"
@@ -45570,6 +45628,7 @@
                              #uuid "accf9b44-d60e-36aa-ab3e-293a0e91aed0"
                              #uuid "ffac9f56-7f7f-39c1-8eee-59daf0995720"
                              #uuid "022a27f8-e77e-3c5c-8808-6a3640c56d8f"
+                             #uuid "b5b2db78-9f1e-382a-8d7c-b30a4ae9549d"
                              #uuid "0a4d85e2-2b97-3ffd-a1d4-9ffe55f8f5d1"
                              #uuid "1d8df61a-ee67-38d9-8345-514f8f8c6d8d"
                              #uuid "ee597e88-39d1-3846-9a2c-0fbb8d7399fd"
@@ -46405,6 +46464,7 @@
                              #uuid "5c1345a1-1a1f-3293-807a-c76acead7e4e"
                              #uuid "a5542cce-4009-3f65-bee2-5f2436d7ba63"
                              #uuid "f45543b2-9edf-357f-9aaf-d97bfdb889f3"
+                             #uuid "b5b2db78-9f1e-382a-8d7c-b30a4ae9549d"
                              #uuid "2ca83da0-8515-306b-ae4a-0f82d66c97b8"
                              #uuid "0d1b6d3d-ebd1-3c17-b456-ebfda8a15e20"
                              #uuid "eb9ce38e-9186-383e-8a18-3f574ec0615f"
@@ -47749,6 +47809,7 @@
                              #uuid "1c3cc555-bc40-3f3d-82f3-328ee7e2ed37"
                              #uuid "4f58ae3c-af6d-3621-9cbe-fa3962eab6a0"
                              #uuid "83ad4685-b1e3-3677-911a-6839874b3310"
+                             #uuid "b5b2db78-9f1e-382a-8d7c-b30a4ae9549d"
                              #uuid "32644dee-4a8b-3424-b063-93643a611b6e"
                              #uuid "e5c528dd-2ba9-3a89-ac17-c427f0c00414"
                              #uuid "6f05591c-c7b4-32dd-817d-c41c0d9254d0"

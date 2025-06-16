@@ -41449,6 +41449,65 @@
                              :game/name "Winter",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/R2BT6Kmf04qhWLkix1JZWQ__thumb/img/lM1cFBDsnFg0oJBtaLlcFoEOR30=/fit-in/200x150/filters:strip_icc()/pic6886406.jpg"},
+                            #uuid "3c429838-de13-3b41-8c6b-4bfa21d33849"
+                            {:game/id
+                             #uuid "3c429838-de13-3b41-8c6b-4bfa21d33849",
+                             :com.boardgamegeek.boardgame/min-players
+                             1,
+                             :com.boardgamegeek.boardgame/rating 7.7,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2023,
+                                                                :name
+                                                                "Cooperative Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2072,
+                                                                :name
+                                                                "Dice Rolling"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2851,
+                                                                :name
+                                                                "Narrative Choice / Paragraph"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2060,
+                                                                :name
+                                                                "Pattern Recognition"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2661,
+                                                                :name
+                                                                "Push Your Luck"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2819,
+                                                                :name
+                                                                "Solo / Solitaire Game"}),
+                             :name "Witchbound",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1022,
+                                                                :name
+                                                                "Adventure"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1017,
+                                                                :name
+                                                                "Dice"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1010,
+                                                                :name
+                                                                "Fantasy"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1028,
+                                                                :name
+                                                                "Puzzle"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             1500,
+                             :com.boardgamegeek.boardgame/max-players
+                             2,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             20,
+                             :com.boardgamegeek.boardgame/id "364544",
+                             :game/name "Witchbound",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/by2m4h-NcHQaaPRn-_8N1Q__thumb/img/pZh-SG0_Xzow8g8FlO7kAQOpZnA=/fit-in/200x150/filters:strip_icc()/pic7253873.jpg"},
                             #uuid "ce506067-7437-3da8-9b4d-ec8a71f87332"
                             {:name
                              "Wonderland's War: Shards of Madness",
@@ -43076,6 +43135,7 @@
                              #uuid "d51d8e8f-a91d-3b83-b448-ee3a7d5fca6b"
                              #uuid "e5f11979-9a30-30ec-8084-92dd584b1214"
                              #uuid "b18e66b4-1efd-3a3d-b1a7-bc8758da1883"
+                             #uuid "3c429838-de13-3b41-8c6b-4bfa21d33849"
                              #uuid "ce506067-7437-3da8-9b4d-ec8a71f87332"
                              #uuid "fa2d1461-a0cf-3599-bcfa-d6b5d65b8107"
                              #uuid "4c3accb5-e037-3034-9ab0-b33660f66502"
@@ -43955,6 +44015,7 @@
                              #uuid "02a4a96d-9bd9-3a08-a642-3871a8b83df8"
                              #uuid "04801d42-daa8-3ac6-9cc8-197e98542b66"
                              #uuid "0d89f0cd-d744-3958-a1a4-171adda8d4c2"
+                             #uuid "3c429838-de13-3b41-8c6b-4bfa21d33849"
                              #uuid "43771435-28f6-3221-b49b-19e26d73c06f"
                              #uuid "f51d25d3-fc20-349d-b281-2a345ff34f69"
                              #uuid "5a9f1882-0b27-3da7-8d24-b13eda1849af"
@@ -44482,6 +44543,7 @@
                              #uuid "c2327e70-a0b4-3abc-b76e-aa977e3f8872"
                              #uuid "ded08eef-ffd9-3dc2-8af7-295b60bbb187"
                              #uuid "e5f11979-9a30-30ec-8084-92dd584b1214"
+                             #uuid "3c429838-de13-3b41-8c6b-4bfa21d33849"
                              #uuid "fa2d1461-a0cf-3599-bcfa-d6b5d65b8107"
                              #uuid "dc216457-d633-3029-b6c3-a809ffeb6d33"
                              #uuid "4c3accb5-e037-3034-9ab0-b33660f66502"
@@ -45226,6 +45288,7 @@
                              #uuid "a25945e1-791c-30a2-a58e-554b333ef31d"
                              #uuid "5f16e37e-ceae-370d-80cd-e5f628ea4dd8"
                              #uuid "b18e66b4-1efd-3a3d-b1a7-bc8758da1883"
+                             #uuid "3c429838-de13-3b41-8c6b-4bfa21d33849"
                              #uuid "9fdae336-161d-3222-abd6-3f64b4b11829"
                              #uuid "65252a5f-02dc-3b06-b1ac-d24fcc132ea3"
                              #uuid "eacd7b54-1c2a-34c6-96a1-f4fa627dddb4"
@@ -46401,6 +46464,7 @@
                              #uuid "5ebd8d53-405f-3b52-984f-dcc047de5612"
                              #uuid "dae098c1-5f0d-34de-b89b-5ba806e2394c"
                              #uuid "d51d8e8f-a91d-3b83-b448-ee3a7d5fca6b"
+                             #uuid "3c429838-de13-3b41-8c6b-4bfa21d33849"
                              #uuid "d770b14c-eca2-3467-b500-e9d3fdc3c81b"
                              #uuid "242f0de4-174e-36a8-a6d7-77ac1b023ca4"
                              #uuid "aaf294b0-d250-383e-959f-14ede0f55fb5"
@@ -47850,4 +47914,5 @@
                              #uuid "67b587b7-da74-3525-9fa9-f40c9307fd4b"
                              #uuid "fb51ee1e-0d41-39bc-8144-862f9f46a475"
                              #uuid "36df5cf8-5000-3cd6-96c3-2951f75e08cc"
-                             #uuid "3ff49f8f-93b1-35a0-949f-2607763888db"]}})
+                             #uuid "3ff49f8f-93b1-35a0-949f-2607763888db"
+                             #uuid "3c429838-de13-3b41-8c6b-4bfa21d33849"]}})

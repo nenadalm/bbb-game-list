@@ -622,6 +622,90 @@
                              :game/name "Black Mirror: NOSEDIVE",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/I6nuG9Hm3_4pUWbSWt1TBg__thumb/img/8ZxZ_Q70AP7XKKhIiGSz4f6YQAI=/fit-in/200x150/filters:strip_icc()/pic4412654.jpg"},
+                            #uuid "c180dcbb-f5dd-3cdf-acb3-dfe83bc594ec"
+                            {:game/id
+                             #uuid "c180dcbb-f5dd-3cdf-acb3-dfe83bc594ec",
+                             :com.boardgamegeek.boardgame/min-players
+                             2,
+                             :com.boardgamegeek.boardgame/rating 7.9,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2001,
+                                                                :name
+                                                                "Action Points"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2080,
+                                                                :name
+                                                                "Area Majority / Influence"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2046,
+                                                                :name
+                                                                "Area Movement"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2857,
+                                                                :name
+                                                                "Card Play Conflict Resolution"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2984,
+                                                                :name
+                                                                "Closed Drafting"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2040,
+                                                                :name
+                                                                "Hand Management"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2960,
+                                                                :name
+                                                                "Map Reduction"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2047,
+                                                                :name
+                                                                "Memory"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2041,
+                                                                :name
+                                                                "Open Drafting"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2020,
+                                                                :name
+                                                                "Simultaneous Action Selection"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2686,
+                                                                :name
+                                                                "Take That"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2828,
+                                                                :name
+                                                                "Turn Order: Progressive"}),
+                             :name "Blood Rage",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1010,
+                                                                :name
+                                                                "Fantasy"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1046,
+                                                                :name
+                                                                "Fighting"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1047,
+                                                                :name
+                                                                "Miniatures"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1082,
+                                                                :name
+                                                                "Mythology"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             90,
+                             :com.boardgamegeek.boardgame/max-players
+                             4,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             60,
+                             :com.boardgamegeek.boardgame/id "170216",
+                             :languages ["cs"],
+                             :game/name "Blood Rage",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__thumb/img/NLhVdU8xazrgS5dA6nVCYmN2DNI=/fit-in/200x150/filters:strip_icc()/pic2439223.jpg"},
                             #uuid "976db20c-913d-3df8-a781-4574c78c4a48"
                             {:game/id
                              #uuid "976db20c-913d-3df8-a781-4574c78c4a48",
@@ -6574,6 +6658,7 @@
                              #uuid "1da7935d-1dc8-3705-b9a6-21facff6a801"
                              #uuid "ea54ac8f-f680-35d5-9d35-1d0511a3af2c"
                              #uuid "22159b48-2926-367c-ba02-030f0fb2da4a"
+                             #uuid "c180dcbb-f5dd-3cdf-acb3-dfe83bc594ec"
                              #uuid "976db20c-913d-3df8-a781-4574c78c4a48"
                              #uuid "48c935bd-d766-3d59-a1ea-b4444f642a62"
                              #uuid "08060cd2-7b8a-368b-a377-e19d60c63c13"
@@ -6845,6 +6930,7 @@
                              #uuid "43771435-28f6-3221-b49b-19e26d73c06f"
                              #uuid "54c50c24-6cf7-35b1-9966-0eddfdef2895"
                              #uuid "b4f41567-772b-3138-88ba-70d5964ad01b"
+                             #uuid "c180dcbb-f5dd-3cdf-acb3-dfe83bc594ec"
                              #uuid "9fa3f01d-ac6e-3690-9837-54da6c87150f"
                              #uuid "59b85053-a3ac-3c1a-8f29-eaaa3baec4c3"
                              #uuid "182deae1-4ea2-3cb6-a9a3-ff03c832e910"
@@ -6937,6 +7023,7 @@
                              #uuid "43771435-28f6-3221-b49b-19e26d73c06f"
                              #uuid "b4f41567-772b-3138-88ba-70d5964ad01b"
                              #uuid "d8f6900d-5012-3d09-8a9e-d26613e7690f"
+                             #uuid "c180dcbb-f5dd-3cdf-acb3-dfe83bc594ec"
                              #uuid "08060cd2-7b8a-368b-a377-e19d60c63c13"
                              #uuid "e6f2b917-44b7-3822-8d49-6493a0458968"
                              #uuid "59b85053-a3ac-3c1a-8f29-eaaa3baec4c3"
@@ -7069,6 +7156,7 @@
                              #uuid "b4f41567-772b-3138-88ba-70d5964ad01b"
                              #uuid "d8f6900d-5012-3d09-8a9e-d26613e7690f"
                              #uuid "ea54ac8f-f680-35d5-9d35-1d0511a3af2c"
+                             #uuid "c180dcbb-f5dd-3cdf-acb3-dfe83bc594ec"
                              #uuid "e6f2b917-44b7-3822-8d49-6493a0458968"
                              #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7"
                              #uuid "fdb07892-a50b-3405-8eb2-8a5429a70ee8"
@@ -7284,6 +7372,7 @@
                              #uuid "3c4ac596-2c34-3f1c-b8c6-82395c9831dd"
                              #uuid "5b444b22-2047-3124-af08-48687f72a6b5"
                              #uuid "ea54ac8f-f680-35d5-9d35-1d0511a3af2c"
+                             #uuid "c180dcbb-f5dd-3cdf-acb3-dfe83bc594ec"
                              #uuid "e6f2b917-44b7-3822-8d49-6493a0458968"
                              #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7"
                              #uuid "fdb07892-a50b-3405-8eb2-8a5429a70ee8"
@@ -7436,6 +7525,7 @@
                              #uuid "e5f11979-9a30-30ec-8084-92dd584b1214"
                              #uuid "182deae1-4ea2-3cb6-a9a3-ff03c832e910"
                              #uuid "43771435-28f6-3221-b49b-19e26d73c06f"
+                             #uuid "c180dcbb-f5dd-3cdf-acb3-dfe83bc594ec"
                              #uuid "892f09cf-3882-3c26-a359-382e4b2b3feb"
                              #uuid "f34c07d8-a2a8-3a10-8e63-5059a3e9e35c"
                              #uuid "a136b6ff-012b-3a9d-8faf-8fd7a5009e28"

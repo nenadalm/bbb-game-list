@@ -8078,6 +8078,45 @@
                              :game/name "Costa Rica",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/0u1mV295XBrLu91p1lTTFg__thumb/img/0LRUILO4F1bZnUH7Pxs2pAb05zI=/fit-in/200x150/filters:strip_icc()/pic3032708.jpg"},
+                            #uuid "ab5a47d7-4265-32d0-89b9-e80820c3fa7a"
+                            {:game/id
+                             #uuid "ab5a47d7-4265-32d0-89b9-e80820c3fa7a",
+                             :com.boardgamegeek.boardgame/min-players
+                             2,
+                             :com.boardgamegeek.boardgame/rating 6.4,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2004,
+                                                                :name
+                                                                "Set Collection"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2991,
+                                                                :name
+                                                                "Speed Matching"}),
+                             :name "Coucou la Girafe",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1041,
+                                                                :name
+                                                                "Children's Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1094,
+                                                                :name
+                                                                "Educational"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1037,
+                                                                :name
+                                                                "Real-time"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             15,
+                             :com.boardgamegeek.boardgame/max-players
+                             4,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             10,
+                             :com.boardgamegeek.boardgame/id "434426",
+                             :game/name "Coucou la Girafe",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/CZ0Z2Y5GThY5QDoeCyXMXw__thumb/img/HFe4Wv0c-WCEjYJC84Y5SQ6USX4=/fit-in/200x150/filters:strip_icc()/pic8585850.png"},
                             #uuid "61d4a5f0-353a-3a22-b04e-6da57557252d"
                             {:game/id
                              #uuid "61d4a5f0-353a-3a22-b04e-6da57557252d",
@@ -41799,6 +41838,14 @@
                              :game/name "World Wonders",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/GGi5aUL1dVQIrytxgXow4g__thumb/img/90wLgUROk-IetKyXz2Fa7zNBCVs=/fit-in/200x150/filters:strip_icc()/pic7604558.png"},
+                            #uuid "ee8cbdce-4ac4-30f3-80ec-81af61580389"
+                            {:name
+                             "World Wonders: Europa Wonders Pack",
+                             :game/id
+                             #uuid "ee8cbdce-4ac4-30f3-80ec-81af61580389",
+                             :game/name
+                             "World Wonders: Europa Wonders Pack",
+                             :com.boardgamegeek.boardgame/id "441235"},
                             #uuid "4c3accb5-e037-3034-9ab0-b33660f66502"
                             {:game/id
                              #uuid "4c3accb5-e037-3034-9ab0-b33660f66502",
@@ -42587,6 +42634,7 @@
                              #uuid "bef85532-c251-3826-a9e4-2cb336105a3b"
                              #uuid "a078c561-52f3-39f8-ba16-09d591e18275"
                              #uuid "5882b568-d8a0-30ef-88a6-896f53b6eddb"
+                             #uuid "ab5a47d7-4265-32d0-89b9-e80820c3fa7a"
                              #uuid "61d4a5f0-353a-3a22-b04e-6da57557252d"
                              #uuid "1f08e6e9-3aaf-35b9-923e-7854c6463b45"
                              #uuid "a9891b51-9bb7-310a-af41-db5fdc006d4c"
@@ -43368,6 +43416,7 @@
                              #uuid "fa2d1461-a0cf-3599-bcfa-d6b5d65b8107"
                              #uuid "4c3accb5-e037-3034-9ab0-b33660f66502"
                              #uuid "dc216457-d633-3029-b6c3-a809ffeb6d33"
+                             #uuid "ee8cbdce-4ac4-30f3-80ec-81af61580389"
                              #uuid "d870dd90-0a48-3af6-b003-b15ac3289fa4"
                              #uuid "cbb5c347-7790-3eec-b511-bd3860bed3ac"
                              #uuid "1c3cc555-bc40-3f3d-82f3-328ee7e2ed37"
@@ -43547,6 +43596,7 @@
                              #uuid "85a8e597-e109-3342-a0e8-7fc515d2538b"
                              #uuid "a29ae694-98c2-3169-857f-3afd75169fca"
                              #uuid "ce506067-7437-3da8-9b4d-ec8a71f87332"
+                             #uuid "ee8cbdce-4ac4-30f3-80ec-81af61580389"
                              #uuid "5efda538-939a-3610-b02a-9145dff33b0d"
                              #uuid "f72d71dd-eab8-32aa-86a6-6218d39f9f57"
                              #uuid "0a2fdb4a-0e68-342e-bbd2-3e3f67ab0e3d"
@@ -43670,6 +43720,7 @@
                              #uuid "9174edea-2d8c-30ee-a424-4c2c72371e18"
                              #uuid "4874b616-b6b7-3ea8-b6b4-1a208eb721c5"
                              #uuid "bb8434ca-528e-3b5f-bfc5-5eebbe2c00a0"
+                             #uuid "ab5a47d7-4265-32d0-89b9-e80820c3fa7a"
                              #uuid "9fddaddf-db2a-3903-ab7b-b2c76fc96662"
                              #uuid "532f8c74-c965-3a8b-84a5-bffce453945f"
                              #uuid "20c3fe79-6775-322c-8725-cee986a4e25c"
@@ -44505,6 +44556,7 @@
                              #uuid "85a8e597-e109-3342-a0e8-7fc515d2538b"
                              #uuid "a29ae694-98c2-3169-857f-3afd75169fca"
                              #uuid "ce506067-7437-3da8-9b4d-ec8a71f87332"
+                             #uuid "ee8cbdce-4ac4-30f3-80ec-81af61580389"
                              #uuid "5efda538-939a-3610-b02a-9145dff33b0d"
                              #uuid "eacd7b54-1c2a-34c6-96a1-f4fa627dddb4"
                              #uuid "9f98920b-8cb0-37ec-8d51-669877717dd9"
@@ -44870,6 +44922,7 @@
                              #uuid "f2f5da5d-c378-37b9-8570-040b68cdbc11"
                              #uuid "802b080b-5ba3-3261-aa42-d6122e4b2832"
                              #uuid "5882b568-d8a0-30ef-88a6-896f53b6eddb"
+                             #uuid "ab5a47d7-4265-32d0-89b9-e80820c3fa7a"
                              #uuid "1f08e6e9-3aaf-35b9-923e-7854c6463b45"
                              #uuid "accf9b44-d60e-36aa-ab3e-293a0e91aed0"
                              #uuid "cb14898b-fca4-3e28-82cb-8c8b6b507c37"
@@ -45462,6 +45515,7 @@
                              #uuid "85a8e597-e109-3342-a0e8-7fc515d2538b"
                              #uuid "a29ae694-98c2-3169-857f-3afd75169fca"
                              #uuid "ce506067-7437-3da8-9b4d-ec8a71f87332"
+                             #uuid "ee8cbdce-4ac4-30f3-80ec-81af61580389"
                              #uuid "5efda538-939a-3610-b02a-9145dff33b0d"
                              #uuid "9df1c579-aa18-332f-a0e6-704cf2b2ef3a"
                              #uuid "732f76bc-d4c3-321a-8bed-ee52a9ed87c9"
@@ -45598,6 +45652,7 @@
                              #uuid "f2f5da5d-c378-37b9-8570-040b68cdbc11"
                              #uuid "802b080b-5ba3-3261-aa42-d6122e4b2832"
                              #uuid "a078c561-52f3-39f8-ba16-09d591e18275"
+                             #uuid "ab5a47d7-4265-32d0-89b9-e80820c3fa7a"
                              #uuid "1f08e6e9-3aaf-35b9-923e-7854c6463b45"
                              #uuid "a9891b51-9bb7-310a-af41-db5fdc006d4c"
                              #uuid "5c1345a1-1a1f-3293-807a-c76acead7e4e"
@@ -46424,6 +46479,7 @@
                              #uuid "85a8e597-e109-3342-a0e8-7fc515d2538b"
                              #uuid "a29ae694-98c2-3169-857f-3afd75169fca"
                              #uuid "ce506067-7437-3da8-9b4d-ec8a71f87332"
+                             #uuid "ee8cbdce-4ac4-30f3-80ec-81af61580389"
                              #uuid "5efda538-939a-3610-b02a-9145dff33b0d"
                              #uuid "93469e8e-68c6-31a3-86d3-22f005ecf98c"
                              #uuid "e29fbec4-4c71-3519-8e93-582b67df86f4"
@@ -46453,6 +46509,7 @@
                              #uuid "4591ad06-b530-3448-a14d-27f46d681f20"
                              #uuid "fc4b5160-634a-3e54-b306-97e5771f843c"
                              #uuid "12aa1a49-7859-3aae-8f37-3e81ff48d8d1"
+                             #uuid "ab5a47d7-4265-32d0-89b9-e80820c3fa7a"
                              #uuid "25b621f7-7694-329c-b479-e84107f27b8c"
                              #uuid "aa0f7ad4-eb74-30e8-9824-21bcf181b19c"
                              #uuid "54b412ea-6285-3726-b5a1-bade32b6ddb8"
@@ -47387,6 +47444,7 @@
                              #uuid "85a8e597-e109-3342-a0e8-7fc515d2538b"
                              #uuid "a29ae694-98c2-3169-857f-3afd75169fca"
                              #uuid "ce506067-7437-3da8-9b4d-ec8a71f87332"
+                             #uuid "ee8cbdce-4ac4-30f3-80ec-81af61580389"
                              #uuid "5efda538-939a-3610-b02a-9145dff33b0d"
                              #uuid "93469e8e-68c6-31a3-86d3-22f005ecf98c"
                              #uuid "e29fbec4-4c71-3519-8e93-582b67df86f4"
@@ -47436,6 +47494,7 @@
                              #uuid "b8a31647-02c7-3466-9422-57df06fcef96"
                              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a"
                              #uuid "c7b74e13-dff8-3831-98f4-1d81198c1337"
+                             #uuid "ab5a47d7-4265-32d0-89b9-e80820c3fa7a"
                              #uuid "ee597e88-39d1-3846-9a2c-0fbb8d7399fd"
                              #uuid "2d873928-1613-35c0-b22b-ad4d141a20e9"
                              #uuid "165261a9-0183-3e53-be82-ccc197c354b8"

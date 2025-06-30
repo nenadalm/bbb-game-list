@@ -2402,7 +2402,7 @@
                                                                 2686,
                                                                 :name
                                                                 "Take That"}),
-                             :name "Beasty Bar",
+                             :name "Safari Bar",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1089,
@@ -2423,7 +2423,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "165950",
-                             :languages ["en"],
+                             :languages ["cs"],
                              :game/name "Beasty Bar",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/7_y1dbU5GCYhIRBCO0q7rg__thumb/img/WiuNMDiiM38EHOAdW5MB1ldlEJM=/fit-in/200x150/filters:strip_icc()/pic2241067.jpg"},
@@ -5114,7 +5114,7 @@
                                                                 2897,
                                                                 :name
                                                                 "Variable Set-up"}),
-                             :name "Codex Naturalis",
+                             :name "Clank!",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1022,
@@ -5131,7 +5131,6 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "201808",
-                             :languages ["cs"],
                              :game/name
                              "Clank!: A Deck-Building Adventure",
                              :com.boardgamegeek.boardgame/thumbnail
@@ -12370,7 +12369,7 @@
                                                                 2823,
                                                                 :name
                                                                 "Score-and-Reset Game"}),
-                             :name "Jedním slovem",
+                             :name "Just One",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1039,
@@ -12391,7 +12390,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "254640",
-                             :languages ["cs"],
+                             :languages ["en"],
                              :game/name "Just One",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/qKcKjHpzAvLddwBhyindag__thumb/img/HhZu2qLp9wyX9PNgvmDE8_hCl-0=/fit-in/200x150/filters:strip_icc()/pic4268499.jpg"},
@@ -17739,8 +17738,7 @@
                                                                 2017,
                                                                 :name
                                                                 "Voting"}),
-                             :name
-                             "Profanity: A Card Game For Smutty People",
+                             :name "Ready Set Bet",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1002,

@@ -4027,13 +4027,14 @@
                              "Quirky Circuits: Penny & Gizmo's Snow Day!",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/vFFAkn8bRspG4Zjcno8iqg__thumb/img/0Wk5K14-SWG6U-cDHN22KVs5gMg=/fit-in/200x150/filters:strip_icc()/pic6658016.jpg"},
-                            #uuid "23a18863-aee1-3ea7-9c62-833208e11936"
+                            #uuid "a770b5f7-f777-34f9-b8f1-1b544570d2bf"
                             {:languages ["en"],
-                             :name "Radlands Super Deluxe Edition",
+                             :name
+                             "Radlands Super Deluxe Edition + Cult of Chrome",
                              :game/id
-                             #uuid "23a18863-aee1-3ea7-9c62-833208e11936",
+                             #uuid "a770b5f7-f777-34f9-b8f1-1b544570d2bf",
                              :game/name
-                             "Radlands Super Deluxe Edition"},
+                             "Radlands Super Deluxe Edition + Cult of Chrome"},
                             #uuid "3c4ac596-2c34-3f1c-b8c6-82395c9831dd"
                             {:game/id
                              #uuid "3c4ac596-2c34-3f1c-b8c6-82395c9831dd",
@@ -6739,7 +6740,7 @@
                              #uuid "f69b4b89-a1c0-31da-8e14-95eea67408a3"
                              #uuid "c0369449-3628-349a-a853-e01310284635"
                              #uuid "56a53916-96df-3787-baa5-686dfce7ee2f"
-                             #uuid "23a18863-aee1-3ea7-9c62-833208e11936"
+                             #uuid "a770b5f7-f777-34f9-b8f1-1b544570d2bf"
                              #uuid "3c4ac596-2c34-3f1c-b8c6-82395c9831dd"
                              #uuid "f4b9c343-9439-3036-8ed1-92064b3aae57"
                              #uuid "f690879e-3b38-34a3-972f-13c9aaf6ec52"
@@ -6823,7 +6824,7 @@
                              #uuid "bf0ef42c-b374-3c63-a332-7d177fe6769f"
                              #uuid "3633fa79-5a47-370c-a01d-435df2ba2b2e"
                              #uuid "b9ef8caa-7d7e-33bc-aa37-5ae9ffc5d1d2"
-                             #uuid "23a18863-aee1-3ea7-9c62-833208e11936"
+                             #uuid "a770b5f7-f777-34f9-b8f1-1b544570d2bf"
                              #uuid "f4b9c343-9439-3036-8ed1-92064b3aae57"
                              #uuid "ba849c91-0d27-3f39-8078-aa19a863217d"
                              #uuid "7a09a751-5856-3aa7-95a0-58e41de6e29d"
@@ -6974,7 +6975,7 @@
                              #uuid "bf0ef42c-b374-3c63-a332-7d177fe6769f"
                              #uuid "3633fa79-5a47-370c-a01d-435df2ba2b2e"
                              #uuid "b9ef8caa-7d7e-33bc-aa37-5ae9ffc5d1d2"
-                             #uuid "23a18863-aee1-3ea7-9c62-833208e11936"
+                             #uuid "a770b5f7-f777-34f9-b8f1-1b544570d2bf"
                              #uuid "f4b9c343-9439-3036-8ed1-92064b3aae57"
                              #uuid "ba849c91-0d27-3f39-8078-aa19a863217d"
                              #uuid "7a09a751-5856-3aa7-95a0-58e41de6e29d"
@@ -7125,7 +7126,7 @@
                              #uuid "bf0ef42c-b374-3c63-a332-7d177fe6769f"
                              #uuid "3633fa79-5a47-370c-a01d-435df2ba2b2e"
                              #uuid "b9ef8caa-7d7e-33bc-aa37-5ae9ffc5d1d2"
-                             #uuid "23a18863-aee1-3ea7-9c62-833208e11936"
+                             #uuid "a770b5f7-f777-34f9-b8f1-1b544570d2bf"
                              #uuid "f4b9c343-9439-3036-8ed1-92064b3aae57"
                              #uuid "ba849c91-0d27-3f39-8078-aa19a863217d"
                              #uuid "7a09a751-5856-3aa7-95a0-58e41de6e29d"
@@ -7278,7 +7279,7 @@
                              #uuid "3633fa79-5a47-370c-a01d-435df2ba2b2e"
                              #uuid "b9ef8caa-7d7e-33bc-aa37-5ae9ffc5d1d2"
                              #uuid "56e1d33a-9fee-36d0-b563-93c68b60178b"
-                             #uuid "23a18863-aee1-3ea7-9c62-833208e11936"
+                             #uuid "a770b5f7-f777-34f9-b8f1-1b544570d2bf"
                              #uuid "f4b9c343-9439-3036-8ed1-92064b3aae57"
                              #uuid "ba849c91-0d27-3f39-8078-aa19a863217d"
                              #uuid "7a09a751-5856-3aa7-95a0-58e41de6e29d"
@@ -7429,7 +7430,7 @@
                              #uuid "3633fa79-5a47-370c-a01d-435df2ba2b2e"
                              #uuid "b9ef8caa-7d7e-33bc-aa37-5ae9ffc5d1d2"
                              #uuid "56e1d33a-9fee-36d0-b563-93c68b60178b"
-                             #uuid "23a18863-aee1-3ea7-9c62-833208e11936"
+                             #uuid "a770b5f7-f777-34f9-b8f1-1b544570d2bf"
                              #uuid "f4b9c343-9439-3036-8ed1-92064b3aae57"
                              #uuid "ba849c91-0d27-3f39-8078-aa19a863217d"
                              #uuid "7a09a751-5856-3aa7-95a0-58e41de6e29d"

@@ -12,8 +12,6 @@
                              :depends-on #{:cljs_base}}
                   :hp_app {:entries [app.hp-core]
                            :depends-on #{:cljs_base}}
-                  :mp_app {:entries [app.mp-core]
-                           :depends-on #{:cljs_base}}
                   :pnr_app {:entries [app.pnr-core]
                             :depends-on #{:cljs_base}}
                   :tg_app {:entries [app.tg-core]

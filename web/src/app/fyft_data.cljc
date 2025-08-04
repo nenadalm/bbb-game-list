@@ -1611,7 +1611,7 @@
                              :languages ["cs"],
                              :game/name "Codenames: Pictures",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/fqV1p9p3W8zBVxYcutBWXQ__thumb/img/bpm3BfUrkJF2cFFZ0VFAad4m6-A=/fit-in/200x150/filters:strip_icc()/pic4007123.jpg"},
+                             "https://cf.geekdo-images.com/OFSDgRR7lbFF0W3VP4mISw__thumb/img/wx-QjSj1vQfEZBgQXjgnwPpzyow=/fit-in/200x150/filters:strip_icc()/pic8911187.png"},
                             #uuid "dd6f7a14-de47-37f2-bb22-bd37cf04e69b"
                             {:game/id
                              #uuid "dd6f7a14-de47-37f2-bb22-bd37cf04e69b",
@@ -1729,7 +1729,7 @@
                              #uuid "2da3c827-ccab-3485-9cb9-921b4f1addfa",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.0,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2883,
@@ -2076,6 +2076,10 @@
                                                                 2041,
                                                                 :name
                                                                 "Open Drafting"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2911,
+                                                                :name
+                                                                "Ownership"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2876,
                                                                 :name
@@ -2521,7 +2525,11 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2041,
                                                                 :name
-                                                                "Open Drafting"}),
+                                                                "Open Drafting"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2876,
+                                                                :name
+                                                                "Race"}),
                              :name "Gizmos",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -2861,7 +2869,7 @@
                              :languages ["cs"],
                              :game/name "Just One",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/mHiOQYYPdSkM2xjEO3CNfA__thumb/img/SK9iEwW4--SZDt6t12HwgbzmBKc=/fit-in/200x150/filters:strip_icc()/pic8933221.png"},
+                             "https://cf.geekdo-images.com/74haNunMBn85beBi-yIKwA__thumb/img/feIV-gqMeza43ycvxh6PGx4lA_w=/fit-in/200x150/filters:strip_icc()/pic8669313.png"},
                             #uuid "7a6cf0c4-7e2b-39a7-9bdf-d0dc318ededf"
                             {:languages ["cs"],
                              :name "Karak + Karak Regent",
@@ -3721,7 +3729,7 @@
                              :languages ["en"],
                              :game/name "No Thanks!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/2DyxMVASynw87LRULZuyqA__thumb/img/yIUSMoN8O5FeDZjXa4vreKj5Ogw=/fit-in/200x150/filters:strip_icc()/pic4657706.jpg"},
+                             "https://cf.geekdo-images.com/JSAs8aMopjf8P9JXwTMV7w__thumb/img/j7oqDPsahGkdKQMXbKjYMZ0jmwM=/fit-in/200x150/filters:strip_icc()/pic9005058.png"},
                             #uuid "b9ef8caa-7d7e-33bc-aa37-5ae9ffc5d1d2"
                             {:languages ["cs"],
                              :name
@@ -4492,7 +4500,7 @@
                              #uuid "3992d652-f81d-3e86-bd6e-2e685cb351a3",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.5,
+                             :com.boardgamegeek.boardgame/rating 6.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -4627,6 +4635,18 @@
                              :name "Sonic a parťáci",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
+                                                                1089,
+                                                                :name
+                                                                "Animals"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1041,
+                                                                :name
+                                                                "Children's Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1031,
+                                                                :name
+                                                                "Racing"}
+                                   #:com.boardgamegeek.category{:id
                                                                 1101,
                                                                 :name
                                                                 "Video Game Theme"}),
@@ -4880,7 +4900,7 @@
                              :languages ["cs"],
                              :game/name "Spot it!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/AKdJV9CBlZBxH87EAfZ85A__thumb/img/MMvB9deDa-BgXcwyWIUsKleqbbU=/fit-in/200x150/filters:strip_icc()/pic7807049.jpg"},
+                             "https://cf.geekdo-images.com/hqDT4HbEb2eNCyMOeiGj-g__thumb/img/ZNgW2QhLjYpVltWHy3LyJqstnow=/fit-in/200x150/filters:strip_icc()/pic6477003.png"},
                             #uuid "7ce4acbd-f5ed-3800-9116-83ec4caff1ea"
                             {:game/id
                              #uuid "7ce4acbd-f5ed-3800-9116-83ec4caff1ea",
@@ -6859,11 +6879,11 @@
                              #uuid "2d524242-4e27-370f-a042-49942d61f783"
                              #uuid "532f8c74-c965-3a8b-84a5-bffce453945f"
                              #uuid "456d479c-8791-3533-bc06-24219803ec40"
+                             #uuid "3992d652-f81d-3e86-bd6e-2e685cb351a3"
                              #uuid "eaa9b08c-9718-39e9-84e8-e09ccf855ef0"
                              #uuid "c73c60b0-041e-3c17-a45e-f32238f2cb6e"
                              #uuid "ed2baf70-63da-3cbe-9737-466f5a29fe95"
                              #uuid "a136b6ff-012b-3a9d-8faf-8fd7a5009e28"
-                             #uuid "3992d652-f81d-3e86-bd6e-2e685cb351a3"
                              #uuid "6bdd63a2-940d-3e46-a254-30ccff2b0d49"
                              #uuid "17f2bdac-1ea8-3f22-ba63-b08b48b20bdd"
                              #uuid "d8ac8dc4-6760-3f12-96c2-e3420b291781"
@@ -6875,8 +6895,8 @@
                              #uuid "c0369449-3628-349a-a853-e01310284635"
                              #uuid "e64a40ce-1e9c-3e3b-94be-a3d33cd4bfb3"
                              #uuid "976db20c-913d-3df8-a781-4574c78c4a48"
-                             #uuid "ed2dab37-2f6d-3f1b-9ec5-40cacb2a1714"
                              #uuid "2da3c827-ccab-3485-9cb9-921b4f1addfa"
+                             #uuid "ed2dab37-2f6d-3f1b-9ec5-40cacb2a1714"
                              #uuid "455dbea5-74df-3b67-9829-75de15674204"
                              #uuid "56a53916-96df-3787-baa5-686dfce7ee2f"
                              #uuid "3c4ac596-2c34-3f1c-b8c6-82395c9831dd"

@@ -473,11 +473,7 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2897,
                                                                 :name
-                                                                "Variable Set-up"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2082,
-                                                                :name
-                                                                "Worker Placement"}),
+                                                                "Variable Set-up"}),
                              :name "Archa Nova",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -1368,7 +1364,7 @@
                              #uuid "d99a604c-79ce-3c2e-b6a2-f43488d5d4c3",
                              :com.boardgamegeek.boardgame/min-players
                              4,
-                             :com.boardgamegeek.boardgame/rating 6.8,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2893,
@@ -1950,9 +1946,9 @@
                              :game/name "Everdell",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/fjE7V5LNq31yVEW_yuqI-Q__thumb/img/Cf_mYxR_VvdjTEPXseSurni2JNI=/fit-in/200x150/filters:strip_icc()/pic3918905.png"},
-                            #uuid "a389677b-6118-3815-84fe-c1e75f38984c"
+                            #uuid "55ae5d34-67dd-31a1-97f3-34c8d3726737"
                             {:game/id
-                             #uuid "a389677b-6118-3815-84fe-c1e75f38984c",
+                             #uuid "55ae5d34-67dd-31a1-97f3-34c8d3726737",
                              :com.boardgamegeek.boardgame/min-players
                              2,
                              :com.boardgamegeek.boardgame/rating 6.2,
@@ -2007,9 +2003,10 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              10,
                              :com.boardgamegeek.boardgame/id "172242",
-                             :game/name "Exploding Kittens: NSFW Deck",
+                             :game/name
+                             "Exploding Kittens: NSFW Edition",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/qsvkRPq0sPATRiieLMKiQQ__thumb/img/RCdrPqv7PZ9cIsQmwXvaHbUlpC4=/fit-in/200x150/filters:strip_icc()/pic7022744.jpg"},
+                             "https://cf.geekdo-images.com/_9v_15rJjapltOr0I74uJQ__thumb/img/RG3VraWEZaezik-9vAA0ksN4MZI=/fit-in/200x150/filters:strip_icc()/pic9005066.png"},
                             #uuid "bf8d01be-0dae-35e4-a457-a3f4049c8606"
                             {:game/id
                              #uuid "bf8d01be-0dae-35e4-a457-a3f4049c8606",
@@ -5429,7 +5426,7 @@
                              #uuid "f4fc95a6-49c7-35b0-a88e-e67baaf858a2",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 6.8,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2046,
@@ -6108,7 +6105,7 @@
                              #uuid "0e13524e-0d23-310c-a97e-3ef1583014b4"
                              #uuid "e4aa4bf2-7c2c-3f92-9ea4-b86a7a51095c"
                              #uuid "182deae1-4ea2-3cb6-a9a3-ff03c832e910"
-                             #uuid "a389677b-6118-3815-84fe-c1e75f38984c"
+                             #uuid "55ae5d34-67dd-31a1-97f3-34c8d3726737"
                              #uuid "bf8d01be-0dae-35e4-a457-a3f4049c8606"
                              #uuid "c8f93560-ab90-3e08-af95-140ebb860697"
                              #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
@@ -6283,7 +6280,7 @@
                              #uuid "fc4b5160-634a-3e54-b306-97e5771f843c"
                              #uuid "7d486371-bb65-3063-b535-ceba4189d8ed"
                              #uuid "5e611ca2-e99d-358f-adc6-f3f7bcfb3ad5"
-                             #uuid "a389677b-6118-3815-84fe-c1e75f38984c"
+                             #uuid "55ae5d34-67dd-31a1-97f3-34c8d3726737"
                              #uuid "44de8c27-9942-39ca-997c-57ff932fc882"
                              #uuid "db6d2f3a-d731-3ddd-9e97-4b857d9ac065"
                              #uuid "41294cb9-5182-3d94-9146-761b3c5c0a98"
@@ -6298,12 +6295,12 @@
                              #uuid "7bae0b38-0a96-3ecc-b46e-2fb84ebd8dd8"
                              #uuid "6bdd63a2-940d-3e46-a254-30ccff2b0d49"
                              #uuid "24e29fc0-4246-32b5-8d1a-158e40691c8b"
+                             #uuid "d99a604c-79ce-3c2e-b6a2-f43488d5d4c3"
                              #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "06dfeee1-4208-36aa-86e8-d750140dbeaa"
+                             #uuid "f4fc95a6-49c7-35b0-a88e-e67baaf858a2"
                              #uuid "63e5002f-f8a6-36bd-81b5-2f817477eecf"
                              #uuid "ae767445-c0ab-3c20-a1bf-d310f7e291ee"
-                             #uuid "d99a604c-79ce-3c2e-b6a2-f43488d5d4c3"
-                             #uuid "f4fc95a6-49c7-35b0-a88e-e67baaf858a2"
                              #uuid "7d309184-ca47-30a1-8ead-7135f26f59fd"
                              #uuid "ce41796c-1b17-3a2c-b75d-41b274740ade"
                              #uuid "f159751b-d636-327e-aedf-917fbfaf7655"
@@ -6458,7 +6455,7 @@
                              #uuid "f159751b-d636-327e-aedf-917fbfaf7655"
                              #uuid "a528cdc2-c5e5-3afb-8043-1cfa5cde859a"
                              #uuid "b2980c72-2a1a-3e7a-b030-3718ce5491d8"
-                             #uuid "a389677b-6118-3815-84fe-c1e75f38984c"
+                             #uuid "55ae5d34-67dd-31a1-97f3-34c8d3726737"
                              #uuid "c8f93560-ab90-3e08-af95-140ebb860697"
                              #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "c0755e4b-2acc-34dc-8e23-68825e95b8dc"
@@ -6606,7 +6603,7 @@
                              #uuid "54c50c24-6cf7-35b1-9966-0eddfdef2895"
                              #uuid "63e5002f-f8a6-36bd-81b5-2f817477eecf"
                              #uuid "550d05ab-240e-3337-838a-f814ff0de287"
-                             #uuid "a389677b-6118-3815-84fe-c1e75f38984c"
+                             #uuid "55ae5d34-67dd-31a1-97f3-34c8d3726737"
                              #uuid "7d486371-bb65-3063-b535-ceba4189d8ed"
                              #uuid "abc5edec-2835-3550-b622-c491cdafdb5e"
                              #uuid "ce164ec5-d7aa-3247-b9f2-cfb37eb595eb"
@@ -6720,7 +6717,7 @@
                              #uuid "63860f18-7601-305e-8c01-a540acbccb9e"
                              #uuid "fc4b5160-634a-3e54-b306-97e5771f843c"
                              #uuid "a528cdc2-c5e5-3afb-8043-1cfa5cde859a"
-                             #uuid "a389677b-6118-3815-84fe-c1e75f38984c"
+                             #uuid "55ae5d34-67dd-31a1-97f3-34c8d3726737"
                              #uuid "06dfeee1-4208-36aa-86e8-d750140dbeaa"
                              #uuid "3da3ce69-4e95-3c15-beec-5d9ec2078260"
                              #uuid "8af65315-b94d-3484-be10-eaf75cc6d55a"
@@ -6881,7 +6878,7 @@
                              #uuid "fc4b5160-634a-3e54-b306-97e5771f843c"
                              #uuid "f159751b-d636-327e-aedf-917fbfaf7655"
                              #uuid "a528cdc2-c5e5-3afb-8043-1cfa5cde859a"
-                             #uuid "a389677b-6118-3815-84fe-c1e75f38984c"
+                             #uuid "55ae5d34-67dd-31a1-97f3-34c8d3726737"
                              #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "0b5d8490-cda6-3f85-ac58-70ed3aefe115"
                              #uuid "ee1eea0e-7583-3d7b-aff5-526c4139d995"

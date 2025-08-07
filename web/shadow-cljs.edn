@@ -6,6 +6,8 @@
  {:app {:modules {:cljs_base {}
                   :bbb_app {:entries [app.bbb-core]
                             :depends-on #{:cljs_base}}
+                  :deskohub_app {:entries [app.deskohub-core]
+                                 :depends-on #{:cljs_base}}
                   :fyft_app {:entries [app.fyft-core]
                              :depends-on #{:cljs_base}}
                   :geekarna_app {:entries [app.geekarna-core]

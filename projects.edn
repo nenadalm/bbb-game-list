@@ -2,6 +2,10 @@
   :description "List of games at Bohemia boards and brews."
   :project "bbb"
   :label "bohemiaboardsandbrews.com"}
+ {:title "Games - Deskohub"
+  :description "List of games at Deskohub."
+  :project "deskohub"
+  :label "deskohub.cz"}
  {:title "Games - FYFT"
   :description "List of games at FYFT."
   :project "fyft"

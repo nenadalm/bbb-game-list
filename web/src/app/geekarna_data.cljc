@@ -795,10 +795,6 @@
                                                                 :name
                                                                 "Map Addition"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                2011,
-                                                                :name
-                                                                "Modular Board"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2048,
                                                                 :name
                                                                 "Pattern Building"}
@@ -809,11 +805,7 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2002,
                                                                 :name
-                                                                "Tile Placement"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2897,
-                                                                :name
-                                                                "Variable Set-up"}),
+                                                                "Tile Placement"}),
                              :name "Carcassonne",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -2156,7 +2148,7 @@
                              #uuid "95d91371-c7b0-33a1-b15f-59d297084309",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.0,
+                             :com.boardgamegeek.boardgame/rating 6.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2046,
@@ -3959,7 +3951,7 @@
                              #uuid "3992d652-f81d-3e86-bd6e-2e685cb351a3",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.4,
+                             :com.boardgamegeek.boardgame/rating 6.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -5640,10 +5632,10 @@
                              #uuid "b603be04-6445-36f1-b498-b53725726bc7"
                              #uuid "6e8ce4f2-3cc4-37b8-9002-721e44843aaf"
                              #uuid "5a2e6d3b-5ff8-3817-a618-ee19c5ead616"
-                             #uuid "95d91371-c7b0-33a1-b15f-59d297084309"
                              #uuid "f5aef75f-0075-3e43-8fd6-40e5917ccbd1"
                              #uuid "21e5a6d1-545b-34f3-8fa9-838272916ed7"
                              #uuid "165261a9-0183-3e53-be82-ccc197c354b8"
+                             #uuid "95d91371-c7b0-33a1-b15f-59d297084309"
                              #uuid "6524398b-036c-370d-b89f-92be8403ef9b"
                              #uuid "4a9141c6-9e2e-398d-8335-1a81caf7d4b9"
                              #uuid "91c81e3c-0ede-3c19-a61d-3391680cebb4"
@@ -5657,11 +5649,11 @@
                              #uuid "80e0ea38-13da-3e5c-b6d5-eed2f1d72e3e"
                              #uuid "2d8e773d-0e5c-3aae-b72c-64c3a9a44fb0"
                              #uuid "8af65315-b94d-3484-be10-eaf75cc6d55a"
-                             #uuid "3992d652-f81d-3e86-bd6e-2e685cb351a3"
                              #uuid "fc7dac0e-7ba1-34ab-bb0c-9d61f18c8814"
                              #uuid "bf515360-5eca-32d5-ac9d-fb620b905619"
                              #uuid "34f51796-139c-3361-80cf-4987af1c7391"
                              #uuid "645ab7f6-09eb-3401-988d-97cd930668c1"
+                             #uuid "3992d652-f81d-3e86-bd6e-2e685cb351a3"
                              #uuid "6bdd63a2-940d-3e46-a254-30ccff2b0d49"
                              #uuid "489b3ae2-2c96-3502-b825-0636379da46e"
                              #uuid "491398e1-6fe5-3d28-aa73-69c64b4168bb"

@@ -28511,6 +28511,12 @@
                              :game/name "Radlands",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/YpQUtpxNtDHBF5eVcwzBtQ__thumb/img/tN06HL-O6O-ayKHxEio9xYoJym0=/fit-in/200x150/filters:strip_icc()/pic6478338.png"},
+                            #uuid "559822a8-1705-34d4-b818-95e00bdb7a4a"
+                            {:name "Radlands: Cult of Chrome",
+                             :game/id
+                             #uuid "559822a8-1705-34d4-b818-95e00bdb7a4a",
+                             :game/name "Radlands: Cult of Chrome",
+                             :com.boardgamegeek.boardgame/id "422233"},
                             #uuid "510efff7-538f-3871-9abd-077a65943258"
                             {:game/id
                              #uuid "510efff7-538f-3871-9abd-077a65943258",
@@ -43407,6 +43413,7 @@
                              #uuid "43892b08-31c9-3b94-a9da-edbfa1278588"
                              #uuid "a25de331-0ee1-3c49-a544-820cb07931ab"
                              #uuid "ec36581d-580f-3030-bdd7-9bf6d6ef5c92"
+                             #uuid "559822a8-1705-34d4-b818-95e00bdb7a4a"
                              #uuid "510efff7-538f-3871-9abd-077a65943258"
                              #uuid "11f36134-602d-3254-a3f5-c9a8cc1b6c5d"
                              #uuid "c4446d3b-cce6-32f4-bc17-ee8923456c0e"
@@ -43827,6 +43834,7 @@
                              #uuid "b73f709b-b945-3fac-af31-f67c8d68fff9"
                              #uuid "690ddfce-22ab-3046-8679-20f74ebf824c"
                              #uuid "1a102e3f-96ba-30b5-aaad-36f2086699bb"
+                             #uuid "559822a8-1705-34d4-b818-95e00bdb7a4a"
                              #uuid "c4446d3b-cce6-32f4-bc17-ee8923456c0e"
                              #uuid "3fc63437-f318-34ff-816c-247fcd89a46d"
                              #uuid "d25123e6-9f97-3746-922c-15b1a4d7a281"
@@ -44790,6 +44798,7 @@
                              #uuid "b73f709b-b945-3fac-af31-f67c8d68fff9"
                              #uuid "690ddfce-22ab-3046-8679-20f74ebf824c"
                              #uuid "1a102e3f-96ba-30b5-aaad-36f2086699bb"
+                             #uuid "559822a8-1705-34d4-b818-95e00bdb7a4a"
                              #uuid "c4446d3b-cce6-32f4-bc17-ee8923456c0e"
                              #uuid "3fc63437-f318-34ff-816c-247fcd89a46d"
                              #uuid "d25123e6-9f97-3746-922c-15b1a4d7a281"
@@ -45754,6 +45763,7 @@
                              #uuid "b73f709b-b945-3fac-af31-f67c8d68fff9"
                              #uuid "690ddfce-22ab-3046-8679-20f74ebf824c"
                              #uuid "1a102e3f-96ba-30b5-aaad-36f2086699bb"
+                             #uuid "559822a8-1705-34d4-b818-95e00bdb7a4a"
                              #uuid "c4446d3b-cce6-32f4-bc17-ee8923456c0e"
                              #uuid "3fc63437-f318-34ff-816c-247fcd89a46d"
                              #uuid "d25123e6-9f97-3746-922c-15b1a4d7a281"
@@ -46720,6 +46730,7 @@
                              #uuid "b73f709b-b945-3fac-af31-f67c8d68fff9"
                              #uuid "690ddfce-22ab-3046-8679-20f74ebf824c"
                              #uuid "1a102e3f-96ba-30b5-aaad-36f2086699bb"
+                             #uuid "559822a8-1705-34d4-b818-95e00bdb7a4a"
                              #uuid "c4446d3b-cce6-32f4-bc17-ee8923456c0e"
                              #uuid "3fc63437-f318-34ff-816c-247fcd89a46d"
                              #uuid "d25123e6-9f97-3746-922c-15b1a4d7a281"
@@ -47689,6 +47700,7 @@
                              #uuid "b73f709b-b945-3fac-af31-f67c8d68fff9"
                              #uuid "690ddfce-22ab-3046-8679-20f74ebf824c"
                              #uuid "1a102e3f-96ba-30b5-aaad-36f2086699bb"
+                             #uuid "559822a8-1705-34d4-b818-95e00bdb7a4a"
                              #uuid "c4446d3b-cce6-32f4-bc17-ee8923456c0e"
                              #uuid "3fc63437-f318-34ff-816c-247fcd89a46d"
                              #uuid "d25123e6-9f97-3746-922c-15b1a4d7a281"

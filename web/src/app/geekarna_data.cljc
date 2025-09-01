@@ -76,7 +76,7 @@
                              #uuid "b603be04-6445-36f1-b498-b53725726bc7",
                              :com.boardgamegeek.boardgame/min-players
                              3,
-                             :com.boardgamegeek.boardgame/rating 5.9,
+                             :com.boardgamegeek.boardgame/rating 6.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2073,
@@ -456,11 +456,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1024,
                                                                 :name
-                                                                "Horror"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1047,
-                                                                :name
-                                                                "Miniatures"}),
+                                                                "Horror"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              60,
                              :com.boardgamegeek.boardgame/max-players
@@ -4128,7 +4124,7 @@
                              #uuid "dee45e08-5103-32ec-93b7-17d391b64576",
                              :com.boardgamegeek.boardgame/min-players
                              3,
-                             :com.boardgamegeek.boardgame/rating 6.8,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2073,
@@ -5629,11 +5625,11 @@
                              #uuid "016a3787-7fcd-3c9a-a430-826e242fcbe1"
                              #uuid "b90c1573-28dd-3818-a02a-5a66ae9b080a"
                              #uuid "95dbca90-3ebf-3ef6-9601-a650c4f9aa3e"
-                             #uuid "b603be04-6445-36f1-b498-b53725726bc7"
                              #uuid "6e8ce4f2-3cc4-37b8-9002-721e44843aaf"
                              #uuid "5a2e6d3b-5ff8-3817-a618-ee19c5ead616"
                              #uuid "f5aef75f-0075-3e43-8fd6-40e5917ccbd1"
                              #uuid "21e5a6d1-545b-34f3-8fa9-838272916ed7"
+                             #uuid "b603be04-6445-36f1-b498-b53725726bc7"
                              #uuid "165261a9-0183-3e53-be82-ccc197c354b8"
                              #uuid "95d91371-c7b0-33a1-b15f-59d297084309"
                              #uuid "6524398b-036c-370d-b89f-92be8403ef9b"
@@ -5660,9 +5656,9 @@
                              #uuid "d99a604c-79ce-3c2e-b6a2-f43488d5d4c3"
                              #uuid "441920cf-d8db-37ee-90dc-7abd5bdc4b15"
                              #uuid "699a501a-7f2c-375c-a207-06116c5a611c"
+                             #uuid "dee45e08-5103-32ec-93b7-17d391b64576"
                              #uuid "3e302b86-f47c-3d22-9b4d-c253439d9970"
                              #uuid "6b17f1d4-4d78-3b36-ad3c-c6bf29954dfd"
-                             #uuid "dee45e08-5103-32ec-93b7-17d391b64576"
                              #uuid "69f37529-89a4-388b-92b7-e169374ca82a"
                              #uuid "3d1f92a5-65d3-31a6-9880-236e33c49bf3"
                              #uuid "d184a11a-02b5-3a54-a154-d789dc703483"

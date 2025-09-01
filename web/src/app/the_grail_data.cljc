@@ -1851,11 +1851,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1046,
                                                                 :name
-                                                                "Fighting"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1047,
-                                                                :name
-                                                                "Miniatures"}),
+                                                                "Fighting"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              480,
                              :com.boardgamegeek.boardgame/max-players
@@ -2064,10 +2060,6 @@
                                                                 1020,
                                                                 :name
                                                                 "Exploration"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1047,
-                                                                :name
-                                                                "Miniatures"}
                                    #:com.boardgamegeek.category{:id
                                                                 1016,
                                                                 :name
@@ -2787,10 +2779,6 @@
                                                                 1010,
                                                                 :name
                                                                 "Fantasy"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1047,
-                                                                :name
-                                                                "Miniatures"}
                                    #:com.boardgamegeek.category{:id
                                                                 1082,
                                                                 :name
@@ -4044,10 +4032,6 @@
                                                                 :name
                                                                 "Fantasy"}
                                    #:com.boardgamegeek.category{:id
-                                                                1047,
-                                                                :name
-                                                                "Miniatures"}
-                                   #:com.boardgamegeek.category{:id
                                                                 1082,
                                                                 :name
                                                                 "Mythology"}
@@ -4917,10 +4901,6 @@
                                                                 1035,
                                                                 :name
                                                                 "Medieval"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1047,
-                                                                :name
-                                                                "Miniatures"}
                                    #:com.boardgamegeek.category{:id
                                                                 1082,
                                                                 :name
@@ -5862,11 +5842,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1055,
                                                                 :name
-                                                                "American West"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1047,
-                                                                :name
-                                                                "Miniatures"}),
+                                                                "American West"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              90,
                              :com.boardgamegeek.boardgame/max-players

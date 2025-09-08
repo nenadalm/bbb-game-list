@@ -23002,6 +23002,50 @@
                              :game/name "Monza",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Avm_weldy7Gz0Haq4tLceQ__thumb/img/NTUHIw34Bus08iK1t3M3q_hZgzI=/fit-in/200x150/filters:strip_icc()/pic8894429.png"},
+                            #uuid "ab43436a-ccec-3cc4-aa00-671d00e8b1af"
+                            {:game/id
+                             #uuid "ab43436a-ccec-3cc4-aa00-671d00e8b1af",
+                             :com.boardgamegeek.boardgame/min-players
+                             2,
+                             :com.boardgamegeek.boardgame/rating 5.8,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2080,
+                                                                :name
+                                                                "Area Majority / Influence"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                3001,
+                                                                :name
+                                                                "Layering"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2846,
+                                                                :name
+                                                                "Once-Per-Game Abilities"}),
+                             :name "Moonlight: The Land of the Wolves",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1089,
+                                                                :name
+                                                                "Animals"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1002,
+                                                                :name
+                                                                "Card Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1086,
+                                                                :name
+                                                                "Territory Building"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/max-players
+                             2,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             15,
+                             :com.boardgamegeek.boardgame/id "441731",
+                             :game/name
+                             "Moonlight: The Land of the Wolves",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/crVbHMprAqSNSlRb_kc69w__small/img/_haISbz1m4cYtTitoU9vtx7hm_4=/fit-in/200x150/filters:strip_icc()/pic8819177.jpg"},
                             #uuid "e00bea06-b165-3de6-bd14-3b6264ca095e"
                             {:game/id
                              #uuid "e00bea06-b165-3de6-bd14-3b6264ca095e",
@@ -43252,6 +43296,7 @@
                              #uuid "5c742d80-ea46-3f08-85b3-db52ffd6dd1d"
                              #uuid "6ca0c1ce-f6e9-3a5e-bda8-06d34efa6f07"
                              #uuid "f99eb1ab-b22f-3ad8-be01-6560d35d334b"
+                             #uuid "ab43436a-ccec-3cc4-aa00-671d00e8b1af"
                              #uuid "e00bea06-b165-3de6-bd14-3b6264ca095e"
                              #uuid "f5d99f8f-98f7-3c77-8360-1ad0e1e2141c"
                              #uuid "a136b6ff-012b-3a9d-8faf-8fd7a5009e28"
@@ -43955,6 +44000,7 @@
                              #uuid "08ef51b0-0429-392e-a84c-ef9cf5ecfd89"
                              #uuid "431c14ad-268c-3b95-bb3a-cc7c2ec6a17f"
                              #uuid "42bc3dbf-9e01-331c-a945-6a51ffabc00b"
+                             #uuid "ab43436a-ccec-3cc4-aa00-671d00e8b1af"
                              #uuid "8c4a93bb-ed9c-3cf5-ada9-bd549d10f80f"
                              #uuid "50b9ca05-2681-39da-82e4-e2a405bd0ea0"
                              #uuid "315d240a-a53b-32a7-b131-db1836c44a17"
@@ -45383,6 +45429,7 @@
                              #uuid "5c742d80-ea46-3f08-85b3-db52ffd6dd1d"
                              #uuid "6ca0c1ce-f6e9-3a5e-bda8-06d34efa6f07"
                              #uuid "f99eb1ab-b22f-3ad8-be01-6560d35d334b"
+                             #uuid "ab43436a-ccec-3cc4-aa00-671d00e8b1af"
                              #uuid "e00bea06-b165-3de6-bd14-3b6264ca095e"
                              #uuid "a136b6ff-012b-3a9d-8faf-8fd7a5009e28"
                              #uuid "ca40f782-4c29-3312-9055-cd877a45ce98"
@@ -45867,6 +45914,7 @@
                              #uuid "007cb741-f0af-3ac8-9ad9-d4e6a3c12a34"
                              #uuid "2ba9e4a3-1e9f-32b8-9db3-c005c2f08a13"
                              #uuid "6d729a9e-ee0a-3454-ac72-27d2753d1d74"
+                             #uuid "ab43436a-ccec-3cc4-aa00-671d00e8b1af"
                              #uuid "d35b5753-4313-359a-b6e4-fb9b01f28e13"
                              #uuid "2dba63c8-4c8d-330a-b80b-bbefbca8823b"
                              #uuid "cadee47f-c1f2-3967-97e3-24afe46ab9ef"
@@ -46927,6 +46975,7 @@
                              #uuid "52f25279-06ae-3e8c-ae6f-8b793c40b13d"
                              #uuid "314a8106-847d-3cbb-babe-a36b8ee15564"
                              #uuid "6ca0c1ce-f6e9-3a5e-bda8-06d34efa6f07"
+                             #uuid "ab43436a-ccec-3cc4-aa00-671d00e8b1af"
                              #uuid "50b9ca05-2681-39da-82e4-e2a405bd0ea0"
                              #uuid "37c8022e-5e8b-3c80-ad5e-52dc040d1bc2"
                              #uuid "90af4ed6-44a7-3cfb-9038-69d0140925f2"
@@ -48026,6 +48075,7 @@
                              #uuid "a6bfec71-66d8-3fb9-8b84-4865e8f3771a"
                              #uuid "7e76977f-ea16-34cb-a94a-1b4dd61df74b"
                              #uuid "23013ef9-a654-340f-bf84-f9679e90ea94"
+                             #uuid "ab43436a-ccec-3cc4-aa00-671d00e8b1af"
                              #uuid "e3ff49f1-3a4e-3be2-9c80-51385adc499c"
                              #uuid "04e8ca48-5ffe-31d2-9e4e-3cd1a59616a4"
                              #uuid "6de2d947-5379-351e-8015-c1bc84a64883"

@@ -1685,102 +1685,6 @@
                              #uuid "fdfb833c-1054-306f-b5c5-70ef6d100cfd",
                              :game/name "Daitoshi",
                              :com.boardgamegeek.boardgame/id "368509"},
-                            #uuid "022a27f8-e77e-3c5c-8808-6a3640c56d8f"
-                            {:game/id
-                             #uuid "022a27f8-e77e-3c5c-8808-6a3640c56d8f",
-                             :com.boardgamegeek.boardgame/min-players
-                             2,
-                             :com.boardgamegeek.boardgame/rating 7.4,
-                             :com.boardgamegeek.boardgame/mechanics
-                             (list #:com.boardgamegeek.mechanic{:id
-                                                                2001,
-                                                                :name
-                                                                "Action Points"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2046,
-                                                                :name
-                                                                "Area Movement"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2072,
-                                                                :name
-                                                                "Dice Rolling"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2040,
-                                                                :name
-                                                                "Hand Management"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2851,
-                                                                :name
-                                                                "Narrative Choice / Paragraph"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2661,
-                                                                :name
-                                                                "Push Your Luck"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2822,
-                                                                :name
-                                                                "Scenario / Mission / Campaign Game"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2820,
-                                                                :name
-                                                                "Semi-Cooperative Game"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2027,
-                                                                :name
-                                                                "Storytelling"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2008,
-                                                                :name
-                                                                "Trading"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2814,
-                                                                :name
-                                                                "Traitor Game"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2828,
-                                                                :name
-                                                                "Turn Order: Progressive"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2015,
-                                                                :name
-                                                                "Variable Player Powers"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2017,
-                                                                :name
-                                                                "Voting"}),
-                             :name "Dead of Winter (Zima Mrtvých)",
-                             :com.boardgamegeek.boardgame/categories
-                             (list #:com.boardgamegeek.category{:id
-                                                                1023,
-                                                                :name
-                                                                "Bluffing"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1039,
-                                                                :name
-                                                                "Deduction"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1024,
-                                                                :name
-                                                                "Horror"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1016,
-                                                                :name
-                                                                "Science Fiction"}
-                                   #:com.boardgamegeek.category{:id
-                                                                2481,
-                                                                :name
-                                                                "Zombies"}),
-                             :com.boardgamegeek.boardgame/max-play-time
-                             120,
-                             :com.boardgamegeek.boardgame/max-players
-                             5,
-                             :com.boardgamegeek.boardgame/min-play-time
-                             60,
-                             :com.boardgamegeek.boardgame/id "150376",
-                             :game/name
-                             "Dead of Winter: A Crossroads Game",
-                             :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/g4mV4BH-ZrhMUVgil-yV1A__thumb/img/foFGN8KwmN8BaYNpolq0HcMba4M=/fit-in/200x150/filters:strip_icc()/pic3016500.jpg"},
                             #uuid "f49fab51-1d4d-3849-b943-6d18e3b10a71"
                             {:game/id
                              #uuid "f49fab51-1d4d-3849-b943-6d18e3b10a71",
@@ -7035,7 +6939,6 @@
                              #uuid "dd6f7a14-de47-37f2-bb22-bd37cf04e69b"
                              #uuid "52a4ec0d-0621-38c5-92f8-9623c66fe3ba"
                              #uuid "fdfb833c-1054-306f-b5c5-70ef6d100cfd"
-                             #uuid "022a27f8-e77e-3c5c-8808-6a3640c56d8f"
                              #uuid "f49fab51-1d4d-3849-b943-6d18e3b10a71"
                              #uuid "69895ff2-b990-3611-827e-f4f7fd32eb8a"
                              #uuid "44b48fbc-726e-308f-a3dd-ea5a089246a0"
@@ -7224,7 +7127,6 @@
                              #uuid "ab2c0722-a352-35b9-97a6-fdb65bfbcd43"
                              #uuid "d870dd90-0a48-3af6-b003-b15ac3289fa4"
                              #uuid "f6358c6d-587f-3ca9-8501-68859005fb86"
-                             #uuid "022a27f8-e77e-3c5c-8808-6a3640c56d8f"
                              #uuid "a5fc263e-513f-3a6e-a196-9f328b3892c1"
                              #uuid "e8d2a59c-f315-3860-9608-b04f893cbc93"
                              #uuid "548d40ad-9562-3712-a0a0-f072f66b395c"
@@ -7398,7 +7300,6 @@
                              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a"
                              #uuid "c7b74e13-dff8-3831-98f4-1d81198c1337"
                              #uuid "dd6f7a14-de47-37f2-bb22-bd37cf04e69b"
-                             #uuid "022a27f8-e77e-3c5c-8808-6a3640c56d8f"
                              #uuid "28bfd12a-29c7-3b1c-b3b9-2e241ba98ee5"
                              #uuid "e8d2a59c-f315-3860-9608-b04f893cbc93"
                              #uuid "81cc0f79-3609-346a-8dde-65ed1c9f3c3a"
@@ -7546,7 +7447,6 @@
                              #uuid "c09ad586-8d09-38f9-9f2c-e400662588b2"
                              #uuid "605b29d5-2d5d-30c9-bf02-1eb669804b8b"
                              #uuid "9850393e-3cf4-31d1-85d8-7b2ccd660162"
-                             #uuid "022a27f8-e77e-3c5c-8808-6a3640c56d8f"
                              #uuid "28bfd12a-29c7-3b1c-b3b9-2e241ba98ee5"
                              #uuid "a5fc263e-513f-3a6e-a196-9f328b3892c1"
                              #uuid "e8d2a59c-f315-3860-9608-b04f893cbc93"
@@ -7691,7 +7591,6 @@
                              #uuid "f6b1061e-002a-352d-8600-dde1500b71b9"
                              #uuid "e6f2b917-44b7-3822-8d49-6493a0458968"
                              #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7"
-                             #uuid "022a27f8-e77e-3c5c-8808-6a3640c56d8f"
                              #uuid "f49fab51-1d4d-3849-b943-6d18e3b10a71"
                              #uuid "0e13524e-0d23-310c-a97e-3ef1583014b4"
                              #uuid "9cfc6178-7bb7-3670-9d1d-e74412bd0a23"
@@ -7844,7 +7743,6 @@
                              #uuid "f6b1061e-002a-352d-8600-dde1500b71b9"
                              #uuid "e6f2b917-44b7-3822-8d49-6493a0458968"
                              #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7"
-                             #uuid "022a27f8-e77e-3c5c-8808-6a3640c56d8f"
                              #uuid "0e13524e-0d23-310c-a97e-3ef1583014b4"
                              #uuid "bd1d87d3-0c87-35ce-be59-63074aafb4c9"
                              #uuid "457af9d0-dff8-3daa-90d9-02dfbef1736f"

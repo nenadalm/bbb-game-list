@@ -18,6 +18,24 @@
 (defn ok-response? [response]
   (<= 200 (:status response) 299))
 
+(defn- decompress [stream content-encoding]
+  (case content-encoding
+    "gzip" (java.util.zip.GZIPInputStream. stream)
+    stream))
+
+(defn- get-stream [conn content-encoding]
+  (decompress (or (.getErrorStream conn) (.getInputStream conn)) content-encoding))
+
+(defn- enrich-with-body [response conn opts]
+  (assoc
+   response
+   :body
+   (let [content-encoding (get-in response [:headers "content-encoding"])]
+     (case (:as opts)
+       :stream (get-stream conn content-encoding)
+       (with-open [stream (get-stream conn content-encoding)]
+         (String. (.readAllBytes stream) java.nio.charset.StandardCharsets/UTF_8))))))
+
 (defn request
   "opts
     required:
@@ -46,16 +64,13 @@
     (.connect conn)
 
     (let [status (.getResponseCode conn)
-          response {:status status
-                    :body (case (:as opts)
-                            :stream (.getInputStream conn)
-                            (with-open [stream (or (.getErrorStream conn) (.getInputStream conn))]
-                              (String. (.readAllBytes stream) java.nio.charset.StandardCharsets/UTF_8)))
-                    :headers (into {}
-                                   (keep (fn [[k v]]
-                                           (when k
-                                             [(str/lower-case k) (str/join "," v)])))
-                                   (.getHeaderFields conn))}]
+          response (-> {:status status
+                        :headers (into {}
+                                       (keep (fn [[k v]]
+                                               (when k
+                                                 [(str/lower-case k) (str/join "," v)])))
+                                       (.getHeaderFields conn))}
+                       (enrich-with-body conn opts))]
       (when (and (:throw-on-error opts)
                  (not (ok-response? response)))
         (throw (ex-info "Request failed" {:response response})))

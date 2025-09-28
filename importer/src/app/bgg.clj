@@ -5,11 +5,54 @@
    [clojure.string :as str]
    [clojure.math :as m]
    [clojure.edn :as edn]
-   [app.url :as url]
    [app.util :as u]
-   [app.cache :as cache]))
+   [app.cache :as cache]
+   [app.http.url :as http]))
 
 (def ^:private api-root "https://www.boardgamegeek.com/xmlapi2")
+
+(defn- parse-xml* [url]
+  (let [response (http/request
+                  {:url url
+                   :as :stream})]
+    (cond
+      (= 202 (:status response))
+      (do
+        (tap> "Response: 202 - retrying...")
+        (Thread/sleep 2000)
+        (recur url))
+
+      (http/ok-response? response)
+      (with-open [xin (:body response)]
+        (clojure.xml/parse xin))
+
+      :else (throw (ex-info "Unexpected response." {:status (:status response)})))))
+
+(def ^{:arglists (:arglists (meta #'parse-xml*))} parse-xml
+  (->> parse-xml*
+       (u/retry 3 5000)
+       (u/blocking-throttle 2000) ;; boardgamegeek.com returns `429 Too Many Requests` in case we are too quick, sometimes it fails with eof error.
+       ))
+
+(defn- cache-url [url content]
+  (cache/store (u/sha1 (str url)) (pr-str content)))
+
+(defn- load-url [url]
+  (edn/read-string (cache/load (u/sha1 (str url)))))
+
+(defn parse-cached-xml [url]
+  (if-let [data (load-url url)]
+    (do
+      (tap> (str "[GET - CACHED] " url))
+      data)
+    (do
+      (tap> (str "[GET] " url))
+      (let [data (parse-xml url)]
+        (cache-url url data)
+        data))))
+
+(defn parse-uncached-xml [url]
+  (parse-xml url))
 
 (defn- round-10 [x]
   (float (/ (m/round (* 10 x)) 10)))
@@ -33,20 +76,6 @@
   (clojure.java.io/as-url (str api-root
                                "/collection?own=1&username="
                                (java.net.URLEncoder/encode username))))
-
-(defn- parse-cached-xml* [url]
-  (with-open [xin (url/->cached-stream url)]
-    (clojure.xml/parse xin)))
-
-(def ^{:arglists (:arglists (meta #'parse-cached-xml*))} parse-cached-xml
-  (u/retry 3 0 parse-cached-xml*))
-
-(defn- parse-uncached-xml* [url]
-  (with-open [xin (url/->uncached-stream url)]
-    (clojure.xml/parse xin)))
-
-(def ^{:arglists (:arglists (meta #'parse-uncached-xml*))} parse-uncached-xml
-  (u/retry 3 0 parse-uncached-xml*))
 
 (defn- game-item->game [game-item]
   (reduce

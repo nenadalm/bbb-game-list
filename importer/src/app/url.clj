@@ -40,17 +40,6 @@
   (->> load-and-cache*
        (u/retry 3 5000)))
 
-(defn- load-without-cache* [url opts]
-  (tap> (str "[GET] " url))
-  (uncached-url-stream url opts))
-
-(def ^:private load-without-cache
-  (->> load-without-cache*
-       (u/retry 3 5000)))
-
-(defn ->uncached-stream [url]
-  (load-without-cache url {}))
-
 (defn ->cached-stream
   ([url] (->cached-stream url {}))
   ([url opts]

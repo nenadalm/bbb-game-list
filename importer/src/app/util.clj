@@ -1,5 +1,10 @@
 (ns app.util)
 
+(defn sha1 [s]
+  (let [c (java.security.MessageDigest/getInstance "sha-1")]
+    (.update c (.getBytes s "utf-8"))
+    (.encodeHex (at.favre.lib.bytes.Bytes/wrap (.digest c)))))
+
 (defn blocking-throttle
   "Returns function with same arguments as `f` that can be called at most once every `ms` ms. In case function would be called more times, current thread is blocked up to `ms` ms."
   [ms f]

@@ -26,7 +26,7 @@
                              :com.boardgamegeek.boardgame/id "355473",
                              :game/name "3 Second Try",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/oPqj4e-OJffDpNNGeZmUnw__thumb/img/A36hH65_6Jr6flu5-vt4ZIf6g24=/fit-in/200x150/filters:strip_icc()/pic7757954.jpg"},
+                             "https://cf.geekdo-images.com/oPqj4e-OJffDpNNGeZmUnw__small/img/A36hH65_6Jr6flu5-vt4ZIf6g24=/fit-in/200x150/filters:strip_icc()/pic7757954.jpg"},
                             #uuid "d93a081b-6c5a-3ab8-871e-8c286cef8e0f"
                             {:game/id
                              #uuid "d93a081b-6c5a-3ab8-871e-8c286cef8e0f",
@@ -65,13 +65,13 @@
                              :com.boardgamegeek.boardgame/id "86073",
                              :game/name "5 Second Rule",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/wtON3lcNAz66s-WJ0OVmGg__thumb/img/UCk_GelKFp7Bq7aEdiNO_6TPJYs=/fit-in/200x150/filters:strip_icc()/pic7476834.jpg"},
+                             "https://cf.geekdo-images.com/wtON3lcNAz66s-WJ0OVmGg__small/img/UCk_GelKFp7Bq7aEdiNO_6TPJYs=/fit-in/200x150/filters:strip_icc()/pic7476834.jpg"},
                             #uuid "629e0d23-6bd7-35bc-abe5-da52d8053d16"
                             {:game/id
                              #uuid "629e0d23-6bd7-35bc-abe5-da52d8053d16",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.8,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
@@ -108,7 +108,7 @@
                              :com.boardgamegeek.boardgame/id "400205",
                              :game/name "5 Towers",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/LSvZr6UroXeY5w_6JA1czw__thumb/img/l0LWgQK_ErVTvnKTgvT9HO04MXI=/fit-in/200x150/filters:strip_icc()/pic7734900.png"},
+                             "https://cf.geekdo-images.com/LSvZr6UroXeY5w_6JA1czw__small/img/l0LWgQK_ErVTvnKTgvT9HO04MXI=/fit-in/200x150/filters:strip_icc()/pic7734900.png"},
                             #uuid "a5820959-3749-3afe-adbb-0abd88a5dcbf"
                             {:game/id
                              #uuid "a5820959-3749-3afe-adbb-0abd88a5dcbf",
@@ -163,7 +163,7 @@
                              :com.boardgamegeek.boardgame/id "410103",
                              :game/name "7 Empires",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/z60r27u5sZiqNm02hwlGWA__thumb/img/Hh6AO6p31Jwxba8R9uTFP-NNpsk=/fit-in/200x150/filters:strip_icc()/pic8430006.jpg"},
+                             "https://cf.geekdo-images.com/z60r27u5sZiqNm02hwlGWA__small/img/Hh6AO6p31Jwxba8R9uTFP-NNpsk=/fit-in/200x150/filters:strip_icc()/pic8430006.jpg"},
                             #uuid "449377c8-c54e-333f-a0a5-8ff81f882894"
                             {:game/id
                              #uuid "449377c8-c54e-333f-a0a5-8ff81f882894",
@@ -259,7 +259,7 @@
                              :languages ["cs"],
                              :game/name "7 Wonders",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/35h9Za_JvMMMtx_92kT0Jg__thumb/img/BUOso8b0M1aUOkU80FWlhE8uuxc=/fit-in/200x150/filters:strip_icc()/pic7149798.jpg"},
+                             "https://cf.geekdo-images.com/35h9Za_JvMMMtx_92kT0Jg__small/img/BUOso8b0M1aUOkU80FWlhE8uuxc=/fit-in/200x150/filters:strip_icc()/pic7149798.jpg"},
                             #uuid "aa2a14f6-6296-368a-8fab-970e48ba9430"
                             {:game/id
                              #uuid "aa2a14f6-6296-368a-8fab-970e48ba9430",
@@ -359,7 +359,7 @@
                              :languages ["cs"],
                              :game/name "7 Wonders Duel",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__thumb/img/gV1-ckZSIC-dCxxpq1Y7GmPITzQ=/fit-in/200x150/filters:strip_icc()/pic2576399.jpg"},
+                             "https://cf.geekdo-images.com/zdagMskTF7wJBPjX74XsRw__small/img/gV1-ckZSIC-dCxxpq1Y7GmPITzQ=/fit-in/200x150/filters:strip_icc()/pic2576399.jpg"},
                             #uuid "0234c9d4-c79d-387b-988c-2a28d606bd57"
                             {:game/id
                              #uuid "0234c9d4-c79d-387b-988c-2a28d606bd57",
@@ -394,7 +394,7 @@
                              :com.boardgamegeek.boardgame/id "268920",
                              :game/name "9 Lives",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Oq2ipSspc7z_1i_L5ho4TQ__thumb/img/Ncas2Sdg84iLDkZ3jBCgrFLQsiA=/fit-in/200x150/filters:strip_icc()/pic4538804.png"},
+                             "https://cf.geekdo-images.com/Oq2ipSspc7z_1i_L5ho4TQ__small/img/Ncas2Sdg84iLDkZ3jBCgrFLQsiA=/fit-in/200x150/filters:strip_icc()/pic4538804.png"},
                             #uuid "c37bef0d-0c7b-30a3-a439-5c9b9ae2bee5"
                             {:game/id
                              #uuid "c37bef0d-0c7b-30a3-a439-5c9b9ae2bee5",
@@ -439,7 +439,7 @@
                              :game/name
                              "A Fake Artist Goes to New York",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/5Q5YHxJeVp6PAhfv5Ct0-g__thumb/img/nqo8xhGEWnqXYDEvYcVpBpABBI4=/fit-in/200x150/filters:strip_icc()/pic3678404.png"},
+                             "https://cf.geekdo-images.com/5Q5YHxJeVp6PAhfv5Ct0-g__small/img/nqo8xhGEWnqXYDEvYcVpBpABBI4=/fit-in/200x150/filters:strip_icc()/pic3678404.png"},
                             #uuid "87fbc4a0-beb7-3227-b194-6a1a3d6fa752"
                             {:game/id
                              #uuid "87fbc4a0-beb7-3227-b194-6a1a3d6fa752",
@@ -500,7 +500,7 @@
                              :game/name
                              "A Game of Thrones: The Card Game",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/UYVMaIHPZRLqnUAhftKxRA__thumb/img/k2TIUD7Ss7R-5KxUXrBdlWzFi04=/fit-in/200x150/filters:strip_icc()/pic1195948.jpg"},
+                             "https://cf.geekdo-images.com/UYVMaIHPZRLqnUAhftKxRA__small/img/k2TIUD7Ss7R-5KxUXrBdlWzFi04=/fit-in/200x150/filters:strip_icc()/pic1195948.jpg"},
                             #uuid "f757734b-6b91-3192-b50e-bce1dede85a0"
                             {:game/id
                              #uuid "f757734b-6b91-3192-b50e-bce1dede85a0",
@@ -564,7 +564,7 @@
                              :languages ["en"],
                              :game/name "A Handful of Stars",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/yKoFqqzRxTu2tpoNXYpo5Q__thumb/img/OlRHFWj0XCXSQk8Pi_3dc8_MVPE=/fit-in/200x150/filters:strip_icc()/pic3052392.jpg"},
+                             "https://cf.geekdo-images.com/yKoFqqzRxTu2tpoNXYpo5Q__small/img/OlRHFWj0XCXSQk8Pi_3dc8_MVPE=/fit-in/200x150/filters:strip_icc()/pic3052392.jpg"},
                             #uuid "c603a175-4569-3510-ad49-bd6e8e9a0c88"
                             {:game/id
                              #uuid "c603a175-4569-3510-ad49-bd6e8e9a0c88",
@@ -611,7 +611,7 @@
                              :com.boardgamegeek.boardgame/id "416086",
                              :game/name "AI: 100% Human",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/CVl39JPROjLeMmL45_sVTQ__thumb/img/3Htn75X3UjkbZCAWj799j2Ffz18=/fit-in/200x150/filters:strip_icc()/pic8070734.jpg"},
+                             "https://cf.geekdo-images.com/CVl39JPROjLeMmL45_sVTQ__small/img/3Htn75X3UjkbZCAWj799j2Ffz18=/fit-in/200x150/filters:strip_icc()/pic8070734.jpg"},
                             #uuid "3a1acd2a-f48b-3114-b132-42b7b94aa4eb"
                             {:game/id
                              #uuid "3a1acd2a-f48b-3114-b132-42b7b94aa4eb",
@@ -647,7 +647,7 @@
                              :languages ["cs"],
                              :game/name "AZ Kviz",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/5W9hNgHOpI9WAiSVX-c17Q__thumb/img/X5x-tOTWW6pUbGftOXRwA8JJP10=/fit-in/200x150/filters:strip_icc()/pic681598.jpg"},
+                             "https://cf.geekdo-images.com/5W9hNgHOpI9WAiSVX-c17Q__small/img/X5x-tOTWW6pUbGftOXRwA8JJP10=/fit-in/200x150/filters:strip_icc()/pic681598.jpg"},
                             #uuid "ab07ed3f-4a9f-3582-bb24-94f348634acb"
                             {:game/id
                              #uuid "ab07ed3f-4a9f-3582-bb24-94f348634acb",
@@ -683,7 +683,7 @@
                              :languages ["en"],
                              :game/name "Abracada...What?",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/ExKZ4I1R5sx-F65Gj-wDFA__thumb/img/yMMQN6lLN42zl1LjYckir9b41b0=/fit-in/200x150/filters:strip_icc()/pic2428651.png"},
+                             "https://cf.geekdo-images.com/ExKZ4I1R5sx-F65Gj-wDFA__small/img/yMMQN6lLN42zl1LjYckir9b41b0=/fit-in/200x150/filters:strip_icc()/pic2428651.png"},
                             #uuid "993ca650-a85e-3e69-b8f7-eaa4809c4862"
                             {:game/id
                              #uuid "993ca650-a85e-3e69-b8f7-eaa4809c4862",
@@ -759,7 +759,7 @@
                              :languages ["en"],
                              :game/name "Acquire",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/gIQlWhlaqjPiunZjjwz_XA__thumb/img/f06arYYwY_QZmOnAbQhhg-6mIUo=/fit-in/200x150/filters:strip_icc()/pic8483227.jpg"},
+                             "https://cf.geekdo-images.com/gIQlWhlaqjPiunZjjwz_XA__small/img/f06arYYwY_QZmOnAbQhhg-6mIUo=/fit-in/200x150/filters:strip_icc()/pic8483227.jpg"},
                             #uuid "0b19c10a-bb77-3af8-aa4d-afff0d8b7fbe"
                             {:game/id
                              #uuid "0b19c10a-bb77-3af8-aa4d-afff0d8b7fbe",
@@ -855,7 +855,7 @@
                              :languages ["en"],
                              :game/name "Age of Steam",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/gBPzZsgm9nrUYVfdK216NA__thumb/img/aceZ647BbV53Yv7rod9AwpTTst0=/fit-in/200x150/filters:strip_icc()/pic4557340.png"},
+                             "https://cf.geekdo-images.com/gBPzZsgm9nrUYVfdK216NA__small/img/aceZ647BbV53Yv7rod9AwpTTst0=/fit-in/200x150/filters:strip_icc()/pic4557340.png"},
                             #uuid "d82b1470-bb05-3f45-86cb-1e51d8455a3d"
                             {:game/id
                              #uuid "d82b1470-bb05-3f45-86cb-1e51d8455a3d",
@@ -915,7 +915,7 @@
                              :languages ["cs"],
                              :game/name "Agricola",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/dDDo2Hexl80ucK1IlqTk-g__thumb/img/GHGdnCfeysoP_34gLnofJcNivW8=/fit-in/200x150/filters:strip_icc()/pic831744.jpg"},
+                             "https://cf.geekdo-images.com/dDDo2Hexl80ucK1IlqTk-g__small/img/GHGdnCfeysoP_34gLnofJcNivW8=/fit-in/200x150/filters:strip_icc()/pic831744.jpg"},
                             #uuid "6a65da65-f189-3f73-ae44-44ae7d7c56b7"
                             {:game/id
                              #uuid "6a65da65-f189-3f73-ae44-44ae7d7c56b7",
@@ -978,7 +978,7 @@
                              :com.boardgamegeek.boardgame/id "321140",
                              :game/name "Ahau: Rulers of Yucatán",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/J8XWQVItZTsoDusKPkHrKw__thumb/img/I90STpBRiz0dxlE8QxfIdGdWH50=/fit-in/200x150/filters:strip_icc()/pic6700728.jpg"},
+                             "https://cf.geekdo-images.com/J8XWQVItZTsoDusKPkHrKw__small/img/I90STpBRiz0dxlE8QxfIdGdWH50=/fit-in/200x150/filters:strip_icc()/pic6700728.jpg"},
                             #uuid "ab094dfb-4f8a-37a4-8b52-9061ef896d9c"
                             {:game/id
                              #uuid "ab094dfb-4f8a-37a4-8b52-9061ef896d9c",
@@ -1026,7 +1026,7 @@
                              :languages ["en"],
                              :game/name "Air Mail",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/UOA2f6j76OOYOddawTZ7ig__thumb/img/5hRUhdKCYBt06QSiPBSEYlrYSYo=/fit-in/200x150/filters:strip_icc()/pic6861662.jpg"},
+                             "https://cf.geekdo-images.com/UOA2f6j76OOYOddawTZ7ig__small/img/5hRUhdKCYBt06QSiPBSEYlrYSYo=/fit-in/200x150/filters:strip_icc()/pic6861662.jpg"},
                             #uuid "51d8110b-30d5-3296-a2b3-46a116a29606"
                             {:game/id
                              #uuid "51d8110b-30d5-3296-a2b3-46a116a29606",
@@ -1071,7 +1071,7 @@
                              :game/name
                              "Air, Land, & Sea: Spies, Lies, & Supplies",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/RJYxDsVWrwKmCWt25XjewA__thumb/img/cesT_xEpVwo2h5pmKBTXWiu-cO4=/fit-in/200x150/filters:strip_icc()/pic6271807.jpg"},
+                             "https://cf.geekdo-images.com/RJYxDsVWrwKmCWt25XjewA__small/img/cesT_xEpVwo2h5pmKBTXWiu-cO4=/fit-in/200x150/filters:strip_icc()/pic6271807.jpg"},
                             #uuid "af0c5e41-309d-3a83-afb7-76f7378381b2"
                             {:game/id
                              #uuid "af0c5e41-309d-3a83-afb7-76f7378381b2",
@@ -1119,7 +1119,7 @@
                              :languages ["cs" "de"],
                              :game/name "Airlines Europe",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/MWSJ6c001o3HAk00qek9Rw__thumb/img/ZgcRUnCdSNZZyCnpBBs1ST5ESwE=/fit-in/200x150/filters:strip_icc()/pic975416.jpg"},
+                             "https://cf.geekdo-images.com/MWSJ6c001o3HAk00qek9Rw__small/img/ZgcRUnCdSNZZyCnpBBs1ST5ESwE=/fit-in/200x150/filters:strip_icc()/pic975416.jpg"},
                             #uuid "2d1f2a5f-09e1-32f6-8090-329ae963ff0d"
                             {:game/id
                              #uuid "2d1f2a5f-09e1-32f6-8090-329ae963ff0d",
@@ -1186,7 +1186,7 @@
                              :com.boardgamegeek.boardgame/id "322014",
                              :game/name "All-Star Draft",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/K5IEcZIkNHhdkfA7VCwlfQ__thumb/img/UXhRg-Ja9ZcX5IrWnBURiqrpqDs=/fit-in/200x150/filters:strip_icc()/pic8757252.png"},
+                             "https://cf.geekdo-images.com/K5IEcZIkNHhdkfA7VCwlfQ__small/img/UXhRg-Ja9ZcX5IrWnBURiqrpqDs=/fit-in/200x150/filters:strip_icc()/pic8757252.png"},
                             #uuid "e682132e-1a3c-3cc9-bcda-8ce14ec47782"
                             {:game/id
                              #uuid "e682132e-1a3c-3cc9-bcda-8ce14ec47782",
@@ -1233,7 +1233,7 @@
                              :com.boardgamegeek.boardgame/id "386502",
                              :game/name "Amritsar: The Golden Temple",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/GF21q3A5-3xNClH8MiwAbg__thumb/img/zmyjCI6wyL92DqszJC4FI_s2syo=/fit-in/200x150/filters:strip_icc()/pic7526676.jpg"},
+                             "https://cf.geekdo-images.com/GF21q3A5-3xNClH8MiwAbg__small/img/zmyjCI6wyL92DqszJC4FI_s2syo=/fit-in/200x150/filters:strip_icc()/pic7526676.jpg"},
                             #uuid "6f46c6bf-cd29-341f-9b60-ba575f3063d4"
                             {:game/id
                              #uuid "6f46c6bf-cd29-341f-9b60-ba575f3063d4",
@@ -1288,7 +1288,7 @@
                              :com.boardgamegeek.boardgame/id "224123",
                              :game/name "Animania",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/khvjZ2fil7qIAx_IBVArxw__thumb/img/Qc4ZkhSmR3ySVPS_Tl4lRw-vp3M=/fit-in/200x150/filters:strip_icc()/pic3482981.jpg"},
+                             "https://cf.geekdo-images.com/khvjZ2fil7qIAx_IBVArxw__small/img/Qc4ZkhSmR3ySVPS_Tl4lRw-vp3M=/fit-in/200x150/filters:strip_icc()/pic3482981.jpg"},
                             #uuid "cbed48f7-5fef-3645-9ebc-db33807e504c"
                             {:game/id
                              #uuid "cbed48f7-5fef-3645-9ebc-db33807e504c",
@@ -1332,7 +1332,7 @@
                              :languages ["en"],
                              :game/name "Anomia",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/OvOpd-Lhl7t3h9fF_qi6lQ__thumb/img/002NO49Pl3-9dPUj43StWt0SS2c=/fit-in/200x150/filters:strip_icc()/pic2527529.jpg"},
+                             "https://cf.geekdo-images.com/OvOpd-Lhl7t3h9fF_qi6lQ__small/img/002NO49Pl3-9dPUj43StWt0SS2c=/fit-in/200x150/filters:strip_icc()/pic2527529.jpg"},
                             #uuid "e3a13cf1-2d4f-3a6a-9791-62315cf53ba2"
                             {:game/id
                              #uuid "e3a13cf1-2d4f-3a6a-9791-62315cf53ba2",
@@ -1396,7 +1396,7 @@
                              :languages ["en"],
                              :game/name "Antike Duellum",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/zwhI40_3em8zJjrmbT6TLQ__thumb/img/Tzl4gVEbeokaDg0MlJQw_9tHvB0=/fit-in/200x150/filters:strip_icc()/pic1282841.jpg"},
+                             "https://cf.geekdo-images.com/zwhI40_3em8zJjrmbT6TLQ__small/img/Tzl4gVEbeokaDg0MlJQw_9tHvB0=/fit-in/200x150/filters:strip_icc()/pic1282841.jpg"},
                             #uuid "dc2cb127-f9f3-3b44-9c94-578ed6f040e4"
                             {:game/id
                              #uuid "dc2cb127-f9f3-3b44-9c94-578ed6f040e4",
@@ -1451,7 +1451,7 @@
                              :com.boardgamegeek.boardgame/id "400314",
                              :game/name "Apiary",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/dT1vJbUizZFmJAphKg-byA__thumb/img/X3_vUM9wGDabo0Goc3iCZE7IfWM=/fit-in/200x150/filters:strip_icc()/pic7720813.png"},
+                             "https://cf.geekdo-images.com/dT1vJbUizZFmJAphKg-byA__small/img/X3_vUM9wGDabo0Goc3iCZE7IfWM=/fit-in/200x150/filters:strip_icc()/pic7720813.png"},
                             #uuid "ac19727b-672c-352f-b393-c52a81b055cb"
                             {:game/id
                              #uuid "ac19727b-672c-352f-b393-c52a81b055cb",
@@ -1499,7 +1499,7 @@
                              :languages ["en"],
                              :game/name "Apples to Apples",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/S5GzB_f2Re3kEDoSxqG5Ew__thumb/img/kJ1JQ_d9xEZ00sJ1dLvwyQYiQUA=/fit-in/200x150/filters:strip_icc()/pic213515.jpg"},
+                             "https://cf.geekdo-images.com/S5GzB_f2Re3kEDoSxqG5Ew__small/img/kJ1JQ_d9xEZ00sJ1dLvwyQYiQUA=/fit-in/200x150/filters:strip_icc()/pic213515.jpg"},
                             #uuid "0ec4024f-0e85-3ed0-aa2e-5260f718232c"
                             {:game/id
                              #uuid "0ec4024f-0e85-3ed0-aa2e-5260f718232c",
@@ -1586,10 +1586,6 @@
                                                                 :name
                                                                 "Card Game"}
                                    #:com.boardgamegeek.category{:id
-                                                                1021,
-                                                                :name
-                                                                "Economic"}
-                                   #:com.boardgamegeek.category{:id
                                                                 1084,
                                                                 :name
                                                                 "Environmental"}),
@@ -1603,7 +1599,7 @@
                              :languages ["en"],
                              :game/name "Ark Nova",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__thumb/img/4KuHNTWSMPf8vTNDKSRMMI3oOv8=/fit-in/200x150/filters:strip_icc()/pic6293412.jpg"},
+                             "https://cf.geekdo-images.com/SoU8p28Sk1s8MSvoM4N8pQ__small/img/4KuHNTWSMPf8vTNDKSRMMI3oOv8=/fit-in/200x150/filters:strip_icc()/pic6293412.jpg"},
                             #uuid "28e54304-62fc-38c9-9b76-058878323d57"
                             {:game/id
                              #uuid "28e54304-62fc-38c9-9b76-058878323d57",
@@ -1683,7 +1679,7 @@
                              :languages ["cs"],
                              :game/name "Arkham Horror",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/9cJf4kd_HZQo6NunfJlo9w__thumb/img/6VzhMMmGOxNTCHQ-8iFdn5vINis=/fit-in/200x150/filters:strip_icc()/pic175966.jpg"},
+                             "https://cf.geekdo-images.com/9cJf4kd_HZQo6NunfJlo9w__small/img/6VzhMMmGOxNTCHQ-8iFdn5vINis=/fit-in/200x150/filters:strip_icc()/pic175966.jpg"},
                             #uuid "96a1a500-253f-3a89-883d-572d0c2233d9"
                             {:game/id
                              #uuid "96a1a500-253f-3a89-883d-572d0c2233d9",
@@ -1742,7 +1738,7 @@
                              :com.boardgamegeek.boardgame/id "395375",
                              :game/name "Art Society",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/_-kTI7KnJp7PmbZ5ISS5RQ__thumb/img/H3TFSGSRkKVomJuBPQArc92BDtA=/fit-in/200x150/filters:strip_icc()/pic7628025.png"},
+                             "https://cf.geekdo-images.com/_-kTI7KnJp7PmbZ5ISS5RQ__small/img/H3TFSGSRkKVomJuBPQArc92BDtA=/fit-in/200x150/filters:strip_icc()/pic7628025.png"},
                             #uuid "a408c9e7-3639-3621-b65f-1f8aeea37b18"
                             {:game/id
                              #uuid "a408c9e7-3639-3621-b65f-1f8aeea37b18",
@@ -1783,7 +1779,7 @@
                              :game/name
                              "Article 27: The UN Security Council Game",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/kyB2tDm5oTwjXzG_H0UW6g__thumb/img/1xOJs8f92Rvn_y00wPfhq8JeiXI=/fit-in/200x150/filters:strip_icc()/pic1309420.jpg"},
+                             "https://cf.geekdo-images.com/kyB2tDm5oTwjXzG_H0UW6g__small/img/1xOJs8f92Rvn_y00wPfhq8JeiXI=/fit-in/200x150/filters:strip_icc()/pic1309420.jpg"},
                             #uuid "87e650b2-4bb6-3255-aef0-45199c66a153"
                             {:game/id
                              #uuid "87e650b2-4bb6-3255-aef0-45199c66a153",
@@ -1824,7 +1820,7 @@
                              :game/name
                              "Asian Tigers: A Story of Prosperity",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/YxNBXiFJYxLk55NUylpvyg__thumb/img/JvYD38kVtQmvub8FI_Ei2Lw6A_8=/fit-in/200x150/filters:strip_icc()/pic8272764.png"},
+                             "https://cf.geekdo-images.com/YxNBXiFJYxLk55NUylpvyg__small/img/JvYD38kVtQmvub8FI_Ei2Lw6A_8=/fit-in/200x150/filters:strip_icc()/pic8272764.png"},
                             #uuid "08708af1-c9c2-33fb-a3a0-4277691da74d"
                             {:game/id
                              #uuid "08708af1-c9c2-33fb-a3a0-4277691da74d",
@@ -1859,7 +1855,7 @@
                              :com.boardgamegeek.boardgame/id "383459",
                              :game/name "Aurum",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/1MRtI2kpEGUanQQ246p-nw__thumb/img/s2g-SiVESSnC1qt_GGTgTkf2c5U=/fit-in/200x150/filters:strip_icc()/pic7439092.jpg"},
+                             "https://cf.geekdo-images.com/1MRtI2kpEGUanQQ246p-nw__small/img/s2g-SiVESSnC1qt_GGTgTkf2c5U=/fit-in/200x150/filters:strip_icc()/pic7439092.jpg"},
                             #uuid "a1082e57-0aad-3776-a608-5196f13818f6"
                             {:game/id
                              #uuid "a1082e57-0aad-3776-a608-5196f13818f6",
@@ -1910,7 +1906,7 @@
                              :com.boardgamegeek.boardgame/id "348554",
                              :game/name "Autobahn",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/rEHUfF9UeA6lY6EvRLgBIg__thumb/img/bC-yDhhzNaeqjPdV9PHBocfUpK0=/fit-in/200x150/filters:strip_icc()/pic6447828.jpg"},
+                             "https://cf.geekdo-images.com/rEHUfF9UeA6lY6EvRLgBIg__small/img/bC-yDhhzNaeqjPdV9PHBocfUpK0=/fit-in/200x150/filters:strip_icc()/pic6447828.jpg"},
                             #uuid "79a39a92-dda9-376e-b337-e86bdbbc3864"
                             {:game/id
                              #uuid "79a39a92-dda9-376e-b337-e86bdbbc3864",
@@ -1962,7 +1958,7 @@
                              :languages ["en"],
                              :game/name "Axis & Allies",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/pWUe-w4DpXdcmH6GqbZqCw__thumb/img/T03oThwiFNU19-9XppxmcQ7_rMs=/fit-in/200x150/filters:strip_icc()/pic24006.jpg"},
+                             "https://cf.geekdo-images.com/pWUe-w4DpXdcmH6GqbZqCw__small/img/T03oThwiFNU19-9XppxmcQ7_rMs=/fit-in/200x150/filters:strip_icc()/pic24006.jpg"},
                             #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
                             {:game/id
                              #uuid "582d2648-b634-3370-a31e-bef979dab3f3",
@@ -2022,7 +2018,7 @@
                              :languages ["cs"],
                              :game/name "Azul",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__thumb/img/ccsXKrdGJw-YSClWwzVUwk5Nh9Y=/fit-in/200x150/filters:strip_icc()/pic6973671.png"},
+                             "https://cf.geekdo-images.com/aPSHJO0d0XOpQR5X-wJonw__small/img/ccsXKrdGJw-YSClWwzVUwk5Nh9Y=/fit-in/200x150/filters:strip_icc()/pic6973671.png"},
                             #uuid "622a37a1-75a6-33d6-b9df-23cebf46e8bf"
                             {:game/id
                              #uuid "622a37a1-75a6-33d6-b9df-23cebf46e8bf",
@@ -2082,7 +2078,7 @@
                              :game/name
                              "Azul: Stained Glass of Sintra",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/RrYR1xB8H7D1B5GwNV8jgQ__thumb/img/vUGmS3mniayuyVOG-1ulrVGnjSg=/fit-in/200x150/filters:strip_icc()/pic4212417.jpg"},
+                             "https://cf.geekdo-images.com/RrYR1xB8H7D1B5GwNV8jgQ__small/img/vUGmS3mniayuyVOG-1ulrVGnjSg=/fit-in/200x150/filters:strip_icc()/pic4212417.jpg"},
                             #uuid "eaa9b08c-9718-39e9-84e8-e09ccf855ef0"
                             {:game/id
                              #uuid "eaa9b08c-9718-39e9-84e8-e09ccf855ef0",
@@ -2154,7 +2150,7 @@
                              :languages ["cs"],
                              :game/name "BANG!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/_04xA-d-rfygm0c49HE4vA__thumb/img/P-6cf4TEk7ewzrfP9d-8c-TxAY4=/fit-in/200x150/filters:strip_icc()/pic1170986.jpg"},
+                             "https://cf.geekdo-images.com/_04xA-d-rfygm0c49HE4vA__small/img/P-6cf4TEk7ewzrfP9d-8c-TxAY4=/fit-in/200x150/filters:strip_icc()/pic1170986.jpg"},
                             #uuid "5af4832c-3c6d-3e4b-883d-4fbba7190317"
                             {:game/id
                              #uuid "5af4832c-3c6d-3e4b-883d-4fbba7190317",
@@ -2226,7 +2222,7 @@
                              :languages ["cs"],
                              :game/name "BANG! The Dice Game",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/BLTFau1Ue-gjX6geQdYrjQ__thumb/img/IijBpyOQC760F6XIw34WT0ePqe4=/fit-in/200x150/filters:strip_icc()/pic2909713.jpg"},
+                             "https://cf.geekdo-images.com/BLTFau1Ue-gjX6geQdYrjQ__small/img/IijBpyOQC760F6XIw34WT0ePqe4=/fit-in/200x150/filters:strip_icc()/pic2909713.jpg"},
                             #uuid "15255c87-ae6f-323e-83ba-ccfdea36bb8f"
                             {:game/id
                              #uuid "15255c87-ae6f-323e-83ba-ccfdea36bb8f",
@@ -2258,7 +2254,7 @@
                              :languages ["cs"],
                              :game/name "BANG! The Duel",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/3DanSNZJGHfiD7ixWNHy7g__thumb/img/styktUBTrt7Nz_-6vuJUG69lIgA=/fit-in/200x150/filters:strip_icc()/pic3068558.png"},
+                             "https://cf.geekdo-images.com/3DanSNZJGHfiD7ixWNHy7g__small/img/styktUBTrt7Nz_-6vuJUG69lIgA=/fit-in/200x150/filters:strip_icc()/pic3068558.png"},
                             #uuid "bf49462f-85ae-3df3-8617-bb5a39593f15"
                             {:game/id
                              #uuid "bf49462f-85ae-3df3-8617-bb5a39593f15",
@@ -2302,7 +2298,7 @@
                              :languages ["cs"],
                              :game/name "Balada",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/yyFXtrM7ivEleXoMCjc3rA__thumb/img/lxOxzXKXYFpUd3ZpdR0zdU1vh_o=/fit-in/200x150/filters:strip_icc()/pic6288541.jpg"},
+                             "https://cf.geekdo-images.com/yyFXtrM7ivEleXoMCjc3rA__small/img/lxOxzXKXYFpUd3ZpdR0zdU1vh_o=/fit-in/200x150/filters:strip_icc()/pic6288541.jpg"},
                             #uuid "bb8434ca-528e-3b5f-bfc5-5eebbe2c00a0"
                             {:game/id
                              #uuid "bb8434ca-528e-3b5f-bfc5-5eebbe2c00a0",
@@ -2346,7 +2342,7 @@
                              :languages ["en"],
                              :game/name "Bananagrams",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/1QjYPI4bXx4OUMJPlrsNBA__thumb/img/nC_gG-4CYy7VBfYez2qSfTkU2ik=/fit-in/200x150/filters:strip_icc()/pic2463443.jpg"},
+                             "https://cf.geekdo-images.com/1QjYPI4bXx4OUMJPlrsNBA__small/img/nC_gG-4CYy7VBfYez2qSfTkU2ik=/fit-in/200x150/filters:strip_icc()/pic2463443.jpg"},
                             #uuid "a0969dfc-5294-3b41-82bf-220e859197db"
                             {:game/id
                              #uuid "a0969dfc-5294-3b41-82bf-220e859197db",
@@ -2402,7 +2398,7 @@
                              :languages ["en"],
                              :game/name "Bears vs Babies",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/2BZROogBECvPPF2780wlvg__thumb/img/sdoR62wTU6mKAKrZY96_zhPWy3c=/fit-in/200x150/filters:strip_icc()/pic5521191.jpg"},
+                             "https://cf.geekdo-images.com/2BZROogBECvPPF2780wlvg__small/img/sdoR62wTU6mKAKrZY96_zhPWy3c=/fit-in/200x150/filters:strip_icc()/pic5521191.jpg"},
                             #uuid "3e302b86-f47c-3d22-9b4d-c253439d9970"
                             {:game/id
                              #uuid "3e302b86-f47c-3d22-9b4d-c253439d9970",
@@ -2446,7 +2442,7 @@
                              :languages ["en"],
                              :game/name "Beasty Bar",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/7_y1dbU5GCYhIRBCO0q7rg__thumb/img/WiuNMDiiM38EHOAdW5MB1ldlEJM=/fit-in/200x150/filters:strip_icc()/pic2241067.jpg"},
+                             "https://cf.geekdo-images.com/7_y1dbU5GCYhIRBCO0q7rg__small/img/WiuNMDiiM38EHOAdW5MB1ldlEJM=/fit-in/200x150/filters:strip_icc()/pic2241067.jpg"},
                             #uuid "0f2e7cd3-2595-3b1b-b656-cb103be3e521"
                             {:game/id
                              #uuid "0f2e7cd3-2595-3b1b-b656-cb103be3e521",
@@ -2498,7 +2494,7 @@
                              :languages ["en"],
                              :game/name "Belle of the Ball",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/JMVcMUrZC-K3DjeuHFXhjw__thumb/img/uPIXh-8lRCEdmN6Np3Ze_XbW86I=/fit-in/200x150/filters:strip_icc()/pic4593784.jpg"},
+                             "https://cf.geekdo-images.com/JMVcMUrZC-K3DjeuHFXhjw__small/img/uPIXh-8lRCEdmN6Np3Ze_XbW86I=/fit-in/200x150/filters:strip_icc()/pic4593784.jpg"},
                             #uuid "13d1736e-1583-3651-b1fe-12dc754ba2b0"
                             {:game/id
                              #uuid "13d1736e-1583-3651-b1fe-12dc754ba2b0",
@@ -2567,7 +2563,7 @@
                              :game/name
                              "Betrayal at House on the Hill",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/lqmt2Oti_qJS65XqHcB8AA__thumb/img/EDOmDbRhLy4za2PHkJ5IbhNxZmk=/fit-in/200x150/filters:strip_icc()/pic5146864.png"},
+                             "https://cf.geekdo-images.com/lqmt2Oti_qJS65XqHcB8AA__small/img/EDOmDbRhLy4za2PHkJ5IbhNxZmk=/fit-in/200x150/filters:strip_icc()/pic5146864.png"},
                             #uuid "d533541e-b96f-321a-bd42-08b9ee56f416"
                             {:game/id
                              #uuid "d533541e-b96f-321a-bd42-08b9ee56f416",
@@ -2623,7 +2619,7 @@
                              :languages ["cs"],
                              :game/name "Betting on Horses",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/n7opTmSdA3Z1dzUX23bxVA__thumb/img/iwNXqO4F8xKb8kYNjamo7Vmhbck=/fit-in/200x150/filters:strip_icc()/pic7639318.jpg"},
+                             "https://cf.geekdo-images.com/n7opTmSdA3Z1dzUX23bxVA__small/img/iwNXqO4F8xKb8kYNjamo7Vmhbck=/fit-in/200x150/filters:strip_icc()/pic7639318.jpg"},
                             #uuid "b6f2f88d-3e7d-31b6-b9b2-b3558f4b1218"
                             {:game/id
                              #uuid "b6f2f88d-3e7d-31b6-b9b2-b3558f4b1218",
@@ -2679,7 +2675,7 @@
                              :languages ["en"],
                              :game/name "Between Two Cities",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/7KO73MdSD1yCUvKmb4pOgA__thumb/img/BaLQhhGkNB6LaNqGnaNzz88GLOA=/fit-in/200x150/filters:strip_icc()/pic6352795.jpg"},
+                             "https://cf.geekdo-images.com/7KO73MdSD1yCUvKmb4pOgA__small/img/BaLQhhGkNB6LaNqGnaNzz88GLOA=/fit-in/200x150/filters:strip_icc()/pic6352795.jpg"},
                             #uuid "cc6d3c9f-7a71-39c8-abd4-59a9b3ebf30b"
                             {:game/id
                              #uuid "cc6d3c9f-7a71-39c8-abd4-59a9b3ebf30b",
@@ -2735,7 +2731,7 @@
                              :languages ["en"],
                              :game/name "Biblios",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/w9pHmbMbHEFYtuOUcWcruA__thumb/img/BYid-ptJy9xNI_kK3IDWOGLWJVM=/fit-in/200x150/filters:strip_icc()/pic759154.jpg"},
+                             "https://cf.geekdo-images.com/w9pHmbMbHEFYtuOUcWcruA__small/img/BYid-ptJy9xNI_kK3IDWOGLWJVM=/fit-in/200x150/filters:strip_icc()/pic759154.jpg"},
                             #uuid "3c213740-1920-3b32-acb4-a2877cd7aa17"
                             {:game/id
                              #uuid "3c213740-1920-3b32-acb4-a2877cd7aa17",
@@ -2779,7 +2775,7 @@
                              :languages ["en"],
                              :game/name "Billionaire Banshee",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Pe8iAvlyTOzVINQRdFdcig__thumb/img/iXmFA-7_cNegyHs8nKD4rTv2O1k=/fit-in/200x150/filters:strip_icc()/pic2729693.png"},
+                             "https://cf.geekdo-images.com/Pe8iAvlyTOzVINQRdFdcig__small/img/iXmFA-7_cNegyHs8nKD4rTv2O1k=/fit-in/200x150/filters:strip_icc()/pic2729693.png"},
                             #uuid "897ee373-c9e4-32f9-a323-fe188494520b"
                             {:game/id
                              #uuid "897ee373-c9e4-32f9-a323-fe188494520b",
@@ -2811,7 +2807,7 @@
                              :languages ["en"],
                              :game/name "Blaze",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/ejlad9HzsFX0xCPWqTGFmw__thumb/img/0RVKdSi4BxCTFPFBoCsuJMKl_W0=/fit-in/200x150/filters:strip_icc()/pic6006816.jpg"},
+                             "https://cf.geekdo-images.com/ejlad9HzsFX0xCPWqTGFmw__small/img/0RVKdSi4BxCTFPFBoCsuJMKl_W0=/fit-in/200x150/filters:strip_icc()/pic6006816.jpg"},
                             #uuid "f4d96621-0b6d-3344-afb7-3e790ea3f651"
                             {:game/id
                              #uuid "f4d96621-0b6d-3344-afb7-3e790ea3f651",
@@ -2876,7 +2872,7 @@
                              :game/name
                              "Blitzkrieg!: World War Two in 20 Minutes",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/O03NSgVOl-FsbLiAg_GV1w__thumb/img/_Oz_KuJStdA9akO-zfZ1rlrdxr4=/fit-in/200x150/filters:strip_icc()/pic4306846.jpg"},
+                             "https://cf.geekdo-images.com/O03NSgVOl-FsbLiAg_GV1w__small/img/_Oz_KuJStdA9akO-zfZ1rlrdxr4=/fit-in/200x150/filters:strip_icc()/pic4306846.jpg"},
                             #uuid "c180dcbb-f5dd-3cdf-acb3-dfe83bc594ec"
                             {:game/id
                              #uuid "c180dcbb-f5dd-3cdf-acb3-dfe83bc594ec",
@@ -2943,6 +2939,10 @@
                                                                 :name
                                                                 "Fighting"}
                                    #:com.boardgamegeek.category{:id
+                                                                1047,
+                                                                :name
+                                                                "Miniatures"}
+                                   #:com.boardgamegeek.category{:id
                                                                 1082,
                                                                 :name
                                                                 "Mythology"}),
@@ -2956,7 +2956,7 @@
                              :languages ["cs"],
                              :game/name "Blood Rage",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__thumb/img/NLhVdU8xazrgS5dA6nVCYmN2DNI=/fit-in/200x150/filters:strip_icc()/pic2439223.jpg"},
+                             "https://cf.geekdo-images.com/HkZSJfQnZ3EpS214xtuplg__small/img/NLhVdU8xazrgS5dA6nVCYmN2DNI=/fit-in/200x150/filters:strip_icc()/pic2439223.jpg"},
                             #uuid "0188708a-9d05-3a25-aeed-fbc792f51654"
                             {:game/id
                              #uuid "0188708a-9d05-3a25-aeed-fbc792f51654",
@@ -2987,7 +2987,7 @@
                              :com.boardgamegeek.boardgame/id "245136",
                              :game/name "Bluff Jubiläumsausgabe",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/kdz6i8xM0VA_jka0PM5olA__thumb/img/DifcFx2pKLBNkiWGpqNXwlrSdT0=/fit-in/200x150/filters:strip_icc()/pic3945944.jpg"},
+                             "https://cf.geekdo-images.com/kdz6i8xM0VA_jka0PM5olA__small/img/DifcFx2pKLBNkiWGpqNXwlrSdT0=/fit-in/200x150/filters:strip_icc()/pic3945944.jpg"},
                             #uuid "8a55d10a-eaaf-3da1-8c97-baec9e64e35f"
                             {:game/id
                              #uuid "8a55d10a-eaaf-3da1-8c97-baec9e64e35f",
@@ -3039,7 +3039,7 @@
                              :languages ["cs"],
                              :game/name "Bohnanza",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/8SADtu_4zBH_UJrCo935Iw__thumb/img/vwTEQOWA3Mw__ztkTMulOgJ82Pw=/fit-in/200x150/filters:strip_icc()/pic6348964.jpg"},
+                             "https://cf.geekdo-images.com/8SADtu_4zBH_UJrCo935Iw__small/img/vwTEQOWA3Mw__ztkTMulOgJ82Pw=/fit-in/200x150/filters:strip_icc()/pic6348964.jpg"},
                             #uuid "014f4da6-7752-3558-b762-f9b4104f16db"
                             {:game/id
                              #uuid "014f4da6-7752-3558-b762-f9b4104f16db",
@@ -3087,7 +3087,7 @@
                              :languages ["cs" "en" "de"],
                              :game/name "Bossin' Space",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/wh2SltgMFsl4BqwaKLZhDQ__thumb/img/3GjljsunssbFRZnZBCDcDnBq3UM=/fit-in/200x150/filters:strip_icc()/pic5609490.jpg"},
+                             "https://cf.geekdo-images.com/wh2SltgMFsl4BqwaKLZhDQ__small/img/3GjljsunssbFRZnZBCDcDnBq3UM=/fit-in/200x150/filters:strip_icc()/pic5609490.jpg"},
                             #uuid "ffd08129-da06-3b4e-a8fb-c63db63c01f8"
                             {:game/id
                              #uuid "ffd08129-da06-3b4e-a8fb-c63db63c01f8",
@@ -3134,7 +3134,7 @@
                              :com.boardgamegeek.boardgame/id "411872",
                              :game/name "Bower",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/-6SQAMiiIBt8H85groPaQg__thumb/img/lVtoG2tmHi9KnmpalwZ5jh1Obac=/fit-in/200x150/filters:strip_icc()/pic7978270.jpg"},
+                             "https://cf.geekdo-images.com/-6SQAMiiIBt8H85groPaQg__small/img/lVtoG2tmHi9KnmpalwZ5jh1Obac=/fit-in/200x150/filters:strip_icc()/pic7978270.jpg"},
                             #uuid "b6c61944-aa1e-3c86-aa02-084421f2c5b9"
                             {:game/id
                              #uuid "b6c61944-aa1e-3c86-aa02-084421f2c5b9",
@@ -3182,7 +3182,7 @@
                              :languages ["cs"],
                              :game/name "Braintopia",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/cOKyWfTL7Wb9ECC-34gsdQ__thumb/img/OuvwUUpVIiJgRQMpw9ePyzdAnG4=/fit-in/200x150/filters:strip_icc()/pic3539828.jpg"},
+                             "https://cf.geekdo-images.com/cOKyWfTL7Wb9ECC-34gsdQ__small/img/OuvwUUpVIiJgRQMpw9ePyzdAnG4=/fit-in/200x150/filters:strip_icc()/pic3539828.jpg"},
                             #uuid "e6f2b917-44b7-3822-8d49-6493a0458968"
                             {:game/id
                              #uuid "e6f2b917-44b7-3822-8d49-6493a0458968",
@@ -3282,7 +3282,7 @@
                              :languages ["en"],
                              :game/name "Brass: Birmingham",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__thumb/img/o18rjEemoWaVru9Y2TyPwuIaRfE=/fit-in/200x150/filters:strip_icc()/pic3490053.jpg"},
+                             "https://cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__small/img/o18rjEemoWaVru9Y2TyPwuIaRfE=/fit-in/200x150/filters:strip_icc()/pic3490053.jpg"},
                             #uuid "268e3695-fafb-3e82-88f1-523cfe6a1947"
                             {:game/id
                              #uuid "268e3695-fafb-3e82-88f1-523cfe6a1947",
@@ -3313,7 +3313,7 @@
                              :com.boardgamegeek.boardgame/id "387148",
                              :game/name "Builder's High",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/BikXP6Sb3uUGYjSPcKk8QQ__thumb/img/aLYNP5oPMMZTZb-IOQIZJkYw1Og=/fit-in/200x150/filters:strip_icc()/pic7556363.jpg"},
+                             "https://cf.geekdo-images.com/BikXP6Sb3uUGYjSPcKk8QQ__small/img/aLYNP5oPMMZTZb-IOQIZJkYw1Og=/fit-in/200x150/filters:strip_icc()/pic7556363.jpg"},
                             #uuid "ee4cfdc6-fce0-3e77-96e8-2fe714e34e31"
                             {:game/id
                              #uuid "ee4cfdc6-fce0-3e77-96e8-2fe714e34e31",
@@ -3345,7 +3345,7 @@
                              :languages ["en"],
                              :game/name "Bunny Hops",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Ntm1cON8H5F3NyHyBww0Ag__thumb/img/1pIWY-DQPIwjkgg7KHljvEVroCw=/fit-in/200x150/filters:strip_icc()/pic7575122.jpg"},
+                             "https://cf.geekdo-images.com/Ntm1cON8H5F3NyHyBww0Ag__small/img/1pIWY-DQPIwjkgg7KHljvEVroCw=/fit-in/200x150/filters:strip_icc()/pic7575122.jpg"},
                             #uuid "326695b3-1bb7-3701-b1e3-9bbac6a3236f"
                             {:game/id
                              #uuid "326695b3-1bb7-3701-b1e3-9bbac6a3236f",
@@ -3425,7 +3425,7 @@
                              :languages ["en"],
                              :game/name "Burgle Bros.",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/cPZZhbehOr-cXE1HRa6T3w__thumb/img/snQ34rjbfQk96R_-pljlOetsYC4=/fit-in/200x150/filters:strip_icc()/pic2439102.png"},
+                             "https://cf.geekdo-images.com/cPZZhbehOr-cXE1HRa6T3w__small/img/snQ34rjbfQk96R_-pljlOetsYC4=/fit-in/200x150/filters:strip_icc()/pic2439102.png"},
                             #uuid "414bbf5b-1083-3275-9983-4133937db58b"
                             {:game/id
                              #uuid "414bbf5b-1083-3275-9983-4133937db58b",
@@ -3465,7 +3465,7 @@
                              :languages ["cs"],
                              :game/name "CABO (Second Edition)",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/UXg5z353Vs3aI90_TfL4pQ__thumb/img/rDg9t7gP1iqNcy3NZxAWGVoWYok=/fit-in/200x150/filters:strip_icc()/pic4572408.jpg"},
+                             "https://cf.geekdo-images.com/UXg5z353Vs3aI90_TfL4pQ__small/img/rDg9t7gP1iqNcy3NZxAWGVoWYok=/fit-in/200x150/filters:strip_icc()/pic4572408.jpg"},
                             #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7"
                             {:game/id
                              #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7",
@@ -3549,13 +3549,13 @@
                              :languages ["cs"],
                              :game/name "CATAN",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/PyUol9QxBnZQCJqZI6bmSA__thumb/img/virV2Bm82Dql7gh-LZScBwqByik=/fit-in/200x150/filters:strip_icc()/pic8632666.png"},
+                             "https://cf.geekdo-images.com/PyUol9QxBnZQCJqZI6bmSA__small/img/virV2Bm82Dql7gh-LZScBwqByik=/fit-in/200x150/filters:strip_icc()/pic8632666.png"},
                             #uuid "b9fbcd30-5c71-375d-a44a-21c3e2dc30b7"
                             {:game/id
                              #uuid "b9fbcd30-5c71-375d-a44a-21c3e2dc30b7",
                              :com.boardgamegeek.boardgame/min-players
                              4,
-                             :com.boardgamegeek.boardgame/rating 6.6,
+                             :com.boardgamegeek.boardgame/rating 6.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2685,
@@ -3609,7 +3609,7 @@
                              :languages ["en"],
                              :game/name "Ca$h 'n Gun$",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/_UpTZr1itCcHdnnbuTUnQQ__thumb/img/2gdcEzRm31_zsb2WqS65lHjsGas=/fit-in/200x150/filters:strip_icc()/pic87523.jpg"},
+                             "https://cf.geekdo-images.com/_UpTZr1itCcHdnnbuTUnQQ__small/img/2gdcEzRm31_zsb2WqS65lHjsGas=/fit-in/200x150/filters:strip_icc()/pic87523.jpg"},
                             #uuid "9e840d33-76b5-3f12-b91c-286ba5961e48"
                             {:game/id
                              #uuid "9e840d33-76b5-3f12-b91c-286ba5961e48",
@@ -3657,7 +3657,7 @@
                              :languages ["cs"],
                              :game/name "Cacao",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/oPxM0e3HTS0rIc-9H496Pg__thumb/img/WCVlv0gzsj8yHAdyLUDKMb_fmBc=/fit-in/200x150/filters:strip_icc()/pic2379288.jpg"},
+                             "https://cf.geekdo-images.com/oPxM0e3HTS0rIc-9H496Pg__small/img/WCVlv0gzsj8yHAdyLUDKMb_fmBc=/fit-in/200x150/filters:strip_icc()/pic2379288.jpg"},
                             #uuid "d51dd20c-a05f-3ab4-94c7-9020d535e5b3"
                             {:game/id
                              #uuid "d51dd20c-a05f-3ab4-94c7-9020d535e5b3",
@@ -3721,13 +3721,13 @@
                              :languages ["cs"],
                              :game/name "Calico",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/qGkU6XsF1448F_A4P8TY5Q__thumb/img/l5ODCWYHD8_1x-WFqf-TJZhXT38=/fit-in/200x150/filters:strip_icc()/pic8124431.jpg"},
+                             "https://cf.geekdo-images.com/qGkU6XsF1448F_A4P8TY5Q__small/img/l5ODCWYHD8_1x-WFqf-TJZhXT38=/fit-in/200x150/filters:strip_icc()/pic8124431.jpg"},
                             #uuid "8883fd32-28f4-3b56-a9f6-8ad49be710d8"
                             {:game/id
                              #uuid "8883fd32-28f4-3b56-a9f6-8ad49be710d8",
                              :com.boardgamegeek.boardgame/min-players
                              3,
-                             :com.boardgamegeek.boardgame/rating 5.9,
+                             :com.boardgamegeek.boardgame/rating 5.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -3745,7 +3745,7 @@
                              :languages ["en"],
                              :game/name "Call of Nature",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/vYKS680XN4v18jFWxc1XMg__thumb/img/ltgbktIW-B1p54Mq2XKuSkatcCA=/fit-in/200x150/filters:strip_icc()/pic6001735.png"},
+                             "https://cf.geekdo-images.com/BnswX7Spq8VpqTRVrKpJLw__small/img/b0l-xjVBpOdZI55b0gAhV4a0jhw=/fit-in/200x150/filters:strip_icc()/pic9101485.jpg"},
                             #uuid "be01908f-633f-35da-be89-80701db8ed25"
                             {:game/id
                              #uuid "be01908f-633f-35da-be89-80701db8ed25",
@@ -3801,7 +3801,7 @@
                              :languages ["en"],
                              :game/name "Camel Up",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/jVr1bGBQpshqVPcwvZ7CPg__thumb/img/oJPoB_Juxf6xLjORYBHvlc3xma8=/fit-in/200x150/filters:strip_icc()/pic1918028.jpg"},
+                             "https://cf.geekdo-images.com/jVr1bGBQpshqVPcwvZ7CPg__small/img/oJPoB_Juxf6xLjORYBHvlc3xma8=/fit-in/200x150/filters:strip_icc()/pic1918028.jpg"},
                             #uuid "7c1ada9b-f78c-379d-a6a7-b3018581aab9"
                             {:game/id
                              #uuid "7c1ada9b-f78c-379d-a6a7-b3018581aab9",
@@ -3845,7 +3845,7 @@
                              :languages ["en"],
                              :game/name "Can't Stop",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/nMitZr9Lu4Ux7LLqBy7Z8A__thumb/img/mLHWOFfdxrWljImkFZ2ulIhHt7A=/fit-in/200x150/filters:strip_icc()/pic6875169.png"},
+                             "https://cf.geekdo-images.com/nMitZr9Lu4Ux7LLqBy7Z8A__small/img/mLHWOFfdxrWljImkFZ2ulIhHt7A=/fit-in/200x150/filters:strip_icc()/pic6875169.png"},
                             #uuid "f31c34f8-06be-3f8f-aecc-8cc5b06db271"
                             {:game/id
                              #uuid "f31c34f8-06be-3f8f-aecc-8cc5b06db271",
@@ -3881,7 +3881,7 @@
                              :languages ["cs" "en" "de"],
                              :game/name "Canasta",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/0WtWRiRWl2mU-t_oEPKYgg__thumb/img/mtGfPOJcEgXK1CFlzsiVdWQ-Sh0=/fit-in/200x150/filters:strip_icc()/pic77289.jpg"},
+                             "https://cf.geekdo-images.com/0WtWRiRWl2mU-t_oEPKYgg__small/img/mtGfPOJcEgXK1CFlzsiVdWQ-Sh0=/fit-in/200x150/filters:strip_icc()/pic77289.jpg"},
                             #uuid "a16f70e6-6483-3b47-8a93-f82a9168722b"
                             {:name "Cangaceiros",
                              :game/id
@@ -3940,7 +3940,7 @@
                              :languages ["en"],
                              :game/name "Captain Dice (キャプテンダイス)",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/9T3BsE3nwiiAm4PtpaclXw__thumb/img/TkOJcGxHooCTz5kKwgi3nfN7W1A=/fit-in/200x150/filters:strip_icc()/pic3708818.jpg"},
+                             "https://cf.geekdo-images.com/9T3BsE3nwiiAm4PtpaclXw__small/img/TkOJcGxHooCTz5kKwgi3nfN7W1A=/fit-in/200x150/filters:strip_icc()/pic3708818.jpg"},
                             #uuid "06c5d6ce-c062-3ac0-bd43-6186b663fc10"
                             {:game/id
                              #uuid "06c5d6ce-c062-3ac0-bd43-6186b663fc10",
@@ -4016,7 +4016,7 @@
                              :languages ["en"],
                              :game/name "Captain Sonar",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Dpu5nFJu4UUJ4Y50WyKueg__thumb/img/tRPNrLtteyfINpaFLLqEjyfTA10=/fit-in/200x150/filters:strip_icc()/pic7069368.jpg"},
+                             "https://cf.geekdo-images.com/Dpu5nFJu4UUJ4Y50WyKueg__small/img/tRPNrLtteyfINpaFLLqEjyfTA10=/fit-in/200x150/filters:strip_icc()/pic7069368.jpg"},
                             #uuid "06e9bd9c-0975-32da-acdf-2b1942d57f1e"
                             {:game/id
                              #uuid "06e9bd9c-0975-32da-acdf-2b1942d57f1e",
@@ -4072,7 +4072,7 @@
                              :languages ["cs"],
                              :game/name "Carcassonne",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/okM0dq_bEXnbyQTOvHfwRA__thumb/img/88274KiOg94wziybVHyW8AeOiXg=/fit-in/200x150/filters:strip_icc()/pic6544250.png"},
+                             "https://cf.geekdo-images.com/okM0dq_bEXnbyQTOvHfwRA__small/img/88274KiOg94wziybVHyW8AeOiXg=/fit-in/200x150/filters:strip_icc()/pic6544250.png"},
                             #uuid "9f555ccc-a2f8-3e91-beba-d5a2bc69a7f0"
                             {:game/id
                              #uuid "9f555ccc-a2f8-3e91-beba-d5a2bc69a7f0",
@@ -4103,7 +4103,7 @@
                              :languages ["fr"],
                              :game/name "Cardline: Animals",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/UuNZgbBvw-o6mboCwn5t-g__thumb/img/Qj0gNK8qvKuh8bXbJQSGcnZ_qiw=/fit-in/200x150/filters:strip_icc()/pic3154455.jpg"},
+                             "https://cf.geekdo-images.com/UuNZgbBvw-o6mboCwn5t-g__small/img/Qj0gNK8qvKuh8bXbJQSGcnZ_qiw=/fit-in/200x150/filters:strip_icc()/pic3154455.jpg"},
                             #uuid "7e7fdd38-98cc-3f0f-a059-308e820a2013"
                             {:game/id
                              #uuid "7e7fdd38-98cc-3f0f-a059-308e820a2013",
@@ -4155,7 +4155,7 @@
                              :languages ["cs" "en"],
                              :game/name "Cards Against Humanity",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/nYLrPiI9gnvlrwOrKQ4_CA__thumb/img/fIhQLjWueNPYZhCZ_LzjAIhPm5U=/fit-in/200x150/filters:strip_icc()/pic2909692.jpg"},
+                             "https://cf.geekdo-images.com/nYLrPiI9gnvlrwOrKQ4_CA__small/img/fIhQLjWueNPYZhCZ_LzjAIhPm5U=/fit-in/200x150/filters:strip_icc()/pic2909692.jpg"},
                             #uuid "0df24345-d25d-360a-813e-13c31e55f060"
                             {:game/id
                              #uuid "0df24345-d25d-360a-813e-13c31e55f060",
@@ -4182,7 +4182,7 @@
                              :com.boardgamegeek.boardgame/id "399104",
                              :game/name "Cards vs Gravity",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/FlsPH3nGFZUvL4_ZlldXnQ__thumb/img/m2H6yz4-_BCuGYXxSBaQ45Ae9hc=/fit-in/200x150/filters:strip_icc()/pic8453290.jpg"},
+                             "https://cf.geekdo-images.com/FlsPH3nGFZUvL4_ZlldXnQ__small/img/m2H6yz4-_BCuGYXxSBaQ45Ae9hc=/fit-in/200x150/filters:strip_icc()/pic8453290.jpg"},
                             #uuid "eb101c28-a060-32ce-85dc-ada44ef61d6f"
                             {:game/id
                              #uuid "eb101c28-a060-32ce-85dc-ada44ef61d6f",
@@ -4241,7 +4241,7 @@
                              :com.boardgamegeek.boardgame/id "481",
                              :game/name "Carolus Magnus",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/HT2eLqEbib9ptJQrVSzOfg__thumb/img/4RDj_qLmtFClJUMdos8MKFmv4iM=/fit-in/200x150/filters:strip_icc()/pic130679.jpg"},
+                             "https://cf.geekdo-images.com/HT2eLqEbib9ptJQrVSzOfg__small/img/4RDj_qLmtFClJUMdos8MKFmv4iM=/fit-in/200x150/filters:strip_icc()/pic130679.jpg"},
                             #uuid "19e95810-b511-372b-9f47-e2b106f8daf6"
                             {:game/id
                              #uuid "19e95810-b511-372b-9f47-e2b106f8daf6",
@@ -4297,7 +4297,7 @@
                              :languages ["cs"],
                              :game/name "Cascadia",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__thumb/img/tVSFjSxYEcw7sKj3unIIQV8kxoc=/fit-in/200x150/filters:strip_icc()/pic5100691.jpg"},
+                             "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__small/img/tVSFjSxYEcw7sKj3unIIQV8kxoc=/fit-in/200x150/filters:strip_icc()/pic5100691.jpg"},
                             #uuid "59ccf897-4368-3ab7-ae8e-0ac969872f6e"
                             {:game/id
                              #uuid "59ccf897-4368-3ab7-ae8e-0ac969872f6e",
@@ -4337,7 +4337,7 @@
                              :languages ["cs"],
                              :game/name "Cat Lady",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/tnx6ExxyUmIlga9tFSrR6g__thumb/img/jHvb__-N4QCSB8rhTKXzCxWOWcU=/fit-in/200x150/filters:strip_icc()/pic3864115.jpg"},
+                             "https://cf.geekdo-images.com/tnx6ExxyUmIlga9tFSrR6g__small/img/jHvb__-N4QCSB8rhTKXzCxWOWcU=/fit-in/200x150/filters:strip_icc()/pic3864115.jpg"},
                             #uuid "b2ad34d9-7717-301c-bc77-8a02ab2f6561"
                             {:game/id
                              #uuid "b2ad34d9-7717-301c-bc77-8a02ab2f6561",
@@ -4382,7 +4382,7 @@
                              :game/name
                              "Cat in the Box: Deluxe Edition",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/M1gT_9LjNqUzAx3RAqdGRQ__thumb/img/3I1JU_hP5YtIg6RzcJePmmNOWAQ=/fit-in/200x150/filters:strip_icc()/pic6731829.jpg"},
+                             "https://cf.geekdo-images.com/M1gT_9LjNqUzAx3RAqdGRQ__small/img/3I1JU_hP5YtIg6RzcJePmmNOWAQ=/fit-in/200x150/filters:strip_icc()/pic6731829.jpg"},
                             #uuid "bd5b6b23-e9ce-385e-89b6-72bbbeb1e211"
                             {:game/id
                              #uuid "bd5b6b23-e9ce-385e-89b6-72bbbeb1e211",
@@ -4426,7 +4426,7 @@
                              :languages ["cs"],
                              :game/name "Catan: Junior",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/t2L_dlodn04yyS7CmwnREQ__thumb/img/DtXpiQdqTHdmWmYRMm9RTVmEEis=/fit-in/200x150/filters:strip_icc()/pic4741220.jpg"},
+                             "https://cf.geekdo-images.com/t2L_dlodn04yyS7CmwnREQ__small/img/DtXpiQdqTHdmWmYRMm9RTVmEEis=/fit-in/200x150/filters:strip_icc()/pic4741220.jpg"},
                             #uuid "31443f78-5552-3274-a24d-a8e1b221db5e"
                             {:game/id
                              #uuid "31443f78-5552-3274-a24d-a8e1b221db5e",
@@ -4486,7 +4486,7 @@
                              :languages ["cs"],
                              :game/name "Caverna: The Cave Farmers",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/EAqbd46lFxo-7GumlO8U4w__thumb/img/g-qxFyjgqn7kwH3erf3jhmgYaIU=/fit-in/200x150/filters:strip_icc()/pic5598833.jpg"},
+                             "https://cf.geekdo-images.com/EAqbd46lFxo-7GumlO8U4w__small/img/g-qxFyjgqn7kwH3erf3jhmgYaIU=/fit-in/200x150/filters:strip_icc()/pic5598833.jpg"},
                             #uuid "dd86edfc-d85e-3039-9399-5c282a2e3524"
                             {:game/id
                              #uuid "dd86edfc-d85e-3039-9399-5c282a2e3524",
@@ -4538,7 +4538,7 @@
                              :languages ["cs"],
                              :game/name "Celestia",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/LE-dGEPYcDRK-CGAqN2iGw__thumb/img/j1lHjQLufKr5xlBLhv_LcZyF8nk=/fit-in/200x150/filters:strip_icc()/pic8723226.jpg"},
+                             "https://cf.geekdo-images.com/LE-dGEPYcDRK-CGAqN2iGw__small/img/j1lHjQLufKr5xlBLhv_LcZyF8nk=/fit-in/200x150/filters:strip_icc()/pic8723226.jpg"},
                             #uuid "595f5c4f-c267-303b-adf4-1333c70a9460"
                             {:game/id
                              #uuid "595f5c4f-c267-303b-adf4-1333c70a9460",
@@ -4582,7 +4582,7 @@
                              :languages ["en"],
                              :game/name "Cha dango",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/1NJNf0z5guEZ2L713YNzPw__thumb/img/fMswkQDBdqiVpfiPOIAA6FY7PLo=/fit-in/200x150/filters:strip_icc()/pic4791211.jpg"},
+                             "https://cf.geekdo-images.com/1NJNf0z5guEZ2L713YNzPw__small/img/fMswkQDBdqiVpfiPOIAA6FY7PLo=/fit-in/200x150/filters:strip_icc()/pic4791211.jpg"},
                             #uuid "85574f84-6988-3f70-bc40-ac7e3a7a33d1"
                             {:game/id
                              #uuid "85574f84-6988-3f70-bc40-ac7e3a7a33d1",
@@ -4634,7 +4634,7 @@
                              :languages ["en"],
                              :game/name "Challengers!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/GtLESZ4ZjqikK12bjBTmig__thumb/img/66Emb1wn1JD_5_9XdsYY2DgMVMA=/fit-in/200x150/filters:strip_icc()/pic7040521.jpg"},
+                             "https://cf.geekdo-images.com/GtLESZ4ZjqikK12bjBTmig__small/img/66Emb1wn1JD_5_9XdsYY2DgMVMA=/fit-in/200x150/filters:strip_icc()/pic7040521.jpg"},
                             #uuid "1a30c214-a750-3e08-97aa-c85a7fa01368"
                             {:game/id
                              #uuid "1a30c214-a750-3e08-97aa-c85a7fa01368",
@@ -4678,7 +4678,7 @@
                              :languages ["en"],
                              :game/name "Chameleon",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/7u926rAsJeHIOCialaPi8w__thumb/img/hOuhQQy9T0vT7B8-qNZrYuG-fK0=/fit-in/200x150/filters:strip_icc()/pic174595.jpg"},
+                             "https://cf.geekdo-images.com/7u926rAsJeHIOCialaPi8w__small/img/hOuhQQy9T0vT7B8-qNZrYuG-fK0=/fit-in/200x150/filters:strip_icc()/pic174595.jpg"},
                             #uuid "212056c1-ecfb-375e-9624-ec1f461e12ef"
                             {:game/id
                              #uuid "212056c1-ecfb-375e-9624-ec1f461e12ef",
@@ -4709,7 +4709,7 @@
                              :com.boardgamegeek.boardgame/id "365597",
                              :game/name "Chaotic Studio",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/DPWNFvJlZlMcjVyVrHpmhA__thumb/img/GKTWdVdFrb3cuae6JRJi3SbbFUc=/fit-in/200x150/filters:strip_icc()/pic6928997.png"},
+                             "https://cf.geekdo-images.com/DPWNFvJlZlMcjVyVrHpmhA__small/img/GKTWdVdFrb3cuae6JRJi3SbbFUc=/fit-in/200x150/filters:strip_icc()/pic6928997.png"},
                             #uuid "47b12600-20f8-36a9-8313-00389915842e"
                             {:game/id
                              #uuid "47b12600-20f8-36a9-8313-00389915842e",
@@ -4808,7 +4808,7 @@
                              :languages ["cs" "en" "fr" "de" "ru"],
                              :game/name "Chess",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/0_RWFMNapgr5yCrdhvGi_Q__thumb/img/Ag-pVSHp3iBail0FsibR_iUMmQc=/fit-in/200x150/filters:strip_icc()/pic8785991.jpg"},
+                             "https://cf.geekdo-images.com/0_RWFMNapgr5yCrdhvGi_Q__small/img/Ag-pVSHp3iBail0FsibR_iUMmQc=/fit-in/200x150/filters:strip_icc()/pic8785991.jpg"},
                             #uuid "f821ee04-f104-3d22-96a6-9bab12eb4c28"
                             {:game/id
                              #uuid "f821ee04-f104-3d22-96a6-9bab12eb4c28",
@@ -4844,7 +4844,7 @@
                              :languages ["cs"],
                              :game/name "Chicken Cha Cha Cha",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/ZxGfy7AR2mjrKVDiDVJoBw__thumb/img/8oLfdlwvjgqVlU4tZXSSnPyUwi0=/fit-in/200x150/filters:strip_icc()/pic406697.jpg"},
+                             "https://cf.geekdo-images.com/ZxGfy7AR2mjrKVDiDVJoBw__small/img/8oLfdlwvjgqVlU4tZXSSnPyUwi0=/fit-in/200x150/filters:strip_icc()/pic406697.jpg"},
                             #uuid "e0dfaae0-12bd-33ef-94b1-4c34842456b4"
                             {:game/id
                              #uuid "e0dfaae0-12bd-33ef-94b1-4c34842456b4",
@@ -4887,7 +4887,7 @@
                              :com.boardgamegeek.boardgame/id "163642",
                              :game/name "Chimera Station",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/1CiJrEhD6UpRNFNIy-1R5g__thumb/img/ptY_o-lbmIVvqtbFRRERIODbetk=/fit-in/200x150/filters:strip_icc()/pic3160959.jpg"},
+                             "https://cf.geekdo-images.com/1CiJrEhD6UpRNFNIy-1R5g__small/img/ptY_o-lbmIVvqtbFRRERIODbetk=/fit-in/200x150/filters:strip_icc()/pic3160959.jpg"},
                             #uuid "09e49bb6-1f03-33a3-bfbe-8937e2e031e8"
                             {:game/id
                              #uuid "09e49bb6-1f03-33a3-bfbe-8937e2e031e8",
@@ -4950,7 +4950,7 @@
                              :com.boardgamegeek.boardgame/id "47",
                              :game/name "Chinatown",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/o23NBqu_LBRAtRaVoOBBhQ__thumb/img/VEXGKhNHkULY2hJ41r4Agob5RvE=/fit-in/200x150/filters:strip_icc()/pic403442.jpg"},
+                             "https://cf.geekdo-images.com/o23NBqu_LBRAtRaVoOBBhQ__small/img/VEXGKhNHkULY2hJ41r4Agob5RvE=/fit-in/200x150/filters:strip_icc()/pic403442.jpg"},
                             #uuid "c4b03b0d-d5cb-3866-bfee-4a20095c11d6"
                             {:game/id
                              #uuid "c4b03b0d-d5cb-3866-bfee-4a20095c11d6",
@@ -4994,13 +4994,13 @@
                              :languages ["en"],
                              :game/name "Chinchiller Dice",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/7YduweUXo87k3FYx9dryRg__thumb/img/NNtQ16pzW--zfY3TG1nCiT7mz0A=/fit-in/200x150/filters:strip_icc()/pic6253330.png"},
+                             "https://cf.geekdo-images.com/7YduweUXo87k3FYx9dryRg__small/img/NNtQ16pzW--zfY3TG1nCiT7mz0A=/fit-in/200x150/filters:strip_icc()/pic6253330.png"},
                             #uuid "7a83122d-f549-37e0-b1ef-7e67847e5161"
                             {:game/id
                              #uuid "7a83122d-f549-37e0-b1ef-7e67847e5161",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.6,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -5041,7 +5041,7 @@
                              :com.boardgamegeek.boardgame/id "239188",
                              :game/name "Chronicles of Crime",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/1BMyuEwK0zV9005oYinYLw__thumb/img/QFzbDlFGzK3yRZNLnRr4YzHwEuY=/fit-in/200x150/filters:strip_icc()/pic4317519.jpg"},
+                             "https://cf.geekdo-images.com/1BMyuEwK0zV9005oYinYLw__small/img/QFzbDlFGzK3yRZNLnRr4YzHwEuY=/fit-in/200x150/filters:strip_icc()/pic4317519.jpg"},
                             #uuid "5b349ead-c3fb-374b-bb6c-47fcc3843355"
                             {:game/id
                              #uuid "5b349ead-c3fb-374b-bb6c-47fcc3843355",
@@ -5113,7 +5113,7 @@
                              :languages ["cs" "en"],
                              :game/name "Citadels",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/sHd0jkZZLDgixHjAXtn7kA__thumb/img/HB0Z5D7uwBjf1lCCPjMck-5VP9A=/fit-in/200x150/filters:strip_icc()/pic3119514.jpg"},
+                             "https://cf.geekdo-images.com/sHd0jkZZLDgixHjAXtn7kA__small/img/HB0Z5D7uwBjf1lCCPjMck-5VP9A=/fit-in/200x150/filters:strip_icc()/pic3119514.jpg"},
                             #uuid "5a9f1882-0b27-3da7-8d24-b13eda1849af"
                             {:game/id
                              #uuid "5a9f1882-0b27-3da7-8d24-b13eda1849af",
@@ -5181,7 +5181,7 @@
                              :game/name
                              "Clank!: A Deck-Building Adventure",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/DPjV1iI0ygo5Bl3XLNRiIg__thumb/img/O2WnqJew5gNjQqPUH3gqmTBc1pQ=/fit-in/200x150/filters:strip_icc()/pic4449526.jpg"},
+                             "https://cf.geekdo-images.com/DPjV1iI0ygo5Bl3XLNRiIg__small/img/O2WnqJew5gNjQqPUH3gqmTBc1pQ=/fit-in/200x150/filters:strip_icc()/pic4449526.jpg"},
                             #uuid "fb48a85b-84e9-312b-985b-de09b2c0b29f"
                             {:game/id
                              #uuid "fb48a85b-84e9-312b-985b-de09b2c0b29f",
@@ -5221,7 +5221,7 @@
                              :languages ["en"],
                              :game/name "Clue",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/5NJKy5K9c0tyCTnTWFekeQ__thumb/img/U73irtMkLpBBRod1xMnSO6-FbKI=/fit-in/200x150/filters:strip_icc()/pic3181978.png"},
+                             "https://cf.geekdo-images.com/5NJKy5K9c0tyCTnTWFekeQ__small/img/U73irtMkLpBBRod1xMnSO6-FbKI=/fit-in/200x150/filters:strip_icc()/pic3181978.png"},
                             #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a"
                             {:game/id
                              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a",
@@ -5281,7 +5281,7 @@
                              :languages ["cs" "en" "ru"],
                              :game/name "Codenames",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/nC6ifPCDnAItwoKSKXVrnw__thumb/img/1iZav_8ZqurrDbvkZA9GcFhB5x0=/fit-in/200x150/filters:strip_icc()/pic8907965.jpg"},
+                             "https://cf.geekdo-images.com/nC6ifPCDnAItwoKSKXVrnw__small/img/1iZav_8ZqurrDbvkZA9GcFhB5x0=/fit-in/200x150/filters:strip_icc()/pic8907965.jpg"},
                             #uuid "c56337cc-54ed-3e22-8b76-d1092f67310c"
                             {:game/id
                              #uuid "c56337cc-54ed-3e22-8b76-d1092f67310c",
@@ -5329,7 +5329,7 @@
                              :languages ["en" "cs"],
                              :game/name "Codenames: Duet",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/VG31TvBpKngZ8ztV-N4Dcg__thumb/img/FW3sD3Ci-5t07QceD_q1r6Wnrzw=/fit-in/200x150/filters:strip_icc()/pic8911183.png"},
+                             "https://cf.geekdo-images.com/VG31TvBpKngZ8ztV-N4Dcg__small/img/FW3sD3Ci-5t07QceD_q1r6Wnrzw=/fit-in/200x150/filters:strip_icc()/pic8911183.png"},
                             #uuid "c7b74e13-dff8-3831-98f4-1d81198c1337"
                             {:game/id
                              #uuid "c7b74e13-dff8-3831-98f4-1d81198c1337",
@@ -5377,7 +5377,7 @@
                              :languages ["en"],
                              :game/name "Codenames: Pictures",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/OFSDgRR7lbFF0W3VP4mISw__thumb/img/wx-QjSj1vQfEZBgQXjgnwPpzyow=/fit-in/200x150/filters:strip_icc()/pic8911187.png"},
+                             "https://cf.geekdo-images.com/OFSDgRR7lbFF0W3VP4mISw__small/img/wx-QjSj1vQfEZBgQXjgnwPpzyow=/fit-in/200x150/filters:strip_icc()/pic8911187.png"},
                             #uuid "22d1c628-02a5-3775-85a6-90babf4b04b4"
                             {:game/id
                              #uuid "22d1c628-02a5-3775-85a6-90babf4b04b4",
@@ -5441,7 +5441,7 @@
                              :languages ["en"],
                              :game/name "Cold War: CIA vs KGB",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/PgMdJGJD1c9M42alKzQjIg__thumb/img/QFUj28JLMmaGA4acWi7Im9DIoIw=/fit-in/200x150/filters:strip_icc()/pic3021018.jpg"},
+                             "https://cf.geekdo-images.com/PgMdJGJD1c9M42alKzQjIg__small/img/QFUj28JLMmaGA4acWi7Im9DIoIw=/fit-in/200x150/filters:strip_icc()/pic3021018.jpg"},
                             #uuid "7d1c07ba-7b59-3e65-b308-f82e4f02765e"
                             {:game/id
                              #uuid "7d1c07ba-7b59-3e65-b308-f82e4f02765e",
@@ -5493,7 +5493,7 @@
                              :languages ["en"],
                              :game/name "Colonialism",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/7L38HEji9NCO7l8vJGPNpA__thumb/img/Bil3fnBYfH2sksgWXG6w7-MmRuk=/fit-in/200x150/filters:strip_icc()/pic1613797.jpg"},
+                             "https://cf.geekdo-images.com/7L38HEji9NCO7l8vJGPNpA__small/img/Bil3fnBYfH2sksgWXG6w7-MmRuk=/fit-in/200x150/filters:strip_icc()/pic1613797.jpg"},
                             #uuid "08cddb57-6c00-3836-9593-a0b04fd84141"
                             {:game/id
                              #uuid "08cddb57-6c00-3836-9593-a0b04fd84141",
@@ -5537,7 +5537,7 @@
                              :languages ["cs" "en" "de"],
                              :game/name "Coloretto",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/pd3qaiROSgTJ5js_0e4Nhw__thumb/img/SveyL9J1DT0hX4ucYWjRR6DMrbk=/fit-in/200x150/filters:strip_icc()/pic6653783.png"},
+                             "https://cf.geekdo-images.com/pd3qaiROSgTJ5js_0e4Nhw__small/img/SveyL9J1DT0hX4ucYWjRR6DMrbk=/fit-in/200x150/filters:strip_icc()/pic6653783.png"},
                             #uuid "b1b7f4bc-2440-32df-812f-bc28dbe11cb7"
                             {:game/id
                              #uuid "b1b7f4bc-2440-32df-812f-bc28dbe11cb7",
@@ -5588,7 +5588,7 @@
                              :com.boardgamegeek.boardgame/id "285223",
                              :game/name "Colorful Treasure",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/DXOURreE7qjZnlu3PzZqSA__thumb/img/wbgfPJMVGGWX6P9j3ECU9xlmS_8=/fit-in/200x150/filters:strip_icc()/pic4918762.jpg"},
+                             "https://cf.geekdo-images.com/DXOURreE7qjZnlu3PzZqSA__small/img/wbgfPJMVGGWX6P9j3ECU9xlmS_8=/fit-in/200x150/filters:strip_icc()/pic4918762.jpg"},
                             #uuid "f5420b61-5e19-313e-8af2-cf5be82c637b"
                             {:game/id
                              #uuid "f5420b61-5e19-313e-8af2-cf5be82c637b",
@@ -5632,7 +5632,7 @@
                              :languages ["en"],
                              :game/name "Colourbrain",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/M3KJfjJVOGA6x0LuMgfVWA__thumb/img/BXLhWVUfFkVhEV6BbEa18JOA_a8=/fit-in/200x150/filters:strip_icc()/pic4219953.jpg"},
+                             "https://cf.geekdo-images.com/M3KJfjJVOGA6x0LuMgfVWA__small/img/BXLhWVUfFkVhEV6BbEa18JOA_a8=/fit-in/200x150/filters:strip_icc()/pic4219953.jpg"},
                             #uuid "dd6f7a14-de47-37f2-bb22-bd37cf04e69b"
                             {:game/id
                              #uuid "dd6f7a14-de47-37f2-bb22-bd37cf04e69b",
@@ -5692,7 +5692,7 @@
                              :languages ["cs"],
                              :game/name "Colt Express",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/2HKX0QANk_DY7CIVK5O5fQ__thumb/img/zcjkqn_HYDIIyVAZaAxJIkurQRg=/fit-in/200x150/filters:strip_icc()/pic2869710.jpg"},
+                             "https://cf.geekdo-images.com/2HKX0QANk_DY7CIVK5O5fQ__small/img/zcjkqn_HYDIIyVAZaAxJIkurQRg=/fit-in/200x150/filters:strip_icc()/pic2869710.jpg"},
                             #uuid "3e9f51c2-6309-3f85-846e-5144a544ecc3"
                             {:game/id
                              #uuid "3e9f51c2-6309-3f85-846e-5144a544ecc3",
@@ -5756,7 +5756,7 @@
                              :languages ["en"],
                              :game/name "Combo Fighter",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/6trsRHOH8iY1UWdsmMwZRA__thumb/img/_hoG6eh95ukHKIoYZVnR25W4TJ0=/fit-in/200x150/filters:strip_icc()/pic4293830.png"},
+                             "https://cf.geekdo-images.com/6trsRHOH8iY1UWdsmMwZRA__small/img/_hoG6eh95ukHKIoYZVnR25W4TJ0=/fit-in/200x150/filters:strip_icc()/pic4293830.png"},
                             #uuid "76363628-3f30-3180-8a81-686256476d5d"
                             {:game/id
                              #uuid "76363628-3f30-3180-8a81-686256476d5d",
@@ -5800,7 +5800,7 @@
                              :languages ["en"],
                              :game/name "Come Together",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/pSJ5JXSldWkNKuwati1xnQ__thumb/img/U2BZeQiFirMx3JZC5lrq-mIUBno=/fit-in/200x150/filters:strip_icc()/pic6893002.jpg"},
+                             "https://cf.geekdo-images.com/pSJ5JXSldWkNKuwati1xnQ__small/img/U2BZeQiFirMx3JZC5lrq-mIUBno=/fit-in/200x150/filters:strip_icc()/pic6893002.jpg"},
                             #uuid "9353a118-c201-398a-83cc-6d58ccb38f02"
                             {:game/id
                              #uuid "9353a118-c201-398a-83cc-6d58ccb38f02",
@@ -5888,7 +5888,7 @@
                              :languages ["en" "de"],
                              :game/name "Concordia",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/CzwSm8i7tkLz6cBnrILZBg__thumb/img/ESPSltYYSFK-aJw6jOTdQrJGpOc=/fit-in/200x150/filters:strip_icc()/pic3453267.jpg"},
+                             "https://cf.geekdo-images.com/CzwSm8i7tkLz6cBnrILZBg__small/img/ESPSltYYSFK-aJw6jOTdQrJGpOc=/fit-in/200x150/filters:strip_icc()/pic3453267.jpg"},
                             #uuid "12aa1a49-7859-3aae-8f37-3e81ff48d8d1"
                             {:game/id
                              #uuid "12aa1a49-7859-3aae-8f37-3e81ff48d8d1",
@@ -5920,7 +5920,7 @@
                              :languages ["cs"],
                              :game/name "Connec'Team",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/4g1xKtWQObPUoOkitFRh1w__thumb/img/sQVJx4aQRXrmmPdwWm_St5aydD8=/fit-in/200x150/filters:strip_icc()/pic5280851.jpg"},
+                             "https://cf.geekdo-images.com/4g1xKtWQObPUoOkitFRh1w__small/img/sQVJx4aQRXrmmPdwWm_St5aydD8=/fit-in/200x150/filters:strip_icc()/pic5280851.jpg"},
                             #uuid "3a47e770-d479-3cdb-aa0d-ca26c7430b90"
                             {:game/id
                              #uuid "3a47e770-d479-3cdb-aa0d-ca26c7430b90",
@@ -5952,7 +5952,7 @@
                              :languages ["en"],
                              :game/name "Connect Four",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/I_ZPIWEvFlrMa8caT4UD-w__thumb/img/JR0u-AXmZpNrZpevcz3lrLPNDf4=/fit-in/200x150/filters:strip_icc()/pic859430.jpg"},
+                             "https://cf.geekdo-images.com/I_ZPIWEvFlrMa8caT4UD-w__small/img/JR0u-AXmZpNrZpevcz3lrLPNDf4=/fit-in/200x150/filters:strip_icc()/pic859430.jpg"},
                             #uuid "19ada482-4ae3-35b4-b89a-46cb469a807e"
                             {:game/id
                              #uuid "19ada482-4ae3-35b4-b89a-46cb469a807e",
@@ -6036,7 +6036,7 @@
                              :languages ["en"],
                              :game/name "CoraQuest",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/nh1jnfOxSoxOr5Dtza6_1A__thumb/img/Bnq9RlrLwuhVHMNnFcwUWxI2tPo=/fit-in/200x150/filters:strip_icc()/pic5888646.png"},
+                             "https://cf.geekdo-images.com/nh1jnfOxSoxOr5Dtza6_1A__small/img/Bnq9RlrLwuhVHMNnFcwUWxI2tPo=/fit-in/200x150/filters:strip_icc()/pic5888646.png"},
                             #uuid "bef85532-c251-3826-a9e4-2cb336105a3b"
                             {:game/id
                              #uuid "bef85532-c251-3826-a9e4-2cb336105a3b",
@@ -6116,7 +6116,7 @@
                              :languages ["en"],
                              :game/name "Cosmic Encounter",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/S8cE-Ld7XP5sVz-upKJ-Bg__thumb/img/gE--xqnuor4bft2J361zxJJGCjM=/fit-in/200x150/filters:strip_icc()/pic1521633.jpg"},
+                             "https://cf.geekdo-images.com/S8cE-Ld7XP5sVz-upKJ-Bg__small/img/gE--xqnuor4bft2J361zxJJGCjM=/fit-in/200x150/filters:strip_icc()/pic1521633.jpg"},
                             #uuid "a07de260-165e-353e-a142-dc602c389bc7"
                             {:game/id
                              #uuid "a07de260-165e-353e-a142-dc602c389bc7",
@@ -6176,7 +6176,7 @@
                              :languages ["en"],
                              :game/name "Coup",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/MWhSY_GOe2-bmlQ2rntSVg__thumb/img/vuR_0PCX1w2EkjO_LbchOHZPOwU=/fit-in/200x150/filters:strip_icc()/pic2016054.jpg"},
+                             "https://cf.geekdo-images.com/MWhSY_GOe2-bmlQ2rntSVg__small/img/vuR_0PCX1w2EkjO_LbchOHZPOwU=/fit-in/200x150/filters:strip_icc()/pic2016054.jpg"},
                             #uuid "5e9fb619-5319-3aa6-a826-7e0f06fa85ea"
                             {:game/id
                              #uuid "5e9fb619-5319-3aa6-a826-7e0f06fa85ea",
@@ -6215,7 +6215,7 @@
                              :com.boardgamegeek.boardgame/id "402283",
                              :game/name "Courtisans",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/JK1HbIGtiVfsIbnw3Q543w__thumb/img/aLX0aSFbj4WBlK69h0x7j_8bItc=/fit-in/200x150/filters:strip_icc()/pic8004908.jpg"},
+                             "https://cf.geekdo-images.com/JK1HbIGtiVfsIbnw3Q543w__small/img/aLX0aSFbj4WBlK69h0x7j_8bItc=/fit-in/200x150/filters:strip_icc()/pic8004908.jpg"},
                             #uuid "1bf19e97-0984-3eb0-8ea2-af4995dc8d02"
                             {:game/id
                              #uuid "1bf19e97-0984-3eb0-8ea2-af4995dc8d02",
@@ -6266,7 +6266,7 @@
                              :com.boardgamegeek.boardgame/id "317981",
                              :game/name "Coyote",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/aYUNt9XcRTmN2PSeqliCtA__thumb/img/BVUyeh5mWuAi2Kn11RotzmD-BtM=/fit-in/200x150/filters:strip_icc()/pic5645074.jpg"},
+                             "https://cf.geekdo-images.com/aYUNt9XcRTmN2PSeqliCtA__small/img/BVUyeh5mWuAi2Kn11RotzmD-BtM=/fit-in/200x150/filters:strip_icc()/pic5645074.jpg"},
                             #uuid "7c3ecb12-3069-39da-ad3f-8f578ca0549e"
                             {:game/id
                              #uuid "7c3ecb12-3069-39da-ad3f-8f578ca0549e",
@@ -6306,35 +6306,15 @@
                              :languages ["cs" "en" "fr" "de" "ru"],
                              :game/name "Crazy Eights",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/oqVEfGmkZYxCsFf6aIw9Ig__thumb/img/wNpYSzpVQg5nZa-oO8w_RQWjglI=/fit-in/200x150/filters:strip_icc()/pic335883.jpg"},
-                            #uuid "75471e1a-e10c-3022-9cc7-fcea8594f256"
-                            {:game/id
-                             #uuid "75471e1a-e10c-3022-9cc7-fcea8594f256",
-                             :com.boardgamegeek.boardgame/min-players
-                             2,
-                             :com.boardgamegeek.boardgame/rating 4.0,
-                             :com.boardgamegeek.boardgame/mechanics
-                             (list #:com.boardgamegeek.mechanic{:id
-                                                                2840,
-                                                                :name
-                                                                "Action / Event"}),
+                             "https://cf.geekdo-images.com/oqVEfGmkZYxCsFf6aIw9Ig__small/img/wNpYSzpVQg5nZa-oO8w_RQWjglI=/fit-in/200x150/filters:strip_icc()/pic335883.jpg"},
+                            #uuid "88323a7c-755f-3f0b-b1ce-b07ddc84864e"
+                            {:languages ["en"],
                              :name "Crossroads - The Linking Game",
-                             :com.boardgamegeek.boardgame/categories
-                             (list #:com.boardgamegeek.category{:id
-                                                                1028,
-                                                                :name
-                                                                "Puzzle"}),
-                             :com.boardgamegeek.boardgame/max-play-time
-                             20,
-                             :com.boardgamegeek.boardgame/max-players
-                             6,
-                             :com.boardgamegeek.boardgame/min-play-time
-                             20,
-                             :com.boardgamegeek.boardgame/id "421294",
-                             :languages ["en"],
-                             :game/name "Crossroads: The Linking Game",
-                             :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/mUWeGpgHM3sWVz3jl72LaA__thumb/img/E3t-L3Zbz2aHALqz4OiRRbB7qjo=/fit-in/200x150/filters:strip_icc()/pic8211920.jpg"},
+                             :game/id
+                             #uuid "88323a7c-755f-3f0b-b1ce-b07ddc84864e",
+                             :game/name
+                             "Crossroads - The Linking Game",
+                             :com.boardgamegeek.boardgame/id nil},
                             #uuid "9861dabe-15f1-3b2f-9df3-5eac9b2687aa"
                             {:game/id
                              #uuid "9861dabe-15f1-3b2f-9df3-5eac9b2687aa",
@@ -6388,7 +6368,7 @@
                              :game/name
                              "Crunch: The Game for Utter Bankers",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/FcbXeiEr2GWz3hq1PClKIg__thumb/img/2MWyAFAjLseihsAKDEz98ocgjek=/fit-in/200x150/filters:strip_icc()/pic725499.jpg"},
+                             "https://cf.geekdo-images.com/FcbXeiEr2GWz3hq1PClKIg__small/img/2MWyAFAjLseihsAKDEz98ocgjek=/fit-in/200x150/filters:strip_icc()/pic725499.jpg"},
                             #uuid "accf9b44-d60e-36aa-ab3e-293a0e91aed0"
                             {:game/id
                              #uuid "accf9b44-d60e-36aa-ab3e-293a0e91aed0",
@@ -6424,7 +6404,7 @@
                              :languages ["en"],
                              :game/name "CuBirds",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/FDBUwGFBkniyl8q4Alvq8A__thumb/img/EiGltQvI5VsmCSYYxjgD7kXY2eg=/fit-in/200x150/filters:strip_icc()/pic7491534.jpg"},
+                             "https://cf.geekdo-images.com/FDBUwGFBkniyl8q4Alvq8A__small/img/EiGltQvI5VsmCSYYxjgD7kXY2eg=/fit-in/200x150/filters:strip_icc()/pic7491534.jpg"},
                             #uuid "f72af12f-4736-3bde-84b0-ca91070cf43c"
                             {:game/id
                              #uuid "f72af12f-4736-3bde-84b0-ca91070cf43c",
@@ -6464,7 +6444,7 @@
                              :languages ["en"],
                              :game/name "DANY",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/15ZfT3y5Wndrg7Cxp8BAYg__thumb/img/kJTC0OB3o0_4WwrTPCIFuycpULw=/fit-in/200x150/filters:strip_icc()/pic4465422.jpg"},
+                             "https://cf.geekdo-images.com/15ZfT3y5Wndrg7Cxp8BAYg__small/img/kJTC0OB3o0_4WwrTPCIFuycpULw=/fit-in/200x150/filters:strip_icc()/pic4465422.jpg"},
                             #uuid "510c022b-855c-3c4b-aab1-2d34ed0a590b"
                             {:game/id
                              #uuid "510c022b-855c-3c4b-aab1-2d34ed0a590b",
@@ -6500,7 +6480,7 @@
                              :languages ["en"],
                              :game/name "Dark Tales",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/xUs-VFSA1CTu1kTO56QoJA__thumb/img/PqNiezCrJKn7gIhgS5hff5gNtiI=/fit-in/200x150/filters:strip_icc()/pic2299555.jpg"},
+                             "https://cf.geekdo-images.com/xUs-VFSA1CTu1kTO56QoJA__small/img/PqNiezCrJKn7gIhgS5hff5gNtiI=/fit-in/200x150/filters:strip_icc()/pic2299555.jpg"},
                             #uuid "ed2dab37-2f6d-3f1b-9ec5-40cacb2a1714"
                             {:game/id
                              #uuid "ed2dab37-2f6d-3f1b-9ec5-40cacb2a1714",
@@ -6548,7 +6528,7 @@
                              :languages ["en"],
                              :game/name "Deep Sea Adventure",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/I0nSYj9A6FdyPwoeZNVxkQ__thumb/img/H2NTR_GqK21p_ZX7PKZQEew33L4=/fit-in/200x150/filters:strip_icc()/pic8948227.png"},
+                             "https://cf.geekdo-images.com/owyKXaa5SPB2HG9F_MueNQ__small/img/poEY0PMTpz4X_SOUaPjs6G7qr7o=/fit-in/200x150/filters:strip_icc()/pic3169827.png"},
                             #uuid "86f0bb77-105e-3136-98ae-4837a11ed606"
                             {:game/id
                              #uuid "86f0bb77-105e-3136-98ae-4837a11ed606",
@@ -6592,7 +6572,7 @@
                              :languages ["en"],
                              :game/name "Detective: City of Angels",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/xWdK1lL-2ZTdzBZGYjjqkw__thumb/img/wl_YxOhd-S6QbpyHAQZGhV109rw=/fit-in/200x150/filters:strip_icc()/pic3469246.jpg"},
+                             "https://cf.geekdo-images.com/xWdK1lL-2ZTdzBZGYjjqkw__small/img/wl_YxOhd-S6QbpyHAQZGhV109rw=/fit-in/200x150/filters:strip_icc()/pic3469246.jpg"},
                             #uuid "d38f4afc-007d-3b25-9c04-f2d810fafaf5"
                             {:game/id
                              #uuid "d38f4afc-007d-3b25-9c04-f2d810fafaf5",
@@ -6660,7 +6640,7 @@
                              :languages ["en"],
                              :game/name "Diplomacy",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/CGJihifkrZSqW40zElgXkQ__thumb/img/_Ar945YdaXSz3iFIR_aOCCcf6zc=/fit-in/200x150/filters:strip_icc()/pic7376874.jpg"},
+                             "https://cf.geekdo-images.com/CGJihifkrZSqW40zElgXkQ__small/img/_Ar945YdaXSz3iFIR_aOCCcf6zc=/fit-in/200x150/filters:strip_icc()/pic7376874.jpg"},
                             #uuid "f442518c-c10d-3657-95ec-f4a0709a8f8a"
                             {:game/id
                              #uuid "f442518c-c10d-3657-95ec-f4a0709a8f8a",
@@ -6699,7 +6679,7 @@
                              :com.boardgamegeek.boardgame/id "414661",
                              :game/name "Dirt and Glory",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/KxS8OMzHyBLjMGuIDeNKUQ__thumb/img/jHc2UKNHXtwNYxZY3VK9YaTDrRs=/fit-in/200x150/filters:strip_icc()/pic8284058.jpg"},
+                             "https://cf.geekdo-images.com/KxS8OMzHyBLjMGuIDeNKUQ__small/img/jHc2UKNHXtwNYxZY3VK9YaTDrRs=/fit-in/200x150/filters:strip_icc()/pic8284058.jpg"},
                             #uuid "25b621f7-7694-329c-b479-e84107f27b8c"
                             {:game/id
                              #uuid "25b621f7-7694-329c-b479-e84107f27b8c",
@@ -6743,7 +6723,7 @@
                              :languages ["en"],
                              :game/name "District Noir",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/NyOyd9UXdzWAuLkrDPDUnA__thumb/img/XIZUXR0d7oXGsaoVUe7S0AlbiiE=/fit-in/200x150/filters:strip_icc()/pic6954556.jpg"},
+                             "https://cf.geekdo-images.com/NyOyd9UXdzWAuLkrDPDUnA__small/img/XIZUXR0d7oXGsaoVUe7S0AlbiiE=/fit-in/200x150/filters:strip_icc()/pic6954556.jpg"},
                             #uuid "096f6d71-6864-3882-898c-00b9142932e7"
                             {:game/id
                              #uuid "096f6d71-6864-3882-898c-00b9142932e7",
@@ -6791,7 +6771,7 @@
                              :languages ["en"],
                              :game/name "Dive",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/iOla7B7sqs4IsGQcS4ghgA__thumb/img/oStmPCcaE3-Ncs6-EyRZDQfFVnE=/fit-in/200x150/filters:strip_icc()/pic5733939.png"},
+                             "https://cf.geekdo-images.com/iOla7B7sqs4IsGQcS4ghgA__small/img/oStmPCcaE3-Ncs6-EyRZDQfFVnE=/fit-in/200x150/filters:strip_icc()/pic5733939.png"},
                             #uuid "3b94132b-40e6-384e-9a3c-ab80c3cee057"
                             {:game/id
                              #uuid "3b94132b-40e6-384e-9a3c-ab80c3cee057",
@@ -6835,7 +6815,7 @@
                              :languages ["cs"],
                              :game/name "Dixit Demo Deck",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/x1h99vfpXnIxkbw3PuuzuA__thumb/img/uiQyWglrkGnPmY2ojJFqMQab0n0=/fit-in/200x150/filters:strip_icc()/pic4838722.jpg"},
+                             "https://cf.geekdo-images.com/x1h99vfpXnIxkbw3PuuzuA__small/img/uiQyWglrkGnPmY2ojJFqMQab0n0=/fit-in/200x150/filters:strip_icc()/pic4838722.jpg"},
                             #uuid "a528cdc2-c5e5-3afb-8043-1cfa5cde859a"
                             {:game/id
                              #uuid "a528cdc2-c5e5-3afb-8043-1cfa5cde859a",
@@ -6883,7 +6863,7 @@
                              :languages ["cs"],
                              :game/name "Do De Li Do",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/KKL-2QVDa4wa7he4iR28iw__thumb/img/RDmrT9YBcQwViIfnWFy8CR3xs-0=/fit-in/200x150/filters:strip_icc()/pic3240504.jpg"},
+                             "https://cf.geekdo-images.com/KKL-2QVDa4wa7he4iR28iw__small/img/RDmrT9YBcQwViIfnWFy8CR3xs-0=/fit-in/200x150/filters:strip_icc()/pic3240504.jpg"},
                             #uuid "eb9ce38e-9186-383e-8a18-3f574ec0615f"
                             {:game/id
                              #uuid "eb9ce38e-9186-383e-8a18-3f574ec0615f",
@@ -6931,7 +6911,7 @@
                              :languages ["en"],
                              :game/name "Dog Lover",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/k5vsit8aU1_PnrqTwum2YQ__thumb/img/Cxs0YbafjQeBS3Kqgf6CtOUPxu8=/fit-in/200x150/filters:strip_icc()/pic6503210.jpg"},
+                             "https://cf.geekdo-images.com/k5vsit8aU1_PnrqTwum2YQ__small/img/Cxs0YbafjQeBS3Kqgf6CtOUPxu8=/fit-in/200x150/filters:strip_icc()/pic6503210.jpg"},
                             #uuid "b2980c72-2a1a-3e7a-b030-3718ce5491d8"
                             {:game/id
                              #uuid "b2980c72-2a1a-3e7a-b030-3718ce5491d8",
@@ -6983,7 +6963,7 @@
                              :languages ["cs" "en"],
                              :game/name "Dominion",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/j6iQpZ4XkemZP07HNCODBA__thumb/img/B2u2ghwlmI_qsUtCwuvcbnBcIqU=/fit-in/200x150/filters:strip_icc()/pic394356.jpg"},
+                             "https://cf.geekdo-images.com/j6iQpZ4XkemZP07HNCODBA__small/img/B2u2ghwlmI_qsUtCwuvcbnBcIqU=/fit-in/200x150/filters:strip_icc()/pic394356.jpg"},
                             #uuid "09d56d54-8ac5-3230-a988-aa448e7b1670"
                             {:game/id
                              #uuid "09d56d54-8ac5-3230-a988-aa448e7b1670",
@@ -7006,7 +6986,7 @@
                              :languages ["cs" "en" "de" "ru"],
                              :game/name "Domino Dice",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Wh2uFuUgGo7eXITNRQVNHg__thumb/img/hUs92cN55YAu70e52aJhx57W_68=/fit-in/200x150/filters:strip_icc()/pic1917656.jpg"},
+                             "https://cf.geekdo-images.com/Wh2uFuUgGo7eXITNRQVNHg__small/img/hUs92cN55YAu70e52aJhx57W_68=/fit-in/200x150/filters:strip_icc()/pic1917656.jpg"},
                             #uuid "3ed6a2fa-a80b-3140-9878-53dd29c238b8"
                             {:game/id
                              #uuid "3ed6a2fa-a80b-3140-9878-53dd29c238b8",
@@ -7050,7 +7030,7 @@
                              :languages ["en"],
                              :game/name "Doppelgänger",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/VUP_YfIMAMRbTqW7Az_z7w__thumb/img/yag9GSN6xhlvxKtphyYsJpmK_Go=/fit-in/200x150/filters:strip_icc()/pic3893983.jpg"},
+                             "https://cf.geekdo-images.com/VUP_YfIMAMRbTqW7Az_z7w__small/img/yag9GSN6xhlvxKtphyYsJpmK_Go=/fit-in/200x150/filters:strip_icc()/pic3893983.jpg"},
                             #uuid "12218694-0010-31cc-a245-a502b7ed4b19"
                             {:game/id
                              #uuid "12218694-0010-31cc-a245-a502b7ed4b19",
@@ -7110,7 +7090,7 @@
                              :languages ["cs"],
                              :game/name "Downforce",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/c74C-NVJHuMVxt6A_j2TsA__thumb/img/OUdT3uFyqBBzN7q9ZDFN6WBiecU=/fit-in/200x150/filters:strip_icc()/pic3432548.png"},
+                             "https://cf.geekdo-images.com/c74C-NVJHuMVxt6A_j2TsA__small/img/OUdT3uFyqBBzN7q9ZDFN6WBiecU=/fit-in/200x150/filters:strip_icc()/pic3432548.png"},
                             #uuid "da07d263-b681-3ea1-8b68-6a504e73ccb3"
                             {:languages ["cs"],
                              :name "Dr. Heuréka",
@@ -7123,7 +7103,7 @@
                              #uuid "db10b1ad-2cb1-3c47-9f91-a82cf47f4918",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.0,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -7165,7 +7145,7 @@
                              :languages ["cs"],
                              :game/name "Dragomino",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/S_Cpk3j3Z3ceNJBPNg4l7w__thumb/img/yyYrzwIVoBwTJ0U3TI6oZWvkgS0=/fit-in/200x150/filters:strip_icc()/pic5212561.png"},
+                             "https://cf.geekdo-images.com/S_Cpk3j3Z3ceNJBPNg4l7w__small/img/yyYrzwIVoBwTJ0U3TI6oZWvkgS0=/fit-in/200x150/filters:strip_icc()/pic5212561.png"},
                             #uuid "f9ad6358-7816-3b85-b03a-59442ee854d0"
                             {:game/id
                              #uuid "f9ad6358-7816-3b85-b03a-59442ee854d0",
@@ -7205,7 +7185,7 @@
                              :languages ["cs"],
                              :game/name "Dragonheart",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/zfEBn2RLGIlvTHGE-pSsCQ__thumb/img/N2ZqQofBI2XhW9JRnJ-Vxb2AaXM=/fit-in/200x150/filters:strip_icc()/pic829248.jpg"},
+                             "https://cf.geekdo-images.com/zfEBn2RLGIlvTHGE-pSsCQ__small/img/N2ZqQofBI2XhW9JRnJ-Vxb2AaXM=/fit-in/200x150/filters:strip_icc()/pic829248.jpg"},
                             #uuid "4d77e635-44ee-324b-b8e1-1cd07bd913a4"
                             {:game/id
                              #uuid "4d77e635-44ee-324b-b8e1-1cd07bd913a4",
@@ -7228,7 +7208,7 @@
                              :languages ["cs"],
                              :game/name "Drop It",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/CwlOEAEzD-O09vdbvyD2Gw__thumb/img/MlBFEI8Stn8fmmHhF9Wgym9PHVU=/fit-in/200x150/filters:strip_icc()/pic7988716.jpg"},
+                             "https://cf.geekdo-images.com/CwlOEAEzD-O09vdbvyD2Gw__small/img/MlBFEI8Stn8fmmHhF9Wgym9PHVU=/fit-in/200x150/filters:strip_icc()/pic7988716.jpg"},
                             #uuid "2a5df581-e992-3f95-b850-c3f38c8b73ed"
                             {:game/id
                              #uuid "2a5df581-e992-3f95-b850-c3f38c8b73ed",
@@ -7275,7 +7255,7 @@
                              :com.boardgamegeek.boardgame/id "422019",
                              :game/name "Duck & Cover",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/u6FSdD7Whz3YO0D4R96jKQ__thumb/img/81ye49Leb_0w7UvEBSLX5daaUEI=/fit-in/200x150/filters:strip_icc()/pic8403387.png"},
+                             "https://cf.geekdo-images.com/u6FSdD7Whz3YO0D4R96jKQ__small/img/81ye49Leb_0w7UvEBSLX5daaUEI=/fit-in/200x150/filters:strip_icc()/pic8403387.png"},
                             #uuid "3ccea9ee-b5e6-3443-bfca-2e0d74941a53"
                             {:game/id
                              #uuid "3ccea9ee-b5e6-3443-bfca-2e0d74941a53",
@@ -7351,7 +7331,7 @@
                              :languages ["en"],
                              :game/name "Dungeon Fighter",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/ukPf_rrA7ity7UQEVjWPNw__thumb/img/St4DMjt5DCEImqj7CEXpjFg4KEw=/fit-in/200x150/filters:strip_icc()/pic2411495.png"},
+                             "https://cf.geekdo-images.com/ukPf_rrA7ity7UQEVjWPNw__small/img/St4DMjt5DCEImqj7CEXpjFg4KEw=/fit-in/200x150/filters:strip_icc()/pic2411495.png"},
                             #uuid "ea25ad16-dccd-378f-afde-9dae72c6b4d9"
                             {:game/id
                              #uuid "ea25ad16-dccd-378f-afde-9dae72c6b4d9",
@@ -7403,7 +7383,7 @@
                              :languages ["cs"],
                              :game/name "Dungeon Petz",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/7JjAm9RM8E2pbu5KCCbsTQ__thumb/img/vySdmxWBad2T5Xrylxv-jYukFmU=/fit-in/200x150/filters:strip_icc()/pic1103979.jpg"},
+                             "https://cf.geekdo-images.com/7JjAm9RM8E2pbu5KCCbsTQ__small/img/vySdmxWBad2T5Xrylxv-jYukFmU=/fit-in/200x150/filters:strip_icc()/pic1103979.jpg"},
                             #uuid "000fad46-7734-372c-bfce-d551b75863f7"
                             {:game/id
                              #uuid "000fad46-7734-372c-bfce-d551b75863f7",
@@ -7467,7 +7447,7 @@
                              :languages ["en"],
                              :game/name "Dungeon Raiders",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/GPJfie7lVMVbvrEofLDoAA__thumb/img/BipjfHQAl8qstF8_rYQKrPVVsFE=/fit-in/200x150/filters:strip_icc()/pic1733595.jpg"},
+                             "https://cf.geekdo-images.com/GPJfie7lVMVbvrEofLDoAA__small/img/BipjfHQAl8qstF8_rYQKrPVVsFE=/fit-in/200x150/filters:strip_icc()/pic1733595.jpg"},
                             #uuid "227364b4-dffe-38e9-8183-293de1530af4"
                             {:game/id
                              #uuid "227364b4-dffe-38e9-8183-293de1530af4",
@@ -7501,7 +7481,7 @@
                              :game/name
                              "Dungeons & Dragons: Rock Paper Wizard",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/f4semdquq7V6NkVs4cJCnw__thumb/img/bCMtSdozEKhfmeBqy_sF2ldxYKs=/fit-in/200x150/filters:strip_icc()/pic3148756.png"},
+                             "https://cf.geekdo-images.com/f4semdquq7V6NkVs4cJCnw__small/img/bCMtSdozEKhfmeBqy_sF2ldxYKs=/fit-in/200x150/filters:strip_icc()/pic3148756.png"},
                             #uuid "1c40650a-1a9b-32c9-a6d2-9daeea19d502"
                             {:game/id
                              #uuid "1c40650a-1a9b-32c9-a6d2-9daeea19d502",
@@ -7549,7 +7529,7 @@
                              :languages ["en"],
                              :game/name "Durian",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/QBwnHLJy8DRV2Mx-ZkB1_A__thumb/img/Pk2dokqgJ9hxgHHvZSadh4wKNog=/fit-in/200x150/filters:strip_icc()/pic5783560.png"},
+                             "https://cf.geekdo-images.com/QBwnHLJy8DRV2Mx-ZkB1_A__small/img/Pk2dokqgJ9hxgHHvZSadh4wKNog=/fit-in/200x150/filters:strip_icc()/pic5783560.png"},
                             #uuid "de3493ea-6e7c-3152-9c99-22e9e501faf8"
                             {:game/id
                              #uuid "de3493ea-6e7c-3152-9c99-22e9e501faf8",
@@ -7601,7 +7581,7 @@
                              :languages ["en"],
                              :game/name "Dust",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/qvQEYh6nblN0xGi7J1qYkw__thumb/img/BYCvJ8YyMoMM1QtCn64nMs5-HYM=/fit-in/200x150/filters:strip_icc()/pic280668.jpg"},
+                             "https://cf.geekdo-images.com/qvQEYh6nblN0xGi7J1qYkw__small/img/BYCvJ8YyMoMM1QtCn64nMs5-HYM=/fit-in/200x150/filters:strip_icc()/pic280668.jpg"},
                             #uuid "02be19ec-134a-3ed9-9db8-482abd66bbe3"
                             {:game/id
                              #uuid "02be19ec-134a-3ed9-9db8-482abd66bbe3",
@@ -7649,7 +7629,7 @@
                              :languages ["en"],
                              :game/name "Décorum",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/R7bXwsuwemPYXs7q6EkXhw__thumb/img/NdvS0GLPfDQx98wLDu8uwUwiG1U=/fit-in/200x150/filters:strip_icc()/pic6393337.jpg"},
+                             "https://cf.geekdo-images.com/R7bXwsuwemPYXs7q6EkXhw__small/img/NdvS0GLPfDQx98wLDu8uwUwiG1U=/fit-in/200x150/filters:strip_icc()/pic6393337.jpg"},
                             #uuid "9f6c0ecb-64e8-35df-a18a-c94fb1dd73ef"
                             {:game/id
                              #uuid "9f6c0ecb-64e8-35df-a18a-c94fb1dd73ef",
@@ -7701,7 +7681,7 @@
                              :languages ["en"],
                              :game/name "Emerge",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/YfbTZtTj3dQ1FJfl2UiRsA__thumb/img/hFrjnXRU3YThDoI2W4tqFQs5vzU=/fit-in/200x150/filters:strip_icc()/pic7502185.jpg"},
+                             "https://cf.geekdo-images.com/YfbTZtTj3dQ1FJfl2UiRsA__small/img/hFrjnXRU3YThDoI2W4tqFQs5vzU=/fit-in/200x150/filters:strip_icc()/pic7502185.jpg"},
                             #uuid "71378f58-f047-3e02-b1ec-3fc4517c95ed"
                             {:game/id
                              #uuid "71378f58-f047-3e02-b1ec-3fc4517c95ed",
@@ -7777,7 +7757,7 @@
                              :languages ["en"],
                              :game/name "Eminent Domain",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Dn3gJBq-k8Zww4a5yCzgOQ__thumb/img/IuAN5frtRpuyA5ZyueUdG3_DMxs=/fit-in/200x150/filters:strip_icc()/pic1160506.jpg"},
+                             "https://cf.geekdo-images.com/Dn3gJBq-k8Zww4a5yCzgOQ__small/img/IuAN5frtRpuyA5ZyueUdG3_DMxs=/fit-in/200x150/filters:strip_icc()/pic1160506.jpg"},
                             #uuid "374e6f87-7fb2-320e-be20-6ff4862ec4f4"
                             {:game/id
                              #uuid "374e6f87-7fb2-320e-be20-6ff4862ec4f4",
@@ -7862,7 +7842,7 @@
                              :game/name
                              "Endless Winter: Paleoamericans",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/TFX_awTwbJxoG74GtRHytw__thumb/img/gUl5oqRjGtrEIBlTDCDnfm_m1Wg=/fit-in/200x150/filters:strip_icc()/pic5624523.jpg"},
+                             "https://cf.geekdo-images.com/TFX_awTwbJxoG74GtRHytw__small/img/gUl5oqRjGtrEIBlTDCDnfm_m1Wg=/fit-in/200x150/filters:strip_icc()/pic5624523.jpg"},
                             #uuid "35af2b0c-b093-3e74-8ed4-e7589938e8ac"
                             {:game/id
                              #uuid "35af2b0c-b093-3e74-8ed4-e7589938e8ac",
@@ -7906,7 +7886,7 @@
                              :languages ["cs"],
                              :game/name "Enigma",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/KjwXYjbafwDFe7g-3mY3vg__thumb/img/Lfcj8gCZX1GKRn_dMVYhyjCSRxU=/fit-in/200x150/filters:strip_icc()/pic1939155.jpg"},
+                             "https://cf.geekdo-images.com/KjwXYjbafwDFe7g-3mY3vg__small/img/Lfcj8gCZX1GKRn_dMVYhyjCSRxU=/fit-in/200x150/filters:strip_icc()/pic1939155.jpg"},
                             #uuid "af5b74f0-7fc3-38b8-a21b-cf0e9c780e14"
                             {:game/id
                              #uuid "af5b74f0-7fc3-38b8-a21b-cf0e9c780e14",
@@ -7952,7 +7932,7 @@
                              :game/name
                              "Epic Spell Wars of the Battle Wizards: Duel at Mt. Skullzfyre",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Da8TXGBq3UjKINgTRIZY9A__thumb/img/QO14rCvP00VkMt9RjHOFTx3ah3s=/fit-in/200x150/filters:strip_icc()/pic1170265.jpg"},
+                             "https://cf.geekdo-images.com/Da8TXGBq3UjKINgTRIZY9A__small/img/QO14rCvP00VkMt9RjHOFTx3ah3s=/fit-in/200x150/filters:strip_icc()/pic1170265.jpg"},
                             #uuid "cd19fd52-bf5e-3ad5-8ccf-0d6664374368"
                             {:game/id
                              #uuid "cd19fd52-bf5e-3ad5-8ccf-0d6664374368",
@@ -8006,7 +7986,7 @@
                              :game/name
                              "Epic Spell Wars of the Battle Wizards: Panic at the Pleasure Palace",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/nu23MbouJDmxGBPPKTHuqA__thumb/img/Y_0D4-J2-Kfds6ML28Oowo-pLnQ=/fit-in/200x150/filters:strip_icc()/pic4025218.jpg"},
+                             "https://cf.geekdo-images.com/nu23MbouJDmxGBPPKTHuqA__small/img/Y_0D4-J2-Kfds6ML28Oowo-pLnQ=/fit-in/200x150/filters:strip_icc()/pic4025218.jpg"},
                             #uuid "479a6c5c-cef5-357e-9c39-23eeb98c7833"
                             {:game/id
                              #uuid "479a6c5c-cef5-357e-9c39-23eeb98c7833",
@@ -8034,7 +8014,7 @@
                              :languages ["en"],
                              :game/name "Eridanos",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/KC1ozbtX3Zh709vdn9i2Ng__thumb/img/iD8a8WKGuTlMVKQjmx981295IDI=/fit-in/200x150/filters:strip_icc()/pic7063664.png"},
+                             "https://cf.geekdo-images.com/KC1ozbtX3Zh709vdn9i2Ng__small/img/iD8a8WKGuTlMVKQjmx981295IDI=/fit-in/200x150/filters:strip_icc()/pic7063664.png"},
                             #uuid "34c99f3a-1325-32c3-865d-f7e597f25a8d"
                             {:game/id
                              #uuid "34c99f3a-1325-32c3-865d-f7e597f25a8d",
@@ -8110,7 +8090,7 @@
                              :languages ["en"],
                              :game/name "Escape the Dark Castle",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/d4MkgAvJOaJPVjxr6R9rKQ__thumb/img/fbbmrfibmcgPqNDbruBOE4-uTkc=/fit-in/200x150/filters:strip_icc()/pic5004159.jpg"},
+                             "https://cf.geekdo-images.com/d4MkgAvJOaJPVjxr6R9rKQ__small/img/fbbmrfibmcgPqNDbruBOE4-uTkc=/fit-in/200x150/filters:strip_icc()/pic5004159.jpg"},
                             #uuid "7b48cbf8-0b26-36aa-ad84-19d8bf93f23a"
                             {:game/id
                              #uuid "7b48cbf8-0b26-36aa-ad84-19d8bf93f23a",
@@ -8146,7 +8126,7 @@
                              :languages ["cs"],
                              :game/name "Eurooppa Tietopeli",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/glWISYkeoEl9UgYxvzBeDQ__thumb/img/IdK8yw85lLwpX2BePYZqmxE3Hik=/fit-in/200x150/filters:strip_icc()/pic517377.jpg"},
+                             "https://cf.geekdo-images.com/glWISYkeoEl9UgYxvzBeDQ__small/img/IdK8yw85lLwpX2BePYZqmxE3Hik=/fit-in/200x150/filters:strip_icc()/pic517377.jpg"},
                             #uuid "8cee44c8-cd72-3172-9b4e-146f4c317558"
                             {:game/id
                              #uuid "8cee44c8-cd72-3172-9b4e-146f4c317558",
@@ -8201,7 +8181,7 @@
                              :com.boardgamegeek.boardgame/id "382843",
                              :game/name "Evacuation",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/tNO7HW6Hn_O3xY11R80pFA__thumb/img/XAQYaQnO9WiZ-dVy4QV2jN8IjYI=/fit-in/200x150/filters:strip_icc()/pic7672387.jpg"},
+                             "https://cf.geekdo-images.com/tNO7HW6Hn_O3xY11R80pFA__small/img/XAQYaQnO9WiZ-dVy4QV2jN8IjYI=/fit-in/200x150/filters:strip_icc()/pic7672387.jpg"},
                             #uuid "c272fbb9-db3d-3548-a8aa-c0e72bfc893d"
                             {:game/id
                              #uuid "c272fbb9-db3d-3548-a8aa-c0e72bfc893d",
@@ -8240,7 +8220,7 @@
                              :com.boardgamegeek.boardgame/id "363307",
                              :game/name "Evergreen",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/71I0Ku92KgjaW_ZokJidCA__thumb/img/3BpSIoMWf4ig9_S-CTMpoo3KdfU=/fit-in/200x150/filters:strip_icc()/pic6872745.png"},
+                             "https://cf.geekdo-images.com/71I0Ku92KgjaW_ZokJidCA__small/img/3BpSIoMWf4ig9_S-CTMpoo3KdfU=/fit-in/200x150/filters:strip_icc()/pic6872745.png"},
                             #uuid "42f0d762-a858-3dbb-b64d-dde4f6a4fc6d"
                             {:game/id
                              #uuid "42f0d762-a858-3dbb-b64d-dde4f6a4fc6d",
@@ -8312,7 +8292,7 @@
                              :languages ["en"],
                              :game/name "Evolution",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/wo_EYno7S66psGPMl_JtiQ__thumb/img/_30uXRkyUuk9vMeeedlSqQ3oJwA=/fit-in/200x150/filters:strip_icc()/pic3543505.jpg"},
+                             "https://cf.geekdo-images.com/wo_EYno7S66psGPMl_JtiQ__small/img/_30uXRkyUuk9vMeeedlSqQ3oJwA=/fit-in/200x150/filters:strip_icc()/pic3543505.jpg"},
                             #uuid "d2f54329-7bef-301f-8f4e-bdac47c6f6d3"
                             {:game/id
                              #uuid "d2f54329-7bef-301f-8f4e-bdac47c6f6d3",
@@ -8368,7 +8348,7 @@
                              :languages ["en"],
                              :game/name "Excavation Earth",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/wMXOMmbO9ktgHYhEQSrDlg__thumb/img/-W5iM9fVpNFalBSsBKimlXV_vUI=/fit-in/200x150/filters:strip_icc()/pic5012390.jpg"},
+                             "https://cf.geekdo-images.com/wMXOMmbO9ktgHYhEQSrDlg__small/img/-W5iM9fVpNFalBSsBKimlXV_vUI=/fit-in/200x150/filters:strip_icc()/pic5012390.jpg"},
                             #uuid "fef46e50-63ce-3dc7-8b8a-e64fa474241d"
                             {:game/id
                              #uuid "fef46e50-63ce-3dc7-8b8a-e64fa474241d",
@@ -8403,7 +8383,7 @@
                              :languages ["en" "cs"],
                              :game/name "Exit",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/iTgC7wYl6kTk4lcfeX8EKw__thumb/img/888Q9gTlbB5PctOApwvFN1GlYqc=/fit-in/200x150/filters:strip_icc()/pic12232.jpg"},
+                             "https://cf.geekdo-images.com/iTgC7wYl6kTk4lcfeX8EKw__small/img/888Q9gTlbB5PctOApwvFN1GlYqc=/fit-in/200x150/filters:strip_icc()/pic12232.jpg"},
                             #uuid "165261a9-0183-3e53-be82-ccc197c354b8"
                             {:game/id
                              #uuid "165261a9-0183-3e53-be82-ccc197c354b8",
@@ -8463,7 +8443,7 @@
                              :languages ["cs" "en"],
                              :game/name "Exploding Kittens",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__thumb/img/3tH4pIc1Udzkd0tXc6MgVQ59BC0=/fit-in/200x150/filters:strip_icc()/pic2691976.png"},
+                             "https://cf.geekdo-images.com/N8bL53-pRU7zaXDTrEaYrw__small/img/3tH4pIc1Udzkd0tXc6MgVQ59BC0=/fit-in/200x150/filters:strip_icc()/pic2691976.png"},
                             #uuid "cbab4917-4fb3-321b-a0c6-47d82289015e"
                             {:game/id
                              #uuid "cbab4917-4fb3-321b-a0c6-47d82289015e",
@@ -8491,7 +8471,7 @@
                              :languages ["en"],
                              :game/name "Fabula Rasa: Crime",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/JqDda8NtxG0HiWlORJ4QKQ__thumb/img/RdeNlKfieDTKnJ6IUDOQemj_t0Y=/fit-in/200x150/filters:strip_icc()/pic6363362.jpg"},
+                             "https://cf.geekdo-images.com/JqDda8NtxG0HiWlORJ4QKQ__small/img/RdeNlKfieDTKnJ6IUDOQemj_t0Y=/fit-in/200x150/filters:strip_icc()/pic6363362.jpg"},
                             #uuid "0b7ed54e-e9f8-3e7d-b18a-2a15fe7e8317"
                             {:game/id
                              #uuid "0b7ed54e-e9f8-3e7d-b18a-2a15fe7e8317",
@@ -8526,7 +8506,7 @@
                              :languages ["en"],
                              :game/name "Fantastic Gymnastics",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Xi8LJJ64_DotJfRCc0E1uQ__thumb/img/tRk7ID1VIGqSH-JNMx1fmVVWEJ0=/fit-in/200x150/filters:strip_icc()/pic3415226.jpg"},
+                             "https://cf.geekdo-images.com/Xi8LJJ64_DotJfRCc0E1uQ__small/img/tRk7ID1VIGqSH-JNMx1fmVVWEJ0=/fit-in/200x150/filters:strip_icc()/pic3415226.jpg"},
                             #uuid "ebe3d298-d25e-3110-8e34-1c079e9455d9"
                             {:game/id
                              #uuid "ebe3d298-d25e-3110-8e34-1c079e9455d9",
@@ -8574,7 +8554,7 @@
                              :languages ["en"],
                              :game/name "Fantasy Realms",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/A7IOpPt-lHrMYsbRmxXWdQ__thumb/img/XoD3fXgApfY7-dfYyFeE6FVkbfY=/fit-in/200x150/filters:strip_icc()/pic6177962.jpg"},
+                             "https://cf.geekdo-images.com/A7IOpPt-lHrMYsbRmxXWdQ__small/img/XoD3fXgApfY7-dfYyFeE6FVkbfY=/fit-in/200x150/filters:strip_icc()/pic6177962.jpg"},
                             #uuid "06f02042-ed2e-321d-8dfe-bcae21cb322e"
                             {:game/id
                              #uuid "06f02042-ed2e-321d-8dfe-bcae21cb322e",
@@ -8610,7 +8590,7 @@
                              :languages ["cs"],
                              :game/name "Fauna",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Dso-XE_wvS_rlG4BUmDb3A__thumb/img/qSFMDDpzzrUnFG19nBPaGa5eEl0=/fit-in/200x150/filters:strip_icc()/pic8883781.png"},
+                             "https://cf.geekdo-images.com/Dso-XE_wvS_rlG4BUmDb3A__small/img/qSFMDDpzzrUnFG19nBPaGa5eEl0=/fit-in/200x150/filters:strip_icc()/pic8883781.png"},
                             #uuid "d3484476-c0fa-320c-950e-54b1e11f3c25"
                             {:game/id
                              #uuid "d3484476-c0fa-320c-950e-54b1e11f3c25",
@@ -8670,7 +8650,7 @@
                              :languages ["en"],
                              :game/name "Feudalia",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/i1k-pF5Wqld4tuqsEpxSKg__thumb/img/urvYyCMC1XP8hFF6mjncYsrc0jI=/fit-in/200x150/filters:strip_icc()/pic3143053.jpg"},
+                             "https://cf.geekdo-images.com/i1k-pF5Wqld4tuqsEpxSKg__small/img/urvYyCMC1XP8hFF6mjncYsrc0jI=/fit-in/200x150/filters:strip_icc()/pic3143053.jpg"},
                             #uuid "06f16796-b740-3756-979f-29b64214313c"
                             {:game/id
                              #uuid "06f16796-b740-3756-979f-29b64214313c",
@@ -8722,7 +8702,7 @@
                              :languages ["en"],
                              :game/name "First Contact",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/6XFaGyeG_ZrvO7lna8kDQA__thumb/img/S8yL6oyGY5EnFMwZfcxN3tto9L8=/fit-in/200x150/filters:strip_icc()/pic4419988.jpg"},
+                             "https://cf.geekdo-images.com/6XFaGyeG_ZrvO7lna8kDQA__small/img/S8yL6oyGY5EnFMwZfcxN3tto9L8=/fit-in/200x150/filters:strip_icc()/pic4419988.jpg"},
                             #uuid "68cea2b4-9ca7-3e26-a125-07d2663c3ae5"
                             {:game/id
                              #uuid "68cea2b4-9ca7-3e26-a125-07d2663c3ae5",
@@ -8770,7 +8750,7 @@
                              :languages ["en"],
                              :game/name "Fish & Katz",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/-9ECtb66_-DFs2hz_aSRHQ__thumb/img/gUn_-OaNZZ_svNi8zSRcXz88gQo=/fit-in/200x150/filters:strip_icc()/pic7088982.jpg"},
+                             "https://cf.geekdo-images.com/-9ECtb66_-DFs2hz_aSRHQ__small/img/gUn_-OaNZZ_svNi8zSRcXz88gQo=/fit-in/200x150/filters:strip_icc()/pic7088982.jpg"},
                             #uuid "fb34369d-7585-3f95-a701-25cb259dbd38"
                             {:game/id
                              #uuid "fb34369d-7585-3f95-a701-25cb259dbd38",
@@ -8809,7 +8789,7 @@
                              :com.boardgamegeek.boardgame/id "419195",
                              :game/name "Fishing",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/LjqYcVKq6YrQ0rJ4H4Lusg__thumb/img/mzUGdFOVFxq6kJfm41QTRvnxQSw=/fit-in/200x150/filters:strip_icc()/pic8149442.png"},
+                             "https://cf.geekdo-images.com/LjqYcVKq6YrQ0rJ4H4Lusg__small/img/mzUGdFOVFxq6kJfm41QTRvnxQSw=/fit-in/200x150/filters:strip_icc()/pic8149442.png"},
                             #uuid "80d32ffc-9aa7-3922-99d5-13f207b29e7c"
                             {:game/id
                              #uuid "80d32ffc-9aa7-3922-99d5-13f207b29e7c",
@@ -8885,7 +8865,7 @@
                              :languages ["en"],
                              :game/name "Fit to Print",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/MbLJUbvoRI_AS-KGfIkmNQ__thumb/img/c2yxjj2CSXC6Id97EIr3-H4Plpo=/fit-in/200x150/filters:strip_icc()/pic7161032.jpg"},
+                             "https://cf.geekdo-images.com/MbLJUbvoRI_AS-KGfIkmNQ__small/img/c2yxjj2CSXC6Id97EIr3-H4Plpo=/fit-in/200x150/filters:strip_icc()/pic7161032.jpg"},
                             #uuid "18df1853-71ac-3a9d-8686-60a594c41fa7"
                             {:game/id
                              #uuid "18df1853-71ac-3a9d-8686-60a594c41fa7",
@@ -8921,7 +8901,7 @@
                              :languages ["de" "en" "cs"],
                              :game/name "Five Cucumbers",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Qf7z4uq4BFyk68g8e5N_aQ__thumb/img/a3s1mPUTzK42FO66awHi17-L2mo=/fit-in/200x150/filters:strip_icc()/pic3517680.jpg"},
+                             "https://cf.geekdo-images.com/Qf7z4uq4BFyk68g8e5N_aQ__small/img/a3s1mPUTzK42FO66awHi17-L2mo=/fit-in/200x150/filters:strip_icc()/pic3517680.jpg"},
                             #uuid "4b8fd77f-4c4f-353c-b7cb-ae7f066cad26"
                             {:game/id
                              #uuid "4b8fd77f-4c4f-353c-b7cb-ae7f066cad26",
@@ -8993,7 +8973,7 @@
                              :languages ["cs"],
                              :game/name "Flamecraft",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/EvGtnsBDcfnKiqSiXHothQ__thumb/img/bQcyvzYRdMFFvcdQkFVnIRiCPjE=/fit-in/200x150/filters:strip_icc()/pic6605448.jpg"},
+                             "https://cf.geekdo-images.com/EvGtnsBDcfnKiqSiXHothQ__small/img/bQcyvzYRdMFFvcdQkFVnIRiCPjE=/fit-in/200x150/filters:strip_icc()/pic6605448.jpg"},
                             #uuid "8ff4b8ab-16a4-36fd-bd85-8db7a695238e"
                             {:game/id
                              #uuid "8ff4b8ab-16a4-36fd-bd85-8db7a695238e",
@@ -9033,7 +9013,7 @@
                              :languages ["en"],
                              :game/name "Flip City",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/JmRLUZzu8RSra-ifZybRXA__thumb/img/r-48b61eRGu-4mNe_76spqEP1cc=/fit-in/200x150/filters:strip_icc()/pic2499620.png"},
+                             "https://cf.geekdo-images.com/JmRLUZzu8RSra-ifZybRXA__small/img/r-48b61eRGu-4mNe_76spqEP1cc=/fit-in/200x150/filters:strip_icc()/pic2499620.png"},
                             #uuid "4a210b03-8a44-3d9a-9d31-775480bebeb4"
                             {:game/id
                              #uuid "4a210b03-8a44-3d9a-9d31-775480bebeb4",
@@ -9072,7 +9052,7 @@
                              :com.boardgamegeek.boardgame/id "385985",
                              :game/name "Font Karuta",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/3j5rVI6yj1Om88N2s-yxxA__thumb/img/4-waqcdwVhK7fkl0xBxUMFdi6L0=/fit-in/200x150/filters:strip_icc()/pic7476306.jpg"},
+                             "https://cf.geekdo-images.com/3j5rVI6yj1Om88N2s-yxxA__small/img/4-waqcdwVhK7fkl0xBxUMFdi6L0=/fit-in/200x150/filters:strip_icc()/pic7476306.jpg"},
                             #uuid "77019157-27a1-3008-9fce-2ae005351ccb"
                             {:game/id
                              #uuid "77019157-27a1-3008-9fce-2ae005351ccb",
@@ -9120,7 +9100,7 @@
                              :languages ["cs"],
                              :game/name "For Sale",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/dJh9HkZC346NgPTAicJq_A__thumb/img/3cgW5aP-JJeKSpZMjA0NFheMnfY=/fit-in/200x150/filters:strip_icc()/pic1513085.jpg"},
+                             "https://cf.geekdo-images.com/dJh9HkZC346NgPTAicJq_A__small/img/3cgW5aP-JJeKSpZMjA0NFheMnfY=/fit-in/200x150/filters:strip_icc()/pic1513085.jpg"},
                             #uuid "027df389-a20d-3cbe-886e-a91e5b10d58a"
                             {:game/id
                              #uuid "027df389-a20d-3cbe-886e-a91e5b10d58a",
@@ -9204,7 +9184,7 @@
                              :languages ["en"],
                              :game/name "Forbidden Island",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/JgAkEBUaiHOsOS94iRMs2w__thumb/img/5aPR8-KMbgucI_XkPE2PJaMQQsg=/fit-in/200x150/filters:strip_icc()/pic646458.jpg"},
+                             "https://cf.geekdo-images.com/JgAkEBUaiHOsOS94iRMs2w__small/img/5aPR8-KMbgucI_XkPE2PJaMQQsg=/fit-in/200x150/filters:strip_icc()/pic646458.jpg"},
                             #uuid "43d57f70-c394-3930-a433-a7a98c8ec92c"
                             {:game/id
                              #uuid "43d57f70-c394-3930-a433-a7a98c8ec92c",
@@ -9255,7 +9235,7 @@
                              :com.boardgamegeek.boardgame/id "412865",
                              :game/name "Foundations of Metropolis",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/w63l98O0Rm5yg5HW8ZNaBA__thumb/img/AIYdyWzqbidpZjliMnyRaIN_0us=/fit-in/200x150/filters:strip_icc()/pic7991147.png"},
+                             "https://cf.geekdo-images.com/w63l98O0Rm5yg5HW8ZNaBA__small/img/AIYdyWzqbidpZjliMnyRaIN_0us=/fit-in/200x150/filters:strip_icc()/pic7991147.png"},
                             #uuid "5866bed5-5204-3028-b384-b7472b792ac0"
                             {:game/id
                              #uuid "5866bed5-5204-3028-b384-b7472b792ac0",
@@ -9298,7 +9278,7 @@
                              :com.boardgamegeek.boardgame/id "359318",
                              :game/name "Foxy",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/FE6sz4rVTdpBDhfOGb_c1A__thumb/img/BG38GgutETKiuw51FCJYfUoqgSg=/fit-in/200x150/filters:strip_icc()/pic8035140.png"},
+                             "https://cf.geekdo-images.com/FE6sz4rVTdpBDhfOGb_c1A__small/img/BG38GgutETKiuw51FCJYfUoqgSg=/fit-in/200x150/filters:strip_icc()/pic8035140.png"},
                             #uuid "c33b138a-1638-37cd-b6ca-eeb7c9a126b4"
                             {:game/id
                              #uuid "c33b138a-1638-37cd-b6ca-eeb7c9a126b4",
@@ -9362,7 +9342,7 @@
                              :languages ["en"],
                              :game/name "Friday",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/7bBUuYUIyKIBDh_UnNa_Fw__thumb/img/Bjg_3ovfjRqjGtYEaEj6107UGWY=/fit-in/200x150/filters:strip_icc()/pic1513328.jpg"},
+                             "https://cf.geekdo-images.com/7bBUuYUIyKIBDh_UnNa_Fw__small/img/Bjg_3ovfjRqjGtYEaEj6107UGWY=/fit-in/200x150/filters:strip_icc()/pic1513328.jpg"},
                             #uuid "ebb7a837-d8f1-3d0c-a149-24e17e4005dc"
                             {:game/id
                              #uuid "ebb7a837-d8f1-3d0c-a149-24e17e4005dc",
@@ -9398,7 +9378,7 @@
                              :languages ["en"],
                              :game/name "Fuji Flush",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/mobPzHA7UwgwiGzr2EVW9g__thumb/img/rQmbjRFo3DZhq7ufK3K1UwDI0x0=/fit-in/200x150/filters:strip_icc()/pic3086849.jpg"},
+                             "https://cf.geekdo-images.com/mobPzHA7UwgwiGzr2EVW9g__small/img/rQmbjRFo3DZhq7ufK3K1UwDI0x0=/fit-in/200x150/filters:strip_icc()/pic3086849.jpg"},
                             #uuid "b3a0794c-8e53-3490-adc8-9c993a450d0b"
                             {:game/id
                              #uuid "b3a0794c-8e53-3490-adc8-9c993a450d0b",
@@ -9430,7 +9410,7 @@
                              :languages ["en"],
                              :game/name "Fun Facts",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/wkj9lur-J5Bxun09mnI2rQ__thumb/img/WD6rjSm3DZS3JD2Bb4EXM9fL5bk=/fit-in/200x150/filters:strip_icc()/pic7070521.jpg"},
+                             "https://cf.geekdo-images.com/wkj9lur-J5Bxun09mnI2rQ__small/img/WD6rjSm3DZS3JD2Bb4EXM9fL5bk=/fit-in/200x150/filters:strip_icc()/pic7070521.jpg"},
                             #uuid "14723ae7-edd9-3234-b25b-b93ad60d597a"
                             {:game/id
                              #uuid "14723ae7-edd9-3234-b25b-b93ad60d597a",
@@ -9466,7 +9446,7 @@
                              :languages ["en" "de"],
                              :game/name "Funkenschlag",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/0xIYkCweerI9xdubVktBLQ__thumb/img/HCP2aud6p4ZEjcYk2kAcWjfMfww=/fit-in/200x150/filters:strip_icc()/pic186713.jpg"},
+                             "https://cf.geekdo-images.com/0xIYkCweerI9xdubVktBLQ__small/img/HCP2aud6p4ZEjcYk2kAcWjfMfww=/fit-in/200x150/filters:strip_icc()/pic186713.jpg"},
                             #uuid "33ef9db6-536f-307e-9b5a-71695627acc0"
                             {:game/id
                              #uuid "33ef9db6-536f-307e-9b5a-71695627acc0",
@@ -9554,7 +9534,7 @@
                              :languages ["cs"],
                              :game/name "Galaxy Trucker",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/gLFt1Kif5Cfag505_COYYw__thumb/img/WOW_QsRuV1KyP8dLjP0yH6TlpvU=/fit-in/200x150/filters:strip_icc()/pic3926631.jpg"},
+                             "https://cf.geekdo-images.com/gLFt1Kif5Cfag505_COYYw__small/img/WOW_QsRuV1KyP8dLjP0yH6TlpvU=/fit-in/200x150/filters:strip_icc()/pic3926631.jpg"},
                             #uuid "dfe6c369-253b-3a53-8d73-84a5084f24c1"
                             {:game/id
                              #uuid "dfe6c369-253b-3a53-8d73-84a5084f24c1",
@@ -9593,7 +9573,7 @@
                              :com.boardgamegeek.boardgame/id "393333",
                              :game/name "Galileo Galilei",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/VxVtboFXPDhqw6Zd5Pcsrg__thumb/img/pfH4t_A06XVpeM2A8WWF3am29OQ=/fit-in/200x150/filters:strip_icc()/pic7883604.jpg"},
+                             "https://cf.geekdo-images.com/VxVtboFXPDhqw6Zd5Pcsrg__small/img/pfH4t_A06XVpeM2A8WWF3am29OQ=/fit-in/200x150/filters:strip_icc()/pic7883604.jpg"},
                             #uuid "b1c48330-4f0d-3b7d-bb69-b9644919d62f"
                             {:game/id
                              #uuid "b1c48330-4f0d-3b7d-bb69-b9644919d62f",
@@ -9625,7 +9605,7 @@
                              :languages ["en"],
                              :game/name "Game of Blame",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/do77KZIe7P90jYotHD4_xg__thumb/img/mX_stI0fSmZF0K3OoVjTC8MLafM=/fit-in/200x150/filters:strip_icc()/pic3056170.png"},
+                             "https://cf.geekdo-images.com/do77KZIe7P90jYotHD4_xg__small/img/mX_stI0fSmZF0K3OoVjTC8MLafM=/fit-in/200x150/filters:strip_icc()/pic3056170.png"},
                             #uuid "af89834e-3251-3aa9-a464-74b8d24a5091"
                             {:game/id
                              #uuid "af89834e-3251-3aa9-a464-74b8d24a5091",
@@ -9701,51 +9681,15 @@
                              :languages ["en"],
                              :game/name "Game of Trains",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/CawgoeUEMFS4f14Iix9Exg__thumb/img/OYsku3__TTw8fiFYEWlhUBT7nIU=/fit-in/200x150/filters:strip_icc()/pic2608713.png"},
+                             "https://cf.geekdo-images.com/CawgoeUEMFS4f14Iix9Exg__small/img/OYsku3__TTw8fiFYEWlhUBT7nIU=/fit-in/200x150/filters:strip_icc()/pic2608713.png"},
                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
-                            {:game/id
+                            {:languages ["de" "en"],
+                             :name "Ghost Blitz",
+                             :game/id
                              #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa",
-                             :com.boardgamegeek.boardgame/min-players
-                             2,
-                             :com.boardgamegeek.boardgame/rating 6.7,
-                             :com.boardgamegeek.boardgame/mechanics
-                             (list #:com.boardgamegeek.mechanic{:id
-                                                                2060,
-                                                                :name
-                                                                "Pattern Recognition"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2991,
-                                                                :name
-                                                                "Speed Matching"}),
-                             :name "Duch!",
-                             :com.boardgamegeek.boardgame/categories
-                             (list #:com.boardgamegeek.category{:id
-                                                                1032,
-                                                                :name
-                                                                "Action / Dexterity"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1002,
-                                                                :name
-                                                                "Card Game"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1041,
-                                                                :name
-                                                                "Children's Game"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1037,
-                                                                :name
-                                                                "Real-time"}),
-                             :com.boardgamegeek.boardgame/max-play-time
-                             20,
-                             :com.boardgamegeek.boardgame/max-players
-                             8,
-                             :com.boardgamegeek.boardgame/min-play-time
-                             20,
-                             :com.boardgamegeek.boardgame/id "83195",
-                             :languages ["cs"],
                              :game/name "Ghost Blitz",
-                             :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/tvZTjFnPvt2LrY6NGSbeuQ__thumb/img/LGtpFjDazqROmznWJaJStSxkIHI=/fit-in/200x150/filters:strip_icc()/pic2034769.jpg"},
+                             :com.boardgamegeek.boardgame/id
+                             "2034769"},
                             #uuid "35474b73-b019-37a7-b3d6-ee8eb6df3f8c"
                             {:game/id
                              #uuid "35474b73-b019-37a7-b3d6-ee8eb6df3f8c",
@@ -9797,7 +9741,7 @@
                              :languages ["en"],
                              :game/name "Glimpse",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Oo_huFZJtGQVBkhOOeYr1Q__thumb/img/fPW0sy9y9Q7qdntQTeaMdqFFhpg=/fit-in/200x150/filters:strip_icc()/pic3192493.jpg"},
+                             "https://cf.geekdo-images.com/Oo_huFZJtGQVBkhOOeYr1Q__small/img/fPW0sy9y9Q7qdntQTeaMdqFFhpg=/fit-in/200x150/filters:strip_icc()/pic3192493.jpg"},
                             #uuid "b1ea21fb-2177-3fed-af81-0a3967e76069"
                             {:game/id
                              #uuid "b1ea21fb-2177-3fed-af81-0a3967e76069",
@@ -9849,7 +9793,7 @@
                              :languages ["en"],
                              :game/name "Gloom",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/jD7_Ir8gL_9AXC-wjnqjHg__thumb/img/wWqmoercFrbIFjS1FloZFTZddcE=/fit-in/200x150/filters:strip_icc()/pic2080481.jpg"},
+                             "https://cf.geekdo-images.com/jD7_Ir8gL_9AXC-wjnqjHg__small/img/wWqmoercFrbIFjS1FloZFTZddcE=/fit-in/200x150/filters:strip_icc()/pic2080481.jpg"},
                             #uuid "bd4049a7-2730-31a1-bbc9-4a077d75facc"
                             {:game/id
                              #uuid "bd4049a7-2730-31a1-bbc9-4a077d75facc",
@@ -9893,7 +9837,7 @@
                              :languages ["cs"],
                              :game/name "Gobbit",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/bMWoFNQFesjs64shTr-ObA__thumb/img/0EsCUEryLNYdObPJzB2SRNUo0yQ=/fit-in/200x150/filters:strip_icc()/pic4819194.png"},
+                             "https://cf.geekdo-images.com/bMWoFNQFesjs64shTr-ObA__small/img/0EsCUEryLNYdObPJzB2SRNUo0yQ=/fit-in/200x150/filters:strip_icc()/pic4819194.png"},
                             #uuid "921fd253-64a4-3ab8-b307-e8b375693fb8"
                             {:game/id
                              #uuid "921fd253-64a4-3ab8-b307-e8b375693fb8",
@@ -9929,7 +9873,7 @@
                              :languages ["cs"],
                              :game/name "Gobblet Gobblers",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/ZY-RlTqInuoga0v6SDcrFg__thumb/img/LPrgBoTGMPYQnWMUJzq55R1lSPA=/fit-in/200x150/filters:strip_icc()/pic495594.jpg"},
+                             "https://cf.geekdo-images.com/J_1Gonbv57D_0zWJiX6tng__small/img/oe1UxMKMpXSaU1z87jeGdmEaFQE=/fit-in/200x150/filters:strip_icc()/pic9067726.png"},
                             #uuid "65b397da-a4ad-3880-b821-4f6f9d01cac1"
                             {:game/id
                              #uuid "65b397da-a4ad-3880-b821-4f6f9d01cac1",
@@ -9989,7 +9933,7 @@
                              :languages ["cs"],
                              :game/name "Goddam Dilema",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Furkduh5WHZhoGI2MqjOsw__thumb/img/2CnPRnKf95LdpI7gWpCirWCor-g=/fit-in/200x150/filters:strip_icc()/pic7281020.png"},
+                             "https://cf.geekdo-images.com/Furkduh5WHZhoGI2MqjOsw__small/img/2CnPRnKf95LdpI7gWpCirWCor-g=/fit-in/200x150/filters:strip_icc()/pic7281020.png"},
                             #uuid "12c9e572-e277-309b-b59f-7d14593f19db"
                             {:game/id
                              #uuid "12c9e572-e277-309b-b59f-7d14593f19db",
@@ -10024,7 +9968,7 @@
                              :com.boardgamegeek.boardgame/id "421299",
                              :game/name "Golden Cup",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/yF-5EbviUQk8T6Evwwzi2w__thumb/img/UjQZWflD6F6OyWt1CHQE45dbOS4=/fit-in/200x150/filters:strip_icc()/pic8315279.jpg"},
+                             "https://cf.geekdo-images.com/yF-5EbviUQk8T6Evwwzi2w__small/img/UjQZWflD6F6OyWt1CHQE45dbOS4=/fit-in/200x150/filters:strip_icc()/pic8315279.jpg"},
                             #uuid "5aa42acb-56e5-3325-acc3-e39be2b450a1"
                             {:game/id
                              #uuid "5aa42acb-56e5-3325-acc3-e39be2b450a1",
@@ -10064,7 +10008,7 @@
                              :languages ["en"],
                              :game/name "Gorus Maximus",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/gXQ4IAIpBejz3N1LPpreMg__thumb/img/gVozjy2zCuvg2EHYkJxxUDfm8BY=/fit-in/200x150/filters:strip_icc()/pic4146552.jpg"},
+                             "https://cf.geekdo-images.com/gXQ4IAIpBejz3N1LPpreMg__small/img/gVozjy2zCuvg2EHYkJxxUDfm8BY=/fit-in/200x150/filters:strip_icc()/pic4146552.jpg"},
                             #uuid "e5c528dd-2ba9-3a89-ac17-c427f0c00414"
                             {:game/id
                              #uuid "e5c528dd-2ba9-3a89-ac17-c427f0c00414",
@@ -10105,11 +10049,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1089,
                                                                 :name
-                                                                "Animals"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1021,
-                                                                :name
-                                                                "Economic"}),
+                                                                "Animals"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              150,
                              :com.boardgamegeek.boardgame/max-players
@@ -10120,7 +10060,7 @@
                              :languages ["en" "cs"],
                              :game/name "Great Western Trail",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/u1l0gH7sb_vnvDvoO_QHqA__thumb/img/9lxFidyDb8j6D1vobx4e3UwZ-FI=/fit-in/200x150/filters:strip_icc()/pic4887376.jpg"},
+                             "https://cf.geekdo-images.com/u1l0gH7sb_vnvDvoO_QHqA__small/img/9lxFidyDb8j6D1vobx4e3UwZ-FI=/fit-in/200x150/filters:strip_icc()/pic4887376.jpg"},
                             #uuid "bc4b57d5-55c6-3d77-a3cb-38686b7bc115"
                             {:game/id
                              #uuid "bc4b57d5-55c6-3d77-a3cb-38686b7bc115",
@@ -10168,7 +10108,7 @@
                              :languages ["en"],
                              :game/name "Greedy Kingdoms",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/I7GrFEDpbL39GYFvjqcNaw__thumb/img/Hnt7ZAZvi5KfgomtZyllxsSGz8E=/fit-in/200x150/filters:strip_icc()/pic4165848.png"},
+                             "https://cf.geekdo-images.com/I7GrFEDpbL39GYFvjqcNaw__small/img/Hnt7ZAZvi5KfgomtZyllxsSGz8E=/fit-in/200x150/filters:strip_icc()/pic4165848.png"},
                             #uuid "c9e680a4-40fb-3a3e-bc38-6556dd90712b"
                             {:game/id
                              #uuid "c9e680a4-40fb-3a3e-bc38-6556dd90712b",
@@ -10228,7 +10168,7 @@
                              :languages ["en"],
                              :game/name "Gretchinz!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Dv7p-wFsyKbRwlWo8FObwQ__thumb/img/Tl69LY5QGCOVt7Ygg9pJ1aacaEg=/fit-in/200x150/filters:strip_icc()/pic3856833.jpg"},
+                             "https://cf.geekdo-images.com/Dv7p-wFsyKbRwlWo8FObwQ__small/img/Tl69LY5QGCOVt7Ygg9pJ1aacaEg=/fit-in/200x150/filters:strip_icc()/pic3856833.jpg"},
                             #uuid "7d59587b-cf90-3d38-935d-71b9d9f3b697"
                             {:game/id
                              #uuid "7d59587b-cf90-3d38-935d-71b9d9f3b697",
@@ -10268,7 +10208,7 @@
                              :languages ["cs"],
                              :game/name "Guess Who?",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/9IzIcHIJVY08OYkXpTmUQA__thumb/img/4-XAZlic1sExGnS8GJM-SPT-SuY=/fit-in/200x150/filters:strip_icc()/pic335812.jpg"},
+                             "https://cf.geekdo-images.com/9IzIcHIJVY08OYkXpTmUQA__small/img/4-XAZlic1sExGnS8GJM-SPT-SuY=/fit-in/200x150/filters:strip_icc()/pic335812.jpg"},
                             #uuid "be6080d8-1630-3f4a-b9f2-f1386d8c4ef6"
                             {:game/id
                              #uuid "be6080d8-1630-3f4a-b9f2-f1386d8c4ef6",
@@ -10299,7 +10239,7 @@
                              :com.boardgamegeek.boardgame/id "228234",
                              :game/name "HATSUDEN",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/P27NHg9OTaveacYXCkXJuQ__thumb/img/Kr5v7GOFbAPYOnuRvjgeIAI8_K4=/fit-in/200x150/filters:strip_icc()/pic3575446.jpg"},
+                             "https://cf.geekdo-images.com/P27NHg9OTaveacYXCkXJuQ__small/img/Kr5v7GOFbAPYOnuRvjgeIAI8_K4=/fit-in/200x150/filters:strip_icc()/pic3575446.jpg"},
                             #uuid "352e99e0-0e21-359e-8d4a-7082905242ed"
                             {:game/id
                              #uuid "352e99e0-0e21-359e-8d4a-7082905242ed",
@@ -10338,7 +10278,7 @@
                              :com.boardgamegeek.boardgame/id "296302",
                              :game/name "HIDEOUT",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/6FiLKu-xtuv02WVz0Yxn-g__thumb/img/gSG_QQ0_B4t6EDe-4b_gWVefNDQ=/fit-in/200x150/filters:strip_icc()/pic5124947.png"},
+                             "https://cf.geekdo-images.com/6FiLKu-xtuv02WVz0Yxn-g__small/img/gSG_QQ0_B4t6EDe-4b_gWVefNDQ=/fit-in/200x150/filters:strip_icc()/pic5124947.png"},
                             #uuid "e8d2a59c-f315-3860-9608-b04f893cbc93"
                             {:game/id
                              #uuid "e8d2a59c-f315-3860-9608-b04f893cbc93",
@@ -10386,13 +10326,13 @@
                              :languages ["cs"],
                              :game/name "Hadara",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/17wJNXSBYuVmKryV9lEKsQ__thumb/img/nVMvEWrTFCoOE9Y3tqFLelkjYWw=/fit-in/200x150/filters:strip_icc()/pic5099398.jpg"},
+                             "https://cf.geekdo-images.com/17wJNXSBYuVmKryV9lEKsQ__small/img/nVMvEWrTFCoOE9Y3tqFLelkjYWw=/fit-in/200x150/filters:strip_icc()/pic5099398.jpg"},
                             #uuid "bb5ad3ec-e05e-333a-8a48-44a1e6bc0283"
                             {:game/id
                              #uuid "bb5ad3ec-e05e-333a-8a48-44a1e6bc0283",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 6.9,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2900,
@@ -10446,7 +10386,7 @@
                              :game/name
                              "Hamlet: The Village Building Game",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/sP1iiqxJ_yTkTdttqxmfAg__thumb/img/OKbDbkUgPelXeFbSOrpcBZy6hyw=/fit-in/200x150/filters:strip_icc()/pic7315662.jpg"},
+                             "https://cf.geekdo-images.com/sP1iiqxJ_yTkTdttqxmfAg__small/img/OKbDbkUgPelXeFbSOrpcBZy6hyw=/fit-in/200x150/filters:strip_icc()/pic7315662.jpg"},
                             #uuid "81cc0f79-3609-346a-8dde-65ed1c9f3c3a"
                             {:game/id
                              #uuid "81cc0f79-3609-346a-8dde-65ed1c9f3c3a",
@@ -10502,7 +10442,7 @@
                              :languages ["en"],
                              :game/name "Hanabi",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/JDVksMwfcqoem1k_xtZrOA__thumb/img/amCeCcEKhYGbVtDvpvIMnu3qTg0=/fit-in/200x150/filters:strip_icc()/pic2007286.jpg"},
+                             "https://cf.geekdo-images.com/JDVksMwfcqoem1k_xtZrOA__small/img/amCeCcEKhYGbVtDvpvIMnu3qTg0=/fit-in/200x150/filters:strip_icc()/pic2007286.jpg"},
                             #uuid "2ae0b465-7518-347a-9c16-13427f39b9be"
                             {:game/id
                              #uuid "2ae0b465-7518-347a-9c16-13427f39b9be",
@@ -10522,7 +10462,7 @@
                                                                 2004,
                                                                 :name
                                                                 "Set Collection"}),
-                             :name "Hansa Teutonica",
+                             :name "Hanafuda",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1002,
@@ -10539,10 +10479,9 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "5451",
-                             :languages ["en"],
                              :game/name "Hanafuda",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/GfBu7Yk8CsKM50GclSNx8A__thumb/img/OEBT1R88KJBF6ow2sB8ZYw063lA=/fit-in/200x150/filters:strip_icc()/pic2649408.jpg"},
+                             "https://cf.geekdo-images.com/GfBu7Yk8CsKM50GclSNx8A__small/img/OEBT1R88KJBF6ow2sB8ZYw063lA=/fit-in/200x150/filters:strip_icc()/pic2649408.jpg"},
                             #uuid "d9ff8a5f-72de-3a40-99bd-301e426485bd"
                             {:game/id
                              #uuid "d9ff8a5f-72de-3a40-99bd-301e426485bd",
@@ -10594,7 +10533,7 @@
                              :languages ["en"],
                              :game/name "Haru Ichiban",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/sOwpuouKdVSYmpz9oIJv_g__thumb/img/nwsGruWd-5XPmYPY3RG72-MsQ6g=/fit-in/200x150/filters:strip_icc()/pic2678962.jpg"},
+                             "https://cf.geekdo-images.com/sOwpuouKdVSYmpz9oIJv_g__small/img/nwsGruWd-5XPmYPY3RG72-MsQ6g=/fit-in/200x150/filters:strip_icc()/pic2678962.jpg"},
                             #uuid "cd7ef35f-d987-38bd-b123-4270688637ad"
                             {:game/id
                              #uuid "cd7ef35f-d987-38bd-b123-4270688637ad",
@@ -10646,7 +10585,7 @@
                              :languages ["en"],
                              :game/name "Harvest Dice",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/0NRxC_50-veoaRXxlv1aBg__thumb/img/VBqfQb3VZjjGVP06svJQfQBVYpI=/fit-in/200x150/filters:strip_icc()/pic3687781.jpg"},
+                             "https://cf.geekdo-images.com/0NRxC_50-veoaRXxlv1aBg__small/img/VBqfQb3VZjjGVP06svJQfQBVYpI=/fit-in/200x150/filters:strip_icc()/pic3687781.jpg"},
                             #uuid "08972caa-b2f3-3eac-82b5-e023f13fe1e6"
                             {:game/id
                              #uuid "08972caa-b2f3-3eac-82b5-e023f13fe1e6",
@@ -10682,7 +10621,7 @@
                              :languages ["en"],
                              :game/name "Heaven, Here I Come!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/m5eDBygrZ0osvh9amZORGQ__thumb/img/j_Eyt23PTBvpIGU3WJMomfIuWck=/fit-in/200x150/filters:strip_icc()/pic6364365.png"},
+                             "https://cf.geekdo-images.com/m5eDBygrZ0osvh9amZORGQ__small/img/j_Eyt23PTBvpIGU3WJMomfIuWck=/fit-in/200x150/filters:strip_icc()/pic6364365.png"},
                             #uuid "34a554d0-0c92-34d1-b7e8-78b92ecd459e"
                             {:game/id
                              #uuid "34a554d0-0c92-34d1-b7e8-78b92ecd459e",
@@ -10758,7 +10697,7 @@
                              :languages ["en"],
                              :game/name "Here to Slay",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/ozUv3be9fcf28tJk30bNow__thumb/img/H-JU6r_wjLQTmAV4gX9pQbiT6_U=/fit-in/200x150/filters:strip_icc()/pic5181432.jpg"},
+                             "https://cf.geekdo-images.com/ozUv3be9fcf28tJk30bNow__small/img/H-JU6r_wjLQTmAV4gX9pQbiT6_U=/fit-in/200x150/filters:strip_icc()/pic5181432.jpg"},
                             #uuid "cdd0afaf-944b-3605-ab9e-990704f79409"
                             {:game/id
                              #uuid "cdd0afaf-944b-3605-ab9e-990704f79409",
@@ -10814,7 +10753,7 @@
                              :languages ["en"],
                              :game/name "Hey Yo",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/gdL3oocd-YZdV-eov01mzQ__thumb/img/MzaD_ZISvY6hH-Mht-YA5UiOq_g=/fit-in/200x150/filters:strip_icc()/pic6388848.png"},
+                             "https://cf.geekdo-images.com/gdL3oocd-YZdV-eov01mzQ__small/img/MzaD_ZISvY6hH-Mht-YA5UiOq_g=/fit-in/200x150/filters:strip_icc()/pic6388848.png"},
                             #uuid "75466a84-a8e4-3539-bad7-a8f56097c633"
                             {:game/id
                              #uuid "75466a84-a8e4-3539-bad7-a8f56097c633",
@@ -10858,7 +10797,7 @@
                              :languages ["en"],
                              :game/name "Hibachi",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/wXeBFmXw3QrNJBz05tbF4g__thumb/img/AXT-WLek_ayeFVWarBzcCvL6Dhg=/fit-in/200x150/filters:strip_icc()/pic5517561.jpg"},
+                             "https://cf.geekdo-images.com/wXeBFmXw3QrNJBz05tbF4g__small/img/AXT-WLek_ayeFVWarBzcCvL6Dhg=/fit-in/200x150/filters:strip_icc()/pic5517561.jpg"},
                             #uuid "434338bc-9501-334b-adbf-2b3752e9e231"
                             {:game/id
                              #uuid "434338bc-9501-334b-adbf-2b3752e9e231",
@@ -10918,7 +10857,7 @@
                              :languages ["en"],
                              :game/name "Hive Pocket",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/qxB2LU0536eKeByvNl3vcA__thumb/img/u-Mm0YOkr4MkmQqHLkh0uHTxHDI=/fit-in/200x150/filters:strip_icc()/pic8229329.jpg"},
+                             "https://cf.geekdo-images.com/qxB2LU0536eKeByvNl3vcA__small/img/u-Mm0YOkr4MkmQqHLkh0uHTxHDI=/fit-in/200x150/filters:strip_icc()/pic8229329.jpg"},
                             #uuid "1ac44103-6f92-3b98-95ba-1137464ee064"
                             {:game/id
                              #uuid "1ac44103-6f92-3b98-95ba-1137464ee064",
@@ -10962,7 +10901,7 @@
                              :languages ["en"],
                              :game/name "Hollywood",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/XhQz6qA58L1BQDPqCN9-gA__thumb/img/dw1hCU6BFR90urJCY1nEdL3iCaA=/fit-in/200x150/filters:strip_icc()/pic1757586.jpg"},
+                             "https://cf.geekdo-images.com/XhQz6qA58L1BQDPqCN9-gA__small/img/dw1hCU6BFR90urJCY1nEdL3iCaA=/fit-in/200x150/filters:strip_icc()/pic1757586.jpg"},
                             #uuid "1fadd4b0-ef60-3812-bca9-2f217bf21ae9"
                             {:game/id
                              #uuid "1fadd4b0-ef60-3812-bca9-2f217bf21ae9",
@@ -11070,7 +11009,7 @@
                              :languages ["en"],
                              :game/name "Honey Buzz",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/q3KbDdmiSkvKucANAdOU1g__thumb/img/4e8jsNQHJp_Cir_h1_rEBK5xXWM=/fit-in/200x150/filters:strip_icc()/pic5608344.jpg"},
+                             "https://cf.geekdo-images.com/q3KbDdmiSkvKucANAdOU1g__small/img/4e8jsNQHJp_Cir_h1_rEBK5xXWM=/fit-in/200x150/filters:strip_icc()/pic5608344.jpg"},
                             #uuid "3b80595a-c71d-32b0-835a-c1d26c74b74f"
                             {:game/id
                              #uuid "3b80595a-c71d-32b0-835a-c1d26c74b74f",
@@ -11110,7 +11049,7 @@
                              :languages ["en"],
                              :game/name "How Dare You?",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/aX5cbihQ7AvylUIVugOCkA__thumb/img/E-4ursjdKyWHiwmAtslVe87wMG4=/fit-in/200x150/filters:strip_icc()/pic7533010.png"},
+                             "https://cf.geekdo-images.com/aX5cbihQ7AvylUIVugOCkA__small/img/E-4ursjdKyWHiwmAtslVe87wMG4=/fit-in/200x150/filters:strip_icc()/pic7533010.png"},
                             #uuid "2d8b500e-f9e1-3ea2-a7d1-0927519e3c5f"
                             {:game/id
                              #uuid "2d8b500e-f9e1-3ea2-a7d1-0927519e3c5f",
@@ -11172,7 +11111,7 @@
                              :game/name
                              "Hunt A Killer: Death at the Dive Bar",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/kq3yHDjFbKFp7XA29Eu52Q__thumb/img/k5ZStrEe71d7kPhSbLf1sba7KPo=/fit-in/200x150/filters:strip_icc()/pic6585386.jpg"},
+                             "https://cf.geekdo-images.com/kq3yHDjFbKFp7XA29Eu52Q__small/img/k5ZStrEe71d7kPhSbLf1sba7KPo=/fit-in/200x150/filters:strip_icc()/pic6585386.jpg"},
                             #uuid "5915a81b-221d-3aa3-a64a-78a9a04a1200"
                             {:game/id
                              #uuid "5915a81b-221d-3aa3-a64a-78a9a04a1200",
@@ -11208,7 +11147,7 @@
                              :languages ["cs"],
                              :game/name "I know!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/gZXLGkSkx4Hasi-EAmLXGg__thumb/img/VsbjdYXQWm2zxYVY9XGBRAIJlMs=/fit-in/200x150/filters:strip_icc()/pic1540137.jpg"},
+                             "https://cf.geekdo-images.com/gZXLGkSkx4Hasi-EAmLXGg__small/img/VsbjdYXQWm2zxYVY9XGBRAIJlMs=/fit-in/200x150/filters:strip_icc()/pic1540137.jpg"},
                             #uuid "aff8862a-8fba-39a6-86f4-ef02a3a228f9"
                             {:game/id
                              #uuid "aff8862a-8fba-39a6-86f4-ef02a3a228f9",
@@ -11252,7 +11191,7 @@
                              :languages ["cs"],
                              :game/name "ICECOOL",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/xVx8ex1fjO9C7W8rRvWdVQ__thumb/img/7ZeCdaJWigksF5wUHTGGXmmfP6Y=/fit-in/200x150/filters:strip_icc()/pic3320017.png"},
+                             "https://cf.geekdo-images.com/xVx8ex1fjO9C7W8rRvWdVQ__small/img/7ZeCdaJWigksF5wUHTGGXmmfP6Y=/fit-in/200x150/filters:strip_icc()/pic3320017.png"},
                             #uuid "71f91e12-ab77-3da3-8a39-063650e3b2e7"
                             {:game/id
                              #uuid "71f91e12-ab77-3da3-8a39-063650e3b2e7",
@@ -11288,7 +11227,7 @@
                              :languages ["en"],
                              :game/name "Illegal",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/KTFcj2HxslXFLynYQF2fHg__thumb/img/tvnxR1TZlDeSKR7fksEyJhNs97w=/fit-in/200x150/filters:strip_icc()/pic2265862.jpg"},
+                             "https://cf.geekdo-images.com/KTFcj2HxslXFLynYQF2fHg__small/img/tvnxR1TZlDeSKR7fksEyJhNs97w=/fit-in/200x150/filters:strip_icc()/pic2265862.jpg"},
                             #uuid "b4991e13-f466-39b4-be16-56909272f1cc"
                             {:game/id
                              #uuid "b4991e13-f466-39b4-be16-56909272f1cc",
@@ -11348,7 +11287,7 @@
                              :languages ["en"],
                              :game/name "Illuminati",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/ea8y04WKGgdQkFy1Pbw9tA__thumb/img/eph2ZknTAhhs-A8ij76DJbhzjrs=/fit-in/200x150/filters:strip_icc()/pic1320091.jpg"},
+                             "https://cf.geekdo-images.com/ea8y04WKGgdQkFy1Pbw9tA__small/img/eph2ZknTAhhs-A8ij76DJbhzjrs=/fit-in/200x150/filters:strip_icc()/pic1320091.jpg"},
                             #uuid "b89d6bd4-4fd0-321f-85a1-f829a425f0c9"
                             {:game/id
                              #uuid "b89d6bd4-4fd0-321f-85a1-f829a425f0c9",
@@ -11376,7 +11315,7 @@
                              :languages ["en"],
                              :game/name "Illusion",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/jcFaI9hr6iXwpwCZT-ifHA__thumb/img/KnKWkryn-UTBNrIsJWiyQG7yyq4=/fit-in/200x150/filters:strip_icc()/pic3979771.png"},
+                             "https://cf.geekdo-images.com/jcFaI9hr6iXwpwCZT-ifHA__small/img/KnKWkryn-UTBNrIsJWiyQG7yyq4=/fit-in/200x150/filters:strip_icc()/pic3979771.png"},
                             #uuid "e6af7b29-ffe6-3b0b-a07b-8fcbe812303c"
                             {:game/id
                              #uuid "e6af7b29-ffe6-3b0b-a07b-8fcbe812303c",
@@ -11440,7 +11379,7 @@
                              :languages ["en"],
                              :game/name "Imperial",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/khAHJpItPCZTbLKY9vUUCg__thumb/img/sDweGseAa80F7Cv_804-eE7KPco=/fit-in/200x150/filters:strip_icc()/pic840712.jpg"},
+                             "https://cf.geekdo-images.com/khAHJpItPCZTbLKY9vUUCg__small/img/sDweGseAa80F7Cv_804-eE7KPco=/fit-in/200x150/filters:strip_icc()/pic840712.jpg"},
                             #uuid "90b4a79a-a31a-3cfc-be15-cdac927b726b"
                             {:game/id
                              #uuid "90b4a79a-a31a-3cfc-be15-cdac927b726b",
@@ -11520,13 +11459,13 @@
                              :languages ["en"],
                              :game/name "Imperial Settlers",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/pRwsvyfsRJ-lWWwVJCdXNg__thumb/img/-b7sYBaUVxdZ_a33QRfvJY2ccAk=/fit-in/200x150/filters:strip_icc()/pic2871265.jpg"},
+                             "https://cf.geekdo-images.com/pRwsvyfsRJ-lWWwVJCdXNg__small/img/-b7sYBaUVxdZ_a33QRfvJY2ccAk=/fit-in/200x150/filters:strip_icc()/pic2871265.jpg"},
                             #uuid "7f0f5004-8737-308d-8736-6149b30c6123"
                             {:game/id
                              #uuid "7f0f5004-8737-308d-8736-6149b30c6123",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.4,
+                             :com.boardgamegeek.boardgame/rating 6.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2047,
@@ -11556,7 +11495,7 @@
                              :languages ["en"],
                              :game/name "In a Grove",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/vYLjqPslPNfM5QJ5NZCsvg__thumb/img/jaLQ7MhGLH2YY9o4q8_-5n0dDwA=/fit-in/200x150/filters:strip_icc()/pic6003567.png"},
+                             "https://cf.geekdo-images.com/vYLjqPslPNfM5QJ5NZCsvg__small/img/jaLQ7MhGLH2YY9o4q8_-5n0dDwA=/fit-in/200x150/filters:strip_icc()/pic6003567.png"},
                             #uuid "b9f2da10-1680-3523-ae07-a13fc3bb09f4"
                             {:game/id
                              #uuid "b9f2da10-1680-3523-ae07-a13fc3bb09f4",
@@ -11603,7 +11542,7 @@
                              :com.boardgamegeek.boardgame/id "212695",
                              :game/name "Invasion: Free State",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/PGEb-2Z_CwCPRwtTq5Zq-w__thumb/img/3bHfOFdYxPJBwWZd6uMoVacirw0=/fit-in/200x150/filters:strip_icc()/pic3250893.jpg"},
+                             "https://cf.geekdo-images.com/PGEb-2Z_CwCPRwtTq5Zq-w__small/img/3bHfOFdYxPJBwWZd6uMoVacirw0=/fit-in/200x150/filters:strip_icc()/pic3250893.jpg"},
                             #uuid "2a245220-fd64-3bc2-a5ee-5c53656b6436"
                             {:game/id
                              #uuid "2a245220-fd64-3bc2-a5ee-5c53656b6436",
@@ -11647,7 +11586,7 @@
                              :languages ["en"],
                              :game/name "Ipse Dixit",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/hAlhNLT4Ky5PMUlHHAObeQ__thumb/img/ZiCi0sASRTjYEjq50uKdXyzX7o0=/fit-in/200x150/filters:strip_icc()/pic6223258.jpg"},
+                             "https://cf.geekdo-images.com/hAlhNLT4Ky5PMUlHHAObeQ__small/img/ZiCi0sASRTjYEjq50uKdXyzX7o0=/fit-in/200x150/filters:strip_icc()/pic6223258.jpg"},
                             #uuid "548d40ad-9562-3712-a0a0-f072f66b395c"
                             {:game/id
                              #uuid "548d40ad-9562-3712-a0a0-f072f66b395c",
@@ -11704,7 +11643,7 @@
                              :game/name
                              "Isle of Skye: From Chieftain to King",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/GCxsnITFBO1pNXiBYkq_qA__thumb/img/0BJUretj0lJj09f2JjDGrQzmakI=/fit-in/200x150/filters:strip_icc()/pic2524838.jpg"},
+                             "https://cf.geekdo-images.com/GCxsnITFBO1pNXiBYkq_qA__small/img/0BJUretj0lJj09f2JjDGrQzmakI=/fit-in/200x150/filters:strip_icc()/pic2524838.jpg"},
                             #uuid "0ef8f876-d62a-3535-ae28-410454e3634b"
                             {:game/id
                              #uuid "0ef8f876-d62a-3535-ae28-410454e3634b",
@@ -11768,7 +11707,7 @@
                              :languages ["cs" "en"],
                              :game/name "Istanbul",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/PHH9Mreen2sBcxV6ZsE3ew__thumb/img/Vzpg3sdeAbCy0IxSAoh1aH9nvDE=/fit-in/200x150/filters:strip_icc()/pic1885326.jpg"},
+                             "https://cf.geekdo-images.com/PHH9Mreen2sBcxV6ZsE3ew__small/img/Vzpg3sdeAbCy0IxSAoh1aH9nvDE=/fit-in/200x150/filters:strip_icc()/pic1885326.jpg"},
                             #uuid "984c20a2-ad28-3167-b8ae-fcef61acbced"
                             {:game/id
                              #uuid "984c20a2-ad28-3167-b8ae-fcef61acbced",
@@ -11800,7 +11739,7 @@
                              :languages ["en"],
                              :game/name "It Dies With Me",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/DWMT6FxLomGvgYzfKJTuKw__thumb/img/C6-AyY0PP5fFzG1eDyVcWCwHd1g=/fit-in/200x150/filters:strip_icc()/pic4466127.jpg"},
+                             "https://cf.geekdo-images.com/DWMT6FxLomGvgYzfKJTuKw__small/img/C6-AyY0PP5fFzG1eDyVcWCwHd1g=/fit-in/200x150/filters:strip_icc()/pic4466127.jpg"},
                             #uuid "6a8dc11a-fcae-3e14-ae36-50d5f4599f7e"
                             {:game/id
                              #uuid "6a8dc11a-fcae-3e14-ae36-50d5f4599f7e",
@@ -11844,13 +11783,13 @@
                              :languages ["en"],
                              :game/name "It's Obvious",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/r4Av0cBw_qHPEM3IypNE4w__thumb/img/94t98GCbpq57IyMEbz9RUuLPdgw=/fit-in/200x150/filters:strip_icc()/pic6315328.jpg"},
+                             "https://cf.geekdo-images.com/r4Av0cBw_qHPEM3IypNE4w__small/img/94t98GCbpq57IyMEbz9RUuLPdgw=/fit-in/200x150/filters:strip_icc()/pic6315328.jpg"},
                             #uuid "198c5935-64ce-3f5d-b551-ed1c5cc12e43"
                             {:game/id
                              #uuid "198c5935-64ce-3f5d-b551-ed1c5cc12e43",
                              :com.boardgamegeek.boardgame/min-players
                              4,
-                             :com.boardgamegeek.boardgame/rating 6.4,
+                             :com.boardgamegeek.boardgame/rating 5.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2866,
@@ -11879,7 +11818,7 @@
                              :com.boardgamegeek.boardgame/id "424876",
                              :game/name "It's a Match",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/FttlyjZiMmOSuLSl-gCfjg__thumb/img/ebQkqFNQNw3cbBqENEu3q-MfyU0=/fit-in/200x150/filters:strip_icc()/pic8317559.jpg"},
+                             "https://cf.geekdo-images.com/FttlyjZiMmOSuLSl-gCfjg__small/img/ebQkqFNQNw3cbBqENEu3q-MfyU0=/fit-in/200x150/filters:strip_icc()/pic8317559.jpg"},
                             #uuid "b7a25a7a-e77d-35fe-ae20-eddd04525fb1"
                             {:game/id
                              #uuid "b7a25a7a-e77d-35fe-ae20-eddd04525fb1",
@@ -11947,7 +11886,7 @@
                              :languages ["en"],
                              :game/name "It's a Wonderful World",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/od4vDTdXGPSVc-kjLqM11w__thumb/img/T2ukKoCUNv2LMxg5GOlOb8WTzNI=/fit-in/200x150/filters:strip_icc()/pic4651175.jpg"},
+                             "https://cf.geekdo-images.com/od4vDTdXGPSVc-kjLqM11w__small/img/T2ukKoCUNv2LMxg5GOlOb8WTzNI=/fit-in/200x150/filters:strip_icc()/pic4651175.jpg"},
                             #uuid "e4b769db-2a42-392d-b311-b02c3545d07d"
                             {:game/id
                              #uuid "e4b769db-2a42-392d-b311-b02c3545d07d",
@@ -12023,7 +11962,7 @@
                              :languages ["en" "fr"],
                              :game/name "Jaipur",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/_LTujSe_o16nvjDC-J0seA__thumb/img/82vhODfpxIT03BzW4NkisJ5Unzs=/fit-in/200x150/filters:strip_icc()/pic5100947.jpg"},
+                             "https://cf.geekdo-images.com/_LTujSe_o16nvjDC-J0seA__small/img/82vhODfpxIT03BzW4NkisJ5Unzs=/fit-in/200x150/filters:strip_icc()/pic5100947.jpg"},
                             #uuid "1add2eb4-1fca-39b2-a15b-4a7d68571409"
                             {:game/id
                              #uuid "1add2eb4-1fca-39b2-a15b-4a7d68571409",
@@ -12095,7 +12034,7 @@
                              :languages ["en"],
                              :game/name "Jamaica",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/jZRfv3isrBG5waCzEx60Cw__thumb/img/6q5nirF5yn1d0qtjm2UEI5HV874=/fit-in/200x150/filters:strip_icc()/pic6434838.png"},
+                             "https://cf.geekdo-images.com/jZRfv3isrBG5waCzEx60Cw__small/img/6q5nirF5yn1d0qtjm2UEI5HV874=/fit-in/200x150/filters:strip_icc()/pic6434838.png"},
                             #uuid "647e229b-c07b-3419-a641-254ed8b96dbd"
                             {:game/id
                              #uuid "647e229b-c07b-3419-a641-254ed8b96dbd",
@@ -12147,7 +12086,7 @@
                              :languages ["en"],
                              :game/name "Joking Hazard",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/ohrUtQ0FGHPSFxfSX2Ltmg__thumb/img/r9PhVsbOjPDDLfVKBhwrPnqV4LI=/fit-in/200x150/filters:strip_icc()/pic6411897.png"},
+                             "https://cf.geekdo-images.com/ohrUtQ0FGHPSFxfSX2Ltmg__small/img/r9PhVsbOjPDDLfVKBhwrPnqV4LI=/fit-in/200x150/filters:strip_icc()/pic6411897.png"},
                             #uuid "81ed0760-1bde-3c0c-bb8b-bfec97603c12"
                             {:game/id
                              #uuid "81ed0760-1bde-3c0c-bb8b-bfec97603c12",
@@ -12191,7 +12130,7 @@
                              :languages ["en"],
                              :game/name "Judge Your Friends",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/rgLTHCHkGOq7dHhhbceDBA__thumb/img/nkSAe8pI1QOMKkmSqBYBJl5uP2o=/fit-in/200x150/filters:strip_icc()/pic7348145.jpg"},
+                             "https://cf.geekdo-images.com/rgLTHCHkGOq7dHhhbceDBA__small/img/nkSAe8pI1QOMKkmSqBYBJl5uP2o=/fit-in/200x150/filters:strip_icc()/pic7348145.jpg"},
                             #uuid "a5d7ddea-2e79-3a0f-b248-95af3f6223d4"
                             {:game/id
                              #uuid "a5d7ddea-2e79-3a0f-b248-95af3f6223d4",
@@ -12227,7 +12166,7 @@
                              :languages ["en"],
                              :game/name "Jungle Brunch",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/oRyH1goh93mCNr1m0bMLtA__thumb/img/WdokDmJ4wy1iQtfbVtSzaTVU_bo=/fit-in/200x150/filters:strip_icc()/pic1422658.jpg"},
+                             "https://cf.geekdo-images.com/oRyH1goh93mCNr1m0bMLtA__small/img/WdokDmJ4wy1iQtfbVtSzaTVU_bo=/fit-in/200x150/filters:strip_icc()/pic1422658.jpg"},
                             #uuid "f18187e7-f398-32f0-b73e-625e848d8333"
                             {:game/id
                              #uuid "f18187e7-f398-32f0-b73e-625e848d8333",
@@ -12267,7 +12206,7 @@
                              :languages ["en"],
                              :game/name "Jungle Race",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/DpEy9WYNRnhJgEQv9TdT4A__thumb/img/2er4fHNmZLRIizmoiGa3D-42tKU=/fit-in/200x150/filters:strip_icc()/pic4206101.png"},
+                             "https://cf.geekdo-images.com/DpEy9WYNRnhJgEQv9TdT4A__small/img/2er4fHNmZLRIizmoiGa3D-42tKU=/fit-in/200x150/filters:strip_icc()/pic4206101.png"},
                             #uuid "7e153c29-583c-3f68-85d8-1ed02112af37"
                             {:game/id
                              #uuid "7e153c29-583c-3f68-85d8-1ed02112af37",
@@ -12311,7 +12250,7 @@
                              :languages ["en"],
                              :game/name "Jungle Speed",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/pb553nZgH3akaF24MzT7nA__thumb/img/Clb-hjbKmSJcl6U6UJMqAz0Kxy0=/fit-in/200x150/filters:strip_icc()/pic4659199.jpg"},
+                             "https://cf.geekdo-images.com/pb553nZgH3akaF24MzT7nA__small/img/Clb-hjbKmSJcl6U6UJMqAz0Kxy0=/fit-in/200x150/filters:strip_icc()/pic4659199.jpg"},
                             #uuid "6db176b1-017b-3430-a362-e2d6ee99cc67"
                             {:game/id
                              #uuid "6db176b1-017b-3430-a362-e2d6ee99cc67",
@@ -12359,7 +12298,7 @@
                              :languages ["cs"],
                              :game/name "Junk Art",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/5VDnpX_3ykgCjTJSmHdfCA__thumb/img/LLHF9t1MxB0m-NBe_C9cxAyIslA=/fit-in/200x150/filters:strip_icc()/pic2884509.jpg"},
+                             "https://cf.geekdo-images.com/5VDnpX_3ykgCjTJSmHdfCA__small/img/LLHF9t1MxB0m-NBe_C9cxAyIslA=/fit-in/200x150/filters:strip_icc()/pic2884509.jpg"},
                             #uuid "e9e59065-5acd-3d1d-876b-8cb866541534"
                             {:game/id
                              #uuid "e9e59065-5acd-3d1d-876b-8cb866541534",
@@ -12383,7 +12322,7 @@
                                                                 2823,
                                                                 :name
                                                                 "Score-and-Reset Game"}),
-                             :name "Jedním slovem",
+                             :name "Just One",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1039,
@@ -12404,10 +12343,10 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "254640",
-                             :languages ["cs"],
+                             :languages ["en"],
                              :game/name "Just One",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/74haNunMBn85beBi-yIKwA__thumb/img/feIV-gqMeza43ycvxh6PGx4lA_w=/fit-in/200x150/filters:strip_icc()/pic8669313.png"},
+                             "https://cf.geekdo-images.com/74haNunMBn85beBi-yIKwA__small/img/feIV-gqMeza43ycvxh6PGx4lA_w=/fit-in/200x150/filters:strip_icc()/pic8669313.png"},
                             #uuid "d74c2f95-1746-33fe-9fb1-5ee8e294c2ce"
                             {:game/id
                              #uuid "d74c2f95-1746-33fe-9fb1-5ee8e294c2ce",
@@ -12480,7 +12419,7 @@
                              :game/name
                              "Justice League: Dawn of Heroes",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/X3PmApU3S3K1jSIPoaNazg__thumb/img/4dlsLkO_X-B_BoviCITqRlBfjM8=/fit-in/200x150/filters:strip_icc()/pic3630399.jpg"},
+                             "https://cf.geekdo-images.com/X3PmApU3S3K1jSIPoaNazg__small/img/4dlsLkO_X-B_BoviCITqRlBfjM8=/fit-in/200x150/filters:strip_icc()/pic3630399.jpg"},
                             #uuid "04117693-97a0-3890-a084-9cf9b13620dd"
                             {:game/id
                              #uuid "04117693-97a0-3890-a084-9cf9b13620dd",
@@ -12520,7 +12459,7 @@
                              :languages ["en"],
                              :game/name "Kabuto Sumo",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/fG4GxTHRYGasb0WYE-udJQ__thumb/img/VxiuAUI5idseMgx-yLPKgnsnlsY=/fit-in/200x150/filters:strip_icc()/pic6256515.jpg"},
+                             "https://cf.geekdo-images.com/fG4GxTHRYGasb0WYE-udJQ__small/img/VxiuAUI5idseMgx-yLPKgnsnlsY=/fit-in/200x150/filters:strip_icc()/pic6256515.jpg"},
                             #uuid "d94472e2-8880-369b-b2f2-d1d3b83960c6"
                             {:game/id
                              #uuid "d94472e2-8880-369b-b2f2-d1d3b83960c6",
@@ -12580,7 +12519,7 @@
                              :languages ["cs"],
                              :game/name "Kahuna",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/UdhhVlmQihMbvlNSvY1lUA__thumb/img/bc5NxkspfUfPskxlC30SxlwNyxs=/fit-in/200x150/filters:strip_icc()/pic2606165.jpg"},
+                             "https://cf.geekdo-images.com/UdhhVlmQihMbvlNSvY1lUA__small/img/bc5NxkspfUfPskxlC30SxlwNyxs=/fit-in/200x150/filters:strip_icc()/pic2606165.jpg"},
                             #uuid "17feb8e6-7b23-3046-8a68-3db7726627da"
                             {:game/id
                              #uuid "17feb8e6-7b23-3046-8a68-3db7726627da",
@@ -12608,7 +12547,7 @@
                              :languages ["cs" "en" "fr" "ru" "de"],
                              :game/name "Kalah",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Rvu1UIrmRwpfA3TPB8gMQg__thumb/img/xzezJomWTN7zH-5672AX9d7C-9U=/fit-in/200x150/filters:strip_icc()/pic302117.jpg"},
+                             "https://cf.geekdo-images.com/Rvu1UIrmRwpfA3TPB8gMQg__small/img/xzezJomWTN7zH-5672AX9d7C-9U=/fit-in/200x150/filters:strip_icc()/pic302117.jpg"},
                             #uuid "f6bfd5a5-b179-3f4b-835d-47b8ec85c075"
                             {:game/id
                              #uuid "f6bfd5a5-b179-3f4b-835d-47b8ec85c075",
@@ -12668,7 +12607,7 @@
                              :languages ["en" "cs"],
                              :game/name "Karak",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/tykvv8kCdhOY9Nwl9EzHfw__thumb/img/1uxtM8lRodsvjq3afKFtqhyN-yw=/fit-in/200x150/filters:strip_icc()/pic6631014.jpg"},
+                             "https://cf.geekdo-images.com/tykvv8kCdhOY9Nwl9EzHfw__small/img/1uxtM8lRodsvjq3afKFtqhyN-yw=/fit-in/200x150/filters:strip_icc()/pic6631014.jpg"},
                             #uuid "97b52c4a-e93f-3ce8-b62f-60f30b492701"
                             {:game/id
                              #uuid "97b52c4a-e93f-3ce8-b62f-60f30b492701",
@@ -12704,7 +12643,7 @@
                              :languages ["en"],
                              :game/name "Karakum",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/6GgklJsdhsZCqfGKuLFCUg__thumb/img/QFKVojyCBRpkbyYOuXw9f6QGR1U=/fit-in/200x150/filters:strip_icc()/pic7092089.jpg"},
+                             "https://cf.geekdo-images.com/6GgklJsdhsZCqfGKuLFCUg__small/img/QFKVojyCBRpkbyYOuXw9f6QGR1U=/fit-in/200x150/filters:strip_icc()/pic7092089.jpg"},
                             #uuid "abc5edec-2835-3550-b622-c491cdafdb5e"
                             {:game/id
                              #uuid "abc5edec-2835-3550-b622-c491cdafdb5e",
@@ -12768,7 +12707,7 @@
                              :languages ["en"],
                              :game/name "Kemet",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/RmZjhy7_6REp8IaXh9Zqwg__thumb/img/930_NppLsnIGUDG_W6wkdOGgKR8=/fit-in/200x150/filters:strip_icc()/pic3979527.jpg"},
+                             "https://cf.geekdo-images.com/RmZjhy7_6REp8IaXh9Zqwg__small/img/930_NppLsnIGUDG_W6wkdOGgKR8=/fit-in/200x150/filters:strip_icc()/pic3979527.jpg"},
                             #uuid "e369d9fd-2ab5-3455-9298-16db19e37fd4"
                             {:game/id
                              #uuid "e369d9fd-2ab5-3455-9298-16db19e37fd4",
@@ -12796,7 +12735,7 @@
                              :languages ["de"],
                              :game/name "Kerala",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/XiiLyFXVcd8iDmXZbTssfw__thumb/img/ffJlDKp1rIRm9TDj4ApwpNYaqJk=/fit-in/200x150/filters:strip_icc()/pic1064029.png"},
+                             "https://cf.geekdo-images.com/XiiLyFXVcd8iDmXZbTssfw__small/img/ffJlDKp1rIRm9TDj4ApwpNYaqJk=/fit-in/200x150/filters:strip_icc()/pic1064029.png"},
                             #uuid "9b6f89e9-4d1f-3225-bb98-6f002cd93509"
                             {:game/id
                              #uuid "9b6f89e9-4d1f-3225-bb98-6f002cd93509",
@@ -12840,7 +12779,7 @@
                              :languages ["en"],
                              :game/name "Kill Doctor Lucky",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/HzSvdAtAiktVmdTfDEIayA__thumb/img/fIMPwA6ZEVr9bSf7QFrsezXjafg=/fit-in/200x150/filters:strip_icc()/pic2923257.jpg"},
+                             "https://cf.geekdo-images.com/HzSvdAtAiktVmdTfDEIayA__small/img/fIMPwA6ZEVr9bSf7QFrsezXjafg=/fit-in/200x150/filters:strip_icc()/pic2923257.jpg"},
                             #uuid "1b2a1ef5-4042-3ba6-826b-7d8fe796f7ba"
                             {:game/id
                              #uuid "1b2a1ef5-4042-3ba6-826b-7d8fe796f7ba",
@@ -12912,7 +12851,7 @@
                              :languages ["en"],
                              :game/name "King of New York",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/FGekxht_r5xqt8oSmQ9HZg__thumb/img/DBoMebkqbcyZWJVLC5MRbF-YbnU=/fit-in/200x150/filters:strip_icc()/pic2407103.jpg"},
+                             "https://cf.geekdo-images.com/FGekxht_r5xqt8oSmQ9HZg__small/img/DBoMebkqbcyZWJVLC5MRbF-YbnU=/fit-in/200x150/filters:strip_icc()/pic2407103.jpg"},
                             #uuid "e1d04b1f-1d94-3006-958a-ee81242dab6d"
                             {:game/id
                              #uuid "e1d04b1f-1d94-3006-958a-ee81242dab6d",
@@ -12980,7 +12919,7 @@
                              :languages ["cs" "en"],
                              :game/name "King of Tokyo",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/m_RzXpHURC0_xLkvRSR_sw__thumb/img/OfgWmkGJj5BgOO0zFHEtP5CHfbU=/fit-in/200x150/filters:strip_icc()/pic3043734.jpg"},
+                             "https://cf.geekdo-images.com/m_RzXpHURC0_xLkvRSR_sw__small/img/OfgWmkGJj5BgOO0zFHEtP5CHfbU=/fit-in/200x150/filters:strip_icc()/pic3043734.jpg"},
                             #uuid "22b3df14-e100-33a6-a098-e396cb523d6a"
                             {:game/id
                              #uuid "22b3df14-e100-33a6-a098-e396cb523d6a",
@@ -13048,7 +12987,7 @@
                              :languages ["en"],
                              :game/name "Kingdom Builder",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/kJOP_BICVX-88sKqFRh9PQ__thumb/img/KwrWpSRncnCE0cEldldyVQ-0Cdk=/fit-in/200x150/filters:strip_icc()/pic1152359.jpg"},
+                             "https://cf.geekdo-images.com/kJOP_BICVX-88sKqFRh9PQ__small/img/KwrWpSRncnCE0cEldldyVQ-0Cdk=/fit-in/200x150/filters:strip_icc()/pic1152359.jpg"},
                             #uuid "8ce06ee2-adee-34f3-aba8-d11632b5bdb2"
                             {:game/id
                              #uuid "8ce06ee2-adee-34f3-aba8-d11632b5bdb2",
@@ -13076,7 +13015,7 @@
                              :languages ["en"],
                              :game/name "Kingdom of Middag",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/mOycBnD2cmANe1magtBqPw__thumb/img/2DRL0yhFduP2gXk_Xw4HjrvMRwc=/fit-in/200x150/filters:strip_icc()/pic4936625.jpg"},
+                             "https://cf.geekdo-images.com/mOycBnD2cmANe1magtBqPw__small/img/2DRL0yhFduP2gXk_Xw4HjrvMRwc=/fit-in/200x150/filters:strip_icc()/pic4936625.jpg"},
                             #uuid "843ecaf0-bb25-3a67-af63-f8a4bc3708a3"
                             {:game/id
                              #uuid "843ecaf0-bb25-3a67-af63-f8a4bc3708a3",
@@ -13128,7 +13067,7 @@
                              :languages ["cs"],
                              :game/name "Kingdomino",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/c0m3gwZTcfKoLI63ASio8g__thumb/img/4p4Xydg0tze9UFcd6oUbCnVyxCw=/fit-in/200x150/filters:strip_icc()/pic8443569.png"},
+                             "https://cf.geekdo-images.com/c0m3gwZTcfKoLI63ASio8g__small/img/4p4Xydg0tze9UFcd6oUbCnVyxCw=/fit-in/200x150/filters:strip_icc()/pic8443569.png"},
                             #uuid "a2008070-14f7-3ef4-b245-e2d68cc00b65"
                             {:game/id
                              #uuid "a2008070-14f7-3ef4-b245-e2d68cc00b65",
@@ -13172,7 +13111,7 @@
                              :languages ["en"],
                              :game/name "Kings & Creatures",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/BvNcYQ4QHD9V6fOt4qXSHw__thumb/img/h-y98A4pvxbAh9k6gYk9i8ntEnM=/fit-in/200x150/filters:strip_icc()/pic6399589.jpg"},
+                             "https://cf.geekdo-images.com/BvNcYQ4QHD9V6fOt4qXSHw__small/img/h-y98A4pvxbAh9k6gYk9i8ntEnM=/fit-in/200x150/filters:strip_icc()/pic6399589.jpg"},
                             #uuid "22977262-9335-3d50-9788-a5c24b3c3402"
                             {:game/id
                              #uuid "22977262-9335-3d50-9788-a5c24b3c3402",
@@ -13220,7 +13159,7 @@
                              :languages ["en"],
                              :game/name "Kingsburg",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/pHFQxD8va6vOrrNfazVzsg__thumb/img/C5cCKKfjEpm87frQIFOOYfzmIyc=/fit-in/200x150/filters:strip_icc()/pic253057.jpg"},
+                             "https://cf.geekdo-images.com/pHFQxD8va6vOrrNfazVzsg__small/img/C5cCKKfjEpm87frQIFOOYfzmIyc=/fit-in/200x150/filters:strip_icc()/pic253057.jpg"},
                             #uuid "ce26cd6d-057f-3f8e-b125-d0f30fec6420"
                             {:name "Kites",
                              :game/id
@@ -13263,7 +13202,7 @@
                              :languages ["cs"],
                              :game/name "Kneipenquiz: Das Original",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/JHT1AXUYkXmggbngHcTpow__thumb/img/T4uw_7rc6LG8d6M7QlZscKcBNjA=/fit-in/200x150/filters:strip_icc()/pic7372358.jpg"},
+                             "https://cf.geekdo-images.com/JHT1AXUYkXmggbngHcTpow__small/img/T4uw_7rc6LG8d6M7QlZscKcBNjA=/fit-in/200x150/filters:strip_icc()/pic7372358.jpg"},
                             #uuid "675c22e7-4cc8-3b5f-a672-d394da0a8b75"
                             {:game/id
                              #uuid "675c22e7-4cc8-3b5f-a672-d394da0a8b75",
@@ -13299,7 +13238,7 @@
                              :languages ["en"],
                              :game/name "Kobayakawa",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/bmkZSLcuR4G0tPYI9pob-g__thumb/img/1b07YbvcARssryCkp_NpMMkBknk=/fit-in/200x150/filters:strip_icc()/pic2299549.jpg"},
+                             "https://cf.geekdo-images.com/bmkZSLcuR4G0tPYI9pob-g__small/img/1b07YbvcARssryCkp_NpMMkBknk=/fit-in/200x150/filters:strip_icc()/pic2299549.jpg"},
                             #uuid "b934a68e-f1d0-3352-b170-afb9fa2103da"
                             {:game/id
                              #uuid "b934a68e-f1d0-3352-b170-afb9fa2103da",
@@ -13339,7 +13278,7 @@
                              :languages ["en"],
                              :game/name "Kodama: The Tree Spirits",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/c5plwwXh0T5S3spJqFwxNQ__thumb/img/a3HWHogUfMBWon0jjJkJ6G2gr90=/fit-in/200x150/filters:strip_icc()/pic3291451.jpg"},
+                             "https://cf.geekdo-images.com/c5plwwXh0T5S3spJqFwxNQ__small/img/a3HWHogUfMBWon0jjJkJ6G2gr90=/fit-in/200x150/filters:strip_icc()/pic3291451.jpg"},
                             #uuid "6c757a0c-4ae5-363d-84f8-46e0a6569976"
                             {:languages ["cs"],
                              :name "Kočka Karla",
@@ -13398,7 +13337,7 @@
                              :languages ["en"],
                              :game/name "Kyoto",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/EV0aCdKNVGXSv6v5OMUoaQ__thumb/img/vjKXdxvLxu8tdQCen9kmiVww8wY=/fit-in/200x150/filters:strip_icc()/pic5617488.jpg"},
+                             "https://cf.geekdo-images.com/EV0aCdKNVGXSv6v5OMUoaQ__small/img/vjKXdxvLxu8tdQCen9kmiVww8wY=/fit-in/200x150/filters:strip_icc()/pic5617488.jpg"},
                             #uuid "90f166e5-27c4-3684-8865-0a7d63773ce7"
                             {:game/id
                              #uuid "90f166e5-27c4-3684-8865-0a7d63773ce7",
@@ -13426,7 +13365,7 @@
                              :languages ["en"],
                              :game/name "LCR",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/8rxCRziKeKX4CA6ZfgjuSA__thumb/img/3_c-sKzzNz057gZVPTdPjo2Lpo0=/fit-in/200x150/filters:strip_icc()/pic2371259.jpg"},
+                             "https://cf.geekdo-images.com/8rxCRziKeKX4CA6ZfgjuSA__small/img/3_c-sKzzNz057gZVPTdPjo2Lpo0=/fit-in/200x150/filters:strip_icc()/pic2371259.jpg"},
                             #uuid "aecc77c6-bfad-3a88-b455-19b8d2c86bc8"
                             {:game/id
                              #uuid "aecc77c6-bfad-3a88-b455-19b8d2c86bc8",
@@ -13482,7 +13421,7 @@
                              :languages ["en"],
                              :game/name "Labyrinth",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/qpL225YNN5iKRPotB7Q7MA__thumb/img/JZR5MVC8xYrboBrYMsZmWtjJTu0=/fit-in/200x150/filters:strip_icc()/pic6173371.jpg"},
+                             "https://cf.geekdo-images.com/qpL225YNN5iKRPotB7Q7MA__small/img/JZR5MVC8xYrboBrYMsZmWtjJTu0=/fit-in/200x150/filters:strip_icc()/pic6173371.jpg"},
                             #uuid "5f955ad8-59ca-3215-9cab-4fa839d2a033"
                             {:game/id
                              #uuid "5f955ad8-59ca-3215-9cab-4fa839d2a033",
@@ -13518,7 +13457,7 @@
                              :languages ["cs"],
                              :game/name "Lady Alice",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/6FMrU00_0KHRoVw1hA8eog__thumb/img/LJTPIpdTnlqOO8jH2GGMFBi9Upg=/fit-in/200x150/filters:strip_icc()/pic1431498.jpg"},
+                             "https://cf.geekdo-images.com/6FMrU00_0KHRoVw1hA8eog__small/img/LJTPIpdTnlqOO8jH2GGMFBi9Upg=/fit-in/200x150/filters:strip_icc()/pic1431498.jpg"},
                             #uuid "c8421b97-0ee5-3772-8e2e-469e6ae25545"
                             {:game/id
                              #uuid "c8421b97-0ee5-3772-8e2e-469e6ae25545",
@@ -13553,7 +13492,7 @@
                              :com.boardgamegeek.boardgame/id "421374",
                              :game/name "Landmarks",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/lWsfPuN_lBnHs6gGgP-qtA__thumb/img/8-wv3nol4TgxC4QDxrz7fXy2AL0=/fit-in/200x150/filters:strip_icc()/pic8268411.png"},
+                             "https://cf.geekdo-images.com/lWsfPuN_lBnHs6gGgP-qtA__small/img/8-wv3nol4TgxC4QDxrz7fXy2AL0=/fit-in/200x150/filters:strip_icc()/pic8268411.png"},
                             #uuid "3e3e7faa-2c67-343b-8e35-baf91243da11"
                             {:game/id
                              #uuid "3e3e7faa-2c67-343b-8e35-baf91243da11",
@@ -13620,7 +13559,7 @@
                              :com.boardgamegeek.boardgame/id "192927",
                              :game/name "Last Friday",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/_qJ5n-V3ByCDZTu0XEvLvg__thumb/img/2C-kguI_1OvdOcBh49hpSeT-9yk=/fit-in/200x150/filters:strip_icc()/pic6234210.jpg"},
+                             "https://cf.geekdo-images.com/_qJ5n-V3ByCDZTu0XEvLvg__small/img/2C-kguI_1OvdOcBh49hpSeT-9yk=/fit-in/200x150/filters:strip_icc()/pic6234210.jpg"},
                             #uuid "6f05591c-c7b4-32dd-817d-c41c0d9254d0"
                             {:game/id
                              #uuid "6f05591c-c7b4-32dd-817d-c41c0d9254d0",
@@ -13684,7 +13623,7 @@
                              :languages ["cs"],
                              :game/name "Le Havre",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/y7Rqd3S6J7vyVhicR1bqTQ__thumb/img/w1iHoYZCVTDZI6gsPuxOScA7FqU=/fit-in/200x150/filters:strip_icc()/pic6091101.jpg"},
+                             "https://cf.geekdo-images.com/y7Rqd3S6J7vyVhicR1bqTQ__small/img/w1iHoYZCVTDZI6gsPuxOScA7FqU=/fit-in/200x150/filters:strip_icc()/pic6091101.jpg"},
                             #uuid "3da5cc5f-9fb3-3782-9160-2f93b5c6df0f"
                             {:game/id
                              #uuid "3da5cc5f-9fb3-3782-9160-2f93b5c6df0f",
@@ -13769,7 +13708,7 @@
                              :game/name
                              "Legendary Encounters: An Alien Deck Building Game",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/jSz_KRUxsjGYitoqx9YH1Q__thumb/img/AT5BHzGvyKq2w84Cw97JX3tDy-I=/fit-in/200x150/filters:strip_icc()/pic2225180.jpg"},
+                             "https://cf.geekdo-images.com/jSz_KRUxsjGYitoqx9YH1Q__small/img/AT5BHzGvyKq2w84Cw97JX3tDy-I=/fit-in/200x150/filters:strip_icc()/pic2225180.jpg"},
                             #uuid "8e71006d-00ad-3c79-963c-92863e451c60"
                             {:game/id
                              #uuid "8e71006d-00ad-3c79-963c-92863e451c60",
@@ -13833,7 +13772,7 @@
                              :languages ["cs"],
                              :game/name "Legends of Andor",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/IO8_BYKeofnWy8DIjo2RRg__thumb/img/pMbV-KGyO3D9U6hnBzNRfylZvto=/fit-in/200x150/filters:strip_icc()/pic2606106.jpg"},
+                             "https://cf.geekdo-images.com/IO8_BYKeofnWy8DIjo2RRg__small/img/pMbV-KGyO3D9U6hnBzNRfylZvto=/fit-in/200x150/filters:strip_icc()/pic2606106.jpg"},
                             #uuid "5a156002-5793-338e-9399-def9bfd7eca6"
                             {:game/id
                              #uuid "5a156002-5793-338e-9399-def9bfd7eca6",
@@ -13877,7 +13816,7 @@
                              :languages ["en"],
                              :game/name "Ligretto",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/BQ6UyXXeivndO4F9Hu8CHw__thumb/img/2dXMh9HI7oiLw7ZGeLcrwfXLtjI=/fit-in/200x150/filters:strip_icc()/pic1306961.jpg"},
+                             "https://cf.geekdo-images.com/BQ6UyXXeivndO4F9Hu8CHw__small/img/2dXMh9HI7oiLw7ZGeLcrwfXLtjI=/fit-in/200x150/filters:strip_icc()/pic1306961.jpg"},
                             #uuid "39af5c41-5927-3dde-8a75-10397211dcda"
                             {:game/id
                              #uuid "39af5c41-5927-3dde-8a75-10397211dcda",
@@ -13904,7 +13843,7 @@
                              :languages ["en"],
                              :game/name "Loch Ness",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/QBNlbKe3qHyejD32Ov5tGA__thumb/img/EcZ2s6JD0pYT0z7xgK3XRzRDX8M=/fit-in/200x150/filters:strip_icc()/pic839057.jpg"},
+                             "https://cf.geekdo-images.com/QBNlbKe3qHyejD32Ov5tGA__small/img/EcZ2s6JD0pYT0z7xgK3XRzRDX8M=/fit-in/200x150/filters:strip_icc()/pic839057.jpg"},
                             #uuid "59ead8d1-e124-3cfb-b9f3-ace06f43e703"
                             {:game/id
                              #uuid "59ead8d1-e124-3cfb-b9f3-ace06f43e703",
@@ -13940,7 +13879,7 @@
                              :languages ["en"],
                              :game/name "London",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Wb9zwcnPNX-wSNvVcWYNjQ__thumb/img/XOY71ukn7QV-nwLSV3EmhuO46bM=/fit-in/200x150/filters:strip_icc()/pic770317.jpg"},
+                             "https://cf.geekdo-images.com/Wb9zwcnPNX-wSNvVcWYNjQ__small/img/XOY71ukn7QV-nwLSV3EmhuO46bM=/fit-in/200x150/filters:strip_icc()/pic770317.jpg"},
                             #uuid "8f555ef1-9f9f-3862-bcf8-1c2e72e8ea97"
                             {:game/id
                              #uuid "8f555ef1-9f9f-3862-bcf8-1c2e72e8ea97",
@@ -13996,7 +13935,7 @@
                              :languages ["en"],
                              :game/name "Lost Cities",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/AL5D-dXabY-Lk3PqIFk_0g__thumb/img/Q-76aN92M3OveMp26t7b0i7V-i4=/fit-in/200x150/filters:strip_icc()/pic4597095.jpg"},
+                             "https://cf.geekdo-images.com/AL5D-dXabY-Lk3PqIFk_0g__small/img/Q-76aN92M3OveMp26t7b0i7V-i4=/fit-in/200x150/filters:strip_icc()/pic4597095.jpg"},
                             #uuid "88465ed6-c98e-3695-9106-84b5a779bebc"
                             {:game/id
                              #uuid "88465ed6-c98e-3695-9106-84b5a779bebc",
@@ -14036,7 +13975,7 @@
                              :languages ["en"],
                              :game/name "Lost Cities: Rivals",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/4NaIBUKkBY1KDfPdvYPULw__thumb/img/s2k73xkhHOetaFbtyGRhOHv82OU=/fit-in/200x150/filters:strip_icc()/pic4137630.jpg"},
+                             "https://cf.geekdo-images.com/4NaIBUKkBY1KDfPdvYPULw__small/img/s2k73xkhHOetaFbtyGRhOHv82OU=/fit-in/200x150/filters:strip_icc()/pic4137630.jpg"},
                             #uuid "28eb0c35-a26a-3850-b71e-053581f6d64a"
                             {:game/id
                              #uuid "28eb0c35-a26a-3850-b71e-053581f6d64a",
@@ -14100,7 +14039,7 @@
                                                                 2082,
                                                                 :name
                                                                 "Worker Placement"}),
-                             :name "Lucktails",
+                             :name "Lost Ruins of Arnak",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1022,
@@ -14128,7 +14067,7 @@
                              :languages ["en"],
                              :game/name "Lost Ruins of Arnak",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__thumb/img/J8SVmGOJXZGxNjkT3xYNQU7Haxg=/fit-in/200x150/filters:strip_icc()/pic5674958.jpg"},
+                             "https://cf.geekdo-images.com/6GqH14TJJhza86BX5HCLEQ__small/img/J8SVmGOJXZGxNjkT3xYNQU7Haxg=/fit-in/200x150/filters:strip_icc()/pic5674958.jpg"},
                             #uuid "0b5d8490-cda6-3f85-ac58-70ed3aefe115"
                             {:game/id
                              #uuid "0b5d8490-cda6-3f85-ac58-70ed3aefe115",
@@ -14180,7 +14119,7 @@
                              :languages ["en"],
                              :game/name "Love Letter",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/T1ltXwapFUtghS9A7_tf4g__thumb/img/GtNX7gCmGpw39Tr6JApWC3Aga5U=/fit-in/200x150/filters:strip_icc()/pic1401448.jpg"},
+                             "https://cf.geekdo-images.com/T1ltXwapFUtghS9A7_tf4g__small/img/GtNX7gCmGpw39Tr6JApWC3Aga5U=/fit-in/200x150/filters:strip_icc()/pic1401448.jpg"},
                             #uuid "5e26dbae-a7e1-30b8-980e-fb1487fab4a0"
                             {:game/id
                              #uuid "5e26dbae-a7e1-30b8-980e-fb1487fab4a0",
@@ -14223,7 +14162,7 @@
                              :com.boardgamegeek.boardgame/id "394886",
                              :game/name "Lunar Laser Frogs",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Ocr14I45P7FttC1PAHuTtw__thumb/img/Uhs7azWF1sqHGwDHgtsKnnPuNDI=/fit-in/200x150/filters:strip_icc()/pic7618278.jpg"},
+                             "https://cf.geekdo-images.com/Ocr14I45P7FttC1PAHuTtw__small/img/Uhs7azWF1sqHGwDHgtsKnnPuNDI=/fit-in/200x150/filters:strip_icc()/pic7618278.jpg"},
                             #uuid "a6480b1c-62dd-3ceb-9f94-fb57c823691e"
                             {:game/id
                              #uuid "a6480b1c-62dd-3ceb-9f94-fb57c823691e",
@@ -14275,7 +14214,7 @@
                              :languages ["en"],
                              :game/name "Lux Aeterna",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/i99laJmQGeZVkKdznB2Ssw__thumb/img/Z24OVjsP3zP12wKHTvuBgfAklNM=/fit-in/200x150/filters:strip_icc()/pic6314128.jpg"},
+                             "https://cf.geekdo-images.com/i99laJmQGeZVkKdznB2Ssw__small/img/Z24OVjsP3zP12wKHTvuBgfAklNM=/fit-in/200x150/filters:strip_icc()/pic6314128.jpg"},
                             #uuid "a274b318-b1a3-30da-bca0-febc8d4f1208"
                             {:game/id
                              #uuid "a274b318-b1a3-30da-bca0-febc8d4f1208",
@@ -14322,7 +14261,7 @@
                              :com.boardgamegeek.boardgame/id "387378",
                              :game/name "MLEM: Space Agency",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/CQ9o1kqExmBpHcPMVk0qwQ__thumb/img/5HC7459wxxyXhy4Rtey5h_ZkahI=/fit-in/200x150/filters:strip_icc()/pic7926071.jpg"},
+                             "https://cf.geekdo-images.com/CQ9o1kqExmBpHcPMVk0qwQ__small/img/5HC7459wxxyXhy4Rtey5h_ZkahI=/fit-in/200x150/filters:strip_icc()/pic7926071.jpg"},
                             #uuid "d8ac8dc4-6760-3f12-96c2-e3420b291781"
                             {:game/id
                              #uuid "d8ac8dc4-6760-3f12-96c2-e3420b291781",
@@ -14366,7 +14305,7 @@
                              :languages ["en"],
                              :game/name "Machi Koro",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/_lI2eUDHfesfe5SswJiFAg__thumb/img/tCTP0XMMmsAfNqzb0iYmp0b-YUc=/fit-in/200x150/filters:strip_icc()/pic4783831.png"},
+                             "https://cf.geekdo-images.com/_lI2eUDHfesfe5SswJiFAg__small/img/tCTP0XMMmsAfNqzb0iYmp0b-YUc=/fit-in/200x150/filters:strip_icc()/pic4783831.png"},
                             #uuid "227fed4b-25cc-316a-b15e-6c9a064702db"
                             {:game/id
                              #uuid "227fed4b-25cc-316a-b15e-6c9a064702db",
@@ -14422,7 +14361,7 @@
                              :languages ["en"],
                              :game/name "Mafia de Cuba",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/nvdogXld5bIr8uXIq2M-uA__thumb/img/j82wTfCvi4Cjq3Pa3aJDLS1nuRw=/fit-in/200x150/filters:strip_icc()/pic2519675.jpg"},
+                             "https://cf.geekdo-images.com/nvdogXld5bIr8uXIq2M-uA__small/img/j82wTfCvi4Cjq3Pa3aJDLS1nuRw=/fit-in/200x150/filters:strip_icc()/pic2519675.jpg"},
                             #uuid "1ceaeab6-397f-308a-b02e-6652106f2fbd"
                             {:game/id
                              #uuid "1ceaeab6-397f-308a-b02e-6652106f2fbd",
@@ -14462,7 +14401,7 @@
                              :languages ["en"],
                              :game/name "Majority Rules",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/9QTDZ4Pa0REE-LzOx15Rzg__thumb/img/bWuGQ6E5pkmWI29FBZZbVeQa6bE=/fit-in/200x150/filters:strip_icc()/pic1758744.png"},
+                             "https://cf.geekdo-images.com/9QTDZ4Pa0REE-LzOx15Rzg__small/img/bWuGQ6E5pkmWI29FBZZbVeQa6bE=/fit-in/200x150/filters:strip_icc()/pic1758744.png"},
                             #uuid "d329373e-c6d7-31fd-bede-9a10daa7d237"
                             {:game/id
                              #uuid "d329373e-c6d7-31fd-bede-9a10daa7d237",
@@ -14490,7 +14429,7 @@
                              :languages ["en"],
                              :game/name "Mana Mana",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/8JFkIml-pRqm-Rm0w0zw9Q__thumb/img/9qxylSJj7sNjlFjAlCHdVzUkRoU=/fit-in/200x150/filters:strip_icc()/pic7056881.jpg"},
+                             "https://cf.geekdo-images.com/8JFkIml-pRqm-Rm0w0zw9Q__small/img/9qxylSJj7sNjlFjAlCHdVzUkRoU=/fit-in/200x150/filters:strip_icc()/pic7056881.jpg"},
                             #uuid "7e669d27-7faf-3da4-8f29-a5f580ef939f"
                             {:game/id
                              #uuid "7e669d27-7faf-3da4-8f29-a5f580ef939f",
@@ -14534,7 +14473,7 @@
                              :languages ["cs"],
                              :game/name "Mandala",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/FZUJ_Ieaw83mpz1eL-dY_g__thumb/img/o8B080rjfGtNloX7wMa_IRthuXo=/fit-in/200x150/filters:strip_icc()/pic5056121.jpg"},
+                             "https://cf.geekdo-images.com/FZUJ_Ieaw83mpz1eL-dY_g__small/img/o8B080rjfGtNloX7wMa_IRthuXo=/fit-in/200x150/filters:strip_icc()/pic5056121.jpg"},
                             #uuid "3980f7ea-079b-3741-a713-8494f6bcbb9a"
                             {:game/id
                              #uuid "3980f7ea-079b-3741-a713-8494f6bcbb9a",
@@ -14634,7 +14573,7 @@
                              :languages ["en"],
                              :game/name "Maracaibo",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/rMNa0k05zMdKgSEp26Q3Tw__thumb/img/lVlnhYyxlZb3WuKZJHLoJcFHEjs=/fit-in/200x150/filters:strip_icc()/pic4917407.jpg"},
+                             "https://cf.geekdo-images.com/rMNa0k05zMdKgSEp26Q3Tw__small/img/lVlnhYyxlZb3WuKZJHLoJcFHEjs=/fit-in/200x150/filters:strip_icc()/pic4917407.jpg"},
                             #uuid "3384a03c-665a-3116-a474-cf5d4406c85a"
                             {:game/id
                              #uuid "3384a03c-665a-3116-a474-cf5d4406c85a",
@@ -14690,7 +14629,7 @@
                              :languages ["cs"],
                              :game/name "Marco Polo",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/kphUeoUqMXHrVGbSgFEk0w__thumb/img/e8-7eDIBCZysiUW607XANuXfY6E=/fit-in/200x150/filters:strip_icc()/pic20540.jpg"},
+                             "https://cf.geekdo-images.com/kphUeoUqMXHrVGbSgFEk0w__small/img/e8-7eDIBCZysiUW607XANuXfY6E=/fit-in/200x150/filters:strip_icc()/pic20540.jpg"},
                             #uuid "b90c1573-28dd-3818-a02a-5a66ae9b080a"
                             {:game/id
                              #uuid "b90c1573-28dd-3818-a02a-5a66ae9b080a",
@@ -14738,7 +14677,7 @@
                              :languages ["en"],
                              :game/name "Mascarade",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/OS3ckk3rZbwFi8en1rjiGQ__thumb/img/p4r9ENijnNYPOB9L_i4ZkPCCACg=/fit-in/200x150/filters:strip_icc()/pic1762410.jpg"},
+                             "https://cf.geekdo-images.com/OS3ckk3rZbwFi8en1rjiGQ__small/img/p4r9ENijnNYPOB9L_i4ZkPCCACg=/fit-in/200x150/filters:strip_icc()/pic1762410.jpg"},
                             #uuid "8f095fa5-610f-38ba-ab4b-a021d62ad3f2"
                             {:game/id
                              #uuid "8f095fa5-610f-38ba-ab4b-a021d62ad3f2",
@@ -14765,7 +14704,7 @@
                              :com.boardgamegeek.boardgame/id "31822",
                              :game/name "Master of Rules",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/d2JlLf-7UvNqFy_Md6oOSQ__thumb/img/l_SCr495aov0317h3FRdytbJH5I=/fit-in/200x150/filters:strip_icc()/pic7658023.png"},
+                             "https://cf.geekdo-images.com/d2JlLf-7UvNqFy_Md6oOSQ__small/img/l_SCr495aov0317h3FRdytbJH5I=/fit-in/200x150/filters:strip_icc()/pic7658023.png"},
                             #uuid "bf872173-47bf-3140-9c89-3a8fe3e8fdea"
                             {:game/id
                              #uuid "bf872173-47bf-3140-9c89-3a8fe3e8fdea",
@@ -14801,7 +14740,7 @@
                              :languages ["en"],
                              :game/name "Meeples & Monsters",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/m-JzEO_MQb7TQsV7XS1igA__thumb/img/4I6OY6LBLyCofh9uAGR9CIXQ0-o=/fit-in/200x150/filters:strip_icc()/pic5977790.png"},
+                             "https://cf.geekdo-images.com/m-JzEO_MQb7TQsV7XS1igA__small/img/4I6OY6LBLyCofh9uAGR9CIXQ0-o=/fit-in/200x150/filters:strip_icc()/pic5977790.png"},
                             #uuid "6060d975-55ab-3687-a5b2-5ff67a9dea5f"
                             {:game/id
                              #uuid "6060d975-55ab-3687-a5b2-5ff67a9dea5f",
@@ -14853,7 +14792,7 @@
                              :languages ["cs"],
                              :game/name "Memoarrr!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/yyMIexhj5GczPnnqYfHHnQ__thumb/img/r1ZltjtQ2SQ-nAN6TqohfFA6uaA=/fit-in/200x150/filters:strip_icc()/pic4007207.jpg"},
+                             "https://cf.geekdo-images.com/yyMIexhj5GczPnnqYfHHnQ__small/img/r1ZltjtQ2SQ-nAN6TqohfFA6uaA=/fit-in/200x150/filters:strip_icc()/pic4007207.jpg"},
                             #uuid "f71437b5-32e2-305f-8f2b-6f4f6b539eb1"
                             {:game/id
                              #uuid "f71437b5-32e2-305f-8f2b-6f4f6b539eb1",
@@ -14888,7 +14827,7 @@
                              :com.boardgamegeek.boardgame/id "414685",
                              :game/name "Mesos",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/WxsVuNlSI3fpXsdMfXn7Cw__thumb/img/rcwQVOaonYUkJCc98D7ddvJSN4g=/fit-in/200x150/filters:strip_icc()/pic8034813.png"},
+                             "https://cf.geekdo-images.com/WxsVuNlSI3fpXsdMfXn7Cw__small/img/rcwQVOaonYUkJCc98D7ddvJSN4g=/fit-in/200x150/filters:strip_icc()/pic8034813.png"},
                             #uuid "4f58ae3c-af6d-3621-9cbe-fa3962eab6a0"
                             {:game/id
                              #uuid "4f58ae3c-af6d-3621-9cbe-fa3962eab6a0",
@@ -14951,7 +14890,7 @@
                              :com.boardgamegeek.boardgame/id "238799",
                              :game/name "Messina 1347",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Pw9TGohEb7PITFJnuq48bQ__thumb/img/bWVi55qMYTv6VrQNHFllltHLlZI=/fit-in/200x150/filters:strip_icc()/pic6397342.jpg"},
+                             "https://cf.geekdo-images.com/Pw9TGohEb7PITFJnuq48bQ__small/img/bWVi55qMYTv6VrQNHFllltHLlZI=/fit-in/200x150/filters:strip_icc()/pic6397342.jpg"},
                             #uuid "79413bfc-7937-3c16-be95-e34d45589ec4"
                             {:game/id
                              #uuid "79413bfc-7937-3c16-be95-e34d45589ec4",
@@ -14995,7 +14934,7 @@
                              :languages ["cs"],
                              :game/name "MicroMacro: Crime City",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/bLL3P-G25nIUkFjHxfJfnw__thumb/img/XY_Z5rRJe3IPLRfOvWp70OM2B68=/fit-in/200x150/filters:strip_icc()/pic7632081.jpg"},
+                             "https://cf.geekdo-images.com/bLL3P-G25nIUkFjHxfJfnw__small/img/XY_Z5rRJe3IPLRfOvWp70OM2B68=/fit-in/200x150/filters:strip_icc()/pic7632081.jpg"},
                             #uuid "58fb7a8c-d0f1-36b0-b1f5-b7091fbb0ba0"
                             {:game/id
                              #uuid "58fb7a8c-d0f1-36b0-b1f5-b7091fbb0ba0",
@@ -15035,7 +14974,7 @@
                              :languages ["en"],
                              :game/name "Mille Bornes",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/kzLZY_DHTh-hBcqXP34a5w__thumb/img/82b4hCqE8tTLkwexnLrp3ubGU_c=/fit-in/200x150/filters:strip_icc()/pic4330533.jpg"},
+                             "https://cf.geekdo-images.com/kzLZY_DHTh-hBcqXP34a5w__small/img/82b4hCqE8tTLkwexnLrp3ubGU_c=/fit-in/200x150/filters:strip_icc()/pic4330533.jpg"},
                             #uuid "7d8df760-46c7-3096-ae39-bd714fbdad9c"
                             {:game/id
                              #uuid "7d8df760-46c7-3096-ae39-bd714fbdad9c",
@@ -15075,7 +15014,7 @@
                              :languages ["en"],
                              :game/name "Mimic Octopus",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/rL4IFL4uG_khNkTSz8hRWg__thumb/img/j6_P4e7IFZM4L80hi2n19LGhv7E=/fit-in/200x150/filters:strip_icc()/pic7093888.jpg"},
+                             "https://cf.geekdo-images.com/rL4IFL4uG_khNkTSz8hRWg__small/img/j6_P4e7IFZM4L80hi2n19LGhv7E=/fit-in/200x150/filters:strip_icc()/pic7093888.jpg"},
                             #uuid "314a8106-847d-3cbb-babe-a36b8ee15564"
                             {:game/id
                              #uuid "314a8106-847d-3cbb-babe-a36b8ee15564",
@@ -15110,7 +15049,7 @@
                              :com.boardgamegeek.boardgame/id "377515",
                              :game/name "Mind Up!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/xOMxRrAtu_7WR2FRu1oDSw__thumb/img/Ur1t0hDFFzGsNkoFzU3wDwUCL6Q=/fit-in/200x150/filters:strip_icc()/pic7333215.png"},
+                             "https://cf.geekdo-images.com/xOMxRrAtu_7WR2FRu1oDSw__small/img/Ur1t0hDFFzGsNkoFzU3wDwUCL6Q=/fit-in/200x150/filters:strip_icc()/pic7333215.png"},
                             #uuid "5e04b28e-010d-366b-af9d-020474ee6392"
                             {:game/id
                              #uuid "5e04b28e-010d-366b-af9d-020474ee6392",
@@ -15167,7 +15106,7 @@
                              :game/name
                              "Mobile Markets: A Smartphone Inc. Game",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/DI1qfsJsPJr2-Nlgii1wUg__thumb/img/AVH0SsLjwcDfetVsHdbY5i0q9OM=/fit-in/200x150/filters:strip_icc()/pic7338111.png"},
+                             "https://cf.geekdo-images.com/DI1qfsJsPJr2-Nlgii1wUg__small/img/AVH0SsLjwcDfetVsHdbY5i0q9OM=/fit-in/200x150/filters:strip_icc()/pic7338111.png"},
                             #uuid "e033fcee-316e-32c8-8bcb-582dec0dfc46"
                             {:languages ["cs"],
                              :name "Monopoly Česko",
@@ -15210,7 +15149,7 @@
                              :languages ["en"],
                              :game/name "Monopoly: Ultimate Banking",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/YAIPaJjEM8NT8HopMKk94Q__thumb/img/lkl4YVZUzjikQf_1-mI2megwd8A=/fit-in/200x150/filters:strip_icc()/pic7922291.jpg"},
+                             "https://cf.geekdo-images.com/YAIPaJjEM8NT8HopMKk94Q__small/img/lkl4YVZUzjikQf_1-mI2megwd8A=/fit-in/200x150/filters:strip_icc()/pic7922291.jpg"},
                             #uuid "2723e9aa-7872-3b1f-8fe0-ebf40fa04e2c"
                             {:game/id
                              #uuid "2723e9aa-7872-3b1f-8fe0-ebf40fa04e2c",
@@ -15246,7 +15185,7 @@
                              :languages ["en"],
                              :game/name "Monster Busters",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/v1hav41tt6Hny0NMKNodMw__thumb/img/y2ib6poainNg6d2tZNQyuRA2VX8=/fit-in/200x150/filters:strip_icc()/pic5670610.png"},
+                             "https://cf.geekdo-images.com/v1hav41tt6Hny0NMKNodMw__small/img/y2ib6poainNg6d2tZNQyuRA2VX8=/fit-in/200x150/filters:strip_icc()/pic5670610.png"},
                             #uuid "1fdd0d64-7a70-3a2d-93b1-bbf278454b32"
                             {:game/id
                              #uuid "1fdd0d64-7a70-3a2d-93b1-bbf278454b32",
@@ -15294,7 +15233,7 @@
                              :languages ["en"],
                              :game/name "Moral Dilemma",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Mooqmdf2jP38oavcfZ5RDg__thumb/img/AZfnJTdnFGCWh78YAUZdE_decKc=/fit-in/200x150/filters:strip_icc()/pic3262426.jpg"},
+                             "https://cf.geekdo-images.com/Mooqmdf2jP38oavcfZ5RDg__small/img/AZfnJTdnFGCWh78YAUZdE_decKc=/fit-in/200x150/filters:strip_icc()/pic3262426.jpg"},
                             #uuid "b755730e-e213-3b2e-8031-c6800e3e5a06"
                             {:game/id
                              #uuid "b755730e-e213-3b2e-8031-c6800e3e5a06",
@@ -15334,7 +15273,7 @@
                              :languages ["en"],
                              :game/name "Morels",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/79RzPdM2pxmtmNV-bdU7LQ__thumb/img/5zP3tbw8snCQYnvF5iB9ZteVlgQ=/fit-in/200x150/filters:strip_icc()/pic1284667.jpg"},
+                             "https://cf.geekdo-images.com/79RzPdM2pxmtmNV-bdU7LQ__small/img/5zP3tbw8snCQYnvF5iB9ZteVlgQ=/fit-in/200x150/filters:strip_icc()/pic1284667.jpg"},
                             #uuid "2472ff38-3e0f-32ea-88c4-ad04315d5d62"
                             {:game/id
                              #uuid "2472ff38-3e0f-32ea-88c4-ad04315d5d62",
@@ -15382,7 +15321,7 @@
                              :languages ["en"],
                              :game/name "Mortum: Medieval Detective",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/DvQw-QWHzWJCQw_sy4tJnw__thumb/img/WCKH-LumxRCU2kWY2rMwytcP4P8=/fit-in/200x150/filters:strip_icc()/pic6915599.jpg"},
+                             "https://cf.geekdo-images.com/DvQw-QWHzWJCQw_sy4tJnw__small/img/WCKH-LumxRCU2kWY2rMwytcP4P8=/fit-in/200x150/filters:strip_icc()/pic6915599.jpg"},
                             #uuid "e9261875-2cfa-39a4-84b7-17f7bf97c22a"
                             {:game/id
                              #uuid "e9261875-2cfa-39a4-84b7-17f7bf97c22a",
@@ -15441,7 +15380,7 @@
                              :com.boardgamegeek.boardgame/id "63975",
                              :game/name "Mountain Goats",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/p4DD5TGFNFQy_ayFtT-x_A__thumb/img/NuH7OkL_qhJtS1QORYrHVE1dCl8=/fit-in/200x150/filters:strip_icc()/pic5313595.jpg"},
+                             "https://cf.geekdo-images.com/p4DD5TGFNFQy_ayFtT-x_A__small/img/NuH7OkL_qhJtS1QORYrHVE1dCl8=/fit-in/200x150/filters:strip_icc()/pic5313595.jpg"},
                             #uuid "51c249b0-90c8-3a66-8732-f796a82e5382"
                             {:game/id
                              #uuid "51c249b0-90c8-3a66-8732-f796a82e5382",
@@ -15489,7 +15428,7 @@
                              :languages ["en"],
                              :game/name "Mr. Jack Pocket",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/nd44m6n6ykDCsHVt4wcEcQ__thumb/img/wpEJcfEdHyXDW1Kh3xbevgW2JuA=/fit-in/200x150/filters:strip_icc()/pic1519530.jpg"},
+                             "https://cf.geekdo-images.com/nd44m6n6ykDCsHVt4wcEcQ__small/img/wpEJcfEdHyXDW1Kh3xbevgW2JuA=/fit-in/200x150/filters:strip_icc()/pic1519530.jpg"},
                             #uuid "6e8ce4f2-3cc4-37b8-9002-721e44843aaf"
                             {:game/id
                              #uuid "6e8ce4f2-3cc4-37b8-9002-721e44843aaf",
@@ -15541,7 +15480,7 @@
                              :languages ["cs" "en"],
                              :game/name "Munchkin",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/J-ts3MW0UhDzs621TR6cog__thumb/img/8hVkpMC5pDLr6ARI_4gI4N3aF5M=/fit-in/200x150/filters:strip_icc()/pic1871016.jpg"},
+                             "https://cf.geekdo-images.com/J-ts3MW0UhDzs621TR6cog__small/img/8hVkpMC5pDLr6ARI_4gI4N3aF5M=/fit-in/200x150/filters:strip_icc()/pic1871016.jpg"},
                             #uuid "aef4fda2-ed5b-3868-9fb4-a2b6bca2e8bb"
                             {:game/id
                              #uuid "aef4fda2-ed5b-3868-9fb4-a2b6bca2e8bb",
@@ -15581,7 +15520,7 @@
                              :languages ["cs"],
                              :game/name "My First Stone Age",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/H1aCQoaq0H9Qt91hOgc3Sw__thumb/img/hQK2kYzXnB12Yt7h5kaVljDWDqE=/fit-in/200x150/filters:strip_icc()/pic9005688.jpg"},
+                             "https://cf.geekdo-images.com/H1aCQoaq0H9Qt91hOgc3Sw__small/img/hQK2kYzXnB12Yt7h5kaVljDWDqE=/fit-in/200x150/filters:strip_icc()/pic9005688.jpg"},
                             #uuid "baf9b7dd-749d-37d7-888f-c84d255e682f"
                             {:game/id
                              #uuid "baf9b7dd-749d-37d7-888f-c84d255e682f",
@@ -15673,7 +15612,7 @@
                              :languages ["en"],
                              :game/name "My Little Scythe",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/EhXCpSR6ambdYuKbrej3UQ__thumb/img/3znFvjc6uN6rossizk5I5eOr4Rk=/fit-in/200x150/filters:strip_icc()/pic4134810.jpg"},
+                             "https://cf.geekdo-images.com/EhXCpSR6ambdYuKbrej3UQ__small/img/3znFvjc6uN6rossizk5I5eOr4Rk=/fit-in/200x150/filters:strip_icc()/pic4134810.jpg"},
                             #uuid "6de2d947-5379-351e-8015-c1bc84a64883"
                             {:game/id
                              #uuid "6de2d947-5379-351e-8015-c1bc84a64883",
@@ -15709,7 +15648,7 @@
                              :languages ["en"],
                              :game/name "My Shelfie",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Sgg2B7kxtx8fFXz_2mPefA__thumb/img/LxzvxmsMMitAzuv2nP3m0ko2Cus=/fit-in/200x150/filters:strip_icc()/pic7193695.png"},
+                             "https://cf.geekdo-images.com/Sgg2B7kxtx8fFXz_2mPefA__small/img/LxzvxmsMMitAzuv2nP3m0ko2Cus=/fit-in/200x150/filters:strip_icc()/pic7193695.png"},
                             #uuid "2ca189f5-8500-3bf3-99b6-ec3203b0c227"
                             {:game/id
                              #uuid "2ca189f5-8500-3bf3-99b6-ec3203b0c227",
@@ -15781,7 +15720,7 @@
                              :languages ["cs"],
                              :game/name "Mysterium",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/1nQ3ZKudtDeAP7IiKE-kNg__thumb/img/sW38512N2r1ZuuPE2TUD2LNfoxM=/fit-in/200x150/filters:strip_icc()/pic8625343.jpg"},
+                             "https://cf.geekdo-images.com/1nQ3ZKudtDeAP7IiKE-kNg__small/img/sW38512N2r1ZuuPE2TUD2LNfoxM=/fit-in/200x150/filters:strip_icc()/pic8625343.jpg"},
                             #uuid "df4c4520-3102-33f1-9a51-ee304c193f23"
                             {:game/id
                              #uuid "df4c4520-3102-33f1-9a51-ee304c193f23",
@@ -15817,7 +15756,7 @@
                              :languages ["en"],
                              :game/name "Mystic ScROLLS",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/9cwjyRGj3SBDeJyO17p2Qw__thumb/img/IZBiEizOIxVgTnXkVbgaxg-wY1g=/fit-in/200x150/filters:strip_icc()/pic3174074.jpg"},
+                             "https://cf.geekdo-images.com/9cwjyRGj3SBDeJyO17p2Qw__small/img/IZBiEizOIxVgTnXkVbgaxg-wY1g=/fit-in/200x150/filters:strip_icc()/pic3174074.jpg"},
                             #uuid "2bc22d15-7e2b-3a2d-aaaa-46fe0f8945e2"
                             {:game/id
                              #uuid "2bc22d15-7e2b-3a2d-aaaa-46fe0f8945e2",
@@ -15877,7 +15816,7 @@
                              :languages ["en"],
                              :game/name "Mythotopia",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Pk-IBl84HBPZWZQgQWkCpQ__thumb/img/a3sfzRClZ7sfj4Jyq6SJ8TdCQto=/fit-in/200x150/filters:strip_icc()/pic2257592.jpg"},
+                             "https://cf.geekdo-images.com/Pk-IBl84HBPZWZQgQWkCpQ__small/img/a3sfzRClZ7sfj4Jyq6SJ8TdCQto=/fit-in/200x150/filters:strip_icc()/pic2257592.jpg"},
                             #uuid "37c8022e-5e8b-3c80-ad5e-52dc040d1bc2"
                             {:game/id
                              #uuid "37c8022e-5e8b-3c80-ad5e-52dc040d1bc2",
@@ -15924,7 +15863,7 @@
                              :com.boardgamegeek.boardgame/id "359029",
                              :game/name "Nekojima",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/_HROmDrsHuVpvHVyXpyl6Q__thumb/img/tUgGbmzOP27H2Vhjop_drDkS8m4=/fit-in/200x150/filters:strip_icc()/pic7344964.jpg"},
+                             "https://cf.geekdo-images.com/_HROmDrsHuVpvHVyXpyl6Q__small/img/tUgGbmzOP27H2Vhjop_drDkS8m4=/fit-in/200x150/filters:strip_icc()/pic7344964.jpg"},
                             #uuid "f6316a5a-98bb-321b-a89e-1738db93e093"
                             {:game/id
                              #uuid "f6316a5a-98bb-321b-a89e-1738db93e093",
@@ -15989,7 +15928,7 @@
                              :game/name
                              "New Corp Order: Deluxe Edition",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/GYEZ4MkI8elwHHKt9ifLSw__thumb/img/cZMQVaOR0o8lhJqVc1aSK-puaSk=/fit-in/200x150/filters:strip_icc()/pic7002302.jpg"},
+                             "https://cf.geekdo-images.com/GYEZ4MkI8elwHHKt9ifLSw__small/img/cZMQVaOR0o8lhJqVc1aSK-puaSk=/fit-in/200x150/filters:strip_icc()/pic7002302.jpg"},
                             #uuid "98617ea5-1475-3018-be44-d57a8a502995"
                             {:game/id
                              #uuid "98617ea5-1475-3018-be44-d57a8a502995",
@@ -16029,7 +15968,7 @@
                              :languages ["cs"],
                              :game/name "New York 1901",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/HTdnmBGtjaS2hgn9IEta9g__thumb/img/wSOIMKcHyhSA7sU4p9xY2xyj7kA=/fit-in/200x150/filters:strip_icc()/pic2515532.jpg"},
+                             "https://cf.geekdo-images.com/HTdnmBGtjaS2hgn9IEta9g__small/img/wSOIMKcHyhSA7sU4p9xY2xyj7kA=/fit-in/200x150/filters:strip_icc()/pic2515532.jpg"},
                             #uuid "dcd9522b-375c-3622-ac79-412f7a5c6e2f"
                             {:game/id
                              #uuid "dcd9522b-375c-3622-ac79-412f7a5c6e2f",
@@ -16065,7 +16004,7 @@
                              :languages ["en"],
                              :game/name "Nimble",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/w_tK3h5yUlh4Y5S-8nl12A__thumb/img/q9eU7HqylPYpROSTiSG_T6xDKWU=/fit-in/200x150/filters:strip_icc()/pic3953012.jpg"},
+                             "https://cf.geekdo-images.com/w_tK3h5yUlh4Y5S-8nl12A__small/img/q9eU7HqylPYpROSTiSG_T6xDKWU=/fit-in/200x150/filters:strip_icc()/pic3953012.jpg"},
                             #uuid "ccb76e02-75c8-3c47-b15c-965e56313bd2"
                             {:game/id
                              #uuid "ccb76e02-75c8-3c47-b15c-965e56313bd2",
@@ -16113,7 +16052,7 @@
                              :languages ["en"],
                              :game/name "Ninja Camp",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/WY9bVLs3yMRdABkhxodj6Q__thumb/img/x8eJxIkOsr_myHnrgGNcL1jbcQs=/fit-in/200x150/filters:strip_icc()/pic2587576.jpg"},
+                             "https://cf.geekdo-images.com/WY9bVLs3yMRdABkhxodj6Q__small/img/x8eJxIkOsr_myHnrgGNcL1jbcQs=/fit-in/200x150/filters:strip_icc()/pic2587576.jpg"},
                             #uuid "c0eef12a-9d87-3d5b-a03c-f46a23b023e3"
                             {:game/id
                              #uuid "c0eef12a-9d87-3d5b-a03c-f46a23b023e3",
@@ -16152,7 +16091,7 @@
                              :com.boardgamegeek.boardgame/id "425254",
                              :game/name "Ninjan",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/9VTqv8o9073LA9sNgr_nnQ__thumb/img/9YJoMpgToovJVfGWJJlGzJdumxo=/fit-in/200x150/filters:strip_icc()/pic8403226.jpg"},
+                             "https://cf.geekdo-images.com/9VTqv8o9073LA9sNgr_nnQ__small/img/9YJoMpgToovJVfGWJJlGzJdumxo=/fit-in/200x150/filters:strip_icc()/pic8403226.jpg"},
                             #uuid "6ba70c4c-e877-35fa-9dbf-89638184fbfa"
                             {:game/id
                              #uuid "6ba70c4c-e877-35fa-9dbf-89638184fbfa",
@@ -16204,7 +16143,7 @@
                              :languages ["cs"],
                              :game/name "Nova Luna",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/k8OZeKYMN2vVSVCl5FD-UA__thumb/img/lRMeiFcB9C3ivyZlCoPRQe5xKNU=/fit-in/200x150/filters:strip_icc()/pic5382418.jpg"},
+                             "https://cf.geekdo-images.com/k8OZeKYMN2vVSVCl5FD-UA__small/img/lRMeiFcB9C3ivyZlCoPRQe5xKNU=/fit-in/200x150/filters:strip_icc()/pic5382418.jpg"},
                             #uuid "fca4c654-eb32-38e1-bcaf-ff34fac77213"
                             {:game/id
                              #uuid "fca4c654-eb32-38e1-bcaf-ff34fac77213",
@@ -16256,7 +16195,7 @@
                              :languages ["en"],
                              :game/name "Now Boarding",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/yI1Zxy5JAgk7xFWpSqYX7w__thumb/img/0b4G8p3lZJJhtWpLeOetrGDHWdI=/fit-in/200x150/filters:strip_icc()/pic3710609.jpg"},
+                             "https://cf.geekdo-images.com/yI1Zxy5JAgk7xFWpSqYX7w__small/img/0b4G8p3lZJJhtWpLeOetrGDHWdI=/fit-in/200x150/filters:strip_icc()/pic3710609.jpg"},
                             #uuid "a977a8a7-2508-336d-8ace-725f0f830a7f"
                             {:game/id
                              #uuid "a977a8a7-2508-336d-8ace-725f0f830a7f",
@@ -16288,7 +16227,7 @@
                              :languages ["en"],
                              :game/name "OMFG!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/OyfpBrkfP8ce5804946esw__thumb/img/KXc84kF510mu2v20wCpA2MC-fUo=/fit-in/200x150/filters:strip_icc()/pic5661614.png"},
+                             "https://cf.geekdo-images.com/OyfpBrkfP8ce5804946esw__small/img/KXc84kF510mu2v20wCpA2MC-fUo=/fit-in/200x150/filters:strip_icc()/pic5661614.png"},
                             #uuid "17b41f7f-4de8-3fe3-be7f-91fc18e29b8a"
                             {:game/id
                              #uuid "17b41f7f-4de8-3fe3-be7f-91fc18e29b8a",
@@ -16318,7 +16257,7 @@
                              :game/name
                              "Obscenity: A Shameless Adult Party Game",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/ezwhC52nLtbLDWwUYZlSZw__thumb/img/0J0jjINFUJ09Zk6XK4G_mW8SGpA=/fit-in/200x150/filters:strip_icc()/pic4373949.jpg"},
+                             "https://cf.geekdo-images.com/ezwhC52nLtbLDWwUYZlSZw__small/img/0J0jjINFUJ09Zk6XK4G_mW8SGpA=/fit-in/200x150/filters:strip_icc()/pic4373949.jpg"},
                             #uuid "a67c128c-49d5-38ad-912f-da0345e1971c"
                             {:game/id
                              #uuid "a67c128c-49d5-38ad-912f-da0345e1971c",
@@ -16381,7 +16320,7 @@
                              :com.boardgamegeek.boardgame/id "232414",
                              :game/name "Oceans",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/1J7_qmdohyypZNyvu8B45A__thumb/img/ASgVEQj-H2lzopAgm-_QgqEBVvI=/fit-in/200x150/filters:strip_icc()/pic4382323.jpg"},
+                             "https://cf.geekdo-images.com/1J7_qmdohyypZNyvu8B45A__small/img/ASgVEQj-H2lzopAgm-_QgqEBVvI=/fit-in/200x150/filters:strip_icc()/pic4382323.jpg"},
                             #uuid "644311b6-3b60-3133-8989-d7c1188467da"
                             {:game/id
                              #uuid "644311b6-3b60-3133-8989-d7c1188467da",
@@ -16408,7 +16347,7 @@
                              :com.boardgamegeek.boardgame/id "406854",
                              :game/name "Odin",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/hh5YOk9OQ3e0uJbMOfvT2g__thumb/img/bYaPoCwSz2lq-tAtb_60fPqiNzA=/fit-in/200x150/filters:strip_icc()/pic7921978.jpg"},
+                             "https://cf.geekdo-images.com/hh5YOk9OQ3e0uJbMOfvT2g__small/img/bYaPoCwSz2lq-tAtb_60fPqiNzA=/fit-in/200x150/filters:strip_icc()/pic7921978.jpg"},
                             #uuid "b75229d9-66a3-3ee4-86f4-e1e5f353d9a4"
                             {:game/id
                              #uuid "b75229d9-66a3-3ee4-86f4-e1e5f353d9a4",
@@ -16472,7 +16411,7 @@
                              :languages ["cs"],
                              :game/name "Oh My Goods!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/nYIjEKh_0nYX48uD_tLawA__thumb/img/MCnURatf0lFmNOVLYEjABfN_uVY=/fit-in/200x150/filters:strip_icc()/pic3032677.jpg"},
+                             "https://cf.geekdo-images.com/nYIjEKh_0nYX48uD_tLawA__small/img/MCnURatf0lFmNOVLYEjABfN_uVY=/fit-in/200x150/filters:strip_icc()/pic3032677.jpg"},
                             #uuid "a2cce669-b64c-31e7-9afb-63f03c696fee"
                             {:game/id
                              #uuid "a2cce669-b64c-31e7-9afb-63f03c696fee",
@@ -16500,7 +16439,7 @@
                              :languages ["en"],
                              :game/name "Okiya",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/a86BdUaCSfIqygVvStXsGQ__thumb/img/jAV9bZYZln9N21DaKOXWRp0e8vA=/fit-in/200x150/filters:strip_icc()/pic3711392.png"},
+                             "https://cf.geekdo-images.com/a86BdUaCSfIqygVvStXsGQ__small/img/jAV9bZYZln9N21DaKOXWRp0e8vA=/fit-in/200x150/filters:strip_icc()/pic3711392.png"},
                             #uuid "f46ff3af-0204-348e-9bd0-c1f668f82128"
                             {:game/id
                              #uuid "f46ff3af-0204-348e-9bd0-c1f668f82128",
@@ -16544,7 +16483,7 @@
                              :languages ["en"],
                              :game/name "Om Nom Nom",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/DckIF9e9le75ev9CRNS0_w__thumb/img/0qeLCHolAAG6LGvq9-V0MHrCtTs=/fit-in/200x150/filters:strip_icc()/pic1765949.png"},
+                             "https://cf.geekdo-images.com/DckIF9e9le75ev9CRNS0_w__small/img/0qeLCHolAAG6LGvq9-V0MHrCtTs=/fit-in/200x150/filters:strip_icc()/pic1765949.png"},
                             #uuid "bddc24af-3739-3b8e-bfcb-17b4a25b7153"
                             {:game/id
                              #uuid "bddc24af-3739-3b8e-bfcb-17b4a25b7153",
@@ -16608,7 +16547,7 @@
                              :languages ["en"],
                              :game/name "One Night Ultimate Werewolf",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/rqLju4uaZq-G9z4g91aPPQ__thumb/img/viW0s_SZmeEo53dKbM84WbVjIaY=/fit-in/200x150/filters:strip_icc()/pic8783294.png"},
+                             "https://cf.geekdo-images.com/rqLju4uaZq-G9z4g91aPPQ__small/img/viW0s_SZmeEo53dKbM84WbVjIaY=/fit-in/200x150/filters:strip_icc()/pic8783294.png"},
                             #uuid "6097cdf7-1ae6-38ea-b8bc-8906f5650bfc"
                             {:game/id
                              #uuid "6097cdf7-1ae6-38ea-b8bc-8906f5650bfc",
@@ -16652,7 +16591,7 @@
                              :languages ["en"],
                              :game/name "Onitama",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/GJKuOCy5HGAYgVH_Rei5mA__thumb/img/Q3W4poMS4btD-HZLervgqbSCtmE=/fit-in/200x150/filters:strip_icc()/pic7070194.jpg"},
+                             "https://cf.geekdo-images.com/GJKuOCy5HGAYgVH_Rei5mA__small/img/Q3W4poMS4btD-HZLervgqbSCtmE=/fit-in/200x150/filters:strip_icc()/pic7070194.jpg"},
                             #uuid "e66620a8-6fac-3561-bb85-52f894883fe9"
                             {:game/id
                              #uuid "e66620a8-6fac-3561-bb85-52f894883fe9",
@@ -16684,7 +16623,7 @@
                              :languages ["cs"],
                              :game/name "Opráski sčeskí historje",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/9IM-hTWq2mFj4JDKCmwEjQ__thumb/img/qP7tyxlkSr7o4Lu-o1H3yatE3kw=/fit-in/200x150/filters:strip_icc()/pic7283182.jpg"},
+                             "https://cf.geekdo-images.com/9IM-hTWq2mFj4JDKCmwEjQ__small/img/qP7tyxlkSr7o4Lu-o1H3yatE3kw=/fit-in/200x150/filters:strip_icc()/pic7283182.jpg"},
                             #uuid "a4eb9598-b375-3f22-8363-e0295ac2f5f2"
                             {:game/id
                              #uuid "a4eb9598-b375-3f22-8363-e0295ac2f5f2",
@@ -16736,7 +16675,7 @@
                              :languages ["cs"],
                              :game/name "Pachisi",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/45Nb6goQqvPHD9hOut0ntg__thumb/img/ZtUXrh9wko9BQ3QLCMw9mU9Fjpw=/fit-in/200x150/filters:strip_icc()/pic516869.jpg"},
+                             "https://cf.geekdo-images.com/45Nb6goQqvPHD9hOut0ntg__small/img/ZtUXrh9wko9BQ3QLCMw9mU9Fjpw=/fit-in/200x150/filters:strip_icc()/pic516869.jpg"},
                             #uuid "2c285559-cde9-39d2-ae73-5e1a77e0bf49"
                             {:game/id
                              #uuid "2c285559-cde9-39d2-ae73-5e1a77e0bf49",
@@ -16816,7 +16755,7 @@
                              :languages ["en"],
                              :game/name "Pan Am",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Dkd1DKelqroYz21llrqJ_A__thumb/img/Z2ABrbZpzhogn2V3uyZMAuUf5OA=/fit-in/200x150/filters:strip_icc()/pic5252922.jpg"},
+                             "https://cf.geekdo-images.com/Dkd1DKelqroYz21llrqJ_A__small/img/Z2ABrbZpzhogn2V3uyZMAuUf5OA=/fit-in/200x150/filters:strip_icc()/pic5252922.jpg"},
                             #uuid "d5380d3b-56d5-3783-a863-1af12c39f5c7"
                             {:game/id
                              #uuid "d5380d3b-56d5-3783-a863-1af12c39f5c7",
@@ -16900,7 +16839,7 @@
                              :languages ["en" "cs"],
                              :game/name "Pandemic",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/S3ybV1LAp-8SnHIXLLjVqA__thumb/img/oqViRj6nVxK3m36NluTxU1PZkrk=/fit-in/200x150/filters:strip_icc()/pic1534148.jpg"},
+                             "https://cf.geekdo-images.com/S3ybV1LAp-8SnHIXLLjVqA__small/img/oqViRj6nVxK3m36NluTxU1PZkrk=/fit-in/200x150/filters:strip_icc()/pic1534148.jpg"},
                             #uuid "44de8c27-9942-39ca-997c-57ff932fc882"
                             {:game/id
                              #uuid "44de8c27-9942-39ca-997c-57ff932fc882",
@@ -16960,7 +16899,7 @@
                              :languages ["cs" "en"],
                              :game/name "Party Alias",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/15IJm-xtFo5DlVC0I_KEVQ__thumb/img/OW1wylQIh-ly_SJY4mnF8TODfEQ=/fit-in/200x150/filters:strip_icc()/pic517373.jpg"},
+                             "https://cf.geekdo-images.com/15IJm-xtFo5DlVC0I_KEVQ__small/img/OW1wylQIh-ly_SJY4mnF8TODfEQ=/fit-in/200x150/filters:strip_icc()/pic517373.jpg"},
                             #uuid "c1827c75-f1fd-34e5-94f4-facdcd1d7564"
                             {:game/id
                              #uuid "c1827c75-f1fd-34e5-94f4-facdcd1d7564",
@@ -17004,7 +16943,7 @@
                              :languages ["cs"],
                              :game/name "Pass the Bomb",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/abIqz_XwoGwcPajExsurTA__thumb/img/P50T3xLjAFVPuiWt50s7vROTDeI=/fit-in/200x150/filters:strip_icc()/pic70432.jpg"},
+                             "https://cf.geekdo-images.com/abIqz_XwoGwcPajExsurTA__small/img/P50T3xLjAFVPuiWt50s7vROTDeI=/fit-in/200x150/filters:strip_icc()/pic70432.jpg"},
                             #uuid "81828b40-f940-3ba2-999a-df65d1ece450"
                             {:game/id
                              #uuid "81828b40-f940-3ba2-999a-df65d1ece450",
@@ -17072,7 +17011,7 @@
                              :languages ["cs"],
                              :game/name "Patchwork",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/RDOwMRBnIb3Ehl6GyXj9xg__thumb/img/nxex9ASN99exPLXEc9E4s08qZzc=/fit-in/200x150/filters:strip_icc()/pic8669620.jpg"},
+                             "https://cf.geekdo-images.com/RDOwMRBnIb3Ehl6GyXj9xg__small/img/nxex9ASN99exPLXEc9E4s08qZzc=/fit-in/200x150/filters:strip_icc()/pic8669620.jpg"},
                             #uuid "33e20383-3807-3414-869c-7a3907d40b75"
                             {:game/id
                              #uuid "33e20383-3807-3414-869c-7a3907d40b75",
@@ -17132,7 +17071,7 @@
                              :languages ["en"],
                              :game/name "Pax Renaissance",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/gIHITIenJOCIsO_vQNEE0w__thumb/img/68iODGupr7JuYEYiDofNJzxgEzM=/fit-in/200x150/filters:strip_icc()/pic3009233.jpg"},
+                             "https://cf.geekdo-images.com/gIHITIenJOCIsO_vQNEE0w__small/img/68iODGupr7JuYEYiDofNJzxgEzM=/fit-in/200x150/filters:strip_icc()/pic3009233.jpg"},
                             #uuid "e9de6ee3-1f19-36e8-bdf0-3b24bacd02cc"
                             {:game/id
                              #uuid "e9de6ee3-1f19-36e8-bdf0-3b24bacd02cc",
@@ -17192,7 +17131,7 @@
                              :languages ["en"],
                              :game/name "Pax Transhumanity",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/ByCgA7w4DMC1eKvUD-XajA__thumb/img/JflRs575_Lh-Tv1srmxKSrx91wU=/fit-in/200x150/filters:strip_icc()/pic6256870.png"},
+                             "https://cf.geekdo-images.com/ByCgA7w4DMC1eKvUD-XajA__small/img/JflRs575_Lh-Tv1srmxKSrx91wU=/fit-in/200x150/filters:strip_icc()/pic6256870.png"},
                             #uuid "ec006379-d38d-3bc2-8d8b-868b91efe790"
                             {:game/id
                              #uuid "ec006379-d38d-3bc2-8d8b-868b91efe790",
@@ -17256,7 +17195,7 @@
                              :languages ["en"],
                              :game/name "Peak Oil",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/wr0TPf4UevEtt0SyyxmMTg__thumb/img/QSk_LTk6Qpv2wGiauZaJT7F7fXE=/fit-in/200x150/filters:strip_icc()/pic3259102.png"},
+                             "https://cf.geekdo-images.com/wr0TPf4UevEtt0SyyxmMTg__small/img/QSk_LTk6Qpv2wGiauZaJT7F7fXE=/fit-in/200x150/filters:strip_icc()/pic3259102.png"},
                             #uuid "bbf27490-0928-3ada-8589-e585a15b22ad"
                             {:game/id
                              #uuid "bbf27490-0928-3ada-8589-e585a15b22ad",
@@ -17292,7 +17231,7 @@
                              :languages ["en"],
                              :game/name "Pecking Order",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/DKRqwothpRgPodGXjRf9PA__thumb/img/-FhoyIj6cf-fUIQhJv2vm7eDn4E=/fit-in/200x150/filters:strip_icc()/pic6920530.jpg"},
+                             "https://cf.geekdo-images.com/DKRqwothpRgPodGXjRf9PA__small/img/-FhoyIj6cf-fUIQhJv2vm7eDn4E=/fit-in/200x150/filters:strip_icc()/pic6920530.jpg"},
                             #uuid "c6dfc763-4e0a-33ee-b4b9-efe1ce4f82b3"
                             {:game/id
                              #uuid "c6dfc763-4e0a-33ee-b4b9-efe1ce4f82b3",
@@ -17336,7 +17275,7 @@
                              :languages ["en"],
                              :game/name "Personally Incorrect",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/FBctEY9fJtIrk4hqbwhg2A__thumb/img/roixdL_YFGr5s0ati2grORqEagk=/fit-in/200x150/filters:strip_icc()/pic3206168.png"},
+                             "https://cf.geekdo-images.com/FBctEY9fJtIrk4hqbwhg2A__small/img/roixdL_YFGr5s0ati2grORqEagk=/fit-in/200x150/filters:strip_icc()/pic3206168.png"},
                             #uuid "edfa15bc-3235-3696-aaad-09e432fc6662"
                             {:game/id
                              #uuid "edfa15bc-3235-3696-aaad-09e432fc6662",
@@ -17368,7 +17307,7 @@
                              :languages ["en"],
                              :game/name "Pick & Pack",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/a8KesoKoDuAZNaNt09sYyg__thumb/img/VLDrGFFey_y2PJiTmzlSMB38r6s=/fit-in/200x150/filters:strip_icc()/pic226509.jpg"},
+                             "https://cf.geekdo-images.com/a8KesoKoDuAZNaNt09sYyg__small/img/VLDrGFFey_y2PJiTmzlSMB38r6s=/fit-in/200x150/filters:strip_icc()/pic226509.jpg"},
                             #uuid "2c40cbc2-ccb0-39ee-adb2-622f1540de8b"
                             {:game/id
                              #uuid "2c40cbc2-ccb0-39ee-adb2-622f1540de8b",
@@ -17400,7 +17339,7 @@
                              :languages ["cs" "en"],
                              :game/name "Pictomania",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/0m0X8qZxfARpz0lmzjxSEw__thumb/img/swi0YmUUKWTu54c8XN1NlsawYuQ=/fit-in/200x150/filters:strip_icc()/pic2360788.png"},
+                             "https://cf.geekdo-images.com/0m0X8qZxfARpz0lmzjxSEw__small/img/swi0YmUUKWTu54c8XN1NlsawYuQ=/fit-in/200x150/filters:strip_icc()/pic2360788.png"},
                             #uuid "cd9aff70-b6e0-31dd-83e2-65ccf104e7fe"
                             {:game/id
                              #uuid "cd9aff70-b6e0-31dd-83e2-65ccf104e7fe",
@@ -17452,7 +17391,7 @@
                              :languages ["en"],
                              :game/name "Pit",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/LkEPNu7bPTS1rVRU_Ba-Dg__thumb/img/TTYL285XHOkpIzFtonMnuunPZS8=/fit-in/200x150/filters:strip_icc()/pic423644.jpg"},
+                             "https://cf.geekdo-images.com/LkEPNu7bPTS1rVRU_Ba-Dg__small/img/TTYL285XHOkpIzFtonMnuunPZS8=/fit-in/200x150/filters:strip_icc()/pic423644.jpg"},
                             #uuid "d18a26f4-6f25-37b2-a861-2147cf47cf18"
                             {:game/id
                              #uuid "d18a26f4-6f25-37b2-a861-2147cf47cf18",
@@ -17504,7 +17443,7 @@
                              :languages ["en"],
                              :game/name "Poetry for Neanderthals",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/CDlBjXSPT-3Zyrj8ENBkvQ__thumb/img/0ON18UcLepuwPLhwkRtRUjhvAZ8=/fit-in/200x150/filters:strip_icc()/pic5702797.jpg"},
+                             "https://cf.geekdo-images.com/CDlBjXSPT-3Zyrj8ENBkvQ__small/img/0ON18UcLepuwPLhwkRtRUjhvAZ8=/fit-in/200x150/filters:strip_icc()/pic5702797.jpg"},
                             #uuid "301d8cba-da8a-326f-98dd-59b5a7e57868"
                             {:game/id
                              #uuid "301d8cba-da8a-326f-98dd-59b5a7e57868",
@@ -17539,7 +17478,7 @@
                              :com.boardgamegeek.boardgame/id "368017",
                              :game/name "Point City",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/-wcx_m4j86mTFAJ_kWz8eA__thumb/img/wXCt7sv58rjfgCEeg_wX9NIiMpc=/fit-in/200x150/filters:strip_icc()/pic6998174.jpg"},
+                             "https://cf.geekdo-images.com/-wcx_m4j86mTFAJ_kWz8eA__small/img/wXCt7sv58rjfgCEeg_wX9NIiMpc=/fit-in/200x150/filters:strip_icc()/pic6998174.jpg"},
                             #uuid "54b141a9-4bee-378e-b867-fd1d4729f014"
                             {:game/id
                              #uuid "54b141a9-4bee-378e-b867-fd1d4729f014",
@@ -17571,7 +17510,7 @@
                              :languages ["cs"],
                              :game/name "Point Salad",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Xy0W9NtEpX0EVjwgxO3IEA__thumb/img/1gKeE2_50dXcL03gH3cEU-Ixj6c=/fit-in/200x150/filters:strip_icc()/pic4621571.png"},
+                             "https://cf.geekdo-images.com/Xy0W9NtEpX0EVjwgxO3IEA__small/img/1gKeE2_50dXcL03gH3cEU-Ixj6c=/fit-in/200x150/filters:strip_icc()/pic4621571.png"},
                             #uuid "e1405ecf-c37a-3cdf-9bc0-46ca9df2e685"
                             {:game/id
                              #uuid "e1405ecf-c37a-3cdf-9bc0-46ca9df2e685",
@@ -17607,7 +17546,7 @@
                              :languages ["en"],
                              :game/name "Ponzi Scheme",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/c7eDqWqXn1Gxb3R8nmQkgA__thumb/img/C5Ll5quZC5FAOWQVV4Qym0aHQRs=/fit-in/200x150/filters:strip_icc()/pic7647050.png"},
+                             "https://cf.geekdo-images.com/c7eDqWqXn1Gxb3R8nmQkgA__small/img/C5Ll5quZC5FAOWQVV4Qym0aHQRs=/fit-in/200x150/filters:strip_icc()/pic7647050.png"},
                             #uuid "db6d2f3a-d731-3ddd-9e97-4b857d9ac065"
                             {:game/id
                              #uuid "db6d2f3a-d731-3ddd-9e97-4b857d9ac065",
@@ -17683,7 +17622,7 @@
                              :languages ["en" "cs"],
                              :game/name "Port Royal",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/9lQIIxg_l6G-ZWmTqEHlOA__thumb/img/uiCYTRqVF3TMqfpFGM-O0az_Q4A=/fit-in/200x150/filters:strip_icc()/pic1949286.jpg"},
+                             "https://cf.geekdo-images.com/9lQIIxg_l6G-ZWmTqEHlOA__small/img/uiCYTRqVF3TMqfpFGM-O0az_Q4A=/fit-in/200x150/filters:strip_icc()/pic1949286.jpg"},
                             #uuid "4a038681-5229-352f-81b4-3094ce95768e"
                             {:game/id
                              #uuid "4a038681-5229-352f-81b4-3094ce95768e",
@@ -17727,7 +17666,7 @@
                              :languages ["en"],
                              :game/name "Power On!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/5L9mKt7gzcAePdePJeY5XQ__thumb/img/G1EEFe6dzrjGF1DGr7q86XkIFE0=/fit-in/200x150/filters:strip_icc()/pic4910160.jpg"},
+                             "https://cf.geekdo-images.com/5L9mKt7gzcAePdePJeY5XQ__small/img/G1EEFe6dzrjGF1DGr7q86XkIFE0=/fit-in/200x150/filters:strip_icc()/pic4910160.jpg"},
                             #uuid "b52998c1-cb63-308f-b3b2-4eba62ba228f"
                             {:game/id
                              #uuid "b52998c1-cb63-308f-b3b2-4eba62ba228f",
@@ -17810,7 +17749,7 @@
                              :languages ["en"],
                              :game/name "Prime Time",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/HkE3PLJCu2mu4ADX9RVS0w__thumb/img/pPYqbACYEuOwJM1t22k0sgpphtU=/fit-in/200x150/filters:strip_icc()/pic2724833.jpg"},
+                             "https://cf.geekdo-images.com/HkE3PLJCu2mu4ADX9RVS0w__small/img/pPYqbACYEuOwJM1t22k0sgpphtU=/fit-in/200x150/filters:strip_icc()/pic2724833.jpg"},
                             #uuid "2dda8937-82bf-3bda-9db8-cb336b0eb4b7"
                             {:game/id
                              #uuid "2dda8937-82bf-3bda-9db8-cb336b0eb4b7",
@@ -17851,7 +17790,7 @@
                              :game/name
                              "Profanity: A Card Game For Smutty People",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/uCN6peqSyRFzraCMalGafQ__thumb/img/kBnNbHo50n2iTbKg-ncwSNliwUE=/fit-in/200x150/filters:strip_icc()/pic4373951.jpg"},
+                             "https://cf.geekdo-images.com/uCN6peqSyRFzraCMalGafQ__small/img/kBnNbHo50n2iTbKg-ncwSNliwUE=/fit-in/200x150/filters:strip_icc()/pic4373951.jpg"},
                             #uuid "f7625727-1129-3703-96c0-442c8ac00dae"
                             {:game/id
                              #uuid "f7625727-1129-3703-96c0-442c8ac00dae",
@@ -17911,7 +17850,7 @@
                              :languages ["cs"],
                              :game/name "Puerto Rico",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/OA0K6zAeAHGjx8s8-H5P0A__thumb/img/AdExcsAZuRn4V9ozAhS_waprgNU=/fit-in/200x150/filters:strip_icc()/pic5657345.jpg"},
+                             "https://cf.geekdo-images.com/OA0K6zAeAHGjx8s8-H5P0A__small/img/AdExcsAZuRn4V9ozAhS_waprgNU=/fit-in/200x150/filters:strip_icc()/pic5657345.jpg"},
                             #uuid "566c7907-484e-3c7b-b9a8-500c6965fb1f"
                             {:game/id
                              #uuid "566c7907-484e-3c7b-b9a8-500c6965fb1f",
@@ -17962,7 +17901,7 @@
                              :com.boardgamegeek.boardgame/id "378951",
                              :game/name "Pyramidice",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/cjN2FPOuRNK9m_SmWV9Wtw__thumb/img/b3pEIt9US6NmSKBFWfWN0SgiasU=/fit-in/200x150/filters:strip_icc()/pic7305717.jpg"},
+                             "https://cf.geekdo-images.com/cjN2FPOuRNK9m_SmWV9Wtw__small/img/b3pEIt9US6NmSKBFWfWN0SgiasU=/fit-in/200x150/filters:strip_icc()/pic7305717.jpg"},
                             #uuid "bc7cf3e6-fca5-3e22-a79e-bb8ec4d5867a"
                             {:game/id
                              #uuid "bc7cf3e6-fca5-3e22-a79e-bb8ec4d5867a",
@@ -18006,7 +17945,7 @@
                              :languages ["cs"],
                              :game/name "Párty trefa",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/N2Z_gA0mJxeB4h4t5BWvCg__thumb/img/2kIlZqapDEFr2zEumE6629A2yKw=/fit-in/200x150/filters:strip_icc()/pic7310921.jpg"},
+                             "https://cf.geekdo-images.com/N2Z_gA0mJxeB4h4t5BWvCg__small/img/2kIlZqapDEFr2zEumE6629A2yKw=/fit-in/200x150/filters:strip_icc()/pic7310921.jpg"},
                             #uuid "e5279fe2-9e7a-313b-9b5d-e2d1f6a1e8db"
                             {:game/id
                              #uuid "e5279fe2-9e7a-313b-9b5d-e2d1f6a1e8db",
@@ -18054,7 +17993,7 @@
                              :languages ["cs"],
                              :game/name "Quoridor",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/I1YNAhee09mryaqfEo8MwA__thumb/img/9TJaxgoMUkiMhAGSYM8-0o1ICpg=/fit-in/200x150/filters:strip_icc()/pic3488232.jpg"},
+                             "https://cf.geekdo-images.com/I1YNAhee09mryaqfEo8MwA__small/img/9TJaxgoMUkiMhAGSYM8-0o1ICpg=/fit-in/200x150/filters:strip_icc()/pic3488232.jpg"},
                             #uuid "b7c512a7-a3f4-35d4-a416-c10bffb57bb4"
                             {:game/id
                              #uuid "b7c512a7-a3f4-35d4-a416-c10bffb57bb4",
@@ -18079,11 +18018,6 @@
                                                                 :name
                                                                 "Tile Placement"}),
                              :name "Qwirkle",
-                             :com.boardgamegeek.boardgame/categories
-                             (list #:com.boardgamegeek.category{:id
-                                                                1009,
-                                                                :name
-                                                                "Abstract Strategy"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              45,
                              :com.boardgamegeek.boardgame/max-players
@@ -18094,7 +18028,7 @@
                              :languages ["en"],
                              :game/name "Qwirkle",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/k7zHj8j_a6uUAtXUt5Fvuw__thumb/img/APPui4zwBuwAIHXSTW6UxYcY6Ow=/fit-in/200x150/filters:strip_icc()/pic309353.jpg"},
+                             "https://cf.geekdo-images.com/k7zHj8j_a6uUAtXUt5Fvuw__small/img/APPui4zwBuwAIHXSTW6UxYcY6Ow=/fit-in/200x150/filters:strip_icc()/pic309353.jpg"},
                             #uuid "74e3083f-4bcb-38b4-a7ff-9888df74f0f2"
                             {:game/id
                              #uuid "74e3083f-4bcb-38b4-a7ff-9888df74f0f2",
@@ -18155,7 +18089,7 @@
                              :game/name
                              "Railroad Ink: Blazing Red Edition",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/eNgD_0WGHeO9fPCpgTOBrQ__thumb/img/1YPyYUHM22_SszKMWCMIC77WtgY=/fit-in/200x150/filters:strip_icc()/pic4118864.png"},
+                             "https://cf.geekdo-images.com/eNgD_0WGHeO9fPCpgTOBrQ__small/img/1YPyYUHM22_SszKMWCMIC77WtgY=/fit-in/200x150/filters:strip_icc()/pic4118864.png"},
                             #uuid "900d9ed7-fc3b-326d-afef-d12a491572d0"
                             {:game/id
                              #uuid "900d9ed7-fc3b-326d-afef-d12a491572d0",
@@ -18216,7 +18150,7 @@
                              :game/name
                              "Railroad Ink: Deep Blue Edition",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/x3hjEgkxZE9M96o6wgj6Tw__thumb/img/idn6fyLMcqvmxqKXU57rAuLgMvg=/fit-in/200x150/filters:strip_icc()/pic4097632.png"},
+                             "https://cf.geekdo-images.com/x3hjEgkxZE9M96o6wgj6Tw__small/img/idn6fyLMcqvmxqKXU57rAuLgMvg=/fit-in/200x150/filters:strip_icc()/pic4097632.png"},
                             #uuid "0572b9d9-f9cd-39a5-951c-0895bb597d20"
                             {:game/id
                              #uuid "0572b9d9-f9cd-39a5-951c-0895bb597d20",
@@ -18271,7 +18205,7 @@
                              :com.boardgamegeek.boardgame/id "417197",
                              :game/name "Rebirth",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/tyv6lPMlyU7YIUztlILQYQ__thumb/img/_CXQQbXsewUlde4R22XCRApxZ5k=/fit-in/200x150/filters:strip_icc()/pic8587890.png"},
+                             "https://cf.geekdo-images.com/tyv6lPMlyU7YIUztlILQYQ__small/img/_CXQQbXsewUlde4R22XCRApxZ5k=/fit-in/200x150/filters:strip_icc()/pic8587890.png"},
                             #uuid "c64e760d-cd41-31b1-9626-a196593146fa"
                             {:game/id
                              #uuid "c64e760d-cd41-31b1-9626-a196593146fa",
@@ -18327,7 +18261,7 @@
                              :languages ["en"],
                              :game/name "Red7",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/7zH6Kt5ebWEixjDGmHweNA__thumb/img/PVkJyJhCtzo1ZwKO4iuRaqUyKJc=/fit-in/200x150/filters:strip_icc()/pic2247258.png"},
+                             "https://cf.geekdo-images.com/7zH6Kt5ebWEixjDGmHweNA__small/img/PVkJyJhCtzo1ZwKO4iuRaqUyKJc=/fit-in/200x150/filters:strip_icc()/pic2247258.png"},
                             #uuid "3a5ef90f-d1e4-33da-a92a-7c9ff5227c38"
                             {:game/id
                              #uuid "3a5ef90f-d1e4-33da-a92a-7c9ff5227c38",
@@ -18370,7 +18304,7 @@
                              :com.boardgamegeek.boardgame/id "347912",
                              :game/name "Reflecto",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/vre2qN3dWNmcVIzQE1q9aQ__thumb/img/d-e46QCDfYYEaWkdiklTGGcwU20=/fit-in/200x150/filters:strip_icc()/pic6918443.png"},
+                             "https://cf.geekdo-images.com/vre2qN3dWNmcVIzQE1q9aQ__small/img/d-e46QCDfYYEaWkdiklTGGcwU20=/fit-in/200x150/filters:strip_icc()/pic6918443.png"},
                             #uuid "46b22649-54be-3b28-b76f-c68ed2951c92"
                             {:game/id
                              #uuid "46b22649-54be-3b28-b76f-c68ed2951c92",
@@ -18426,7 +18360,7 @@
                              :languages ["en"],
                              :game/name "Reign of Cthulhu",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/rwNaEQfzABp7dkpnwn1Ksw__thumb/img/A77zWf8GZ3rPK5FPTitlJuTAoNM=/fit-in/200x150/filters:strip_icc()/pic2866737.png"},
+                             "https://cf.geekdo-images.com/rwNaEQfzABp7dkpnwn1Ksw__small/img/A77zWf8GZ3rPK5FPTitlJuTAoNM=/fit-in/200x150/filters:strip_icc()/pic2866737.png"},
                             #uuid "52bfe89c-73d9-3a87-b498-188a2e2f101b"
                             {:game/id
                              #uuid "52bfe89c-73d9-3a87-b498-188a2e2f101b",
@@ -18466,7 +18400,7 @@
                              :languages ["en"],
                              :game/name "Rest In Peace",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/jD77V4uV2mSG96tX8Ur0yQ__thumb/img/hOcvflu7DypGuySG4F_39c-NivE=/fit-in/200x150/filters:strip_icc()/pic5663592.jpg"},
+                             "https://cf.geekdo-images.com/jD77V4uV2mSG96tX8Ur0yQ__small/img/hOcvflu7DypGuySG4F_39c-NivE=/fit-in/200x150/filters:strip_icc()/pic5663592.jpg"},
                             #uuid "54e65a7b-483f-36df-bb68-7fe323b63cfa"
                             {:game/id
                              #uuid "54e65a7b-483f-36df-bb68-7fe323b63cfa",
@@ -18514,7 +18448,7 @@
                              :languages ["en"],
                              :game/name "Revolution!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/QNfiVUjQUb3WizjliCu1NQ__thumb/img/kRlifxVWcTgtaHcZyCfad27nAwk=/fit-in/200x150/filters:strip_icc()/pic470283.jpg"},
+                             "https://cf.geekdo-images.com/QNfiVUjQUb3WizjliCu1NQ__small/img/kRlifxVWcTgtaHcZyCfad27nAwk=/fit-in/200x150/filters:strip_icc()/pic470283.jpg"},
                             #uuid "0eb891cc-6f97-31e0-8ea2-6eb429897a8f"
                             {:game/id
                              #uuid "0eb891cc-6f97-31e0-8ea2-6eb429897a8f",
@@ -18554,7 +18488,7 @@
                              :languages ["en"],
                              :game/name "Rialto",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/13kl47xb_hdjvJTzRkg0vA__thumb/img/mO49j1jyhhKqHcNxu0vx3uGqsuQ=/fit-in/200x150/filters:strip_icc()/pic1504549.jpg"},
+                             "https://cf.geekdo-images.com/13kl47xb_hdjvJTzRkg0vA__small/img/mO49j1jyhhKqHcNxu0vx3uGqsuQ=/fit-in/200x150/filters:strip_icc()/pic1504549.jpg"},
                             #uuid "756269b3-d321-3f2b-be1e-4fc72f7e74ee"
                             {:game/id
                              #uuid "756269b3-d321-3f2b-be1e-4fc72f7e74ee",
@@ -18598,7 +18532,7 @@
                              :languages ["cs"],
                              :game/name "Ribbit",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/xiUrbSAVIi3qqpmSB8Lrhw__thumb/img/Z1OY5zdAOuCF2idL2fm1pEzTLQU=/fit-in/200x150/filters:strip_icc()/pic6389814.png"},
+                             "https://cf.geekdo-images.com/xiUrbSAVIi3qqpmSB8Lrhw__small/img/Z1OY5zdAOuCF2idL2fm1pEzTLQU=/fit-in/200x150/filters:strip_icc()/pic6389814.png"},
                             #uuid "8acfd5b8-b774-39c4-a04c-29420e5631c0"
                             {:game/id
                              #uuid "8acfd5b8-b774-39c4-a04c-29420e5631c0",
@@ -18636,7 +18570,7 @@
                              :game/name
                              "Rick and Morty: The Ricks Must Be Crazy Multiverse Game",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/I1fNtBe8tCMt_6qcn6D-EA__thumb/img/WRQIfu_klm9X1XGOU3ssXnHA_fM=/fit-in/200x150/filters:strip_icc()/pic3880225.png"},
+                             "https://cf.geekdo-images.com/I1fNtBe8tCMt_6qcn6D-EA__small/img/WRQIfu_klm9X1XGOU3ssXnHA_fM=/fit-in/200x150/filters:strip_icc()/pic3880225.png"},
                             #uuid "2fddd16e-1cc9-3362-9ea4-f5666acdfb05"
                             {:game/id
                              #uuid "2fddd16e-1cc9-3362-9ea4-f5666acdfb05",
@@ -18688,7 +18622,7 @@
                              :languages ["de"],
                              :game/name "RisiKo!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/FhJHH2hxyCWVe-22KB5zTQ__thumb/img/2w43M_j9NcpmvRf4Ps8FlsrJn9E=/fit-in/200x150/filters:strip_icc()/pic5669315.jpg"},
+                             "https://cf.geekdo-images.com/FhJHH2hxyCWVe-22KB5zTQ__small/img/2w43M_j9NcpmvRf4Ps8FlsrJn9E=/fit-in/200x150/filters:strip_icc()/pic5669315.jpg"},
                             #uuid "e6d5c2ee-6c34-370d-b344-30cc5ee8a749"
                             {:game/id
                              #uuid "e6d5c2ee-6c34-370d-b344-30cc5ee8a749",
@@ -18736,7 +18670,7 @@
                              :languages ["en"],
                              :game/name "Risk: Game of Thrones",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/UNici3J_3qZIYeEapfaLpg__thumb/img/omzrXKLCEvYqZR8Kf0zeSZbRw3g=/fit-in/200x150/filters:strip_icc()/pic2568573.jpg"},
+                             "https://cf.geekdo-images.com/UNici3J_3qZIYeEapfaLpg__small/img/omzrXKLCEvYqZR8Kf0zeSZbRw3g=/fit-in/200x150/filters:strip_icc()/pic2568573.jpg"},
                             #uuid "3da3ce69-4e95-3c15-beec-5d9ec2078260"
                             {:game/id
                              #uuid "3da3ce69-4e95-3c15-beec-5d9ec2078260",
@@ -18780,7 +18714,7 @@
                              :languages ["cs"],
                              :game/name "Robinson Crusoe",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/m0v8vJEsvYTGYV-HLorA1w__thumb/img/DjF2_UYOMFU8Iv3iuEC-jT-ACmY=/fit-in/200x150/filters:strip_icc()/pic2279688.png"},
+                             "https://cf.geekdo-images.com/m0v8vJEsvYTGYV-HLorA1w__small/img/DjF2_UYOMFU8Iv3iuEC-jT-ACmY=/fit-in/200x150/filters:strip_icc()/pic2279688.png"},
                             #uuid "e314d54e-de1a-3463-a189-1b801433dd5e"
                             {:game/id
                              #uuid "e314d54e-de1a-3463-a189-1b801433dd5e",
@@ -18807,7 +18741,7 @@
                              :com.boardgamegeek.boardgame/id "129090",
                              :game/name "Roll For It!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/_XIEf19iGAkd1RKrZhvgPA__thumb/img/Cqf14ghSMjpyNQDUs1-jg9jT0qc=/fit-in/200x150/filters:strip_icc()/pic1638562.png"},
+                             "https://cf.geekdo-images.com/_XIEf19iGAkd1RKrZhvgPA__small/img/Cqf14ghSMjpyNQDUs1-jg9jT0qc=/fit-in/200x150/filters:strip_icc()/pic1638562.png"},
                             #uuid "4e6a41b4-aabd-37d9-9d10-9dfd1d11e5c7"
                             {:game/id
                              #uuid "4e6a41b4-aabd-37d9-9d10-9dfd1d11e5c7",
@@ -18907,7 +18841,7 @@
                              :languages ["en"],
                              :game/name "Roll for the Galaxy",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/nhoyoLpYPC2b3UiJ5kJ0yg__thumb/img/KVmexHT6N_fquB1CQl9QRNYCvD0=/fit-in/200x150/filters:strip_icc()/pic1473629.jpg"},
+                             "https://cf.geekdo-images.com/nhoyoLpYPC2b3UiJ5kJ0yg__small/img/KVmexHT6N_fquB1CQl9QRNYCvD0=/fit-in/200x150/filters:strip_icc()/pic1473629.jpg"},
                             #uuid "9e1a4efa-fad4-375f-8749-c32a13e6adc7"
                             {:game/id
                              #uuid "9e1a4efa-fad4-375f-8749-c32a13e6adc7",
@@ -18950,7 +18884,7 @@
                              :com.boardgamegeek.boardgame/id "358284",
                              :game/name "Rome in a Day",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Xy53W381g209GD8S2CQnkQ__thumb/img/32MC-kfQ-78ooBPfk-bRW4j0DQc=/fit-in/200x150/filters:strip_icc()/pic7412285.png"},
+                             "https://cf.geekdo-images.com/Xy53W381g209GD8S2CQnkQ__small/img/32MC-kfQ-78ooBPfk-bRW4j0DQc=/fit-in/200x150/filters:strip_icc()/pic7412285.png"},
                             #uuid "441920cf-d8db-37ee-90dc-7abd5bdc4b15"
                             {:game/id
                              #uuid "441920cf-d8db-37ee-90dc-7abd5bdc4b15",
@@ -19042,7 +18976,7 @@
                              :languages ["en"],
                              :game/name "Room 25",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/urP8ZiJeGJ_WFJ5ovqA5kg__thumb/img/zPupx0-vzzjHrdZ2gJ2aQGCE64k=/fit-in/200x150/filters:strip_icc()/pic3046708.jpg"},
+                             "https://cf.geekdo-images.com/urP8ZiJeGJ_WFJ5ovqA5kg__small/img/zPupx0-vzzjHrdZ2gJ2aQGCE64k=/fit-in/200x150/filters:strip_icc()/pic3046708.jpg"},
                             #uuid "fa03eb68-8ad8-3a1d-b593-d33dabd89bad"
                             {:game/id
                              #uuid "fa03eb68-8ad8-3a1d-b593-d33dabd89bad",
@@ -19142,7 +19076,7 @@
                              :languages ["en"],
                              :game/name "Root",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__thumb/img/ACovMZzGGIsBRyEQXFnsT8282NM=/fit-in/200x150/filters:strip_icc()/pic4254509.jpg"},
+                             "https://cf.geekdo-images.com/JUAUWaVUzeBgzirhZNmHHw__small/img/ACovMZzGGIsBRyEQXFnsT8282NM=/fit-in/200x150/filters:strip_icc()/pic4254509.jpg"},
                             #uuid "f77b4d34-54f4-37eb-8a5b-6d8df9e0f66d"
                             {:game/id
                              #uuid "f77b4d34-54f4-37eb-8a5b-6d8df9e0f66d",
@@ -19173,7 +19107,7 @@
                              :languages ["en"],
                              :game/name "Royals",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Un-yHPPUaH7IpTfiG7ffkw__thumb/img/h9a43sj1YW-dZCKU9wKvHvFSy5U=/fit-in/200x150/filters:strip_icc()/pic3021582.jpg"},
+                             "https://cf.geekdo-images.com/Un-yHPPUaH7IpTfiG7ffkw__small/img/h9a43sj1YW-dZCKU9wKvHvFSy5U=/fit-in/200x150/filters:strip_icc()/pic3021582.jpg"},
                             #uuid "fb0ff21a-5708-3887-803b-77c51714573d"
                             {:game/id
                              #uuid "fb0ff21a-5708-3887-803b-77c51714573d",
@@ -19198,7 +19132,7 @@
                              :com.boardgamegeek.boardgame/id "394081",
                              :game/name "Rubber Paper Scissors",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/YNgVD_FnvMFvoZzPi9voAQ__thumb/img/VTAlNQt8zTMzYWxvO20vdHX3hlE=/fit-in/200x150/filters:strip_icc()/pic8166909.png"},
+                             "https://cf.geekdo-images.com/YNgVD_FnvMFvoZzPi9voAQ__small/img/VTAlNQt8zTMzYWxvO20vdHX3hlE=/fit-in/200x150/filters:strip_icc()/pic8166909.png"},
                             #uuid "043b00f5-14de-3bb6-a7b6-0124f6d06aba"
                             {:game/id
                              #uuid "043b00f5-14de-3bb6-a7b6-0124f6d06aba",
@@ -19237,7 +19171,7 @@
                              :com.boardgamegeek.boardgame/id "811",
                              :game/name "Rummikub",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/LeaLDlTTmeN639MfuflcMw__thumb/img/CSPEyoFAcA3WwtzDekp3Mfepcek=/fit-in/200x150/filters:strip_icc()/pic2286966.jpg"},
+                             "https://cf.geekdo-images.com/LeaLDlTTmeN639MfuflcMw__small/img/CSPEyoFAcA3WwtzDekp3Mfepcek=/fit-in/200x150/filters:strip_icc()/pic2286966.jpg"},
                             #uuid "a1711949-2505-3f44-824a-82de9d20148a"
                             {:game/id
                              #uuid "a1711949-2505-3f44-824a-82de9d20148a",
@@ -19273,7 +19207,7 @@
                              :languages ["en"],
                              :game/name "SCOUT",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/cf0xxkevbwTGF3VUZymKjg__thumb/img/NUcMdmZ3_eA1YfIwL8iRgkZKaHw=/fit-in/200x150/filters:strip_icc()/pic6398727.png"},
+                             "https://cf.geekdo-images.com/cf0xxkevbwTGF3VUZymKjg__small/img/NUcMdmZ3_eA1YfIwL8iRgkZKaHw=/fit-in/200x150/filters:strip_icc()/pic6398727.png"},
                             #uuid "42c74e54-0178-32f6-acbe-ee4d9ab219c9"
                             {:game/id
                              #uuid "42c74e54-0178-32f6-acbe-ee4d9ab219c9",
@@ -19309,7 +19243,7 @@
                              :languages ["en"],
                              :game/name "Sabika",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/6LOmh8RhQHLbnRY6I96tIQ__thumb/img/H4IWNZXlhHeAjZFXBAnCZVOhhL8=/fit-in/200x150/filters:strip_icc()/pic6820026.jpg"},
+                             "https://cf.geekdo-images.com/6LOmh8RhQHLbnRY6I96tIQ__small/img/H4IWNZXlhHeAjZFXBAnCZVOhhL8=/fit-in/200x150/filters:strip_icc()/pic6820026.jpg"},
                             #uuid "431d180f-b4d4-35f3-8c95-96ad5a7267d6"
                             {:game/id
                              #uuid "431d180f-b4d4-35f3-8c95-96ad5a7267d6",
@@ -19377,7 +19311,7 @@
                              :languages ["en"],
                              :game/name "Sabotage",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Uz8Vbr0PiCHTQmrcqlGnkA__thumb/img/XTA3oOuBF2FG-xuC4FfcDoNXdkQ=/fit-in/200x150/filters:strip_icc()/pic4226770.png"},
+                             "https://cf.geekdo-images.com/Uz8Vbr0PiCHTQmrcqlGnkA__small/img/XTA3oOuBF2FG-xuC4FfcDoNXdkQ=/fit-in/200x150/filters:strip_icc()/pic4226770.png"},
                             #uuid "af817d47-9021-3806-800d-7ef8dab08024"
                             {:game/id
                              #uuid "af817d47-9021-3806-800d-7ef8dab08024",
@@ -19453,7 +19387,7 @@
                              :languages ["cs"],
                              :game/name "Saboteur",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/0vJwP6NGa7GHPZKC3gplUw__thumb/img/B3j-is62fP09eHP34uFG_gsxNQs=/fit-in/200x150/filters:strip_icc()/pic3989824.jpg"},
+                             "https://cf.geekdo-images.com/0vJwP6NGa7GHPZKC3gplUw__small/img/B3j-is62fP09eHP34uFG_gsxNQs=/fit-in/200x150/filters:strip_icc()/pic3989824.jpg"},
                             #uuid "bb7745e6-fe51-351f-843c-5012bd13d334"
                             {:game/id
                              #uuid "bb7745e6-fe51-351f-843c-5012bd13d334",
@@ -19497,7 +19431,7 @@
                              :languages ["cs"],
                              :game/name "Saboteur: The Duel",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/2HQMz_qehqPHAsn12h-o4w__thumb/img/BZJsX4-a803QfAn9_uvfx2mj4vE=/fit-in/200x150/filters:strip_icc()/pic3989510.png"},
+                             "https://cf.geekdo-images.com/2HQMz_qehqPHAsn12h-o4w__small/img/BZJsX4-a803QfAn9_uvfx2mj4vE=/fit-in/200x150/filters:strip_icc()/pic3989510.png"},
                             #uuid "93469e8e-68c6-31a3-86d3-22f005ecf98c"
                             {:game/id
                              #uuid "93469e8e-68c6-31a3-86d3-22f005ecf98c",
@@ -19572,7 +19506,7 @@
                              :com.boardgamegeek.boardgame/id "368650",
                              :game/name "Safari Splash!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/fHNWk2iMGVW0sgI4Tte4Vw__thumb/img/2UkfmsnHn4duHozyu4ZUA2NybeE=/fit-in/200x150/filters:strip_icc()/pic7036666.png"},
+                             "https://cf.geekdo-images.com/fHNWk2iMGVW0sgI4Tte4Vw__small/img/2UkfmsnHn4duHozyu4ZUA2NybeE=/fit-in/200x150/filters:strip_icc()/pic7036666.png"},
                             #uuid "afebfaaf-e838-3b24-b2f8-8013fae2210c"
                             {:game/id
                              #uuid "afebfaaf-e838-3b24-b2f8-8013fae2210c",
@@ -19640,7 +19574,7 @@
                              :languages ["cs"],
                              :game/name "Sagrada",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/PZt3EAAGV3dFIVuwMR0AEw__thumb/img/1m4aryOW1MOpq-8jGkF6gDTJmCY=/fit-in/200x150/filters:strip_icc()/pic3525224.jpg"},
+                             "https://cf.geekdo-images.com/PZt3EAAGV3dFIVuwMR0AEw__small/img/1m4aryOW1MOpq-8jGkF6gDTJmCY=/fit-in/200x150/filters:strip_icc()/pic3525224.jpg"},
                             #uuid "1fff84e0-9d09-3677-a846-84f01c21b161"
                             {:game/id
                              #uuid "1fff84e0-9d09-3677-a846-84f01c21b161",
@@ -19700,7 +19634,7 @@
                              :languages ["en"],
                              :game/name "Salem 1692",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/xUurReSy2Amlx4hGj1fPvQ__thumb/img/IiiUFNDZKGNNDls_AhD0-DE7Ba0=/fit-in/200x150/filters:strip_icc()/pic4204062.jpg"},
+                             "https://cf.geekdo-images.com/xUurReSy2Amlx4hGj1fPvQ__small/img/IiiUFNDZKGNNDls_AhD0-DE7Ba0=/fit-in/200x150/filters:strip_icc()/pic4204062.jpg"},
                             #uuid "291429a6-3c89-3e24-810d-2066509a8ac0"
                             {:game/id
                              #uuid "291429a6-3c89-3e24-810d-2066509a8ac0",
@@ -19755,7 +19689,7 @@
                              :com.boardgamegeek.boardgame/id "376665",
                              :game/name "Samarkand Bazaar",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/GL4SF4d7SqNAIvjvMft7mw__thumb/img/S_fdhKVKsADshnSVEPdYId5P3HI=/fit-in/200x150/filters:strip_icc()/pic7243921.jpg"},
+                             "https://cf.geekdo-images.com/GL4SF4d7SqNAIvjvMft7mw__small/img/S_fdhKVKsADshnSVEPdYId5P3HI=/fit-in/200x150/filters:strip_icc()/pic7243921.jpg"},
                             #uuid "863b84e5-b5c4-3347-a920-d71c4a08a259"
                             {:game/id
                              #uuid "863b84e5-b5c4-3347-a920-d71c4a08a259",
@@ -19815,7 +19749,7 @@
                              :languages ["en"],
                              :game/name "Santorini",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/665Ply7Ho1WVf1v1iZlWeg__thumb/img/BKnSb6kAhpVFHV8cyUXrs3EF_dw=/fit-in/200x150/filters:strip_icc()/pic3283110.png"},
+                             "https://cf.geekdo-images.com/665Ply7Ho1WVf1v1iZlWeg__small/img/BKnSb6kAhpVFHV8cyUXrs3EF_dw=/fit-in/200x150/filters:strip_icc()/pic3283110.png"},
                             #uuid "655dd7fb-2048-304d-ac0f-6a354ff76bc2"
                             {:game/id
                              #uuid "655dd7fb-2048-304d-ac0f-6a354ff76bc2",
@@ -19855,7 +19789,7 @@
                              :languages ["en"],
                              :game/name "Scattergories",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/eIL4hvMb7ZPgizc7BZOh-g__thumb/img/sx0XxYqv0FtsIp-RoW-5C42sLOc=/fit-in/200x150/filters:strip_icc()/pic4994410.jpg"},
+                             "https://cf.geekdo-images.com/eIL4hvMb7ZPgizc7BZOh-g__small/img/sx0XxYqv0FtsIp-RoW-5C42sLOc=/fit-in/200x150/filters:strip_icc()/pic4994410.jpg"},
                             #uuid "e261ac28-9c39-30db-81d4-e7551f8b4fe6"
                             {:game/id
                              #uuid "e261ac28-9c39-30db-81d4-e7551f8b4fe6",
@@ -19899,7 +19833,7 @@
                              :languages ["en"],
                              :game/name "Scopa",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/xL19yZVC6MEcUuyFvLaT5g__thumb/img/GGruf0Yl0VSCsCikl0MSmj0MBXw=/fit-in/200x150/filters:strip_icc()/pic8831024.png"},
+                             "https://cf.geekdo-images.com/xL19yZVC6MEcUuyFvLaT5g__small/img/GGruf0Yl0VSCsCikl0MSmj0MBXw=/fit-in/200x150/filters:strip_icc()/pic8831024.png"},
                             #uuid "645ab7f6-09eb-3401-988d-97cd930668c1"
                             {:game/id
                              #uuid "645ab7f6-09eb-3401-988d-97cd930668c1",
@@ -19943,7 +19877,7 @@
                              :languages ["en"],
                              :game/name "Scotland Yard",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/yEhaXszPTy5N4hiY469DPA__thumb/img/vDtUEdMUid0w4RKHmlwxz9a-Beo=/fit-in/200x150/filters:strip_icc()/pic8377405.jpg"},
+                             "https://cf.geekdo-images.com/yEhaXszPTy5N4hiY469DPA__small/img/vDtUEdMUid0w4RKHmlwxz9a-Beo=/fit-in/200x150/filters:strip_icc()/pic8377405.jpg"},
                             #uuid "77933845-adf8-3758-a686-a08ea46f015e"
                             {:game/id
                              #uuid "77933845-adf8-3758-a686-a08ea46f015e",
@@ -19987,7 +19921,7 @@
                              :languages ["en"],
                              :game/name "Scrabble",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/mVmmntn2oQd0PfFrWBvwIQ__thumb/img/RUmuGCB40FQH0en0R2nrcsSO7DE=/fit-in/200x150/filters:strip_icc()/pic404651.jpg"},
+                             "https://cf.geekdo-images.com/mVmmntn2oQd0PfFrWBvwIQ__small/img/RUmuGCB40FQH0en0R2nrcsSO7DE=/fit-in/200x150/filters:strip_icc()/pic404651.jpg"},
                             #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08"
                             {:game/id
                              #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08",
@@ -20086,12 +20020,12 @@
                              :com.boardgamegeek.boardgame/max-players
                              5,
                              :com.boardgamegeek.boardgame/min-play-time
-                             90,
+                             115,
                              :com.boardgamegeek.boardgame/id "169786",
                              :languages ["cs"],
                              :game/name "Scythe",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/7k_nOxpO9OGIjhLq2BUZdA__thumb/img/eQ69OEDdjYjfKg6q5Navee87skU=/fit-in/200x150/filters:strip_icc()/pic3163924.jpg"},
+                             "https://cf.geekdo-images.com/7k_nOxpO9OGIjhLq2BUZdA__small/img/eQ69OEDdjYjfKg6q5Navee87skU=/fit-in/200x150/filters:strip_icc()/pic3163924.jpg"},
                             #uuid "b7ef96e9-33f1-3f65-9f90-b57a72f045bc"
                             {:game/id
                              #uuid "b7ef96e9-33f1-3f65-9f90-b57a72f045bc",
@@ -20122,7 +20056,7 @@
                              :com.boardgamegeek.boardgame/id "406660",
                              :game/name "Seaside",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/kRGRCtnIof68GRLRy4A9Xw__thumb/img/8Zq9Mdpg_QKlemYPhKUJRdPUntw=/fit-in/200x150/filters:strip_icc()/pic7990519.jpg"},
+                             "https://cf.geekdo-images.com/kRGRCtnIof68GRLRy4A9Xw__small/img/8Zq9Mdpg_QKlemYPhKUJRdPUntw=/fit-in/200x150/filters:strip_icc()/pic7990519.jpg"},
                             #uuid "5b444b22-2047-3124-af08-48687f72a6b5"
                             {:game/id
                              #uuid "5b444b22-2047-3124-af08-48687f72a6b5",
@@ -20194,7 +20128,7 @@
                              :languages ["en"],
                              :game/name "Secret Hitler",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/rAQ3hIXoH6xDcj41v9iqCg__thumb/img/xA2T7PiwN3Z8pwAksicoCOA1tf0=/fit-in/200x150/filters:strip_icc()/pic5164305.jpg"},
+                             "https://cf.geekdo-images.com/rAQ3hIXoH6xDcj41v9iqCg__small/img/xA2T7PiwN3Z8pwAksicoCOA1tf0=/fit-in/200x150/filters:strip_icc()/pic5164305.jpg"},
                             #uuid "ce0363fc-c19f-3544-882b-fdb32a2e4315"
                             {:game/id
                              #uuid "ce0363fc-c19f-3544-882b-fdb32a2e4315",
@@ -20234,7 +20168,7 @@
                              :languages ["en"],
                              :game/name "Sector 6",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/wrv093W21WQaK8A-Ip0YRA__thumb/img/Jj74D2y8ERLW5YRuFhEZrHutAZs=/fit-in/200x150/filters:strip_icc()/pic3299640.jpg"},
+                             "https://cf.geekdo-images.com/wrv093W21WQaK8A-Ip0YRA__small/img/Jj74D2y8ERLW5YRuFhEZrHutAZs=/fit-in/200x150/filters:strip_icc()/pic3299640.jpg"},
                             #uuid "8af65315-b94d-3484-be10-eaf75cc6d55a"
                             {:game/id
                              #uuid "8af65315-b94d-3484-be10-eaf75cc6d55a",
@@ -20274,7 +20208,7 @@
                              :languages ["cs"],
                              :game/name "Seven Dragons",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Qc-1nXLd7Zpl2kpX1ga3Bg__thumb/img/AhwFa5lK5OuIhieeQ56KZrR09e8=/fit-in/200x150/filters:strip_icc()/pic1022004.jpg"},
+                             "https://cf.geekdo-images.com/Qc-1nXLd7Zpl2kpX1ga3Bg__small/img/AhwFa5lK5OuIhieeQ56KZrR09e8=/fit-in/200x150/filters:strip_icc()/pic1022004.jpg"},
                             #uuid "01f7b705-9b33-3897-969b-343e8a6e682e"
                             {:game/id
                              #uuid "01f7b705-9b33-3897-969b-343e8a6e682e",
@@ -20350,7 +20284,7 @@
                              :languages ["en"],
                              :game/name "Sheriff of Nottingham",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/BBgLFKUzr6tcKtlIM2JSFw__thumb/img/JD5L_XrtkaKINUj8ILZqFMGcTsE=/fit-in/200x150/filters:strip_icc()/pic2075830.jpg"},
+                             "https://cf.geekdo-images.com/BBgLFKUzr6tcKtlIM2JSFw__small/img/JD5L_XrtkaKINUj8ILZqFMGcTsE=/fit-in/200x150/filters:strip_icc()/pic2075830.jpg"},
                             #uuid "73cf068a-cf5b-344a-8591-f980dd398f66"
                             {:languages ["en"],
                              :name
@@ -20407,7 +20341,7 @@
                              :com.boardgamegeek.boardgame/id "356061",
                              :game/name "Sherlock: Case Connection",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/BHka65B371KdPsJBcZ0gvA__thumb/img/B05AW5WsGhRrLCjfFvV3Um9NaDU=/fit-in/200x150/filters:strip_icc()/pic6656377.jpg"},
+                             "https://cf.geekdo-images.com/BHka65B371KdPsJBcZ0gvA__small/img/B05AW5WsGhRrLCjfFvV3Um9NaDU=/fit-in/200x150/filters:strip_icc()/pic6656377.jpg"},
                             #uuid "8769712d-6075-3a94-b34f-d8e2ac344e74"
                             {:game/id
                              #uuid "8769712d-6075-3a94-b34f-d8e2ac344e74",
@@ -20466,7 +20400,7 @@
                              :com.boardgamegeek.boardgame/id "393179",
                              :game/name "Shipyard (Second Edition)",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/KI_9cZKyYhbmkKyaUzag4A__thumb/img/Hr4JtXtHueTQd5IvY9q7QMRW81c=/fit-in/200x150/filters:strip_icc()/pic7692151.jpg"},
+                             "https://cf.geekdo-images.com/KI_9cZKyYhbmkKyaUzag4A__small/img/Hr4JtXtHueTQd5IvY9q7QMRW81c=/fit-in/200x150/filters:strip_icc()/pic7692151.jpg"},
                             #uuid "6e6f4eb8-c896-3609-ae50-49ede7fbf6ad"
                             {:game/id
                              #uuid "6e6f4eb8-c896-3609-ae50-49ede7fbf6ad",
@@ -20510,7 +20444,7 @@
                              :languages ["en"],
                              :game/name "Shit Happens",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/-DIfXIDpTWS7m3J9yg87oQ__thumb/img/SB8g7W1Zh3o4V9M1o1s4xMpGgTU=/fit-in/200x150/filters:strip_icc()/pic3943080.jpg"},
+                             "https://cf.geekdo-images.com/-DIfXIDpTWS7m3J9yg87oQ__small/img/SB8g7W1Zh3o4V9M1o1s4xMpGgTU=/fit-in/200x150/filters:strip_icc()/pic3943080.jpg"},
                             #uuid "fe57f4f4-dfd9-3a0c-a094-252749004e98"
                             {:game/id
                              #uuid "fe57f4f4-dfd9-3a0c-a094-252749004e98",
@@ -20546,7 +20480,7 @@
                              :languages ["cs" "en" "fr" "de" "ru"],
                              :game/name "Shogi",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/bDAUtRTr6gSaywKalCmsCA__thumb/img/2Esbvkie_jGjPq3ABrQFJ85q6rM=/fit-in/200x150/filters:strip_icc()/pic4348588.jpg"},
+                             "https://cf.geekdo-images.com/bDAUtRTr6gSaywKalCmsCA__small/img/2Esbvkie_jGjPq3ABrQFJ85q6rM=/fit-in/200x150/filters:strip_icc()/pic4348588.jpg"},
                             #uuid "efc126d9-50ea-3cf6-97fd-6f8bc0ee7db8"
                             {:game/id
                              #uuid "efc126d9-50ea-3cf6-97fd-6f8bc0ee7db8",
@@ -20622,7 +20556,7 @@
                              :languages ["en"],
                              :game/name "Sidereal Confluence",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/3V1Nmee3P4qSpVmWO9uGgw__thumb/img/ptUAPVk_LoqX7qDUt7ngtDXe-Qw=/fit-in/200x150/filters:strip_icc()/pic4981297.jpg"},
+                             "https://cf.geekdo-images.com/3V1Nmee3P4qSpVmWO9uGgw__small/img/ptUAPVk_LoqX7qDUt7ngtDXe-Qw=/fit-in/200x150/filters:strip_icc()/pic4981297.jpg"},
                             #uuid "23cacdef-82dc-32b9-a8a4-39e224c75d3f"
                             {:game/id
                              #uuid "23cacdef-82dc-32b9-a8a4-39e224c75d3f",
@@ -20670,7 +20604,7 @@
                              :languages ["en"],
                              :game/name "Sides",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/nCqaWvRZEjSUxpfiUBV5hA__thumb/img/FiTRjmdhjNjC_Wax0E48uckBuCU=/fit-in/200x150/filters:strip_icc()/pic7464258.jpg"},
+                             "https://cf.geekdo-images.com/nCqaWvRZEjSUxpfiUBV5hA__small/img/FiTRjmdhjNjC_Wax0E48uckBuCU=/fit-in/200x150/filters:strip_icc()/pic7464258.jpg"},
                             #uuid "c59a448e-a61e-3dad-871d-f3bc7ebe6774"
                             {:game/id
                              #uuid "c59a448e-a61e-3dad-871d-f3bc7ebe6774",
@@ -20698,7 +20632,7 @@
                                                                 3006,
                                                                 :name
                                                                 "Predictive Bid"}),
-                             :name "Skull",
+                             :name "Skull and Roses",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1023,
@@ -20722,7 +20656,7 @@
                              :languages ["en"],
                              :game/name "Skull",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/OPrd2iXm43dir7BwKAMOuQ__thumb/img/yEnb4YWN-Cp41KWTQ2EeNkrqlZI=/fit-in/200x150/filters:strip_icc()/pic6097488.jpg"},
+                             "https://cf.geekdo-images.com/OPrd2iXm43dir7BwKAMOuQ__small/img/yEnb4YWN-Cp41KWTQ2EeNkrqlZI=/fit-in/200x150/filters:strip_icc()/pic6097488.jpg"},
                             #uuid "d4aeee1d-0282-3a12-b26a-513efbaf3c3a"
                             {:game/id
                              #uuid "d4aeee1d-0282-3a12-b26a-513efbaf3c3a",
@@ -20758,7 +20692,7 @@
                              :languages ["cs"],
                              :game/name "Služebníci Temnoty",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/og9q1Tz-2dtD2xaaz30DrQ__thumb/img/jpfzjdn0y67ePTmEePMSg3zkZB8=/fit-in/200x150/filters:strip_icc()/pic6806246.jpg"},
+                             "https://cf.geekdo-images.com/og9q1Tz-2dtD2xaaz30DrQ__small/img/jpfzjdn0y67ePTmEePMSg3zkZB8=/fit-in/200x150/filters:strip_icc()/pic6806246.jpg"},
                             #uuid "91213b2a-a925-328e-8ab4-b47bf6ed7a81"
                             {:game/id
                              #uuid "91213b2a-a925-328e-8ab4-b47bf6ed7a81",
@@ -20801,7 +20735,7 @@
                              :com.boardgamegeek.boardgame/id "236248",
                              :game/name "Small Islands",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/wj0V1vCpR11kmq1EpWxxkw__thumb/img/DyPhLsGnU_6DBS2CQ8yo5VcCaC4=/fit-in/200x150/filters:strip_icc()/pic3970233.jpg"},
+                             "https://cf.geekdo-images.com/wj0V1vCpR11kmq1EpWxxkw__small/img/DyPhLsGnU_6DBS2CQ8yo5VcCaC4=/fit-in/200x150/filters:strip_icc()/pic3970233.jpg"},
                             #uuid "d5fd1c48-4bc6-3542-8805-4964fab16e05"
                             {:game/id
                              #uuid "d5fd1c48-4bc6-3542-8805-4964fab16e05",
@@ -20865,7 +20799,7 @@
                              :languages ["en"],
                              :game/name "Small World",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/aoPM07XzoceB-RydLh08zA__thumb/img/o3Bw9heVDJRgPYlI_PksCvLAgnM=/fit-in/200x150/filters:strip_icc()/pic428828.jpg"},
+                             "https://cf.geekdo-images.com/aoPM07XzoceB-RydLh08zA__small/img/o3Bw9heVDJRgPYlI_PksCvLAgnM=/fit-in/200x150/filters:strip_icc()/pic428828.jpg"},
                             #uuid "568da493-2833-3009-ad26-7108e0683081"
                             {:game/id
                              #uuid "568da493-2833-3009-ad26-7108e0683081",
@@ -20897,7 +20831,7 @@
                              :languages ["cs"],
                              :game/name "Smart10",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/pwa0lKfmlE4PvFo-YVxrLQ__thumb/img/4RXK5M7g8_GRW_2HjyLdTjS3_fw=/fit-in/200x150/filters:strip_icc()/pic4945756.jpg"},
+                             "https://cf.geekdo-images.com/ulWDdnx-cyzHpAXYTxqMXA__small/img/xxPymMLGkLMFXZr7ZT4kDFbotBY=/fit-in/200x150/filters:strip_icc()/pic9086289.jpg"},
                             #uuid "2e994ee0-a8fc-32ef-a229-a0d74edf07cf"
                             {:game/id
                              #uuid "2e994ee0-a8fc-32ef-a229-a0d74edf07cf",
@@ -20977,7 +20911,7 @@
                              :languages ["en"],
                              :game/name "Smash Up",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/c1DOHkXD35OcqfPoxoSXlA__thumb/img/kdzBzdj4prsoztFNEFZ6eWv1RVI=/fit-in/200x150/filters:strip_icc()/pic1269874.jpg"},
+                             "https://cf.geekdo-images.com/c1DOHkXD35OcqfPoxoSXlA__small/img/kdzBzdj4prsoztFNEFZ6eWv1RVI=/fit-in/200x150/filters:strip_icc()/pic1269874.jpg"},
                             #uuid "cd9b3130-0865-3759-962d-9c3eab8d03f4"
                             {:game/id
                              #uuid "cd9b3130-0865-3759-962d-9c3eab8d03f4",
@@ -21025,7 +20959,7 @@
                              :languages ["en"],
                              :game/name "Snake Oil",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/q-Sdv383LKSBIPOrSRb5Cg__thumb/img/IgIpwCXKODgKV152brI3nH5Rwag=/fit-in/200x150/filters:strip_icc()/pic7617053.jpg"},
+                             "https://cf.geekdo-images.com/q-Sdv383LKSBIPOrSRb5Cg__small/img/IgIpwCXKODgKV152brI3nH5Rwag=/fit-in/200x150/filters:strip_icc()/pic7617053.jpg"},
                             #uuid "82a2aacc-38f9-3d71-94a7-0b91e124eff2"
                             {:game/id
                              #uuid "82a2aacc-38f9-3d71-94a7-0b91e124eff2",
@@ -21060,7 +20994,7 @@
                              :com.boardgamegeek.boardgame/id "420120",
                              :game/name "Snatch it!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/0eAzzlWerTTu-YuBL4PNjw__thumb/img/uUkgiq_opBq-oJ8TdMvqG7x29Eg=/fit-in/200x150/filters:strip_icc()/pic8172481.jpg"},
+                             "https://cf.geekdo-images.com/0eAzzlWerTTu-YuBL4PNjw__small/img/uUkgiq_opBq-oJ8TdMvqG7x29Eg=/fit-in/200x150/filters:strip_icc()/pic8172481.jpg"},
                             #uuid "6fe19369-f217-3b8c-a477-7fca8a743df4"
                             {:game/id
                              #uuid "6fe19369-f217-3b8c-a477-7fca8a743df4",
@@ -21160,7 +21094,7 @@
                              :languages ["en"],
                              :game/name "Space Cadets",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/YTPL0ZG_8Y4EQfiCXZzvrg__thumb/img/2gOYyhKR6WH8EuemztSCMQvqNbo=/fit-in/200x150/filters:strip_icc()/pic1362404.jpg"},
+                             "https://cf.geekdo-images.com/YTPL0ZG_8Y4EQfiCXZzvrg__small/img/2gOYyhKR6WH8EuemztSCMQvqNbo=/fit-in/200x150/filters:strip_icc()/pic1362404.jpg"},
                             #uuid "d2d5cb9d-1faa-3a1e-9c8b-0175fdae6604"
                             {:game/id
                              #uuid "d2d5cb9d-1faa-3a1e-9c8b-0175fdae6604",
@@ -21196,7 +21130,7 @@
                              :languages ["en"],
                              :game/name "Space Dragons",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/47A7oUEpu-qwO988YOTkBA__thumb/img/N6VULco9RdpHfMpXS2Nr9Tc89_4=/fit-in/200x150/filters:strip_icc()/pic5915757.jpg"},
+                             "https://cf.geekdo-images.com/47A7oUEpu-qwO988YOTkBA__small/img/N6VULco9RdpHfMpXS2Nr9Tc89_4=/fit-in/200x150/filters:strip_icc()/pic5915757.jpg"},
                             #uuid "1c1ad4ae-57a5-38c9-8c80-666849f4eeec"
                             {:game/id
                              #uuid "1c1ad4ae-57a5-38c9-8c80-666849f4eeec",
@@ -21236,7 +21170,7 @@
                              :languages ["en"],
                              :game/name "Spaghetti",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/c4TmP5Ea8M1oBqtdZR6evw__thumb/img/1jlo5FQLG37lZvT_9GGkPHOG8ow=/fit-in/200x150/filters:strip_icc()/pic3159338.jpg"},
+                             "https://cf.geekdo-images.com/c4TmP5Ea8M1oBqtdZR6evw__small/img/1jlo5FQLG37lZvT_9GGkPHOG8ow=/fit-in/200x150/filters:strip_icc()/pic3159338.jpg"},
                             #uuid "c40449ad-6ef9-3efa-975b-ce65b80d0c05"
                             {:game/id
                              #uuid "c40449ad-6ef9-3efa-975b-ce65b80d0c05",
@@ -21284,7 +21218,7 @@
                              :languages ["en"],
                              :game/name "Sparkle*Kitty",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/_fcotF88sUAcV9fONS5BiA__thumb/img/nXXh6fzzaP9_7mNnAJ4kzi6kdxw=/fit-in/200x150/filters:strip_icc()/pic5254885.png"},
+                             "https://cf.geekdo-images.com/_fcotF88sUAcV9fONS5BiA__small/img/nXXh6fzzaP9_7mNnAJ4kzi6kdxw=/fit-in/200x150/filters:strip_icc()/pic5254885.png"},
                             #uuid "2c069876-b1f5-3703-8bd0-4f815c97868f"
                             {:game/id
                              #uuid "2c069876-b1f5-3703-8bd0-4f815c97868f",
@@ -21320,7 +21254,7 @@
                              :languages ["en"],
                              :game/name "Speak Easy!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/EArzccjr2TWMa1BCasOx5g__thumb/img/VMRZJZg-zLkoVJSdxcJXU2ZEQMo=/fit-in/200x150/filters:strip_icc()/pic7036896.jpg"},
+                             "https://cf.geekdo-images.com/EArzccjr2TWMa1BCasOx5g__small/img/VMRZJZg-zLkoVJSdxcJXU2ZEQMo=/fit-in/200x150/filters:strip_icc()/pic7036896.jpg"},
                             #uuid "106facbb-305a-30f4-afe6-9fe69cfadbdc"
                             {:game/id
                              #uuid "106facbb-305a-30f4-afe6-9fe69cfadbdc",
@@ -21396,7 +21330,7 @@
                              :languages ["en"],
                              :game/name "Specter Ops",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/lVFArtZrwFEDo23sDcSMEg__thumb/img/pky3rb47HJv8jcNPjV3jbDB7o4c=/fit-in/200x150/filters:strip_icc()/pic2486481.jpg"},
+                             "https://cf.geekdo-images.com/lVFArtZrwFEDo23sDcSMEg__small/img/pky3rb47HJv8jcNPjV3jbDB7o4c=/fit-in/200x150/filters:strip_icc()/pic2486481.jpg"},
                             #uuid "bdc861dc-6b29-3561-92f7-d53f184e07fc"
                             {:game/id
                              #uuid "bdc861dc-6b29-3561-92f7-d53f184e07fc",
@@ -21440,7 +21374,7 @@
                              :languages ["en"],
                              :game/name "Speculation",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/DIOqNWsW565yd3hPNun2UQ__thumb/img/8Bu2i8e03TSByVt95QUy4NoIxpQ=/fit-in/200x150/filters:strip_icc()/pic4029529.jpg"},
+                             "https://cf.geekdo-images.com/DIOqNWsW565yd3hPNun2UQ__small/img/8Bu2i8e03TSByVt95QUy4NoIxpQ=/fit-in/200x150/filters:strip_icc()/pic4029529.jpg"},
                             #uuid "0ef3c7ad-f9bd-3964-afb0-62c38bee7460"
                             {:game/id
                              #uuid "0ef3c7ad-f9bd-3964-afb0-62c38bee7460",
@@ -21480,7 +21414,7 @@
                              :languages ["en"],
                              :game/name "Spicy",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/eLJJ7f5I106enEFkSfxmnQ__thumb/img/nyTH5PgSWie1DZMZVJ7tnzEL-hk=/fit-in/200x150/filters:strip_icc()/pic5181748.png"},
+                             "https://cf.geekdo-images.com/eLJJ7f5I106enEFkSfxmnQ__small/img/nyTH5PgSWie1DZMZVJ7tnzEL-hk=/fit-in/200x150/filters:strip_icc()/pic5181748.png"},
                             #uuid "6bc5f893-5eeb-33fd-86fe-73e8c61764f9"
                             {:game/id
                              #uuid "6bc5f893-5eeb-33fd-86fe-73e8c61764f9",
@@ -21528,7 +21462,7 @@
                              :languages ["cs" "en"],
                              :game/name "Splendor",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/vNFe4JkhKAERzi4T0Ntwpw__thumb/img/KKU_42Uswt4tKCpf1zY5kTzgr-g=/fit-in/200x150/filters:strip_icc()/pic8234167.png"},
+                             "https://cf.geekdo-images.com/vNFe4JkhKAERzi4T0Ntwpw__small/img/KKU_42Uswt4tKCpf1zY5kTzgr-g=/fit-in/200x150/filters:strip_icc()/pic8234167.png"},
                             #uuid "9fa3f01d-ac6e-3690-9837-54da6c87150f"
                             {:game/id
                              #uuid "9fa3f01d-ac6e-3690-9837-54da6c87150f",
@@ -21575,7 +21509,7 @@
                              :com.boardgamegeek.boardgame/id "364073",
                              :game/name "Splendor Duel",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/V1PyFDPNFY4bJFgreLPxmQ__thumb/img/E0OuG2X4HsbOdCh1uLyZZcMiapQ=/fit-in/200x150/filters:strip_icc()/pic6929347.jpg"},
+                             "https://cf.geekdo-images.com/V1PyFDPNFY4bJFgreLPxmQ__small/img/E0OuG2X4HsbOdCh1uLyZZcMiapQ=/fit-in/200x150/filters:strip_icc()/pic6929347.jpg"},
                             #uuid "6bdd63a2-940d-3e46-a254-30ccff2b0d49"
                             {:game/id
                              #uuid "6bdd63a2-940d-3e46-a254-30ccff2b0d49",
@@ -21631,7 +21565,7 @@
                              :languages ["cs" "en" "de" "ru"],
                              :game/name "Spot it!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/hqDT4HbEb2eNCyMOeiGj-g__thumb/img/ZNgW2QhLjYpVltWHy3LyJqstnow=/fit-in/200x150/filters:strip_icc()/pic6477003.png"},
+                             "https://cf.geekdo-images.com/hqDT4HbEb2eNCyMOeiGj-g__small/img/ZNgW2QhLjYpVltWHy3LyJqstnow=/fit-in/200x150/filters:strip_icc()/pic6477003.png"},
                             #uuid "88857068-79d6-3142-9e20-b8c7fd8b986d"
                             {:game/id
                              #uuid "88857068-79d6-3142-9e20-b8c7fd8b986d",
@@ -21675,7 +21609,7 @@
                              :languages ["en"],
                              :game/name "Spring Meadow",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/RyoXSs5ukUtep7WbiWqTLg__thumb/img/Ev9hcbV_yI-PKaRqY8ZZSVLJpPY=/fit-in/200x150/filters:strip_icc()/pic4149719.jpg"},
+                             "https://cf.geekdo-images.com/RyoXSs5ukUtep7WbiWqTLg__small/img/Ev9hcbV_yI-PKaRqY8ZZSVLJpPY=/fit-in/200x150/filters:strip_icc()/pic4149719.jpg"},
                             #uuid "dee45e08-5103-32ec-93b7-17d391b64576"
                             {:game/id
                              #uuid "dee45e08-5103-32ec-93b7-17d391b64576",
@@ -21747,7 +21681,7 @@
                              :languages ["en"],
                              :game/name "Spyfall",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Ehx72XRdSeQHISVXcZVnHg__thumb/img/sPJVWjzGcEpiseZGdoD6HNR9nRI=/fit-in/200x150/filters:strip_icc()/pic2453926.jpg"},
+                             "https://cf.geekdo-images.com/Ehx72XRdSeQHISVXcZVnHg__small/img/sPJVWjzGcEpiseZGdoD6HNR9nRI=/fit-in/200x150/filters:strip_icc()/pic2453926.jpg"},
                             #uuid "9cf42701-85ad-3877-9a0f-cf57a5acf172"
                             {:game/id
                              #uuid "9cf42701-85ad-3877-9a0f-cf57a5acf172",
@@ -21775,7 +21709,7 @@
                              :languages ["en"],
                              :game/name "Squadro",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/WnpSuWccYdjrLDaAqaDCPw__thumb/img/eA6wQK1rtkYLUEk_9Viq940QGpM=/fit-in/200x150/filters:strip_icc()/pic4210130.jpg"},
+                             "https://cf.geekdo-images.com/WnpSuWccYdjrLDaAqaDCPw__small/img/eA6wQK1rtkYLUEk_9Viq940QGpM=/fit-in/200x150/filters:strip_icc()/pic4210130.jpg"},
                             #uuid "f5bfe35c-f64b-36c5-a059-ab7c52630a78"
                             {:game/id
                              #uuid "f5bfe35c-f64b-36c5-a059-ab7c52630a78",
@@ -21805,7 +21739,7 @@
                              :com.boardgamegeek.boardgame/id "426796",
                              :game/name "Stamp Swap",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Tf2ryUBtxnnUCGROOy4QHg__thumb/img/jIbqpvx2URBkJgr7Y1OjKB_pwqs=/fit-in/200x150/filters:strip_icc()/pic8365415.png"},
+                             "https://cf.geekdo-images.com/Tf2ryUBtxnnUCGROOy4QHg__small/img/jIbqpvx2URBkJgr7Y1OjKB_pwqs=/fit-in/200x150/filters:strip_icc()/pic8365415.png"},
                             #uuid "56be7020-8ac5-312f-9c02-a912103646d9"
                             {:game/id
                              #uuid "56be7020-8ac5-312f-9c02-a912103646d9",
@@ -21841,7 +21775,7 @@
                              :languages ["en"],
                              :game/name "Star Fluxx",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/4rafBr5oDBZVSzN7ije3ZA__thumb/img/Pfr3nT9aYUJC6kEy0PArEeONLpM=/fit-in/200x150/filters:strip_icc()/pic1059779.jpg"},
+                             "https://cf.geekdo-images.com/4rafBr5oDBZVSzN7ije3ZA__small/img/Pfr3nT9aYUJC6kEy0PArEeONLpM=/fit-in/200x150/filters:strip_icc()/pic1059779.jpg"},
                             #uuid "7f5c4b62-c9ec-3866-8ad6-598ebab4623a"
                             {:game/id
                              #uuid "7f5c4b62-c9ec-3866-8ad6-598ebab4623a",
@@ -21897,7 +21831,7 @@
                              :languages ["en"],
                              :game/name "Star Trek: Fleet Captains",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/UqnetX2v84p9ZMpzB8GiDw__thumb/img/2MTCJvG13SbBcF92yo-4wuGuY10=/fit-in/200x150/filters:strip_icc()/pic1081488.jpg"},
+                             "https://cf.geekdo-images.com/UqnetX2v84p9ZMpzB8GiDw__small/img/2MTCJvG13SbBcF92yo-4wuGuY10=/fit-in/200x150/filters:strip_icc()/pic1081488.jpg"},
                             #uuid "63c8eeb1-6a44-345d-a1f7-ca33537c2780"
                             {:game/id
                              #uuid "63c8eeb1-6a44-345d-a1f7-ca33537c2780",
@@ -21920,7 +21854,7 @@
                              :languages ["en"],
                              :game/name "Star Wars Trivia Game",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Ho__xYmmYLtxuuQEvSJu2g__thumb/img/2StnVKhcNXe3DC_2PgWwVo8M6GU=/fit-in/200x150/filters:strip_icc()/pic2814797.jpg"},
+                             "https://cf.geekdo-images.com/Ho__xYmmYLtxuuQEvSJu2g__small/img/2StnVKhcNXe3DC_2PgWwVo8M6GU=/fit-in/200x150/filters:strip_icc()/pic2814797.jpg"},
                             #uuid "23363318-affe-3924-96bd-8cb83c7eed5a"
                             {:game/id
                              #uuid "23363318-affe-3924-96bd-8cb83c7eed5a",
@@ -21976,7 +21910,7 @@
                              :languages ["en"],
                              :game/name "Startups",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Y23LsS9HxPgO0XT5RvtwTA__thumb/img/JQ6I0tZDYByNKmMSW0gsTiNulEQ=/fit-in/200x150/filters:strip_icc()/pic3678411.png"},
+                             "https://cf.geekdo-images.com/Y23LsS9HxPgO0XT5RvtwTA__small/img/JQ6I0tZDYByNKmMSW0gsTiNulEQ=/fit-in/200x150/filters:strip_icc()/pic3678411.png"},
                             #uuid "8cb5b968-7b73-3122-b9a4-20caa3e6a993"
                             {:game/id
                              #uuid "8cb5b968-7b73-3122-b9a4-20caa3e6a993",
@@ -22019,7 +21953,7 @@
                              :com.boardgamegeek.boardgame/id "424753",
                              :game/name "Station to Station",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/SX--W3rCoBqLR0hV5H2lwQ__thumb/img/FtBmgtL2zRvpJZUHa0z4Htfl724=/fit-in/200x150/filters:strip_icc()/pic8305395.jpg"},
+                             "https://cf.geekdo-images.com/SX--W3rCoBqLR0hV5H2lwQ__small/img/FtBmgtL2zRvpJZUHa0z4Htfl724=/fit-in/200x150/filters:strip_icc()/pic8305395.jpg"},
                             #uuid "5f04dffc-be2c-351d-adf5-f41fb7084b4e"
                             {:game/id
                              #uuid "5f04dffc-be2c-351d-adf5-f41fb7084b4e",
@@ -22079,7 +22013,7 @@
                              :languages ["en"],
                              :game/name "Stay Away!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/oQjTzwZ07k7K32ix42v9vQ__thumb/img/craD998lI9Qp7TYfQS9TrOnif1k=/fit-in/200x150/filters:strip_icc()/pic3494983.png"},
+                             "https://cf.geekdo-images.com/oQjTzwZ07k7K32ix42v9vQ__small/img/craD998lI9Qp7TYfQS9TrOnif1k=/fit-in/200x150/filters:strip_icc()/pic3494983.png"},
                             #uuid "8ba768ba-5f32-3f6f-80c8-52550f880c9a"
                             {:game/id
                              #uuid "8ba768ba-5f32-3f6f-80c8-52550f880c9a",
@@ -22154,7 +22088,7 @@
                              :com.boardgamegeek.boardgame/id "391752",
                              :game/name "Steam Power",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/d5JR5FekM_PsanGOHBdSMA__thumb/img/RKxhi5xFFrDm9KbjTiNYA27WwKI=/fit-in/200x150/filters:strip_icc()/pic7720019.jpg"},
+                             "https://cf.geekdo-images.com/d5JR5FekM_PsanGOHBdSMA__small/img/RKxhi5xFFrDm9KbjTiNYA27WwKI=/fit-in/200x150/filters:strip_icc()/pic7720019.jpg"},
                             #uuid "29b65a85-c67e-33bc-9a07-4de2df0cf36a"
                             {:game/id
                              #uuid "29b65a85-c67e-33bc-9a07-4de2df0cf36a",
@@ -22198,7 +22132,7 @@
                              :languages ["cs"],
                              :game/name "Stella: Dixit Universe",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/j3vn68o2ovUim3zh-JiWIA__thumb/img/J-AoVapdE_5tkdmPRe39ltN0FwU=/fit-in/200x150/filters:strip_icc()/pic6738101.jpg"},
+                             "https://cf.geekdo-images.com/j3vn68o2ovUim3zh-JiWIA__small/img/J-AoVapdE_5tkdmPRe39ltN0FwU=/fit-in/200x150/filters:strip_icc()/pic6738101.jpg"},
                             #uuid "6c1f7ff8-38a7-36da-97a1-e81977744191"
                             {:game/id
                              #uuid "6c1f7ff8-38a7-36da-97a1-e81977744191",
@@ -22257,7 +22191,7 @@
                              :com.boardgamegeek.boardgame/id "357975",
                              :game/name "Stephens",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/VkHmQzTOYzgNCqvIcoPb_w__thumb/img/Oa-V2q2sOC2DccOiYL6x65hXjHg=/fit-in/200x150/filters:strip_icc()/pic8289609.jpg"},
+                             "https://cf.geekdo-images.com/VkHmQzTOYzgNCqvIcoPb_w__small/img/Oa-V2q2sOC2DccOiYL6x65hXjHg=/fit-in/200x150/filters:strip_icc()/pic8289609.jpg"},
                             #uuid "d6ab13c9-ca4c-37fa-badc-9ed14d6a6e7b"
                             {:game/id
                              #uuid "d6ab13c9-ca4c-37fa-badc-9ed14d6a6e7b",
@@ -22294,7 +22228,7 @@
                              :com.boardgamegeek.boardgame/id "351809",
                              :game/name "Stick Collection",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/stn2vDM3Bf2NAsJCKZIimA__thumb/img/IyYj8KEHWCkZ-NLLTddnAWwMXnU=/fit-in/200x150/filters:strip_icc()/pic7757952.jpg"},
+                             "https://cf.geekdo-images.com/stn2vDM3Bf2NAsJCKZIimA__small/img/IyYj8KEHWCkZ-NLLTddnAWwMXnU=/fit-in/200x150/filters:strip_icc()/pic7757952.jpg"},
                             #uuid "7c3801ac-e417-346c-a923-a047750758ea"
                             {:game/id
                              #uuid "7c3801ac-e417-346c-a923-a047750758ea",
@@ -22350,7 +22284,7 @@
                              :languages ["cs"],
                              :game/name "Stone Age",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/elmZegVZ6gp4_5izUgxGQQ__thumb/img/MXq3DEKWIozO-PmB4S64BiE5fd0=/fit-in/200x150/filters:strip_icc()/pic1632539.jpg"},
+                             "https://cf.geekdo-images.com/elmZegVZ6gp4_5izUgxGQQ__small/img/MXq3DEKWIozO-PmB4S64BiE5fd0=/fit-in/200x150/filters:strip_icc()/pic1632539.jpg"},
                             #uuid "9db165b4-98ba-3935-9f4e-a7bd23beb693"
                             {:game/id
                              #uuid "9db165b4-98ba-3935-9f4e-a7bd23beb693",
@@ -22396,7 +22330,7 @@
                              :languages ["en"],
                              :game/name "Stratego",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/XpYLAj9aQ5fkg7MJyIiMug__thumb/img/4JX8gc7ubBjf6HHJbllvuOVhDdI=/fit-in/200x150/filters:strip_icc()/pic8210077.jpg"},
+                             "https://cf.geekdo-images.com/XpYLAj9aQ5fkg7MJyIiMug__small/img/4JX8gc7ubBjf6HHJbllvuOVhDdI=/fit-in/200x150/filters:strip_icc()/pic8210077.jpg"},
                             #uuid "4695ee03-e5ae-3e4c-bc9f-d539d18ce710"
                             {:game/id
                              #uuid "4695ee03-e5ae-3e4c-bc9f-d539d18ce710",
@@ -22428,7 +22362,7 @@
                              :languages ["cs"],
                              :game/name "Stupefy!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/raSkI6SUnt5UOonjxrid1Q__thumb/img/I3XDvnH6yK5QHb1h5gW2BOzMU3U=/fit-in/200x150/filters:strip_icc()/pic7035688.png"},
+                             "https://cf.geekdo-images.com/raSkI6SUnt5UOonjxrid1Q__small/img/I3XDvnH6yK5QHb1h5gW2BOzMU3U=/fit-in/200x150/filters:strip_icc()/pic7035688.png"},
                             #uuid "12e2d12e-9e19-33ad-b08e-22ab8cc8eac5"
                             {:game/id
                              #uuid "12e2d12e-9e19-33ad-b08e-22ab8cc8eac5",
@@ -22504,7 +22438,7 @@
                              :languages ["en"],
                              :game/name "Sub Terra",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/47Z9FcLD20NDHdRYUaF_XA__thumb/img/I6Uog8mnrK4MgjiQlIMGcrQ01r8=/fit-in/200x150/filters:strip_icc()/pic3904427.png"},
+                             "https://cf.geekdo-images.com/47Z9FcLD20NDHdRYUaF_XA__small/img/I6Uog8mnrK4MgjiQlIMGcrQ01r8=/fit-in/200x150/filters:strip_icc()/pic3904427.png"},
                             #uuid "cb4c3448-07c8-36e6-8cbd-28f45339be1d"
                             {:game/id
                              #uuid "cb4c3448-07c8-36e6-8cbd-28f45339be1d",
@@ -22560,7 +22494,7 @@
                              :languages ["en"],
                              :game/name "Summoner Wars",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/EWi-utp09EIJnwia_o_Taw__thumb/img/vEFkO1QccS2LQpL7fgX7-v1hZhg=/fit-in/200x150/filters:strip_icc()/pic5152378.png"},
+                             "https://cf.geekdo-images.com/EWi-utp09EIJnwia_o_Taw__small/img/vEFkO1QccS2LQpL7fgX7-v1hZhg=/fit-in/200x150/filters:strip_icc()/pic5152378.png"},
                             #uuid "99a5171b-604b-3566-81a2-6df0c0357b8b"
                             {:game/id
                              #uuid "99a5171b-604b-3566-81a2-6df0c0357b8b",
@@ -22608,7 +22542,7 @@
                              :languages ["cs"],
                              :game/name "Super Farmer",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/sl3RyQXqa39pcJyQdA0jyg__thumb/img/7CJLU1oGaOdnHuHl8yvo0yZdLTg=/fit-in/200x150/filters:strip_icc()/pic1802593.jpg"},
+                             "https://cf.geekdo-images.com/sl3RyQXqa39pcJyQdA0jyg__small/img/7CJLU1oGaOdnHuHl8yvo0yZdLTg=/fit-in/200x150/filters:strip_icc()/pic1802593.jpg"},
                             #uuid "fd143db8-a765-3a1c-a119-b934a7feaf44"
                             {:game/id
                              #uuid "fd143db8-a765-3a1c-a119-b934a7feaf44",
@@ -22648,7 +22582,7 @@
                              :languages ["cs"],
                              :game/name "Super Spy",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/JZqBtP_OIW8hMwzkVGeYNg__thumb/img/1BU5JVsiTO2f7BcixQzt0v79iMY=/fit-in/200x150/filters:strip_icc()/pic205043.jpg"},
+                             "https://cf.geekdo-images.com/JZqBtP_OIW8hMwzkVGeYNg__small/img/1BU5JVsiTO2f7BcixQzt0v79iMY=/fit-in/200x150/filters:strip_icc()/pic205043.jpg"},
                             #uuid "310b5bc9-eb03-362b-811c-6ceb8acb4e53"
                             {:game/id
                              #uuid "310b5bc9-eb03-362b-811c-6ceb8acb4e53",
@@ -22685,7 +22619,7 @@
                              :com.boardgamegeek.boardgame/id "38263",
                              :game/name "Sushi Bar",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/b0AGVULu0lgUCfo1oEcIGQ__thumb/img/95AQFAvm0bB7N52bv2iOv4L2aQQ=/fit-in/200x150/filters:strip_icc()/pic5286677.jpg"},
+                             "https://cf.geekdo-images.com/b0AGVULu0lgUCfo1oEcIGQ__small/img/95AQFAvm0bB7N52bv2iOv4L2aQQ=/fit-in/200x150/filters:strip_icc()/pic5286677.jpg"},
                             #uuid "1ac05cb4-3cc2-3dea-9887-c76c05417cff"
                             {:game/id
                              #uuid "1ac05cb4-3cc2-3dea-9887-c76c05417cff",
@@ -22737,7 +22671,7 @@
                              :languages ["en"],
                              :game/name "Sushi Go Party!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/2f9uTicUSXkdPp2Yks6zFw__thumb/img/_mXR9Tlo0f-i80h6pfhDEOBgvpY=/fit-in/200x150/filters:strip_icc()/pic5885689.jpg"},
+                             "https://cf.geekdo-images.com/2f9uTicUSXkdPp2Yks6zFw__small/img/_mXR9Tlo0f-i80h6pfhDEOBgvpY=/fit-in/200x150/filters:strip_icc()/pic5885689.jpg"},
                             #uuid "2c63539a-a2a5-3415-b3d7-89edc773ac8b"
                             {:game/id
                              #uuid "2c63539a-a2a5-3415-b3d7-89edc773ac8b",
@@ -22789,7 +22723,7 @@
                              :languages ["en" "cs"],
                              :game/name "Sushi Go!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Fn3PSPZVxa3YurlorITQ1Q__thumb/img/6XF493O0tSyLyZP5ArlcZrOTMXQ=/fit-in/200x150/filters:strip_icc()/pic1900075.jpg"},
+                             "https://cf.geekdo-images.com/Fn3PSPZVxa3YurlorITQ1Q__small/img/6XF493O0tSyLyZP5ArlcZrOTMXQ=/fit-in/200x150/filters:strip_icc()/pic1900075.jpg"},
                             #uuid "a50724cb-3531-3514-9719-1b72a49fdfdd"
                             {:game/id
                              #uuid "a50724cb-3531-3514-9719-1b72a49fdfdd",
@@ -22819,7 +22753,7 @@
                              :com.boardgamegeek.boardgame/id "244268",
                              :game/name "Sweet Mess",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/IzFpjbzSZBta2gpD3J3XIw__thumb/img/FxWMhaa21ROAlPwiOitSOt187q0=/fit-in/200x150/filters:strip_icc()/pic7226053.jpg"},
+                             "https://cf.geekdo-images.com/IzFpjbzSZBta2gpD3J3XIw__small/img/FxWMhaa21ROAlPwiOitSOt187q0=/fit-in/200x150/filters:strip_icc()/pic7226053.jpg"},
                             #uuid "993f217f-ae0d-33c1-b31d-a68fe56c11fe"
                             {:game/id
                              #uuid "993f217f-ae0d-33c1-b31d-a68fe56c11fe",
@@ -22846,7 +22780,7 @@
                              :com.boardgamegeek.boardgame/id "425216",
                              :game/name "Sær",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/ACU7vCSM0hfLGGHdSt7gVQ__thumb/img/j4FrdbBZg1zWATpQh_uYW2sR6KI=/fit-in/200x150/filters:strip_icc()/pic8356299.jpg"},
+                             "https://cf.geekdo-images.com/ACU7vCSM0hfLGGHdSt7gVQ__small/img/j4FrdbBZg1zWATpQh_uYW2sR6KI=/fit-in/200x150/filters:strip_icc()/pic8356299.jpg"},
                             #uuid "51c77b26-5d4b-3952-ac93-fa7002f8a379"
                             {:game/id
                              #uuid "51c77b26-5d4b-3952-ac93-fa7002f8a379",
@@ -22902,7 +22836,7 @@
                              :languages ["en"],
                              :game/name "T.I.M.E Stories",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/XmwCsjQ3C1Ul53ZN2o8Q-Q__thumb/img/tTU1YVtab-cN5gCdagINowvVA2g=/fit-in/200x150/filters:strip_icc()/pic2617634.png"},
+                             "https://cf.geekdo-images.com/XmwCsjQ3C1Ul53ZN2o8Q-Q__small/img/tTU1YVtab-cN5gCdagINowvVA2g=/fit-in/200x150/filters:strip_icc()/pic2617634.png"},
                             #uuid "309ea4eb-582b-3fb9-93ca-87fd54016d3e"
                             {:game/id
                              #uuid "309ea4eb-582b-3fb9-93ca-87fd54016d3e",
@@ -22942,7 +22876,7 @@
                              :languages ["en"],
                              :game/name "Taboo",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/TdOB9V-wTf0LenXk8QWo-A__thumb/img/FU6jPnm6yzKxH8au69ZAJwC2wpY=/fit-in/200x150/filters:strip_icc()/pic8377520.jpg"},
+                             "https://cf.geekdo-images.com/TdOB9V-wTf0LenXk8QWo-A__small/img/FU6jPnm6yzKxH8au69ZAJwC2wpY=/fit-in/200x150/filters:strip_icc()/pic8377520.jpg"},
                             #uuid "1e78ea48-893a-3f8e-91e2-01c9ff0e706e"
                             {:game/id
                              #uuid "1e78ea48-893a-3f8e-91e2-01c9ff0e706e",
@@ -23002,7 +22936,7 @@
                              :languages ["en" "cs"],
                              :game/name "Taco Cat Goat Cheese Pizza",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/GHrnr-Khb0LvBU_QkrC_qA__thumb/img/pFt03CkI8uo3rOi4E7_ZrZfSmIM=/fit-in/200x150/filters:strip_icc()/pic7192024.png"},
+                             "https://cf.geekdo-images.com/GHrnr-Khb0LvBU_QkrC_qA__small/img/pFt03CkI8uo3rOi4E7_ZrZfSmIM=/fit-in/200x150/filters:strip_icc()/pic7192024.png"},
                             #uuid "018b1acc-9502-34ad-8479-cb3758bba5b5"
                             {:game/id
                              #uuid "018b1acc-9502-34ad-8479-cb3758bba5b5",
@@ -23046,7 +22980,7 @@
                              :languages ["cs"],
                              :game/name "Take 5",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/WuOY1XAIJQ-RGAmT_apW_w__thumb/img/dhNHd8Ztln_lUFAdti6WkPnGTGg=/fit-in/200x150/filters:strip_icc()/pic8632998.jpg"},
+                             "https://cf.geekdo-images.com/WuOY1XAIJQ-RGAmT_apW_w__small/img/dhNHd8Ztln_lUFAdti6WkPnGTGg=/fit-in/200x150/filters:strip_icc()/pic8632998.jpg"},
                             #uuid "a269afa4-b576-31ac-88f1-2aee3f982c7d"
                             {:game/id
                              #uuid "a269afa4-b576-31ac-88f1-2aee3f982c7d",
@@ -23073,7 +23007,7 @@
                              :com.boardgamegeek.boardgame/id "427232",
                              :game/name "Takoyaki",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/DzFPUUz-h5Xqaq-B7K1wKA__thumb/img/BAInD6kC4hMPoobOMNDpTGVwOlo=/fit-in/200x150/filters:strip_icc()/pic8377328.jpg"},
+                             "https://cf.geekdo-images.com/DzFPUUz-h5Xqaq-B7K1wKA__small/img/BAInD6kC4hMPoobOMNDpTGVwOlo=/fit-in/200x150/filters:strip_icc()/pic8377328.jpg"},
                             #uuid "4634a6e0-4966-34e2-9444-6dc29ae74e70"
                             {:game/id
                              #uuid "4634a6e0-4966-34e2-9444-6dc29ae74e70",
@@ -23122,7 +23056,7 @@
                              :game/name
                              "Tales & Games: The Hare & the Tortoise",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/MabiuZo226P_M7PO8AJTWA__thumb/img/WTTPtTgmU6b_glj8FGrqsEErNFI=/fit-in/200x150/filters:strip_icc()/pic2688992.jpg"},
+                             "https://cf.geekdo-images.com/MabiuZo226P_M7PO8AJTWA__small/img/WTTPtTgmU6b_glj8FGrqsEErNFI=/fit-in/200x150/filters:strip_icc()/pic2688992.jpg"},
                             #uuid "be02937f-37a3-3696-932e-f9fc52479250"
                             {:game/id
                              #uuid "be02937f-37a3-3696-932e-f9fc52479250",
@@ -23154,7 +23088,7 @@
                              :languages ["cs"],
                              :game/name "Telepaths",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/hv52qeuIyyQ0Z5LRrn90Sg__thumb/img/UR6RU_7W_H91QHmtTn1RnkaPamY=/fit-in/200x150/filters:strip_icc()/pic4991939.jpg"},
+                             "https://cf.geekdo-images.com/hv52qeuIyyQ0Z5LRrn90Sg__small/img/UR6RU_7W_H91QHmtTn1RnkaPamY=/fit-in/200x150/filters:strip_icc()/pic4991939.jpg"},
                             #uuid "9c557202-449d-3095-b805-89c2e6e0fe50"
                             {:game/id
                              #uuid "9c557202-449d-3095-b805-89c2e6e0fe50",
@@ -23186,7 +23120,7 @@
                              :languages ["cs"],
                              :game/name "Terra",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/oisIhweNPvYGrTounfOr_A__thumb/img/CAOGSfBBkYezI4bVVyAP1fwv1ww=/fit-in/200x150/filters:strip_icc()/pic2566394.jpg"},
+                             "https://cf.geekdo-images.com/oisIhweNPvYGrTounfOr_A__small/img/CAOGSfBBkYezI4bVVyAP1fwv1ww=/fit-in/200x150/filters:strip_icc()/pic2566394.jpg"},
                             #uuid "76d0a4d5-6c58-32a4-940f-25915760d406"
                             {:game/id
                              #uuid "76d0a4d5-6c58-32a4-940f-25915760d406",
@@ -23230,7 +23164,7 @@
                              :languages ["cs"],
                              :game/name "Terra Futura",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/n_8MX5Ui5Nz006vNlEuErw__thumb/img/vwvtjShFDk5NVN8IBtXRMfpal-I=/fit-in/200x150/filters:strip_icc()/pic6170977.jpg"},
+                             "https://cf.geekdo-images.com/n_8MX5Ui5Nz006vNlEuErw__small/img/vwvtjShFDk5NVN8IBtXRMfpal-I=/fit-in/200x150/filters:strip_icc()/pic6170977.jpg"},
                             #uuid "0071dfa9-ec41-35e2-befc-ecbe183ff272"
                             {:game/id
                              #uuid "0071dfa9-ec41-35e2-befc-ecbe183ff272",
@@ -23310,7 +23244,7 @@
                              :languages ["en"],
                              :game/name "Terra Mystica",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/bre12I1YiXkZr7elvriz4A__thumb/img/GW-ip0dfeAee7KQqJ04SRZxF1lg=/fit-in/200x150/filters:strip_icc()/pic5375624.jpg"},
+                             "https://cf.geekdo-images.com/bre12I1YiXkZr7elvriz4A__small/img/GW-ip0dfeAee7KQqJ04SRZxF1lg=/fit-in/200x150/filters:strip_icc()/pic5375624.jpg"},
                             #uuid "e9764e69-b1a8-3687-9d7d-cdfac1d8508f"
                             {:game/id
                              #uuid "e9764e69-b1a8-3687-9d7d-cdfac1d8508f",
@@ -23358,7 +23292,7 @@
                              :languages ["en"],
                              :game/name "Terracotta Army",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/5tjbJJ21hE-ScRlV3DvjPQ__thumb/img/eDTauDf9jGKJ99l8P6v2h3htrds=/fit-in/200x150/filters:strip_icc()/pic6949932.jpg"},
+                             "https://cf.geekdo-images.com/5tjbJJ21hE-ScRlV3DvjPQ__small/img/eDTauDf9jGKJ99l8P6v2h3htrds=/fit-in/200x150/filters:strip_icc()/pic6949932.jpg"},
                             #uuid "f944b1ee-72e5-3ea8-832f-4eaf0dde6f09"
                             {:game/id
                              #uuid "f944b1ee-72e5-3ea8-832f-4eaf0dde6f09",
@@ -23458,7 +23392,7 @@
                              :languages ["cs"],
                              :game/name "Terraforming Mars",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__thumb/img/BTxqxgYay5tHJfVoJ2NF5g43_gA=/fit-in/200x150/filters:strip_icc()/pic3536616.jpg"},
+                             "https://cf.geekdo-images.com/wg9oOLcsKvDesSUdZQ4rxw__small/img/BTxqxgYay5tHJfVoJ2NF5g43_gA=/fit-in/200x150/filters:strip_icc()/pic3536616.jpg"},
                             #uuid "a1c77d4a-7ffb-3b08-865d-a6679be5016d"
                             {:game/id
                              #uuid "a1c77d4a-7ffb-3b08-865d-a6679be5016d",
@@ -23555,7 +23489,7 @@
                              :game/name
                              "Terraforming Mars: Ares Expedition",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/eT_Atcy_vRJvuUMgYakNrQ__thumb/img/YxoNRQg9owsoi68POaMY0Ix31ZI=/fit-in/200x150/filters:strip_icc()/pic6260098.jpg"},
+                             "https://cf.geekdo-images.com/eT_Atcy_vRJvuUMgYakNrQ__small/img/YxoNRQg9owsoi68POaMY0Ix31ZI=/fit-in/200x150/filters:strip_icc()/pic6260098.jpg"},
                             #uuid "458d2163-a348-30c3-a4ad-8792fa32645c"
                             {:game/id
                              #uuid "458d2163-a348-30c3-a4ad-8792fa32645c",
@@ -23578,7 +23512,7 @@
                              :languages ["en"],
                              :game/name "That's a Question!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/MTGTksYC45yzbOB-UJdBTw__thumb/img/Pe10KxKTwYWeK_Ikgu0YJEsDdkk=/fit-in/200x150/filters:strip_icc()/pic3643950.jpg"},
+                             "https://cf.geekdo-images.com/MTGTksYC45yzbOB-UJdBTw__small/img/Pe10KxKTwYWeK_Ikgu0YJEsDdkk=/fit-in/200x150/filters:strip_icc()/pic3643950.jpg"},
                             #uuid "820bcff2-c486-3e04-a228-09e01a255128"
                             {:game/id
                              #uuid "820bcff2-c486-3e04-a228-09e01a255128",
@@ -23617,7 +23551,7 @@
                              :com.boardgamegeek.boardgame/id "391625",
                              :game/name "The Brain",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/VOyCdMaGTCPUNzXEt1U4tw__thumb/img/nLaWfBGvZW05jVWoMejDPu_Ql_s=/fit-in/200x150/filters:strip_icc()/pic9046469.jpg"},
+                             "https://cf.geekdo-images.com/VOyCdMaGTCPUNzXEt1U4tw__small/img/nLaWfBGvZW05jVWoMejDPu_Ql_s=/fit-in/200x150/filters:strip_icc()/pic9046469.jpg"},
                             #uuid "27d7c429-d5af-3a2f-8c6d-a14c6c951d67"
                             {:game/id
                              #uuid "27d7c429-d5af-3a2f-8c6d-a14c6c951d67",
@@ -23673,7 +23607,7 @@
                              :languages ["en"],
                              :game/name "The Cousins' War",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/75zD7yDWRlLsuqkWWRlimw__thumb/img/8jrgkni4lOJKCkt8Fm15sHdOUrg=/fit-in/200x150/filters:strip_icc()/pic3483951.jpg"},
+                             "https://cf.geekdo-images.com/75zD7yDWRlLsuqkWWRlimw__small/img/8jrgkni4lOJKCkt8Fm15sHdOUrg=/fit-in/200x150/filters:strip_icc()/pic3483951.jpg"},
                             #uuid "595f02eb-d247-3d88-95e4-06800f89e71a"
                             {:game/id
                              #uuid "595f02eb-d247-3d88-95e4-06800f89e71a",
@@ -23726,7 +23660,7 @@
                              :game/name
                              "The Crew: The Quest for Planet Nine",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__thumb/img/et-fnuozyOdBOVL-5kSS3_7I8fw=/fit-in/200x150/filters:strip_icc()/pic5687013.jpg"},
+                             "https://cf.geekdo-images.com/98LnQShydr11OBKS46xY-Q__small/img/et-fnuozyOdBOVL-5kSS3_7I8fw=/fit-in/200x150/filters:strip_icc()/pic5687013.jpg"},
                             #uuid "1f6abbcc-6aa7-3fbf-8c11-f5ea47b5cb4d"
                             {:game/id
                              #uuid "1f6abbcc-6aa7-3fbf-8c11-f5ea47b5cb4d",
@@ -23778,7 +23712,7 @@
                              :languages ["en"],
                              :game/name "The Fox in the Forest",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/spcy6nvsfq-hxYgwEpmidQ__thumb/img/nR2TKxtWOVJR1OHD6hAF05IHuOI=/fit-in/200x150/filters:strip_icc()/pic3496085.jpg"},
+                             "https://cf.geekdo-images.com/spcy6nvsfq-hxYgwEpmidQ__small/img/nR2TKxtWOVJR1OHD6hAF05IHuOI=/fit-in/200x150/filters:strip_icc()/pic3496085.jpg"},
                             #uuid "bf9bf9b2-2886-3710-a8cd-2ab56ce77646"
                             {:game/id
                              #uuid "bf9bf9b2-2886-3710-a8cd-2ab56ce77646",
@@ -23834,7 +23768,7 @@
                              :languages ["cs"],
                              :game/name "The Fox in the Forest Duet",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/1uTAJoAdG3UC6N0G7UMeTA__thumb/img/SzaN4ejLFyjTbElgZPGGjUtlf6o=/fit-in/200x150/filters:strip_icc()/pic4942502.jpg"},
+                             "https://cf.geekdo-images.com/1uTAJoAdG3UC6N0G7UMeTA__small/img/SzaN4ejLFyjTbElgZPGGjUtlf6o=/fit-in/200x150/filters:strip_icc()/pic4942502.jpg"},
                             #uuid "62326243-6ea0-3ce1-aef6-c1d285dbdc80"
                             {:game/id
                              #uuid "62326243-6ea0-3ce1-aef6-c1d285dbdc80",
@@ -23882,7 +23816,7 @@
                              :languages ["en"],
                              :game/name "The Game of Life",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/c4S2XDRb_DCYCAV-ZAzDpg__thumb/img/tAejWvDTc-mXjX2euOrJwaXP2Y8=/fit-in/200x150/filters:strip_icc()/pic288405.jpg"},
+                             "https://cf.geekdo-images.com/c4S2XDRb_DCYCAV-ZAzDpg__small/img/tAejWvDTc-mXjX2euOrJwaXP2Y8=/fit-in/200x150/filters:strip_icc()/pic288405.jpg"},
                             #uuid "ee251f41-b54c-3c3d-ad55-d9a6adef30ea"
                             {:game/id
                              #uuid "ee251f41-b54c-3c3d-ad55-d9a6adef30ea",
@@ -23951,7 +23885,7 @@
                              :game/name
                              "The Godfather: Corleone's Empire",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/umGE4fOLYylHloIvw5bitA__thumb/img/Tr9FzWg8Iv76KjnTlZirhAdAfbI=/fit-in/200x150/filters:strip_icc()/pic3364797.jpg"},
+                             "https://cf.geekdo-images.com/umGE4fOLYylHloIvw5bitA__small/img/Tr9FzWg8Iv76KjnTlZirhAdAfbI=/fit-in/200x150/filters:strip_icc()/pic3364797.jpg"},
                             #uuid "d3618491-81dd-3a64-9350-03f0051fc678"
                             {:game/id
                              #uuid "d3618491-81dd-3a64-9350-03f0051fc678",
@@ -24003,7 +23937,7 @@
                              :languages ["en"],
                              :game/name "The Great Split",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/pPXbuNKh5TPSRTwAvwuTpw__thumb/img/M3Yw--HL04ms_8CHnF0inAbq4Zc=/fit-in/200x150/filters:strip_icc()/pic6971167.jpg"},
+                             "https://cf.geekdo-images.com/pPXbuNKh5TPSRTwAvwuTpw__small/img/M3Yw--HL04ms_8CHnF0inAbq4Zc=/fit-in/200x150/filters:strip_icc()/pic6971167.jpg"},
                             #uuid "d8b44a4f-28ae-353d-adeb-b3fd26fc143b"
                             {:game/id
                              #uuid "d8b44a4f-28ae-353d-adeb-b3fd26fc143b",
@@ -24055,7 +23989,7 @@
                              :languages ["en"],
                              :game/name "The Grizzled",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/5JuQCtSAeSZpAL3WgWdwow__thumb/img/XcI-3g0sVumt8DsaMaBGrwftIRw=/fit-in/200x150/filters:strip_icc()/pic3719610.png"},
+                             "https://cf.geekdo-images.com/5JuQCtSAeSZpAL3WgWdwow__small/img/XcI-3g0sVumt8DsaMaBGrwftIRw=/fit-in/200x150/filters:strip_icc()/pic3719610.png"},
                             #uuid "47cc8add-99cc-3d6a-9a0b-9d0046efa6e6"
                             {:game/id
                              #uuid "47cc8add-99cc-3d6a-9a0b-9d0046efa6e6",
@@ -24155,7 +24089,7 @@
                                                                 :name
                                                                 "Novel-based"}),
                              :com.boardgamegeek.boardgame/max-play-time
-                             45,
+                             30,
                              :com.boardgamegeek.boardgame/max-players
                              2,
                              :com.boardgamegeek.boardgame/min-play-time
@@ -24164,7 +24098,7 @@
                              :game/name
                              "The Lord of the Rings: Duel for Middle-earth",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/EybxJlUc9rz7F7HVFLqsdw__thumb/img/rojFW0-h-bteedVG4aJXG1x7V0o=/fit-in/200x150/filters:strip_icc()/pic8378939.jpg"},
+                             "https://cf.geekdo-images.com/EybxJlUc9rz7F7HVFLqsdw__small/img/rojFW0-h-bteedVG4aJXG1x7V0o=/fit-in/200x150/filters:strip_icc()/pic8378939.jpg"},
                             #uuid "5cf82140-5ac1-32d4-a0fb-0cdc0068e8b4"
                             {:game/id
                              #uuid "5cf82140-5ac1-32d4-a0fb-0cdc0068e8b4",
@@ -24238,7 +24172,7 @@
                              :game/name
                              "The Lord of the Rings: The Card Game",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/ZmXi5BbtoWl58ZnKcUy1vw__thumb/img/__NGanznvqHKTFhj28S8ZpfLbpc=/fit-in/200x150/filters:strip_icc()/pic906495.jpg"},
+                             "https://cf.geekdo-images.com/ZmXi5BbtoWl58ZnKcUy1vw__small/img/__NGanznvqHKTFhj28S8ZpfLbpc=/fit-in/200x150/filters:strip_icc()/pic906495.jpg"},
                             #uuid "134c5416-16b9-3118-a547-774f6df7bbcd"
                             {:game/id
                              #uuid "134c5416-16b9-3118-a547-774f6df7bbcd",
@@ -24278,7 +24212,7 @@
                              :languages ["en"],
                              :game/name "The Mind",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/q_JGK291hrhnhiRB0667oA__thumb/img/PUrzEmTo5kOcK5BOb4cbOOcH86I=/fit-in/200x150/filters:strip_icc()/pic3979766.png"},
+                             "https://cf.geekdo-images.com/q_JGK291hrhnhiRB0667oA__small/img/PUrzEmTo5kOcK5BOb4cbOOcH86I=/fit-in/200x150/filters:strip_icc()/pic3979766.png"},
                             #uuid "3e0d5a35-e153-39b0-9945-a93144a31d97"
                             {:game/id
                              #uuid "3e0d5a35-e153-39b0-9945-a93144a31d97",
@@ -24334,7 +24268,7 @@
                              :languages ["en"],
                              :game/name "The Networks",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/3Mjt1-JxuXV_hamkypi0mw__thumb/img/5KiCIZrcPJ6AkX9FJb0E2RGxM3Y=/fit-in/200x150/filters:strip_icc()/pic2896170.jpg"},
+                             "https://cf.geekdo-images.com/3Mjt1-JxuXV_hamkypi0mw__small/img/5KiCIZrcPJ6AkX9FJb0E2RGxM3Y=/fit-in/200x150/filters:strip_icc()/pic2896170.jpg"},
                             #uuid "6c8d8b1e-b10e-3e24-91d9-113b90b20ea1"
                             {:game/id
                              #uuid "6c8d8b1e-b10e-3e24-91d9-113b90b20ea1",
@@ -24363,7 +24297,7 @@
                              :game/name
                              "The Palace of Mad King Ludwig",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/KJTd8G2AFDhpcp9iFMYHpQ__thumb/img/jS3txzXA_eQ1Y36hfx7vNcLpG7A=/fit-in/200x150/filters:strip_icc()/pic3464108.jpg"},
+                             "https://cf.geekdo-images.com/KJTd8G2AFDhpcp9iFMYHpQ__small/img/jS3txzXA_eQ1Y36hfx7vNcLpG7A=/fit-in/200x150/filters:strip_icc()/pic3464108.jpg"},
                             #uuid "4c229496-53e3-3b6c-8a5e-3aeeb0bfa53e"
                             {:game/id
                              #uuid "4c229496-53e3-3b6c-8a5e-3aeeb0bfa53e",
@@ -24443,7 +24377,7 @@
                              :languages ["en"],
                              :game/name "The Resistance",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/cAPTkL2BR3snLO71dkH8rw__thumb/img/5lDn1W82rlLXtVG7nPIYR9Orn-4=/fit-in/200x150/filters:strip_icc()/pic2576459.jpg"},
+                             "https://cf.geekdo-images.com/cAPTkL2BR3snLO71dkH8rw__small/img/5lDn1W82rlLXtVG7nPIYR9Orn-4=/fit-in/200x150/filters:strip_icc()/pic2576459.jpg"},
                             #uuid "d6175495-c80f-347a-992b-592840105369"
                             {:game/id
                              #uuid "d6175495-c80f-347a-992b-592840105369",
@@ -24490,7 +24424,7 @@
                              :com.boardgamegeek.boardgame/id "38863",
                              :game/name "The Rich and the Good",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/CrAzRoBFWWz6bbDTlzY23Q__thumb/img/0Ufs53KflfanD2Iq_RsDo45pIj8=/fit-in/200x150/filters:strip_icc()/pic7061922.png"},
+                             "https://cf.geekdo-images.com/CrAzRoBFWWz6bbDTlzY23Q__small/img/0Ufs53KflfanD2Iq_RsDo45pIj8=/fit-in/200x150/filters:strip_icc()/pic7061922.png"},
                             #uuid "ebb89386-c539-37db-b4a7-972b931256f7"
                             {:game/id
                              #uuid "ebb89386-c539-37db-b4a7-972b931256f7",
@@ -24526,7 +24460,7 @@
                              :languages ["en"],
                              :game/name "The Speicherstadt",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/x1EVKCtIP_tFTH8h5kvXog__thumb/img/8n5m3ZjWQfD-uwM7hOEyqS_93I4=/fit-in/200x150/filters:strip_icc()/pic686491.jpg"},
+                             "https://cf.geekdo-images.com/x1EVKCtIP_tFTH8h5kvXog__small/img/8n5m3ZjWQfD-uwM7hOEyqS_93I4=/fit-in/200x150/filters:strip_icc()/pic686491.jpg"},
                             #uuid "15f3d8ea-d060-3f55-a545-46198aa6f6e1"
                             {:game/id
                              #uuid "15f3d8ea-d060-3f55-a545-46198aa6f6e1",
@@ -24566,7 +24500,7 @@
                              :languages ["en"],
                              :game/name "The Split",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/sZtguqUekjg1xyYXWklNGQ__thumb/img/AS9NVRK6fNO0jpdxN-l5QTRaWqc=/fit-in/200x150/filters:strip_icc()/pic6352257.png"},
+                             "https://cf.geekdo-images.com/sZtguqUekjg1xyYXWklNGQ__small/img/AS9NVRK6fNO0jpdxN-l5QTRaWqc=/fit-in/200x150/filters:strip_icc()/pic6352257.png"},
                             #uuid "1d2864e5-c46d-3c17-b6d1-b2a73d160f0e"
                             {:game/id
                              #uuid "1d2864e5-c46d-3c17-b6d1-b2a73d160f0e",
@@ -24649,7 +24583,7 @@
                              :com.boardgamegeek.boardgame/id "371942",
                              :game/name "The White Castle",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/qXT1U-nFh9PE8ujfdmI7dA__thumb/img/ru1l95gdKNXSsByDglE9Xxgu0kE=/fit-in/200x150/filters:strip_icc()/pic7754663.jpg"},
+                             "https://cf.geekdo-images.com/qXT1U-nFh9PE8ujfdmI7dA__small/img/ru1l95gdKNXSsByDglE9Xxgu0kE=/fit-in/200x150/filters:strip_icc()/pic7754663.jpg"},
                             #uuid "6591ee28-d715-3de9-8230-6b386c172544"
                             {:game/id
                              #uuid "6591ee28-d715-3de9-8230-6b386c172544",
@@ -24713,7 +24647,7 @@
                              :languages ["cs"],
                              :game/name "The Witcher Adventure Game",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/RVcliVxJyaiHdqfn3EB-Kw__thumb/img/Gw0oJA1QloA3CdiB2vQx0Yf291E=/fit-in/200x150/filters:strip_icc()/pic2247614.jpg"},
+                             "https://cf.geekdo-images.com/RVcliVxJyaiHdqfn3EB-Kw__small/img/Gw0oJA1QloA3CdiB2vQx0Yf291E=/fit-in/200x150/filters:strip_icc()/pic2247614.jpg"},
                             #uuid "31d52cba-810e-360e-b61f-b1ff618bfbd1"
                             {:game/id
                              #uuid "31d52cba-810e-360e-b61f-b1ff618bfbd1",
@@ -24745,7 +24679,7 @@
                              :languages ["en"],
                              :game/name "Think Fast",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/q9vZjqgqAkzYR0I6cz3U-Q__thumb/img/oa7ra7o2cir_APXawHQuN97zhoE=/fit-in/200x150/filters:strip_icc()/pic4945313.jpg"},
+                             "https://cf.geekdo-images.com/q9vZjqgqAkzYR0I6cz3U-Q__small/img/oa7ra7o2cir_APXawHQuN97zhoE=/fit-in/200x150/filters:strip_icc()/pic4945313.jpg"},
                             #uuid "2c3e847b-52ad-3f1d-a2c5-c4d21315ae30"
                             {:languages ["en"],
                              :name "Through the Ages",
@@ -24808,7 +24742,7 @@
                              :languages ["cs"],
                              :game/name "Ticket to Ride",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/kdWYkW-7AqG63HhqPL6ekA__thumb/img/5G46jv8MFh_BfX67iMSouTMhKxc=/fit-in/200x150/filters:strip_icc()/pic8937637.jpg"},
+                             "https://cf.geekdo-images.com/kdWYkW-7AqG63HhqPL6ekA__small/img/5G46jv8MFh_BfX67iMSouTMhKxc=/fit-in/200x150/filters:strip_icc()/pic8937637.jpg"},
                             #uuid "90a300ed-ea38-3514-b744-0c43440fa4b3"
                             {:game/id
                              #uuid "90a300ed-ea38-3514-b744-0c43440fa4b3",
@@ -24864,7 +24798,7 @@
                              :languages ["cs"],
                              :game/name "Ticket to Ride: Europe",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/0K1AOciqlMVUWFPLTJSiww__thumb/img/RDvu2FvsYVVH8icp1VsilUlqUGI=/fit-in/200x150/filters:strip_icc()/pic66668.jpg"},
+                             "https://cf.geekdo-images.com/0K1AOciqlMVUWFPLTJSiww__small/img/RDvu2FvsYVVH8icp1VsilUlqUGI=/fit-in/200x150/filters:strip_icc()/pic66668.jpg"},
                             #uuid "83686a2a-8f62-3d33-8169-25529ee3b33d"
                             {:game/id
                              #uuid "83686a2a-8f62-3d33-8169-25529ee3b33d",
@@ -24900,7 +24834,7 @@
                              :languages ["en"],
                              :game/name "Tiger & Dragon",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/gQLXK7DHeF11_7XdPlmJxQ__thumb/img/G3Z3e905CTLCtAZP5YNRmNqjJa8=/fit-in/200x150/filters:strip_icc()/pic7607521.png"},
+                             "https://cf.geekdo-images.com/gQLXK7DHeF11_7XdPlmJxQ__small/img/G3Z3e905CTLCtAZP5YNRmNqjJa8=/fit-in/200x150/filters:strip_icc()/pic7607521.png"},
                             #uuid "f3f1fedb-8b4b-34db-9549-d8e205c09bc9"
                             {:game/id
                              #uuid "f3f1fedb-8b4b-34db-9549-d8e205c09bc9",
@@ -24956,7 +24890,7 @@
                              :languages ["en"],
                              :game/name "Tiletum",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/DvvSoTrB3-UMEgz2rBraHg__thumb/img/TnJONz9KNXPJBQ42sorXuoUTlew=/fit-in/200x150/filters:strip_icc()/pic7533289.jpg"},
+                             "https://cf.geekdo-images.com/DvvSoTrB3-UMEgz2rBraHg__small/img/TnJONz9KNXPJBQ42sorXuoUTlew=/fit-in/200x150/filters:strip_icc()/pic7533289.jpg"},
                             #uuid "84c17578-5a41-3dea-840f-24d1faf7638a"
                             {:game/id
                              #uuid "84c17578-5a41-3dea-840f-24d1faf7638a",
@@ -25000,7 +24934,7 @@
                              :languages ["en"],
                              :game/name "Time's Up!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/eXgj9wE-fRfd4ZfW6PcjIw__thumb/img/-eVeJ2xAfaLeEtO5EutEIi1Ce5M=/fit-in/200x150/filters:strip_icc()/pic3690440.jpg"},
+                             "https://cf.geekdo-images.com/eXgj9wE-fRfd4ZfW6PcjIw__small/img/-eVeJ2xAfaLeEtO5EutEIi1Ce5M=/fit-in/200x150/filters:strip_icc()/pic3690440.jpg"},
                             #uuid "3d1f92a5-65d3-31a6-9880-236e33c49bf3"
                             {:game/id
                              #uuid "3d1f92a5-65d3-31a6-9880-236e33c49bf3",
@@ -25035,7 +24969,7 @@
                              :languages ["en" "fr"],
                              :game/name "Timeline",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/PQg1CC5fIwG84FSiuphAhA__thumb/img/stLIRU6sfJ3JljRMhtXYg1rd1Vw=/fit-in/200x150/filters:strip_icc()/pic1419207.jpg"},
+                             "https://cf.geekdo-images.com/PQg1CC5fIwG84FSiuphAhA__small/img/stLIRU6sfJ3JljRMhtXYg1rd1Vw=/fit-in/200x150/filters:strip_icc()/pic1419207.jpg"},
                             #uuid "f7b55410-c3ee-3bd4-b7f5-2203750e50f8"
                             {:game/id
                              #uuid "f7b55410-c3ee-3bd4-b7f5-2203750e50f8",
@@ -25084,7 +25018,7 @@
                              :game/name
                              "Tinners' Trail (second edition)",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/6V1-JGsuUzyRJlVaj01iGA__thumb/img/0ck66fBHxOG3GtwAx8cokNfNyYU=/fit-in/200x150/filters:strip_icc()/pic5688132.png"},
+                             "https://cf.geekdo-images.com/6V1-JGsuUzyRJlVaj01iGA__small/img/0ck66fBHxOG3GtwAx8cokNfNyYU=/fit-in/200x150/filters:strip_icc()/pic5688132.png"},
                             #uuid "32fc8ca3-6144-3ce2-87b9-81d62e6ae848"
                             {:game/id
                              #uuid "32fc8ca3-6144-3ce2-87b9-81d62e6ae848",
@@ -25164,7 +25098,7 @@
                              :languages ["cs"],
                              :game/name "Tiny Epic Galaxies",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/c_87h8o0AOrfCO3hxMjjrA__thumb/img/OPNd-zRznLHOLfNDIN8rdhSMHPM=/fit-in/200x150/filters:strip_icc()/pic2349732.jpg"},
+                             "https://cf.geekdo-images.com/c_87h8o0AOrfCO3hxMjjrA__small/img/OPNd-zRznLHOLfNDIN8rdhSMHPM=/fit-in/200x150/filters:strip_icc()/pic2349732.jpg"},
                             #uuid "05e84109-515f-3f98-8ab8-872a8a1a9cb2"
                             {:game/id
                              #uuid "05e84109-515f-3f98-8ab8-872a8a1a9cb2",
@@ -25252,7 +25186,7 @@
                              :languages ["cs"],
                              :game/name "Tiny Epic Kingdoms",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/rEBwFqk9b4rT-hrGOQnZrA__thumb/img/nIQB6TR1SMbF1W1Oq4OlhIbnao4=/fit-in/200x150/filters:strip_icc()/pic2947892.jpg"},
+                             "https://cf.geekdo-images.com/rEBwFqk9b4rT-hrGOQnZrA__small/img/nIQB6TR1SMbF1W1Oq4OlhIbnao4=/fit-in/200x150/filters:strip_icc()/pic2947892.jpg"},
                             #uuid "0170915b-1ae2-3680-a63a-684297fdb59f"
                             {:game/id
                              #uuid "0170915b-1ae2-3680-a63a-684297fdb59f",
@@ -25315,7 +25249,7 @@
                              :com.boardgamegeek.boardgame/id "309430",
                              :game/name "Tiny Epic Pirates",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/OACc4dCZKetKnT2hzAO1Mg__thumb/img/bCHPPDZK8gPmVI0KWiwUwhMWXgU=/fit-in/200x150/filters:strip_icc()/pic5410377.jpg"},
+                             "https://cf.geekdo-images.com/OACc4dCZKetKnT2hzAO1Mg__small/img/bCHPPDZK8gPmVI0KWiwUwhMWXgU=/fit-in/200x150/filters:strip_icc()/pic5410377.jpg"},
                             #uuid "1dc41096-3614-3064-96d1-7d7a17e5f160"
                             {:game/id
                              #uuid "1dc41096-3614-3064-96d1-7d7a17e5f160",
@@ -25355,7 +25289,7 @@
                              :languages ["cs"],
                              :game/name "Tipni si!: Česko",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/ImVwwGZEnNrXGUPHVh_p3Q__thumb/img/lKlMniXtXFMLzwgK16d9gBaC1fI=/fit-in/200x150/filters:strip_icc()/pic7575056.jpg"},
+                             "https://cf.geekdo-images.com/ImVwwGZEnNrXGUPHVh_p3Q__small/img/lKlMniXtXFMLzwgK16d9gBaC1fI=/fit-in/200x150/filters:strip_icc()/pic7575056.jpg"},
                             #uuid "163a099c-29ca-3b37-8d62-091a6c0f1149"
                             {:game/id
                              #uuid "163a099c-29ca-3b37-8d62-091a6c0f1149",
@@ -25389,7 +25323,7 @@
                              :com.boardgamegeek.boardgame/id "419702",
                              :game/name "Tivoli",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/fr5E5VWEq9f2cuXN0Egu3Q__thumb/img/4P_fYEKtHMO7MmN6sl-YDJDscTE=/fit-in/200x150/filters:strip_icc()/pic8166028.jpg"},
+                             "https://cf.geekdo-images.com/fr5E5VWEq9f2cuXN0Egu3Q__small/img/4P_fYEKtHMO7MmN6sl-YDJDscTE=/fit-in/200x150/filters:strip_icc()/pic8166028.jpg"},
                             #uuid "24689901-b879-3cd9-9b75-5dd7dd2b8f2d"
                             {:game/id
                              #uuid "24689901-b879-3cd9-9b75-5dd7dd2b8f2d",
@@ -25441,7 +25375,7 @@
                              :languages ["en"],
                              :game/name "Tokaido",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/7kLkx3k3ovL8fP-2krPqwA__thumb/img/yQg2AyLDdtfArqfb866NW2Wv1Es=/fit-in/200x150/filters:strip_icc()/pic8758132.jpg"},
+                             "https://cf.geekdo-images.com/7kLkx3k3ovL8fP-2krPqwA__small/img/yQg2AyLDdtfArqfb866NW2Wv1Es=/fit-in/200x150/filters:strip_icc()/pic8758132.jpg"},
                             #uuid "98205fa8-31bb-366a-bc9a-34ee54eed0b2"
                             {:game/id
                              #uuid "98205fa8-31bb-366a-bc9a-34ee54eed0b2",
@@ -25481,7 +25415,7 @@
                              :languages ["en"],
                              :game/name "Topito",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/wYb7M6O3Ap4CX1EyG-7P1g__thumb/img/_xyJSdaSGVEwuSJrLJSdAeNXhoY=/fit-in/200x150/filters:strip_icc()/pic3750973.jpg"},
+                             "https://cf.geekdo-images.com/wYb7M6O3Ap4CX1EyG-7P1g__small/img/_xyJSdaSGVEwuSJrLJSdAeNXhoY=/fit-in/200x150/filters:strip_icc()/pic3750973.jpg"},
                             #uuid "1a130d6c-f030-3e45-b325-3c2a95baf1c1"
                             {:game/id
                              #uuid "1a130d6c-f030-3e45-b325-3c2a95baf1c1",
@@ -25532,7 +25466,7 @@
                              :com.boardgamegeek.boardgame/id "393307",
                              :game/name "Tower Up",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/3GBPmFILs8upxBhdQIvwTA__thumb/img/1jM40AdYqOdA76UK6nghT_19emk=/fit-in/200x150/filters:strip_icc()/pic8143457.jpg"},
+                             "https://cf.geekdo-images.com/3GBPmFILs8upxBhdQIvwTA__small/img/1jM40AdYqOdA76UK6nghT_19emk=/fit-in/200x150/filters:strip_icc()/pic8143457.jpg"},
                             #uuid "82f39d2c-7691-3894-83aa-e9050bf23f11"
                             {:game/id
                              #uuid "82f39d2c-7691-3894-83aa-e9050bf23f11",
@@ -25592,7 +25526,7 @@
                              :languages ["en"],
                              :game/name "Trails",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/alEgV88cpqFtaHAklI6lbw__thumb/img/Zjwu-ZXktck4EIrVDhMqjLsZmsQ=/fit-in/200x150/filters:strip_icc()/pic6214088.jpg"},
+                             "https://cf.geekdo-images.com/alEgV88cpqFtaHAklI6lbw__small/img/Zjwu-ZXktck4EIrVDhMqjLsZmsQ=/fit-in/200x150/filters:strip_icc()/pic6214088.jpg"},
                             #uuid "166381ed-c073-3e1e-94ac-8fbbfc0cdffd"
                             {:game/id
                              #uuid "166381ed-c073-3e1e-94ac-8fbbfc0cdffd",
@@ -25640,7 +25574,7 @@
                              :languages ["en"],
                              :game/name "Trains",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/8K9Syz49KOY0nJLR4GB0eg__thumb/img/CjomdI9qkAuiWWbxbeW88_SV26M=/fit-in/200x150/filters:strip_icc()/pic1606346.jpg"},
+                             "https://cf.geekdo-images.com/8K9Syz49KOY0nJLR4GB0eg__small/img/CjomdI9qkAuiWWbxbeW88_SV26M=/fit-in/200x150/filters:strip_icc()/pic1606346.jpg"},
                             #uuid "acdfdd6a-1dc0-3bf7-bd55-84c332439dbb"
                             {:game/id
                              #uuid "acdfdd6a-1dc0-3bf7-bd55-84c332439dbb",
@@ -25684,7 +25618,7 @@
                              :languages ["en"],
                              :game/name "Trajan",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/djdeCr__iNV5rMnGnxNiaQ__thumb/img/jULoayRVuV3c8cRqKOPsf7oMO5w=/fit-in/200x150/filters:strip_icc()/pic4336095.png"},
+                             "https://cf.geekdo-images.com/djdeCr__iNV5rMnGnxNiaQ__small/img/jULoayRVuV3c8cRqKOPsf7oMO5w=/fit-in/200x150/filters:strip_icc()/pic4336095.png"},
                             #uuid "2115fbc0-ba7a-3017-b867-c0a6304c3052"
                             {:game/id
                              #uuid "2115fbc0-ba7a-3017-b867-c0a6304c3052",
@@ -25720,7 +25654,7 @@
                              :languages ["en"],
                              :game/name "Travel Blog",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/27C6AQuavG-aK_HFpVcM-Q__thumb/img/4tSJTgkuCdo_k3Rj1yt5e7JLa0c=/fit-in/200x150/filters:strip_icc()/pic825445.jpg"},
+                             "https://cf.geekdo-images.com/27C6AQuavG-aK_HFpVcM-Q__small/img/4tSJTgkuCdo_k3Rj1yt5e7JLa0c=/fit-in/200x150/filters:strip_icc()/pic825445.jpg"},
                             #uuid "8ae6e417-a5fe-36fa-9be3-bd2c6ac61840"
                             {:game/id
                              #uuid "8ae6e417-a5fe-36fa-9be3-bd2c6ac61840",
@@ -25792,7 +25726,7 @@
                              :languages ["en"],
                              :game/name "Treasure Island",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/tHEYd09coOFilcJZf3-I9A__thumb/img/DIbtdKy0v43ncP_fBcBZoIPQ2cs=/fit-in/200x150/filters:strip_icc()/pic6974459.jpg"},
+                             "https://cf.geekdo-images.com/tHEYd09coOFilcJZf3-I9A__small/img/DIbtdKy0v43ncP_fBcBZoIPQ2cs=/fit-in/200x150/filters:strip_icc()/pic6974459.jpg"},
                             #uuid "75de0399-6071-3e43-9123-15a64cd7269f"
                             {:game/id
                              #uuid "75de0399-6071-3e43-9123-15a64cd7269f",
@@ -25832,7 +25766,7 @@
                              :languages ["en"],
                              :game/name "Trial by Trolley",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/r1GDaTzdNoSz2gcZELRFng__thumb/img/EHxVkr3rv0ag28bTD4nAzDgKklI=/fit-in/200x150/filters:strip_icc()/pic4835109.png"},
+                             "https://cf.geekdo-images.com/r1GDaTzdNoSz2gcZELRFng__small/img/EHxVkr3rv0ag28bTD4nAzDgKklI=/fit-in/200x150/filters:strip_icc()/pic4835109.png"},
                             #uuid "f4afb893-6f91-3389-8606-9c088ff6ea75"
                             {:game/id
                              #uuid "f4afb893-6f91-3389-8606-9c088ff6ea75",
@@ -25863,7 +25797,7 @@
                              :languages ["en"],
                              :game/name "Tricks and the Phantom",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/q8EjU4y-sCwxe50KG4BV3Q__thumb/img/3xXe3p2eSu2YJ-qmBVgV9FGKTZU=/fit-in/200x150/filters:strip_icc()/pic5797064.png"},
+                             "https://cf.geekdo-images.com/q8EjU4y-sCwxe50KG4BV3Q__small/img/3xXe3p2eSu2YJ-qmBVgV9FGKTZU=/fit-in/200x150/filters:strip_icc()/pic5797064.png"},
                             #uuid "12ce0579-8f6b-31a0-bf9c-e7294dacf0d7"
                             {:game/id
                              #uuid "12ce0579-8f6b-31a0-bf9c-e7294dacf0d7",
@@ -25906,7 +25840,7 @@
                              :com.boardgamegeek.boardgame/id "378200",
                              :game/name "Triqueta",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/rAGKevIrE0vi48aoImuz9g__thumb/img/OgszFUrnasR5rXBQaPMsJtgIFSs=/fit-in/200x150/filters:strip_icc()/pic7976700.jpg"},
+                             "https://cf.geekdo-images.com/rAGKevIrE0vi48aoImuz9g__small/img/OgszFUrnasR5rXBQaPMsJtgIFSs=/fit-in/200x150/filters:strip_icc()/pic7976700.jpg"},
                             #uuid "ec6653ed-e1ae-32eb-b08f-37d1be83807b"
                             {:game/id
                              #uuid "ec6653ed-e1ae-32eb-b08f-37d1be83807b",
@@ -25943,7 +25877,7 @@
                              :game/name
                              "Trivial Pursuit: Master Edition",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/D2PAA3KSCkAVo8yRRG_VVA__thumb/img/ibn9l-7FiNCo3KLfPylGQqhzcfc=/fit-in/200x150/filters:strip_icc()/pic872666.jpg"},
+                             "https://cf.geekdo-images.com/D2PAA3KSCkAVo8yRRG_VVA__small/img/ibn9l-7FiNCo3KLfPylGQqhzcfc=/fit-in/200x150/filters:strip_icc()/pic872666.jpg"},
                             #uuid "89e7d319-ef83-3fca-bdfb-bbfb7ea8b1e3"
                             {:game/id
                              #uuid "89e7d319-ef83-3fca-bdfb-bbfb7ea8b1e3",
@@ -25987,7 +25921,7 @@
                              :languages ["en"],
                              :game/name "Troublez",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/hNZrmD6tEM0SZXO0W9ZH6A__thumb/img/3SFYQZgu0idUfUlRywQsXT9U8kI=/fit-in/200x150/filters:strip_icc()/pic6889835.jpg"},
+                             "https://cf.geekdo-images.com/hNZrmD6tEM0SZXO0W9ZH6A__small/img/3SFYQZgu0idUfUlRywQsXT9U8kI=/fit-in/200x150/filters:strip_icc()/pic6889835.jpg"},
                             #uuid "5678a343-960a-3fec-b75a-c87abb8ba77f"
                             {:game/id
                              #uuid "5678a343-960a-3fec-b75a-c87abb8ba77f",
@@ -26019,7 +25953,7 @@
                              :languages ["en"],
                              :game/name "Truffle Shuffle",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/nTEKC1bZ2GGANIoV204T3Q__thumb/img/8kZMzfKlRf3HYF3QqFRClSV9qWg=/fit-in/200x150/filters:strip_icc()/pic5159393.jpg"},
+                             "https://cf.geekdo-images.com/nTEKC1bZ2GGANIoV204T3Q__small/img/8kZMzfKlRf3HYF3QqFRClSV9qWg=/fit-in/200x150/filters:strip_icc()/pic5159393.jpg"},
                             #uuid "aacb653d-e587-34a7-a360-4c3956b4f677"
                             {:game/id
                              #uuid "aacb653d-e587-34a7-a360-4c3956b4f677",
@@ -26059,7 +25993,7 @@
                              :languages ["en"],
                              :game/name "Tsuro",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/2V3d4ryhxkS3RoPtDrvpUw__thumb/img/NWgNhoxUIF7Lmj1apRkZQhFL6NU=/fit-in/200x150/filters:strip_icc()/pic875761.jpg"},
+                             "https://cf.geekdo-images.com/2V3d4ryhxkS3RoPtDrvpUw__small/img/NWgNhoxUIF7Lmj1apRkZQhFL6NU=/fit-in/200x150/filters:strip_icc()/pic875761.jpg"},
                             #uuid "ac161529-27b0-3644-a62e-947c4bc4aa32"
                             {:game/id
                              #uuid "ac161529-27b0-3644-a62e-947c4bc4aa32",
@@ -26095,7 +26029,7 @@
                              :languages ["en"],
                              :game/name "Turn a Phrase",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/jFxJEfe6g-jXllciFg-R_w__thumb/img/DPCcA15gUJtsrHXz9r08qMwQhuo=/fit-in/200x150/filters:strip_icc()/pic6930337.jpg"},
+                             "https://cf.geekdo-images.com/jFxJEfe6g-jXllciFg-R_w__small/img/DPCcA15gUJtsrHXz9r08qMwQhuo=/fit-in/200x150/filters:strip_icc()/pic6930337.jpg"},
                             #uuid "f29a9bf5-31a4-3def-ac66-505e6adc5abf"
                             {:game/id
                              #uuid "f29a9bf5-31a4-3def-ac66-505e6adc5abf",
@@ -26130,7 +26064,7 @@
                              :com.boardgamegeek.boardgame/id "343833",
                              :game/name "Turtle Splash!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/BMBffrmopBaSAPzoJjGu_A__thumb/img/nVKVNfMabNwxjUIR0hSXhsR6DBA=/fit-in/200x150/filters:strip_icc()/pic6315269.jpg"},
+                             "https://cf.geekdo-images.com/BMBffrmopBaSAPzoJjGu_A__small/img/nVKVNfMabNwxjUIR0hSXhsR6DBA=/fit-in/200x150/filters:strip_icc()/pic6315269.jpg"},
                             #uuid "8733c12a-4b84-36db-a610-3a7b7964554e"
                             {:game/id
                              #uuid "8733c12a-4b84-36db-a610-3a7b7964554e",
@@ -26162,7 +26096,7 @@
                              :languages ["en"],
                              :game/name "Twins",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/nywk469Jw1qOzRjHAU-SSA__thumb/img/FhGJamk5eZmxGZSdSMqmJcktmZo=/fit-in/200x150/filters:strip_icc()/pic3169824.png"},
+                             "https://cf.geekdo-images.com/nywk469Jw1qOzRjHAU-SSA__small/img/FhGJamk5eZmxGZSdSMqmJcktmZo=/fit-in/200x150/filters:strip_icc()/pic3169824.png"},
                             #uuid "6647e840-11d7-3699-b864-2483c4644840"
                             {:game/id
                              #uuid "6647e840-11d7-3699-b864-2483c4644840",
@@ -26197,7 +26131,7 @@
                              :com.boardgamegeek.boardgame/id "385645",
                              :game/name "Typewriter",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/HA6qIQoi487Mf3LoL5nhpg__thumb/img/VBwMnob_alH6z0bTcspfM7VvDpA=/fit-in/200x150/filters:strip_icc()/pic7460510.png"},
+                             "https://cf.geekdo-images.com/HA6qIQoi487Mf3LoL5nhpg__small/img/VBwMnob_alH6z0bTcspfM7VvDpA=/fit-in/200x150/filters:strip_icc()/pic7460510.png"},
                             #uuid "81c1c368-bf93-30c5-8b39-bc50b2d8b215"
                             {:game/id
                              #uuid "81c1c368-bf93-30c5-8b39-bc50b2d8b215",
@@ -26257,7 +26191,7 @@
                              :languages ["cs"],
                              :game/name "Tzolk'in: The Mayan Calendar",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/kXf7mDyDYuHg6oe8yTUIEA__thumb/img/or9mAn4ClljY_wO_zvsLJDqs9tU=/fit-in/200x150/filters:strip_icc()/pic4604439.jpg"},
+                             "https://cf.geekdo-images.com/kXf7mDyDYuHg6oe8yTUIEA__small/img/or9mAn4ClljY_wO_zvsLJDqs9tU=/fit-in/200x150/filters:strip_icc()/pic4604439.jpg"},
                             #uuid "59f822bc-aa8e-319b-9e63-eb00919b367a"
                             {:game/id
                              #uuid "59f822bc-aa8e-319b-9e63-eb00919b367a",
@@ -26313,7 +26247,7 @@
                              :languages ["en"],
                              :game/name "UNO",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/-DHiHBBSnvaLu0Do8CIykQ__thumb/img/AUkAjClJAk3BX1vEpk7EasSh_44=/fit-in/200x150/filters:strip_icc()/pic8204165.jpg"},
+                             "https://cf.geekdo-images.com/-DHiHBBSnvaLu0Do8CIykQ__small/img/AUkAjClJAk3BX1vEpk7EasSh_44=/fit-in/200x150/filters:strip_icc()/pic8204165.jpg"},
                             #uuid "63e5002f-f8a6-36bd-81b5-2f817477eecf"
                             {:game/id
                              #uuid "63e5002f-f8a6-36bd-81b5-2f817477eecf",
@@ -26357,7 +26291,7 @@
                              :languages ["cs"],
                              :game/name "Ubongo",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/0wSuQbmk4nPwNytp9_zzPw__thumb/img/2_damZx35g1mE8kgWUpIXoHybW8=/fit-in/200x150/filters:strip_icc()/pic4597123.jpg"},
+                             "https://cf.geekdo-images.com/0wSuQbmk4nPwNytp9_zzPw__small/img/2_damZx35g1mE8kgWUpIXoHybW8=/fit-in/200x150/filters:strip_icc()/pic4597123.jpg"},
                             #uuid "7c823c08-2b3e-3613-bf68-fde60227450d"
                             {:game/id
                              #uuid "7c823c08-2b3e-3613-bf68-fde60227450d",
@@ -26437,7 +26371,7 @@
                              :languages ["en"],
                              :game/name "Ultimate Werewolf",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/pbX50vKkFCUBsK8DolVq_w__thumb/img/Q-glOUzREfIQkbMyLE70qmf3R9Q=/fit-in/200x150/filters:strip_icc()/pic1878507.png"},
+                             "https://cf.geekdo-images.com/pbX50vKkFCUBsK8DolVq_w__small/img/Q-glOUzREfIQkbMyLE70qmf3R9Q=/fit-in/200x150/filters:strip_icc()/pic1878507.png"},
                             #uuid "074edbaf-ed58-3f43-ad67-8af6ba4fcefe"
                             {:game/id
                              #uuid "074edbaf-ed58-3f43-ad67-8af6ba4fcefe",
@@ -26493,7 +26427,7 @@
                              :languages ["en"],
                              :game/name "Undaunted: Normandy",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/iCd6hMGDzsQ_UXh00iKsJA__thumb/img/QbOlBm7DZGP2ZBnGZ-YaD-py-UQ=/fit-in/200x150/filters:strip_icc()/pic4602347.jpg"},
+                             "https://cf.geekdo-images.com/iCd6hMGDzsQ_UXh00iKsJA__small/img/QbOlBm7DZGP2ZBnGZ-YaD-py-UQ=/fit-in/200x150/filters:strip_icc()/pic4602347.jpg"},
                             #uuid "54b7d1a4-f4c9-3dfb-a3cf-e94ce0c9d660"
                             {:game/id
                              #uuid "54b7d1a4-f4c9-3dfb-a3cf-e94ce0c9d660",
@@ -26565,7 +26499,7 @@
                              :languages ["en"],
                              :game/name "Under Falling Skies",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/ecO5eAd3RkctQ0-Tbqv37Q__thumb/img/uxrJLWxvi-f8CGbDpxQBStzvGes=/fit-in/200x150/filters:strip_icc()/pic5428723.jpg"},
+                             "https://cf.geekdo-images.com/ecO5eAd3RkctQ0-Tbqv37Q__small/img/uxrJLWxvi-f8CGbDpxQBStzvGes=/fit-in/200x150/filters:strip_icc()/pic5428723.jpg"},
                             #uuid "c09ad586-8d09-38f9-9f2c-e400662588b2"
                             {:game/id
                              #uuid "c09ad586-8d09-38f9-9f2c-e400662588b2",
@@ -26637,7 +26571,7 @@
                              :languages ["en"],
                              :game/name "Underwater Cities",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/PwOwTVHovJAUQgghnGqCOg__thumb/img/1gGYiRBx7W4wyLy826EHGTdjsKA=/fit-in/200x150/filters:strip_icc()/pic4837710.png"},
+                             "https://cf.geekdo-images.com/PwOwTVHovJAUQgghnGqCOg__small/img/1gGYiRBx7W4wyLy826EHGTdjsKA=/fit-in/200x150/filters:strip_icc()/pic4837710.png"},
                             #uuid "fe21028e-24a9-3e89-aeef-50bcb3e5a9ac"
                             {:game/id
                              #uuid "fe21028e-24a9-3e89-aeef-50bcb3e5a9ac",
@@ -26685,7 +26619,7 @@
                              :languages ["en" "cs"],
                              :game/name "Unlock!: Timeless Adventures",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/-jn45ZxkJXYlthEyDIYEMQ__thumb/img/LQKAm2oQircS1a6SvnO7WLN7PFA=/fit-in/200x150/filters:strip_icc()/pic5045366.jpg"},
+                             "https://cf.geekdo-images.com/-jn45ZxkJXYlthEyDIYEMQ__small/img/LQKAm2oQircS1a6SvnO7WLN7PFA=/fit-in/200x150/filters:strip_icc()/pic5045366.jpg"},
                             #uuid "7a51eb3c-d160-3393-b631-9ae87020b9db"
                             {:game/id
                              #uuid "7a51eb3c-d160-3393-b631-9ae87020b9db",
@@ -26728,7 +26662,7 @@
                              :com.boardgamegeek.boardgame/id "234190",
                              :game/name "Unstable Unicorns",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/8_5xvpsrrX5JVzO7eBLSgw__thumb/img/fV4UWCHC1ImGFUN7lcJju9K8_zo=/fit-in/200x150/filters:strip_icc()/pic3912914.jpg"},
+                             "https://cf.geekdo-images.com/8_5xvpsrrX5JVzO7eBLSgw__small/img/fV4UWCHC1ImGFUN7lcJju9K8_zo=/fit-in/200x150/filters:strip_icc()/pic3912914.jpg"},
                             #uuid "2e3b07bd-7c5c-30e9-8f37-a2597897ab96"
                             {:game/id
                              #uuid "2e3b07bd-7c5c-30e9-8f37-a2597897ab96",
@@ -26783,7 +26717,7 @@
                              :com.boardgamegeek.boardgame/id "418177",
                              :game/name "Vampire Nights",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/IjCzsMgaaUVOE6zMj8crGg__thumb/img/K05vrtUXKnuMHndKXKiWijnJrbM=/fit-in/200x150/filters:strip_icc()/pic8303087.jpg"},
+                             "https://cf.geekdo-images.com/IjCzsMgaaUVOE6zMj8crGg__small/img/K05vrtUXKnuMHndKXKiWijnJrbM=/fit-in/200x150/filters:strip_icc()/pic8303087.jpg"},
                             #uuid "cb37ac11-1dc5-3224-b463-ebacae1060af"
                             {:game/id
                              #uuid "cb37ac11-1dc5-3224-b463-ebacae1060af",
@@ -26871,7 +26805,7 @@
                              :languages ["en"],
                              :game/name "Vast: The Mysterious Manor",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Vf3kkCiduusDO0nZclyosA__thumb/img/m-_Uyh4A8x6Tj9hTS50F12FWliY=/fit-in/200x150/filters:strip_icc()/pic4118006.png"},
+                             "https://cf.geekdo-images.com/Vf3kkCiduusDO0nZclyosA__small/img/m-_Uyh4A8x6Tj9hTS50F12FWliY=/fit-in/200x150/filters:strip_icc()/pic4118006.png"},
                             #uuid "a4c71b2c-5d3a-37c3-8bba-9e4707f01715"
                             {:game/id
                              #uuid "a4c71b2c-5d3a-37c3-8bba-9e4707f01715",
@@ -26918,7 +26852,7 @@
                              :com.boardgamegeek.boardgame/id "15364",
                              :game/name "Vegas Showdown",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/QVAqFbBNxgvXPUKgIXhKUg__thumb/img/K6RCLGoGRoqhvLaYy3eSMCgNyik=/fit-in/200x150/filters:strip_icc()/pic8325263.jpg"},
+                             "https://cf.geekdo-images.com/QVAqFbBNxgvXPUKgIXhKUg__small/img/K6RCLGoGRoqhvLaYy3eSMCgNyik=/fit-in/200x150/filters:strip_icc()/pic8325263.jpg"},
                             #uuid "57153155-cc42-3c05-8286-785a35ed3749"
                             {:game/id
                              #uuid "57153155-cc42-3c05-8286-785a35ed3749",
@@ -26958,7 +26892,7 @@
                              :languages ["en"],
                              :game/name "Vegetable Stock",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/EekcSlWY5dqasbMMm12aPg__thumb/img/CF_4dYqQYtKSt1y75E5zeTXqRdQ=/fit-in/200x150/filters:strip_icc()/pic8172467.jpg"},
+                             "https://cf.geekdo-images.com/EekcSlWY5dqasbMMm12aPg__small/img/CF_4dYqQYtKSt1y75E5zeTXqRdQ=/fit-in/200x150/filters:strip_icc()/pic8172467.jpg"},
                             #uuid "b33646d7-b7b1-3dd6-9a17-a88f6ddb5926"
                             {:game/id
                              #uuid "b33646d7-b7b1-3dd6-9a17-a88f6ddb5926",
@@ -27018,7 +26952,7 @@
                              :languages ["en"],
                              :game/name "Verdant",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/c1XGn5ryzbqgMOHzObZpQw__thumb/img/QJq-vJsWq6D0DMrDFVno-0Lu00o=/fit-in/200x150/filters:strip_icc()/pic6094080.png"},
+                             "https://cf.geekdo-images.com/c1XGn5ryzbqgMOHzObZpQw__small/img/QJq-vJsWq6D0DMrDFVno-0Lu00o=/fit-in/200x150/filters:strip_icc()/pic6094080.png"},
                             #uuid "15511ee2-b52f-342f-8d5e-3a73eb9b015e"
                             {:game/id
                              #uuid "15511ee2-b52f-342f-8d5e-3a73eb9b015e",
@@ -27070,7 +27004,7 @@
                              :languages ["en"],
                              :game/name "Viral",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/NeZO7t39b9_PM4juLEluSw__thumb/img/k6HQegk6BmEj3fuVF1bcRA8jFoY=/fit-in/200x150/filters:strip_icc()/pic3399864.jpg"},
+                             "https://cf.geekdo-images.com/NeZO7t39b9_PM4juLEluSw__small/img/k6HQegk6BmEj3fuVF1bcRA8jFoY=/fit-in/200x150/filters:strip_icc()/pic3399864.jpg"},
                             #uuid "cf1e8f0b-c580-3564-8e6e-e3cc8df2c060"
                             {:game/id
                              #uuid "cf1e8f0b-c580-3564-8e6e-e3cc8df2c060",
@@ -27121,13 +27055,13 @@
                              :com.boardgamegeek.boardgame/id "128621",
                              :game/name "Viticulture",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/WrnWFA1Sysm3-nQyBe1sUA__thumb/img/udscIXtuApQ6rFYHjfAM5zMKfFs=/fit-in/200x150/filters:strip_icc()/pic2619743.jpg"},
+                             "https://cf.geekdo-images.com/WrnWFA1Sysm3-nQyBe1sUA__small/img/udscIXtuApQ6rFYHjfAM5zMKfFs=/fit-in/200x150/filters:strip_icc()/pic2619743.jpg"},
                             #uuid "d0ddb471-d540-37a0-9a2b-09e8b30dc223"
                             {:game/id
                              #uuid "d0ddb471-d540-37a0-9a2b-09e8b30dc223",
                              :com.boardgamegeek.boardgame/min-players
                              3,
-                             :com.boardgamegeek.boardgame/rating 5.6,
+                             :com.boardgamegeek.boardgame/rating 5.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2073,
@@ -27161,7 +27095,7 @@
                              :languages ["en"],
                              :game/name "Wanna Bet?",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/MEpySLfwgBdyoyhs_-2DwQ__thumb/img/JECsX53H0bwJJgnhDIOqmASVggc=/fit-in/200x150/filters:strip_icc()/pic1255929.jpg"},
+                             "https://cf.geekdo-images.com/MEpySLfwgBdyoyhs_-2DwQ__small/img/JECsX53H0bwJJgnhDIOqmASVggc=/fit-in/200x150/filters:strip_icc()/pic1255929.jpg"},
                             #uuid "bfc38140-c8e9-322f-bf33-cd14f900042f"
                             {:game/id
                              #uuid "bfc38140-c8e9-322f-bf33-cd14f900042f",
@@ -27193,7 +27127,7 @@
                              :languages ["en"],
                              :game/name "War on Terror: The Boardgame",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/aZN8c8XyssNJSPtaEQ3i_w__thumb/img/EldnBmGyfS9-EyuPUvGdkvDo4nQ=/fit-in/200x150/filters:strip_icc()/pic872066.jpg"},
+                             "https://cf.geekdo-images.com/aZN8c8XyssNJSPtaEQ3i_w__small/img/EldnBmGyfS9-EyuPUvGdkvDo4nQ=/fit-in/200x150/filters:strip_icc()/pic872066.jpg"},
                             #uuid "b25b2722-ad82-3f67-823c-db48bdbc837e"
                             {:game/id
                              #uuid "b25b2722-ad82-3f67-823c-db48bdbc837e",
@@ -27229,7 +27163,7 @@
                              :languages ["en"],
                              :game/name "Wavelength",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/z4fbPdmJg_5yphJEvql4ZA__thumb/img/bxLuHVLF-Y06jWRSKA-tuQ3YYcE=/fit-in/200x150/filters:strip_icc()/pic4552862.png"},
+                             "https://cf.geekdo-images.com/z4fbPdmJg_5yphJEvql4ZA__small/img/bxLuHVLF-Y06jWRSKA-tuQ3YYcE=/fit-in/200x150/filters:strip_icc()/pic4552862.png"},
                             #uuid "9cfc3b97-43a7-3c0f-a7c6-2b42b62c90f6"
                             {:game/id
                              #uuid "9cfc3b97-43a7-3c0f-a7c6-2b42b62c90f6",
@@ -27281,7 +27215,7 @@
                              :languages ["en"],
                              :game/name "We're Doomed!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/NCcmCG2X-ssnAA5kyR386g__thumb/img/vaYBsf0wCFaEhjX-cIwpc1vRHUc=/fit-in/200x150/filters:strip_icc()/pic4420866.jpg"},
+                             "https://cf.geekdo-images.com/NCcmCG2X-ssnAA5kyR386g__small/img/vaYBsf0wCFaEhjX-cIwpc1vRHUc=/fit-in/200x150/filters:strip_icc()/pic4420866.jpg"},
                             #uuid "32288419-57f9-3b53-a2df-4b3393930c5a"
                             {:game/id
                              #uuid "32288419-57f9-3b53-a2df-4b3393930c5a",
@@ -27309,7 +27243,7 @@
                              :game/name
                              "Weird Things Humans Search For",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/3UUUkiZx5wMr_W9ZmnA1Kg__thumb/img/WQI8ETMLMY6IqZaovZdxE1N04RY=/fit-in/200x150/filters:strip_icc()/pic4206940.jpg"},
+                             "https://cf.geekdo-images.com/3UUUkiZx5wMr_W9ZmnA1Kg__small/img/WQI8ETMLMY6IqZaovZdxE1N04RY=/fit-in/200x150/filters:strip_icc()/pic4206940.jpg"},
                             #uuid "44ca4f9f-417c-3200-b21f-4ae33fae9646"
                             {:game/id
                              #uuid "44ca4f9f-417c-3200-b21f-4ae33fae9646",
@@ -27361,7 +27295,7 @@
                              :languages ["cs"],
                              :game/name "Welcome Back to the Dungeon",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/Tu5hFjeX1-5EwnwjdNTaHg__thumb/img/y8At3p87JcNiUuHTiRIKgUvKOks=/fit-in/200x150/filters:strip_icc()/pic3060124.jpg"},
+                             "https://cf.geekdo-images.com/Tu5hFjeX1-5EwnwjdNTaHg__small/img/y8At3p87JcNiUuHTiRIKgUvKOks=/fit-in/200x150/filters:strip_icc()/pic3060124.jpg"},
                             #uuid "2d7c2d23-5fac-3ff4-8aac-33c2ce47eb1c"
                             {:game/id
                              #uuid "2d7c2d23-5fac-3ff4-8aac-33c2ce47eb1c",
@@ -27417,7 +27351,7 @@
                              :languages ["en"],
                              :game/name "Werewords",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/4ngyBZXLLKIOdGuUHE7baw__thumb/img/gSGfC0ZMYbOXukqfdBBuxULmyJU=/fit-in/200x150/filters:strip_icc()/pic4415135.jpg"},
+                             "https://cf.geekdo-images.com/4ngyBZXLLKIOdGuUHE7baw__small/img/gSGfC0ZMYbOXukqfdBBuxULmyJU=/fit-in/200x150/filters:strip_icc()/pic4415135.jpg"},
                             #uuid "ae7bda5b-fa73-3e1b-b30b-c81fd70b93f5"
                             {:game/id
                              #uuid "ae7bda5b-fa73-3e1b-b30b-c81fd70b93f5",
@@ -27485,7 +27419,7 @@
                              :languages ["cs"],
                              :game/name "Western Legends",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/lZwgk3_MqyAmROjkz4v8Wg__thumb/img/pI0Bnq7hO-Msonh7OJkKiHGnmfI=/fit-in/200x150/filters:strip_icc()/pic6974323.png"},
+                             "https://cf.geekdo-images.com/lZwgk3_MqyAmROjkz4v8Wg__small/img/pI0Bnq7hO-Msonh7OJkKiHGnmfI=/fit-in/200x150/filters:strip_icc()/pic6974323.png"},
                             #uuid "d8208510-3230-3cfc-b418-3410ca63670d"
                             {:game/id
                              #uuid "d8208510-3230-3cfc-b418-3410ca63670d",
@@ -27516,7 +27450,7 @@
                              :com.boardgamegeek.boardgame/id "388413",
                              :game/name "Whale to Look",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/xxU1HKdkf1HIotFGyYO2bQ__thumb/img/RjsKXDsc3Tb7iNdnvUARYyY7dJY=/fit-in/200x150/filters:strip_icc()/pic7837610.jpg"},
+                             "https://cf.geekdo-images.com/xxU1HKdkf1HIotFGyYO2bQ__small/img/RjsKXDsc3Tb7iNdnvUARYyY7dJY=/fit-in/200x150/filters:strip_icc()/pic7837610.jpg"},
                             #uuid "3f9e8eb6-bc1b-357a-949e-643f14a3cedf"
                             {:game/id
                              #uuid "3f9e8eb6-bc1b-357a-949e-643f14a3cedf",
@@ -27539,7 +27473,7 @@
                              :languages ["en"],
                              :game/name "What Came First?",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/5bY5HlOzIwyI5SPW1b3JdQ__thumb/img/-oP4DslYzNnxLB48R4snu-WOfeg=/fit-in/200x150/filters:strip_icc()/pic4820669.png"},
+                             "https://cf.geekdo-images.com/5bY5HlOzIwyI5SPW1b3JdQ__small/img/-oP4DslYzNnxLB48R4snu-WOfeg=/fit-in/200x150/filters:strip_icc()/pic4820669.png"},
                             #uuid "ec9a79c1-8253-3d39-9f07-8382ba20e59f"
                             {:game/id
                              #uuid "ec9a79c1-8253-3d39-9f07-8382ba20e59f",
@@ -27583,7 +27517,7 @@
                              :languages ["en"],
                              :game/name "What Do You Meme?",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/5Pmk8PrpMHPMg0hG8fJz9w__thumb/img/T830JjOnAOSjlcYZVlJRSowyx5I=/fit-in/200x150/filters:strip_icc()/pic3749720.png"},
+                             "https://cf.geekdo-images.com/5Pmk8PrpMHPMg0hG8fJz9w__small/img/T830JjOnAOSjlcYZVlJRSowyx5I=/fit-in/200x150/filters:strip_icc()/pic3749720.png"},
                             #uuid "34bccc32-c3ce-3d4a-bb12-067fe302e8e3"
                             {:game/id
                              #uuid "34bccc32-c3ce-3d4a-bb12-067fe302e8e3",
@@ -27615,7 +27549,7 @@
                              :languages ["en"],
                              :game/name "What the F*ck?",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/mmZDNnsH1ZiHSnSRv82yzQ__thumb/img/SNp4W2zxnoDz9daugSG43RlEeG0=/fit-in/200x150/filters:strip_icc()/pic252235.jpg"},
+                             "https://cf.geekdo-images.com/mmZDNnsH1ZiHSnSRv82yzQ__small/img/SNp4W2zxnoDz9daugSG43RlEeG0=/fit-in/200x150/filters:strip_icc()/pic252235.jpg"},
                             #uuid "97fe9a27-6b0c-3281-8d07-433af5bcf4e4"
                             {:game/id
                              #uuid "97fe9a27-6b0c-3281-8d07-433af5bcf4e4",
@@ -27655,7 +27589,7 @@
                              :languages ["en"],
                              :game/name "What's Up",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/lpKc9CfkSyF5qyNfWG8XrA__thumb/img/SsUJzqPEJQ4Lx0K1d7G7o-D1uEQ=/fit-in/200x150/filters:strip_icc()/pic3042240.jpg"},
+                             "https://cf.geekdo-images.com/lpKc9CfkSyF5qyNfWG8XrA__small/img/SsUJzqPEJQ4Lx0K1d7G7o-D1uEQ=/fit-in/200x150/filters:strip_icc()/pic3042240.jpg"},
                             #uuid "e5f11979-9a30-30ec-8084-92dd584b1214"
                             {:game/id
                              #uuid "e5f11979-9a30-30ec-8084-92dd584b1214",
@@ -27723,7 +27657,7 @@
                              :languages ["cs"],
                              :game/name "Wingspan",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__thumb/img/VNToqgS2-pOGU6MuvIkMPKn_y-s=/fit-in/200x150/filters:strip_icc()/pic4458123.jpg"},
+                             "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__small/img/VNToqgS2-pOGU6MuvIkMPKn_y-s=/fit-in/200x150/filters:strip_icc()/pic4458123.jpg"},
                             #uuid "c5419794-461c-31ab-8dea-327b50e6dc6d"
                             {:game/id
                              #uuid "c5419794-461c-31ab-8dea-327b50e6dc6d",
@@ -27771,7 +27705,7 @@
                              :languages ["cs"],
                              :game/name "Women vs. Men Alias",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/gYVdt4q8QnHAAwMEPRO5MQ__thumb/img/BpmTZ3dGIJQ5AEuHAaBEkVHlQVE=/fit-in/200x150/filters:strip_icc()/pic3099069.jpg"},
+                             "https://cf.geekdo-images.com/gYVdt4q8QnHAAwMEPRO5MQ__small/img/BpmTZ3dGIJQ5AEuHAaBEkVHlQVE=/fit-in/200x150/filters:strip_icc()/pic3099069.jpg"},
                             #uuid "1dfe3391-8d60-387d-b67d-80706b7bfc6a"
                             {:game/id
                              #uuid "1dfe3391-8d60-387d-b67d-80706b7bfc6a",
@@ -27799,7 +27733,7 @@
                              :languages ["en"],
                              :game/name "Word Breaker",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/uHzDw4cMPNypJ_VDqcvPkw__thumb/img/-8BzzqrnWsoIv2Tk3CyfcDbBFOE=/fit-in/200x150/filters:strip_icc()/pic3543826.jpg"},
+                             "https://cf.geekdo-images.com/uHzDw4cMPNypJ_VDqcvPkw__small/img/-8BzzqrnWsoIv2Tk3CyfcDbBFOE=/fit-in/200x150/filters:strip_icc()/pic3543826.jpg"},
                             #uuid "161dfda2-bf83-3041-ae10-e2410340abd1"
                             {:game/id
                              #uuid "161dfda2-bf83-3041-ae10-e2410340abd1",
@@ -27843,7 +27777,7 @@
                              :languages ["en"],
                              :game/name "Wordsy",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/979ix5MhD6l4bCovUlZUyg__thumb/img/XJpuwh5VJXmR6rgfockVde7skEk=/fit-in/200x150/filters:strip_icc()/pic8831798.jpg"},
+                             "https://cf.geekdo-images.com/979ix5MhD6l4bCovUlZUyg__small/img/XJpuwh5VJXmR6rgfockVde7skEk=/fit-in/200x150/filters:strip_icc()/pic8831798.jpg"},
                             #uuid "21489cfd-6859-3a26-9603-e63a04e4e720"
                             {:game/id
                              #uuid "21489cfd-6859-3a26-9603-e63a04e4e720",
@@ -27902,7 +27836,7 @@
                              :com.boardgamegeek.boardgame/id "410201",
                              :game/name "Wyrmspan",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/oXUkkh9uq3zBVWQ8mbgMfQ__thumb/img/Ic3yRKTjVe26RgDzIdLsKn8Hztk=/fit-in/200x150/filters:strip_icc()/pic7947338.png"},
+                             "https://cf.geekdo-images.com/cNc-FMsYo-mcRTGaXV2qcQ__small/img/5hfOiYu-6NNlaTUOW4efkIFVgVk=/fit-in/200x150/filters:strip_icc()/pic8894992.jpg"},
                             #uuid "d993f311-557a-391d-ab21-677ab586a01b"
                             {:game/id
                              #uuid "d993f311-557a-391d-ab21-677ab586a01b",
@@ -27970,7 +27904,7 @@
                              :languages ["en"],
                              :game/name "Xenon Profiteer",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/ZYukAQrKxJTosyVYmm98aw__thumb/img/BIsI2thXlVPfY30qfyftZCsNnY0=/fit-in/200x150/filters:strip_icc()/pic2537665.jpg"},
+                             "https://cf.geekdo-images.com/ZYukAQrKxJTosyVYmm98aw__small/img/BIsI2thXlVPfY30qfyftZCsNnY0=/fit-in/200x150/filters:strip_icc()/pic2537665.jpg"},
                             #uuid "99c1f5d3-b8a0-34f2-a4d1-97bfd885a25d"
                             {:game/id
                              #uuid "99c1f5d3-b8a0-34f2-a4d1-97bfd885a25d",
@@ -28010,7 +27944,7 @@
                              :languages ["en"],
                              :game/name "Yahtzee Hands Down Card Game",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/KZcpjwIzMuCpB-0yDaqA1Q__thumb/img/ACAt6U8sCrLXTcw_9Ogj-c_2eD8=/fit-in/200x150/filters:strip_icc()/pic642763.jpg"},
+                             "https://cf.geekdo-images.com/KZcpjwIzMuCpB-0yDaqA1Q__small/img/ACAt6U8sCrLXTcw_9Ogj-c_2eD8=/fit-in/200x150/filters:strip_icc()/pic642763.jpg"},
                             #uuid "7a13b440-0bc8-3c7f-8c89-0876bc560b28"
                             {:game/id
                              #uuid "7a13b440-0bc8-3c7f-8c89-0876bc560b28",
@@ -28032,7 +27966,7 @@
                              :game/name
                              "You Are a Liar (or maybe not)",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/SVCBjJdE1B4SatHE3La3Eg__thumb/img/FDcRYb6KNrTrnFIeS_5EZ5zdGMo=/fit-in/200x150/filters:strip_icc()/pic3978587.jpg"},
+                             "https://cf.geekdo-images.com/SVCBjJdE1B4SatHE3La3Eg__small/img/FDcRYb6KNrTrnFIeS_5EZ5zdGMo=/fit-in/200x150/filters:strip_icc()/pic3978587.jpg"},
                             #uuid "e6dba845-2869-302a-b70a-72915f3011a2"
                             {:game/id
                              #uuid "e6dba845-2869-302a-b70a-72915f3011a2",
@@ -28079,7 +28013,7 @@
                              :com.boardgamegeek.boardgame/id "423307",
                              :game/name "Zero to Hero",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/3foBQLGxAAvcCfjBte831g__thumb/img/SO0GYx-Erota8-TpFvhDCED7yrI=/fit-in/200x150/filters:strip_icc()/pic8273642.png"},
+                             "https://cf.geekdo-images.com/3foBQLGxAAvcCfjBte831g__small/img/SO0GYx-Erota8-TpFvhDCED7yrI=/fit-in/200x150/filters:strip_icc()/pic8273642.png"},
                             #uuid "9e638769-cea3-3302-ad66-52b732cdbe2e"
                             {:game/id
                              #uuid "9e638769-cea3-3302-ad66-52b732cdbe2e",
@@ -28106,7 +28040,7 @@
                              :com.boardgamegeek.boardgame/id "370226",
                              :game/name "Zing-a-Zam",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/LYc1GvJ84sC8NdRNGLRXNw__thumb/img/Od5Bb9XVmmpDnX1T2l6wDEgl_qc=/fit-in/200x150/filters:strip_icc()/pic7602172.png"},
+                             "https://cf.geekdo-images.com/LYc1GvJ84sC8NdRNGLRXNw__small/img/Od5Bb9XVmmpDnX1T2l6wDEgl_qc=/fit-in/200x150/filters:strip_icc()/pic7602172.png"},
                             #uuid "0b0ba83c-ba8f-3c56-8b3e-a2fc3bc7f5a4"
                             {:game/id
                              #uuid "0b0ba83c-ba8f-3c56-8b3e-a2fc3bc7f5a4",
@@ -28178,7 +28112,7 @@
                              :languages ["cs"],
                              :game/name "Zombicide: Black Plague",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/kVHuMBxmathfnq42XINBQg__thumb/img/u5Fuj4SwZhXElCO3VmrNKkAeXX4=/fit-in/200x150/filters:strip_icc()/pic2482309.jpg"},
+                             "https://cf.geekdo-images.com/kVHuMBxmathfnq42XINBQg__small/img/u5Fuj4SwZhXElCO3VmrNKkAeXX4=/fit-in/200x150/filters:strip_icc()/pic2482309.jpg"},
                             #uuid "2bded185-da51-3430-9462-fa200b501c28"
                             {:game/id
                              #uuid "2bded185-da51-3430-9462-fa200b501c28",
@@ -28234,7 +28168,7 @@
                              :languages ["en"],
                              :game/name "Zombie Dice",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/iPy584JMAJYrupqRdQp8gA__thumb/img/0qjQ2T0wXNZDVvMie54bEVmKeT8=/fit-in/200x150/filters:strip_icc()/pic4991962.jpg"},
+                             "https://cf.geekdo-images.com/iPy584JMAJYrupqRdQp8gA__small/img/0qjQ2T0wXNZDVvMie54bEVmKeT8=/fit-in/200x150/filters:strip_icc()/pic4991962.jpg"},
                             #uuid "30fe5e0d-e895-3a87-87df-7cdfbdd1f7ab"
                             {:game/id
                              #uuid "30fe5e0d-e895-3a87-87df-7cdfbdd1f7ab",
@@ -28270,7 +28204,7 @@
                              :languages ["cs" "en" "de"],
                              :game/name "Zooloretto",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/WiO4FLeGBs-_88UQdpHrcA__thumb/img/Vb6YHpZ06cB_iYWigESl3ZCyNeY=/fit-in/200x150/filters:strip_icc()/pic7758113.jpg"},
+                             "https://cf.geekdo-images.com/WiO4FLeGBs-_88UQdpHrcA__small/img/Vb6YHpZ06cB_iYWigESl3ZCyNeY=/fit-in/200x150/filters:strip_icc()/pic7758113.jpg"},
                             #uuid "13b73eda-e844-3990-be1a-a8f1a483bc27"
                             {:game/id
                              #uuid "13b73eda-e844-3990-be1a-a8f1a483bc27",
@@ -28310,7 +28244,7 @@
                              :languages ["en"],
                              :game/name "dude",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/mg_ICPKMHsQRs_9WzcVcYg__thumb/img/8a-kErrNW9WEH77Iy_6sPhhlG54=/fit-in/200x150/filters:strip_icc()/pic4214871.png"},
+                             "https://cf.geekdo-images.com/mg_ICPKMHsQRs_9WzcVcYg__small/img/8a-kErrNW9WEH77Iy_6sPhhlG54=/fit-in/200x150/filters:strip_icc()/pic4214871.png"},
                             #uuid "4c75b84b-9de0-3946-a3e6-e81fc9009a6f"
                             {:game/id
                              #uuid "4c75b84b-9de0-3946-a3e6-e81fc9009a6f",
@@ -28340,7 +28274,7 @@
                              :languages ["cs"],
                              :game/name "iKNOW: Hit List",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/7BtDzHuXp9ayfvufcEPUpw__thumb/img/AcDqFBOIlQvkFU6G8OzJ3jYocvc=/fit-in/200x150/filters:strip_icc()/pic5155216.jpg"},
+                             "https://cf.geekdo-images.com/7BtDzHuXp9ayfvufcEPUpw__small/img/AcDqFBOIlQvkFU6G8OzJ3jYocvc=/fit-in/200x150/filters:strip_icc()/pic5155216.jpg"},
                             #uuid "7df128be-9e1c-3874-a5a3-fd1caa63e391"
                             {:game/id
                              #uuid "7df128be-9e1c-3874-a5a3-fd1caa63e391",
@@ -28380,7 +28314,7 @@
                              :languages ["en"],
                              :game/name "more dude",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/st_cfD36P8bgtJr8W93tLQ__thumb/img/ACfv2-TEd4JFh8nZ7Q-DmCii0eI=/fit-in/200x150/filters:strip_icc()/pic4216484.png"},
+                             "https://cf.geekdo-images.com/st_cfD36P8bgtJr8W93tLQ__small/img/ACfv2-TEd4JFh8nZ7Q-DmCii0eI=/fit-in/200x150/filters:strip_icc()/pic4216484.png"},
                             #uuid "6db18798-151e-3a9c-ab21-6d0eec180f1d"
                             {:game/id
                              #uuid "6db18798-151e-3a9c-ab21-6d0eec180f1d",
@@ -28416,7 +28350,7 @@
                              :languages ["cs"],
                              :game/name "Česko, otázky a odpovědi",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/9u1Uo0woDr35kE6K__8Z6A__thumb/img/fojF8r9B1BFGLJ9J5VVmdjjVMtw=/fit-in/200x150/filters:strip_icc()/pic829393.jpg"}},
+                             "https://cf.geekdo-images.com/9u1Uo0woDr35kE6K__8Z6A__small/img/fojF8r9B1BFGLJ9J5VVmdjjVMtw=/fit-in/200x150/filters:strip_icc()/pic829393.jpg"}},
                            :sorting
                            {:game/name
                             [#uuid "7a5531b8-026e-31db-b6ce-5b06d401e88c"
@@ -28538,7 +28472,7 @@
                              #uuid "5e9fb619-5319-3aa6-a826-7e0f06fa85ea"
                              #uuid "1bf19e97-0984-3eb0-8ea2-af4995dc8d02"
                              #uuid "7c3ecb12-3069-39da-ad3f-8f578ca0549e"
-                             #uuid "75471e1a-e10c-3022-9cc7-fcea8594f256"
+                             #uuid "88323a7c-755f-3f0b-b1ce-b07ddc84864e"
                              #uuid "9861dabe-15f1-3b2f-9df3-5eac9b2687aa"
                              #uuid "accf9b44-d60e-36aa-ab3e-293a0e91aed0"
                              #uuid "f72af12f-4736-3bde-84b0-ca91070cf43c"
@@ -28990,7 +28924,9 @@
                              #uuid "6db18798-151e-3a9c-ab21-6d0eec180f1d"],
                             :com.boardgamegeek.boardgame/rating
                             [#uuid "a16f70e6-6483-3b47-8a93-f82a9168722b"
+                             #uuid "88323a7c-755f-3f0b-b1ce-b07ddc84864e"
                              #uuid "da07d263-b681-3ea1-8b68-6a504e73ccb3"
+                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "ce26cd6d-057f-3f8e-b125-d0f30fec6420"
                              #uuid "6c757a0c-4ae5-363d-84f8-46e0a6569976"
                              #uuid "e033fcee-316e-32c8-8bcb-582dec0dfc46"
@@ -29000,7 +28936,6 @@
                              #uuid "d4aeee1d-0282-3a12-b26a-513efbaf3c3a"
                              #uuid "90f166e5-27c4-3684-8865-0a7d63773ce7"
                              #uuid "7a13b440-0bc8-3c7f-8c89-0876bc560b28"
-                             #uuid "75471e1a-e10c-3022-9cc7-fcea8594f256"
                              #uuid "3cb7c941-c2b9-384a-a1c2-9a5d95c7b5fd"
                              #uuid "34bccc32-c3ce-3d4a-bb12-067fe302e8e3"
                              #uuid "63c8eeb1-6a44-345d-a1f7-ca33537c2780"
@@ -29034,11 +28969,11 @@
                              #uuid "c0eef12a-9d87-3d5b-a03c-f46a23b023e3"
                              #uuid "c6dfc763-4e0a-33ee-b4b9-efe1ce4f82b3"
                              #uuid "59f822bc-aa8e-319b-9e63-eb00919b367a"
+                             #uuid "d0ddb471-d540-37a0-9a2b-09e8b30dc223"
                              #uuid "13b73eda-e844-3990-be1a-a8f1a483bc27"
                              #uuid "4a210b03-8a44-3d9a-9d31-775480bebeb4"
                              #uuid "b17747c8-2344-37e0-af25-4c86481d8b35"
                              #uuid "ac161529-27b0-3644-a62e-947c4bc4aa32"
-                             #uuid "d0ddb471-d540-37a0-9a2b-09e8b30dc223"
                              #uuid "6db18798-151e-3a9c-ab21-6d0eec180f1d"
                              #uuid "3a1acd2a-f48b-3114-b132-42b7b94aa4eb"
                              #uuid "ac19727b-672c-352f-b393-c52a81b055cb"
@@ -29048,6 +28983,7 @@
                              #uuid "58fb7a8c-d0f1-36b0-b1f5-b7091fbb0ba0"
                              #uuid "99a5171b-604b-3566-81a2-6df0c0357b8b"
                              #uuid "458d2163-a348-30c3-a4ad-8792fa32645c"
+                             #uuid "8883fd32-28f4-3b56-a9f6-8ad49be710d8"
                              #uuid "fef46e50-63ce-3dc7-8b8a-e64fa474241d"
                              #uuid "08972caa-b2f3-3eac-82b5-e023f13fe1e6"
                              #uuid "5915a81b-221d-3aa3-a64a-78a9a04a1200"
@@ -29057,10 +28993,10 @@
                              #uuid "97fe9a27-6b0c-3281-8d07-433af5bcf4e4"
                              #uuid "c5419794-461c-31ab-8dea-327b50e6dc6d"
                              #uuid "7df128be-9e1c-3874-a5a3-fd1caa63e391"
-                             #uuid "8883fd32-28f4-3b56-a9f6-8ad49be710d8"
                              #uuid "fb48a85b-84e9-312b-985b-de09b2c0b29f"
                              #uuid "09d56d54-8ac5-3230-a988-aa448e7b1670"
                              #uuid "18df1853-71ac-3a9d-8686-60a594c41fa7"
+                             #uuid "198c5935-64ce-3f5d-b551-ed1c5cc12e43"
                              #uuid "8f095fa5-610f-38ba-ab4b-a021d62ad3f2"
                              #uuid "6e8ce4f2-3cc4-37b8-9002-721e44843aaf"
                              #uuid "011b787a-f4c9-33cb-84cd-b12b2a7ec721"
@@ -29112,6 +29048,7 @@
                              #uuid "b1ea21fb-2177-3fed-af81-0a3967e76069"
                              #uuid "921fd253-64a4-3ab8-b307-e8b375693fb8"
                              #uuid "cdd0afaf-944b-3605-ab9e-990704f79409"
+                             #uuid "7f0f5004-8737-308d-8736-6149b30c6123"
                              #uuid "675c22e7-4cc8-3b5f-a672-d394da0a8b75"
                              #uuid "5f955ad8-59ca-3215-9cab-4fa839d2a033"
                              #uuid "f46ff3af-0204-348e-9bd0-c1f668f82128"
@@ -29141,8 +29078,6 @@
                              #uuid "5aa42acb-56e5-3325-acc3-e39be2b450a1"
                              #uuid "be6080d8-1630-3f4a-b9f2-f1386d8c4ef6"
                              #uuid "1ac44103-6f92-3b98-95ba-1137464ee064"
-                             #uuid "7f0f5004-8737-308d-8736-6149b30c6123"
-                             #uuid "198c5935-64ce-3f5d-b551-ed1c5cc12e43"
                              #uuid "492379b2-b8f7-3c3f-bcc8-e0ca6254f4b1"
                              #uuid "aecc77c6-bfad-3a88-b455-19b8d2c86bc8"
                              #uuid "3e3e7faa-2c67-343b-8e35-baf91243da11"
@@ -29154,6 +29089,7 @@
                              #uuid "9cfc3b97-43a7-3c0f-a7c6-2b42b62c90f6"
                              #uuid "eaa9b08c-9718-39e9-84e8-e09ccf855ef0"
                              #uuid "bf49462f-85ae-3df3-8617-bb5a39593f15"
+                             #uuid "b9fbcd30-5c71-375d-a44a-21c3e2dc30b7"
                              #uuid "212056c1-ecfb-375e-9624-ec1f461e12ef"
                              #uuid "510c022b-855c-3c4b-aab1-2d34ed0a590b"
                              #uuid "096f6d71-6864-3882-898c-00b9142932e7"
@@ -29189,7 +29125,6 @@
                              #uuid "ab07ed3f-4a9f-3582-bb24-94f348634acb"
                              #uuid "79a39a92-dda9-376e-b337-e86bdbbc3864"
                              #uuid "ffd08129-da06-3b4e-a8fb-c63db63c01f8"
-                             #uuid "b9fbcd30-5c71-375d-a44a-21c3e2dc30b7"
                              #uuid "9f555ccc-a2f8-3e91-beba-d5a2bc69a7f0"
                              #uuid "bd5b6b23-e9ce-385e-89b6-72bbbeb1e211"
                              #uuid "595f5c4f-c267-303b-adf4-1333c70a9460"
@@ -29216,12 +29151,12 @@
                              #uuid "d8208510-3230-3cfc-b418-3410ca63670d"
                              #uuid "e6dba845-2869-302a-b70a-72915f3011a2"
                              #uuid "4c75b84b-9de0-3946-a3e6-e81fc9009a6f"
+                             #uuid "629e0d23-6bd7-35bc-abe5-da52d8053d16"
                              #uuid "cbed48f7-5fef-3645-9ebc-db33807e504c"
                              #uuid "7d1c07ba-7b59-3e65-b308-f82e4f02765e"
                              #uuid "b1b7f4bc-2440-32df-812f-bc28dbe11cb7"
                              #uuid "eb9ce38e-9186-383e-8a18-3f574ec0615f"
                              #uuid "ebb7a837-d8f1-3d0c-a149-24e17e4005dc"
-                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "b89d6bd4-4fd0-321f-85a1-f829a425f0c9"
                              #uuid "04117693-97a0-3890-a084-9cf9b13620dd"
                              #uuid "a2008070-14f7-3ef4-b245-e2d68cc00b65"
@@ -29240,7 +29175,6 @@
                              #uuid "aacb653d-e587-34a7-a360-4c3956b4f677"
                              #uuid "63e5002f-f8a6-36bd-81b5-2f817477eecf"
                              #uuid "44ca4f9f-417c-3200-b21f-4ae33fae9646"
-                             #uuid "629e0d23-6bd7-35bc-abe5-da52d8053d16"
                              #uuid "87fbc4a0-beb7-3227-b194-6a1a3d6fa752"
                              #uuid "3e302b86-f47c-3d22-9b4d-c253439d9970"
                              #uuid "0188708a-9d05-3a25-aeed-fbc792f51654"
@@ -29254,6 +29188,7 @@
                              #uuid "479a6c5c-cef5-357e-9c39-23eeb98c7833"
                              #uuid "027df389-a20d-3cbe-886e-a91e5b10d58a"
                              #uuid "bc4b57d5-55c6-3d77-a3cb-38686b7bc115"
+                             #uuid "bb5ad3ec-e05e-333a-8a48-44a1e6bc0283"
                              #uuid "2d8b500e-f9e1-3ea2-a7d1-0927519e3c5f"
                              #uuid "aff8862a-8fba-39a6-86f4-ef02a3a228f9"
                              #uuid "bf872173-47bf-3140-9c89-3a8fe3e8fdea"
@@ -29284,7 +29219,6 @@
                              #uuid "9f6c0ecb-64e8-35df-a18a-c94fb1dd73ef"
                              #uuid "06f16796-b740-3756-979f-29b64214313c"
                              #uuid "352e99e0-0e21-359e-8d4a-7082905242ed"
-                             #uuid "bb5ad3ec-e05e-333a-8a48-44a1e6bc0283"
                              #uuid "2ae0b465-7518-347a-9c16-13427f39b9be"
                              #uuid "34a554d0-0c92-34d1-b7e8-78b92ecd459e"
                              #uuid "3b80595a-c71d-32b0-835a-c1d26c74b74f"
@@ -29319,7 +29253,6 @@
                              #uuid "a07de260-165e-353e-a142-dc602c389bc7"
                              #uuid "d38f4afc-007d-3b25-9c04-f2d810fafaf5"
                              #uuid "25b621f7-7694-329c-b479-e84107f27b8c"
-                             #uuid "db10b1ad-2cb1-3c47-9f91-a82cf47f4918"
                              #uuid "71378f58-f047-3e02-b1ec-3fc4517c95ed"
                              #uuid "42f0d762-a858-3dbb-b64d-dde4f6a4fc6d"
                              #uuid "06f02042-ed2e-321d-8dfe-bcae21cb322e"
@@ -29354,6 +29287,7 @@
                              #uuid "9e840d33-76b5-3f12-b91c-286ba5961e48"
                              #uuid "85574f84-6988-3f70-bc40-ac7e3a7a33d1"
                              #uuid "dd6f7a14-de47-37f2-bb22-bd37cf04e69b"
+                             #uuid "db10b1ad-2cb1-3c47-9f91-a82cf47f4918"
                              #uuid "d2f54329-7bef-301f-8f4e-bdac47c6f6d3"
                              #uuid "c33b138a-1638-37cd-b6ca-eeb7c9a126b4"
                              #uuid "1add2eb4-1fca-39b2-a15b-4a7d68571409"
@@ -29471,6 +29405,7 @@
                              #uuid "d51dd20c-a05f-3ab4-94c7-9020d535e5b3"
                              #uuid "06c5d6ce-c062-3ac0-bd43-6186b663fc10"
                              #uuid "b2ad34d9-7717-301c-bc77-8a02ab2f6561"
+                             #uuid "7a83122d-f549-37e0-b1ef-7e67847e5161"
                              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a"
                              #uuid "bef85532-c251-3826-a9e4-2cb336105a3b"
                              #uuid "8cee44c8-cd72-3172-9b4e-146f4c317558"
@@ -29496,7 +29431,6 @@
                              #uuid "90a300ed-ea38-3514-b744-0c43440fa4b3"
                              #uuid "cf1e8f0b-c580-3564-8e6e-e3cc8df2c060"
                              #uuid "f4d96621-0b6d-3344-afb7-3e790ea3f651"
-                             #uuid "7a83122d-f549-37e0-b1ef-7e67847e5161"
                              #uuid "b2980c72-2a1a-3e7a-b030-3718ce5491d8"
                              #uuid "14723ae7-edd9-3234-b25b-b93ad60d597a"
                              #uuid "dfe6c369-253b-3a53-8d73-84a5084f24c1"
@@ -29560,7 +29494,9 @@
                              #uuid "e6f2b917-44b7-3822-8d49-6493a0458968"],
                             :com.boardgamegeek.boardgame/min-players
                             [#uuid "a16f70e6-6483-3b47-8a93-f82a9168722b"
+                             #uuid "88323a7c-755f-3f0b-b1ce-b07ddc84864e"
                              #uuid "da07d263-b681-3ea1-8b68-6a504e73ccb3"
+                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "ce26cd6d-057f-3f8e-b125-d0f30fec6420"
                              #uuid "6c757a0c-4ae5-363d-84f8-46e0a6569976"
                              #uuid "e033fcee-316e-32c8-8bcb-582dec0dfc46"
@@ -29743,7 +29679,6 @@
                              #uuid "a07de260-165e-353e-a142-dc602c389bc7"
                              #uuid "5e9fb619-5319-3aa6-a826-7e0f06fa85ea"
                              #uuid "7c3ecb12-3069-39da-ad3f-8f578ca0549e"
-                             #uuid "75471e1a-e10c-3022-9cc7-fcea8594f256"
                              #uuid "9861dabe-15f1-3b2f-9df3-5eac9b2687aa"
                              #uuid "accf9b44-d60e-36aa-ab3e-293a0e91aed0"
                              #uuid "510c022b-855c-3c4b-aab1-2d34ed0a590b"
@@ -29786,7 +29721,6 @@
                              #uuid "33ef9db6-536f-307e-9b5a-71695627acc0"
                              #uuid "b1c48330-4f0d-3b7d-bb69-b9644919d62f"
                              #uuid "af89834e-3251-3aa9-a464-74b8d24a5091"
-                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "35474b73-b019-37a7-b3d6-ee8eb6df3f8c"
                              #uuid "b1ea21fb-2177-3fed-af81-0a3967e76069"
                              #uuid "bd4049a7-2730-31a1-bbc9-4a077d75facc"
@@ -30130,7 +30064,9 @@
                              #uuid "227fed4b-25cc-316a-b15e-6c9a064702db"],
                             :com.boardgamegeek.boardgame/max-players
                             [#uuid "a16f70e6-6483-3b47-8a93-f82a9168722b"
+                             #uuid "88323a7c-755f-3f0b-b1ce-b07ddc84864e"
                              #uuid "da07d263-b681-3ea1-8b68-6a504e73ccb3"
+                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "ce26cd6d-057f-3f8e-b125-d0f30fec6420"
                              #uuid "6c757a0c-4ae5-363d-84f8-46e0a6569976"
                              #uuid "e033fcee-316e-32c8-8bcb-582dec0dfc46"
@@ -30496,7 +30432,6 @@
                              #uuid "12aa1a49-7859-3aae-8f37-3e81ff48d8d1"
                              #uuid "a07de260-165e-353e-a142-dc602c389bc7"
                              #uuid "1bf19e97-0984-3eb0-8ea2-af4995dc8d02"
-                             #uuid "75471e1a-e10c-3022-9cc7-fcea8594f256"
                              #uuid "ed2dab37-2f6d-3f1b-9ec5-40cacb2a1714"
                              #uuid "a528cdc2-c5e5-3afb-8043-1cfa5cde859a"
                              #uuid "09d56d54-8ac5-3230-a988-aa448e7b1670"
@@ -30620,7 +30555,6 @@
                              #uuid "3ed6a2fa-a80b-3140-9878-53dd29c238b8"
                              #uuid "ebb7a837-d8f1-3d0c-a149-24e17e4005dc"
                              #uuid "b3a0794c-8e53-3490-adc8-9c993a450d0b"
-                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "bd4049a7-2730-31a1-bbc9-4a077d75facc"
                              #uuid "5aa42acb-56e5-3325-acc3-e39be2b450a1"
                              #uuid "81ed0760-1bde-3c0c-bb8b-bfec97603c12"
@@ -30702,7 +30636,9 @@
                             [#uuid "8883fd32-28f4-3b56-a9f6-8ad49be710d8"
                              #uuid "a16f70e6-6483-3b47-8a93-f82a9168722b"
                              #uuid "0727c24e-c484-3017-9850-a0e366a7dd42"
+                             #uuid "88323a7c-755f-3f0b-b1ce-b07ddc84864e"
                              #uuid "da07d263-b681-3ea1-8b68-6a504e73ccb3"
+                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "ce26cd6d-057f-3f8e-b125-d0f30fec6420"
                              #uuid "6c757a0c-4ae5-363d-84f8-46e0a6569976"
                              #uuid "e033fcee-316e-32c8-8bcb-582dec0dfc46"
@@ -30847,7 +30783,6 @@
                              #uuid "212056c1-ecfb-375e-9624-ec1f461e12ef"
                              #uuid "5e9fb619-5319-3aa6-a826-7e0f06fa85ea"
                              #uuid "7c3ecb12-3069-39da-ad3f-8f578ca0549e"
-                             #uuid "75471e1a-e10c-3022-9cc7-fcea8594f256"
                              #uuid "accf9b44-d60e-36aa-ab3e-293a0e91aed0"
                              #uuid "f72af12f-4736-3bde-84b0-ca91070cf43c"
                              #uuid "f442518c-c10d-3657-95ec-f4a0709a8f8a"
@@ -30863,7 +30798,6 @@
                              #uuid "68cea2b4-9ca7-3e26-a125-07d2663c3ae5"
                              #uuid "b1c48330-4f0d-3b7d-bb69-b9644919d62f"
                              #uuid "af89834e-3251-3aa9-a464-74b8d24a5091"
-                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "35474b73-b019-37a7-b3d6-ee8eb6df3f8c"
                              #uuid "65b397da-a4ad-3880-b821-4f6f9d01cac1"
                              #uuid "5aa42acb-56e5-3325-acc3-e39be2b450a1"
@@ -31246,7 +31180,6 @@
                              #uuid "59ead8d1-e124-3cfb-b9f3-ace06f43e703"
                              #uuid "011b787a-f4c9-33cb-84cd-b12b2a7ec721"
                              #uuid "77933845-adf8-3758-a686-a08ea46f015e"
-                             #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08"
                              #uuid "7f5c4b62-c9ec-3866-8ad6-598ebab4623a"
                              #uuid "51c77b26-5d4b-3952-ac93-fa7002f8a379"
                              #uuid "e9764e69-b1a8-3687-9d7d-cdfac1d8508f"
@@ -31255,6 +31188,7 @@
                              #uuid "cf1e8f0b-c580-3564-8e6e-e3cc8df2c060"
                              #uuid "21489cfd-6859-3a26-9603-e63a04e4e720"
                              #uuid "9353a118-c201-398a-83cc-6d58ccb38f02"
+                             #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08"
                              #uuid "0b19c10a-bb77-3af8-aa4d-afff0d8b7fbe"
                              #uuid "28e54304-62fc-38c9-9b76-058878323d57"
                              #uuid "87e650b2-4bb6-3255-aef0-45199c66a153"
@@ -31272,7 +31206,9 @@
                             [#uuid "8883fd32-28f4-3b56-a9f6-8ad49be710d8"
                              #uuid "a16f70e6-6483-3b47-8a93-f82a9168722b"
                              #uuid "0727c24e-c484-3017-9850-a0e366a7dd42"
+                             #uuid "88323a7c-755f-3f0b-b1ce-b07ddc84864e"
                              #uuid "da07d263-b681-3ea1-8b68-6a504e73ccb3"
+                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "ce26cd6d-057f-3f8e-b125-d0f30fec6420"
                              #uuid "6c757a0c-4ae5-363d-84f8-46e0a6569976"
                              #uuid "e033fcee-316e-32c8-8bcb-582dec0dfc46"
@@ -31354,7 +31290,6 @@
                              #uuid "b1b7f4bc-2440-32df-812f-bc28dbe11cb7"
                              #uuid "12aa1a49-7859-3aae-8f37-3e81ff48d8d1"
                              #uuid "7c3ecb12-3069-39da-ad3f-8f578ca0549e"
-                             #uuid "75471e1a-e10c-3022-9cc7-fcea8594f256"
                              #uuid "accf9b44-d60e-36aa-ab3e-293a0e91aed0"
                              #uuid "25b621f7-7694-329c-b479-e84107f27b8c"
                              #uuid "a528cdc2-c5e5-3afb-8043-1cfa5cde859a"
@@ -31366,7 +31301,6 @@
                              #uuid "ebe3d298-d25e-3110-8e34-1c079e9455d9"
                              #uuid "ebb7a837-d8f1-3d0c-a149-24e17e4005dc"
                              #uuid "af89834e-3251-3aa9-a464-74b8d24a5091"
-                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "bd4049a7-2730-31a1-bbc9-4a077d75facc"
                              #uuid "65b397da-a4ad-3880-b821-4f6f9d01cac1"
                              #uuid "bc4b57d5-55c6-3d77-a3cb-38686b7bc115"
@@ -31547,6 +31481,7 @@
                              #uuid "1f6abbcc-6aa7-3fbf-8c11-f5ea47b5cb4d"
                              #uuid "bf9bf9b2-2886-3710-a8cd-2ab56ce77646"
                              #uuid "d8b44a4f-28ae-353d-adeb-b3fd26fc143b"
+                             #uuid "47cc8add-99cc-3d6a-9a0b-9d0046efa6e6"
                              #uuid "4c229496-53e3-3b6c-8a5e-3aeeb0bfa53e"
                              #uuid "15f3d8ea-d060-3f55-a545-46198aa6f6e1"
                              #uuid "12ce0579-8f6b-31a0-bf9c-e7294dacf0d7"
@@ -31630,7 +31565,6 @@
                              #uuid "018b1acc-9502-34ad-8479-cb3758bba5b5"
                              #uuid "9c557202-449d-3095-b805-89c2e6e0fe50"
                              #uuid "d3618491-81dd-3a64-9350-03f0051fc678"
-                             #uuid "47cc8add-99cc-3d6a-9a0b-9d0046efa6e6"
                              #uuid "d6175495-c80f-347a-992b-592840105369"
                              #uuid "ebb89386-c539-37db-b4a7-972b931256f7"
                              #uuid "32fc8ca3-6144-3ce2-87b9-81d62e6ae848"

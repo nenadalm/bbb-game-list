@@ -479,6 +479,81 @@
                              :game/name "Anachrony",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/31quLNzteInnevVRAABoow__small/img/a0G93aMOKp3_mmnCURYWuZd210U=/fit-in/200x150/filters:strip_icc()/pic3499707.jpg"},
+                            #uuid "c91e5a98-0a9d-3c8f-b565-cee332bda8de"
+                            {:game/id
+                             #uuid "c91e5a98-0a9d-3c8f-b565-cee332bda8de",
+                             :com.boardgamegeek.boardgame/min-players
+                             2,
+                             :com.boardgamegeek.boardgame/rating 8.1,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2080,
+                                                                :name
+                                                                "Area Majority / Influence"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2046,
+                                                                :name
+                                                                "Area Movement"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2018,
+                                                                :name
+                                                                "Campaign / Battle Card Driven"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2072,
+                                                                :name
+                                                                "Dice Rolling"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2856,
+                                                                :name
+                                                                "Die Icon Resolution"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2040,
+                                                                :name
+                                                                "Hand Management"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2915,
+                                                                :name
+                                                                "Negotiation"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2948,
+                                                                :name
+                                                                "Resource to Move"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2009,
+                                                                :name
+                                                                "Trick-taking"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2829,
+                                                                :name
+                                                                "Turn Order: Claim Action"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2015,
+                                                                :name
+                                                                "Variable Player Powers"}),
+                             :name "Arcs",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1016,
+                                                                :name
+                                                                "Science Fiction"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1113,
+                                                                :name
+                                                                "Space Exploration"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1019,
+                                                                :name
+                                                                "Wargame"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             120,
+                             :com.boardgamegeek.boardgame/max-players
+                             4,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             60,
+                             :com.boardgamegeek.boardgame/id "359871",
+                             :game/name "Arcs",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/XWImAu_3RK61wbzcKboVdA__small/img/Ry-6KHwNgERWadyxs1X1_P3dMvY=/fit-in/200x150/filters:strip_icc()/pic8145530.png"},
                             #uuid "0ec4024f-0e85-3ed0-aa2e-5260f718232c"
                             {:game/id
                              #uuid "0ec4024f-0e85-3ed0-aa2e-5260f718232c",
@@ -1941,7 +2016,7 @@
                              #uuid "bd1d87d3-0c87-35ce-be59-63074aafb4c9",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.6,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2984,
@@ -2262,7 +2337,7 @@
                              #uuid "6ec0b4db-6cca-3c7b-b983-5833527283fd",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.6,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -6913,6 +6988,7 @@
                              #uuid "4f6a71be-0b8d-389d-a431-a8e4cbf59e46"
                              #uuid "9850393e-3cf4-31d1-85d8-7b2ccd660162"
                              #uuid "610c7c4f-043d-3f06-b077-484eac9e7138"
+                             #uuid "c91e5a98-0a9d-3c8f-b565-cee332bda8de"
                              #uuid "0ec4024f-0e85-3ed0-aa2e-5260f718232c"
                              #uuid "65e03e67-6dd2-37c2-bcc6-5fc01b8f4620"
                              #uuid "cb283e35-b66f-31fe-bccf-a9c236a20a5a"
@@ -7136,6 +7212,7 @@
                              #uuid "65e03e67-6dd2-37c2-bcc6-5fc01b8f4620"
                              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a"
                              #uuid "f49fab51-1d4d-3849-b943-6d18e3b10a71"
+                             #uuid "6ec0b4db-6cca-3c7b-b983-5833527283fd"
                              #uuid "6a4265e9-fdb5-361d-8d97-2ce82c8cb801"
                              #uuid "26121102-4728-3717-97a8-640bdedbea8d"
                              #uuid "91cb3cb8-649c-39ef-8155-15494d1b454e"
@@ -7144,8 +7221,6 @@
                              #uuid "605b29d5-2d5d-30c9-bf02-1eb669804b8b"
                              #uuid "4f6a71be-0b8d-389d-a431-a8e4cbf59e46"
                              #uuid "d8f6900d-5012-3d09-8a9e-d26613e7690f"
-                             #uuid "bd1d87d3-0c87-35ce-be59-63074aafb4c9"
-                             #uuid "6ec0b4db-6cca-3c7b-b983-5833527283fd"
                              #uuid "7dfab041-39e9-35d1-8b11-b3fdb49222dd"
                              #uuid "63c5172c-2cbb-310a-aca4-662b40eb7a62"
                              #uuid "4fdbc5f5-0551-347b-aac9-d8f2859b4a68"
@@ -7155,6 +7230,7 @@
                              #uuid "6db1c14d-1110-3bb5-9391-72fab98164d4"
                              #uuid "87bf3f0d-90ba-34e5-8e3a-829a5621d6d0"
                              #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
+                             #uuid "bd1d87d3-0c87-35ce-be59-63074aafb4c9"
                              #uuid "805bace7-4667-3eb1-b90b-d680cd215d97"
                              #uuid "28bfd12a-29c7-3b1c-b3b9-2e241ba98ee5"
                              #uuid "da5e5627-3890-3c39-be80-e5d5743f1e06"
@@ -7179,6 +7255,7 @@
                              #uuid "e5f11979-9a30-30ec-8084-92dd584b1214"
                              #uuid "aa2a14f6-6296-368a-8fab-970e48ba9430"
                              #uuid "610c7c4f-043d-3f06-b077-484eac9e7138"
+                             #uuid "c91e5a98-0a9d-3c8f-b565-cee332bda8de"
                              #uuid "9494bcbd-1f85-37bb-b15a-6ca10d64b159"
                              #uuid "28eb0c35-a26a-3850-b71e-053581f6d64a"
                              #uuid "55b795d7-d8c7-3b09-8d1a-ec5e3c0c5ace"
@@ -7288,6 +7365,7 @@
                              #uuid "e5f11979-9a30-30ec-8084-92dd584b1214"
                              #uuid "aa2a14f6-6296-368a-8fab-970e48ba9430"
                              #uuid "4f6a71be-0b8d-389d-a431-a8e4cbf59e46"
+                             #uuid "c91e5a98-0a9d-3c8f-b565-cee332bda8de"
                              #uuid "65e03e67-6dd2-37c2-bcc6-5fc01b8f4620"
                              #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
                              #uuid "d8f6900d-5012-3d09-8a9e-d26613e7690f"
@@ -7396,6 +7474,7 @@
                              #uuid "ebaa10ce-11ea-31ed-a50f-d83872fa311e"
                              #uuid "4f6a71be-0b8d-389d-a431-a8e4cbf59e46"
                              #uuid "610c7c4f-043d-3f06-b077-484eac9e7138"
+                             #uuid "c91e5a98-0a9d-3c8f-b565-cee332bda8de"
                              #uuid "0ec4024f-0e85-3ed0-aa2e-5260f718232c"
                              #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
                              #uuid "d8f6900d-5012-3d09-8a9e-d26613e7690f"
@@ -7588,6 +7667,7 @@
                              #uuid "d870dd90-0a48-3af6-b003-b15ac3289fa4"
                              #uuid "e0bb33b9-20df-33e3-85b3-bb1c1b2eb0d4"
                              #uuid "112ce5f3-c27e-317f-9e50-e542beb9569d"
+                             #uuid "c91e5a98-0a9d-3c8f-b565-cee332bda8de"
                              #uuid "f6b1061e-002a-352d-8600-dde1500b71b9"
                              #uuid "e6f2b917-44b7-3822-8d49-6493a0458968"
                              #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7"
@@ -7740,6 +7820,7 @@
                              #uuid "4f6a71be-0b8d-389d-a431-a8e4cbf59e46"
                              #uuid "9850393e-3cf4-31d1-85d8-7b2ccd660162"
                              #uuid "610c7c4f-043d-3f06-b077-484eac9e7138"
+                             #uuid "c91e5a98-0a9d-3c8f-b565-cee332bda8de"
                              #uuid "f6b1061e-002a-352d-8600-dde1500b71b9"
                              #uuid "e6f2b917-44b7-3822-8d49-6493a0458968"
                              #uuid "a5156250-03e1-3ad7-987f-29dde0c23ea7"

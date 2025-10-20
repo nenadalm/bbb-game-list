@@ -700,7 +700,7 @@
                              :com.boardgamegeek.boardgame/id "13",
                              :game/name "CATAN",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/PyUol9QxBnZQCJqZI6bmSA__small/img/virV2Bm82Dql7gh-LZScBwqByik=/fit-in/200x150/filters:strip_icc()/pic8632666.png"},
+                             "https://cf.geekdo-images.com/0XODRpReiZBFUffEcqT5-Q__small/img/SNVfF23OQafv3u8xdFolJnMkBoM=/fit-in/200x150/filters:strip_icc()/pic9156909.png"},
                             #uuid "922ebe9d-cf67-3bd3-bebd-adeba294f061"
                             {:game/id
                              #uuid "922ebe9d-cf67-3bd3-bebd-adeba294f061",

@@ -401,7 +401,7 @@
                              #uuid "610c7c4f-043d-3f06-b077-484eac9e7138",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 8.1,
+                             :com.boardgamegeek.boardgame/rating 8.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -1244,7 +1244,7 @@
                              :com.boardgamegeek.boardgame/id "13",
                              :game/name "CATAN",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/PyUol9QxBnZQCJqZI6bmSA__small/img/virV2Bm82Dql7gh-LZScBwqByik=/fit-in/200x150/filters:strip_icc()/pic8632666.png"},
+                             "https://cf.geekdo-images.com/0XODRpReiZBFUffEcqT5-Q__small/img/SNVfF23OQafv3u8xdFolJnMkBoM=/fit-in/200x150/filters:strip_icc()/pic9156909.png"},
                             #uuid "19e95810-b511-372b-9f47-e2b106f8daf6"
                             {:game/id
                              #uuid "19e95810-b511-372b-9f47-e2b106f8daf6",
@@ -5381,7 +5381,7 @@
                              #uuid "6c7dc989-f835-391f-9497-6edf763cf295",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 5.7,
+                             :com.boardgamegeek.boardgame/rating 5.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2676,
@@ -7247,6 +7247,7 @@
                              #uuid "79e6c904-6b30-30a8-92ac-f646dbf937aa"
                              #uuid "a825e9ee-c858-3b9f-82dc-2c68495f06e4"
                              #uuid "fe261656-74a2-3837-a448-a57f0d1b43bf"
+                             #uuid "610c7c4f-043d-3f06-b077-484eac9e7138"
                              #uuid "182deae1-4ea2-3cb6-a9a3-ff03c832e910"
                              #uuid "1ccde006-de3e-3a74-9c21-27ab77c020b3"
                              #uuid "847843a3-b5a8-3a58-9f2f-f4e12266acc5"
@@ -7254,7 +7255,6 @@
                              #uuid "ebaa10ce-11ea-31ed-a50f-d83872fa311e"
                              #uuid "e5f11979-9a30-30ec-8084-92dd584b1214"
                              #uuid "aa2a14f6-6296-368a-8fab-970e48ba9430"
-                             #uuid "610c7c4f-043d-3f06-b077-484eac9e7138"
                              #uuid "c91e5a98-0a9d-3c8f-b565-cee332bda8de"
                              #uuid "9494bcbd-1f85-37bb-b15a-6ca10d64b159"
                              #uuid "28eb0c35-a26a-3850-b71e-053581f6d64a"

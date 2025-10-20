@@ -1022,7 +1022,7 @@
                              :com.boardgamegeek.boardgame/id "13",
                              :game/name "CATAN",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/PyUol9QxBnZQCJqZI6bmSA__small/img/virV2Bm82Dql7gh-LZScBwqByik=/fit-in/200x150/filters:strip_icc()/pic8632666.png"},
+                             "https://cf.geekdo-images.com/0XODRpReiZBFUffEcqT5-Q__small/img/SNVfF23OQafv3u8xdFolJnMkBoM=/fit-in/200x150/filters:strip_icc()/pic9156909.png"},
                             #uuid "b6a4092b-6531-3d10-908f-af7aa3192ba4"
                             {:name "Carcassone big box",
                              :game/id
@@ -1325,7 +1325,7 @@
                              #uuid "ce41796c-1b17-3a2c-b75d-41b274740ade",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 6.8,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -6273,8 +6273,8 @@
                              #uuid "f4fc95a6-49c7-35b0-a88e-e67baaf858a2"
                              #uuid "63e5002f-f8a6-36bd-81b5-2f817477eecf"
                              #uuid "ae767445-c0ab-3c20-a1bf-d310f7e291ee"
-                             #uuid "ce41796c-1b17-3a2c-b75d-41b274740ade"
                              #uuid "7d309184-ca47-30a1-8ead-7135f26f59fd"
+                             #uuid "ce41796c-1b17-3a2c-b75d-41b274740ade"
                              #uuid "f159751b-d636-327e-aedf-917fbfaf7655"
                              #uuid "bf8d01be-0dae-35e4-a457-a3f4049c8606"
                              #uuid "34a554d0-0c92-34d1-b7e8-78b92ecd459e"

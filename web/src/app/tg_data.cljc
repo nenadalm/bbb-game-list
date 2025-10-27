@@ -23333,6 +23333,114 @@
                              :game/name "My City",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/fz4aYmycg9baQlm_DzwyKA__small/img/j66PBN_vi0zLs7c-zR-r2NkUT2g=/fit-in/200x150/filters:strip_icc()/pic7443423.jpg"},
+                            #uuid "5e1fa185-f0de-37e6-bdb7-d950844e10d8"
+                            {:game/id
+                             #uuid "5e1fa185-f0de-37e6-bdb7-d950844e10d8",
+                             :com.boardgamegeek.boardgame/min-players
+                             1,
+                             :com.boardgamegeek.boardgame/rating 8.6,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2023,
+                                                                :name
+                                                                "Cooperative Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2027,
+                                                                :name
+                                                                "Storytelling"}),
+                             :name
+                             "My First Adventure: In the Heart of the Jungle",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1022,
+                                                                :name
+                                                                "Adventure"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1050,
+                                                                :name
+                                                                "Ancient"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1117,
+                                                                :name
+                                                                "Book"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1041,
+                                                                :name
+                                                                "Children's Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1015,
+                                                                :name
+                                                                "Civilization"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1020,
+                                                                :name
+                                                                "Exploration"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             20,
+                             :com.boardgamegeek.boardgame/max-players
+                             5,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             10,
+                             :com.boardgamegeek.boardgame/id "423831",
+                             :game/name
+                             "My First Adventure: In the Heart of the Jungle"},
+                            #uuid "dd9724ea-000d-3b54-ab82-6887270e027f"
+                            {:game/id
+                             #uuid "dd9724ea-000d-3b54-ab82-6887270e027f",
+                             :com.boardgamegeek.boardgame/min-players
+                             1,
+                             :com.boardgamegeek.boardgame/rating 7.9,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2023,
+                                                                :name
+                                                                "Cooperative Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2851,
+                                                                :name
+                                                                "Narrative Choice / Paragraph"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2027,
+                                                                :name
+                                                                "Storytelling"}),
+                             :name
+                             "My First Adventure: Tracking the Dahu",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1022,
+                                                                :name
+                                                                "Adventure"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1089,
+                                                                :name
+                                                                "Animals"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1117,
+                                                                :name
+                                                                "Book"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1041,
+                                                                :name
+                                                                "Children's Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1020,
+                                                                :name
+                                                                "Exploration"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1010,
+                                                                :name
+                                                                "Fantasy"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             20,
+                             :com.boardgamegeek.boardgame/max-players
+                             5,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             10,
+                             :com.boardgamegeek.boardgame/id "400053",
+                             :game/name
+                             "My First Adventure: Tracking the Dahu",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/LNmPGQ3_nEtIDOLd-5KP6A__small/img/gigrXnSN3boRaNNUG1aCQ4WSCSk=/fit-in/200x150/filters:strip_icc()/pic7705624.jpg"},
                             #uuid "baf9b7dd-749d-37d7-888f-c84d255e682f"
                             {:game/id
                              #uuid "baf9b7dd-749d-37d7-888f-c84d255e682f",
@@ -43319,6 +43427,8 @@
                              #uuid "ca40f782-4c29-3312-9055-cd877a45ce98"
                              #uuid "e3ff49f1-3a4e-3be2-9c80-51385adc499c"
                              #uuid "04e8ca48-5ffe-31d2-9e4e-3cd1a59616a4"
+                             #uuid "5e1fa185-f0de-37e6-bdb7-d950844e10d8"
+                             #uuid "dd9724ea-000d-3b54-ab82-6887270e027f"
                              #uuid "baf9b7dd-749d-37d7-888f-c84d255e682f"
                              #uuid "6de2d947-5379-351e-8015-c1bc84a64883"
                              #uuid "0a974629-629b-332a-bc43-7f5ec7790dc4"
@@ -44698,6 +44808,7 @@
                              #uuid "439c09fa-ae97-35cb-995b-5475d8003b22"
                              #uuid "8bb279f7-35c1-39c8-b1e9-35cca2613b58"
                              #uuid "7079890b-bb34-3f48-b263-6220df486355"
+                             #uuid "dd9724ea-000d-3b54-ab82-6887270e027f"
                              #uuid "6a76bc57-f7b0-3973-aad2-c626dd2d5584"
                              #uuid "79e6c904-6b30-30a8-92ac-f646dbf937aa"
                              #uuid "f7625727-1129-3703-96c0-442c8ac00dae"
@@ -44758,6 +44869,7 @@
                              #uuid "6d729a9e-ee0a-3454-ac72-27d2753d1d74"
                              #uuid "e6f2b917-44b7-3822-8d49-6493a0458968"
                              #uuid "397314e0-31af-3c7f-ba2e-cc1955a324c9"
+                             #uuid "5e1fa185-f0de-37e6-bdb7-d950844e10d8"
                              #uuid "39d1eb9f-9eb9-3f0e-9de7-3288fdcc14cc"],
                             :com.boardgamegeek.boardgame/min-players
                             [#uuid "f8055fbd-98ee-3aa4-89e2-54e298d9ec46"
@@ -45083,6 +45195,8 @@
                              #uuid "4fdbc5f5-0551-347b-aac9-d8f2859b4a68"
                              #uuid "7e76977f-ea16-34cb-a94a-1b4dd61df74b"
                              #uuid "f5d99f8f-98f7-3c77-8360-1ad0e1e2141c"
+                             #uuid "5e1fa185-f0de-37e6-bdb7-d950844e10d8"
+                             #uuid "dd9724ea-000d-3b54-ab82-6887270e027f"
                              #uuid "baf9b7dd-749d-37d7-888f-c84d255e682f"
                              #uuid "0a974629-629b-332a-bc43-7f5ec7790dc4"
                              #uuid "267bafff-19bb-3a1c-b267-872cd5082c1e"
@@ -46420,6 +46534,8 @@
                              #uuid "6ca0c1ce-f6e9-3a5e-bda8-06d34efa6f07"
                              #uuid "f5d99f8f-98f7-3c77-8360-1ad0e1e2141c"
                              #uuid "a136b6ff-012b-3a9d-8faf-8fd7a5009e28"
+                             #uuid "5e1fa185-f0de-37e6-bdb7-d950844e10d8"
+                             #uuid "dd9724ea-000d-3b54-ab82-6887270e027f"
                              #uuid "baeee031-ef6c-3119-8a34-b8a985cb373a"
                              #uuid "5d307230-a218-3fde-9af7-05a7412e9c34"
                              #uuid "4fa93151-6662-3f8d-a7d3-3f76cc3bf365"
@@ -46916,6 +47032,8 @@
                              #uuid "e78088c0-b988-34b7-8643-6def04b49319"
                              #uuid "edac02d9-f1aa-3d62-8c91-4d3c98df8a82"
                              #uuid "f99eb1ab-b22f-3ad8-be01-6560d35d334b"
+                             #uuid "5e1fa185-f0de-37e6-bdb7-d950844e10d8"
+                             #uuid "dd9724ea-000d-3b54-ab82-6887270e027f"
                              #uuid "0a974629-629b-332a-bc43-7f5ec7790dc4"
                              #uuid "49964193-520a-3b88-8ee9-5f53fd4fb926"
                              #uuid "ce4ecb65-83cd-31e5-9ba8-853b1b06c234"
@@ -47977,6 +48095,8 @@
                              #uuid "314a8106-847d-3cbb-babe-a36b8ee15564"
                              #uuid "9dd5d0d8-0c6e-3f7f-95fa-aa698ceff84a"
                              #uuid "5c742d80-ea46-3f08-85b3-db52ffd6dd1d"
+                             #uuid "5e1fa185-f0de-37e6-bdb7-d950844e10d8"
+                             #uuid "dd9724ea-000d-3b54-ab82-6887270e027f"
                              #uuid "d35b5753-4313-359a-b6e4-fb9b01f28e13"
                              #uuid "08eb296f-6c1c-355a-aae1-79e0f03fbcf7"
                              #uuid "7d15beb5-ff94-3f90-9da2-3667e353d799"

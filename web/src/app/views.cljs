@@ -261,4 +261,5 @@
        [:a {:href source-url} source-label]
        " enriched with info from "
        [:a {:href "https://boardgamegeek.com/"} "boardgamegeek.com"]
-       "."]]]))
+       "."]
+      [:img {:src "img/powered-by-bgg.svg"}]]]))

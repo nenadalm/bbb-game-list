@@ -14,6 +14,7 @@
    ["index.html"
     "manifest.json"
     "img/icon.svg"
+    "img/powered-by-bgg.svg"
     (u/asset "img/icon.svg" module-id->output-name)
     (u/asset "js/cljs_base.js" module-id->output-name)
     (u/asset "js/app.js" module-id->output-name)

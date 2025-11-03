@@ -159,6 +159,10 @@ td {
     text-align: center;
 }
 
+.footer img {
+    margin: 1rem auto;
+}
+
 .card-list {
     display: flex;
     flex-direction: column;

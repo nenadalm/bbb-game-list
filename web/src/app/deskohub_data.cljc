@@ -484,7 +484,7 @@
                              #uuid "c91e5a98-0a9d-3c8f-b565-cee332bda8de",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 8.1,
+                             :com.boardgamegeek.boardgame/rating 8.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -1500,7 +1500,7 @@
                              :com.boardgamegeek.boardgame/id "478",
                              :game/name "Citadels",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/42iW4E-vOumFXRQAiSf-GA__small/img/lxwVwqIO1RkDyyykSDFnpmwbgyI=/fit-in/200x150/filters:strip_icc()/pic3239104.jpg"},
+                             "https://cf.geekdo-images.com/shXqRK7Sfsp-jCLwoN3kqw__small/img/Y_o8GdhShAWME_ZH2c7yTxHJIWk=/fit-in/200x150/filters:strip_icc()/pic636868.jpg"},
                             #uuid "dc198571-55c2-3600-af8d-241d8df20944"
                             {:name
                              "Clank! In! Space!: A Deck-Building Adventure",
@@ -2337,7 +2337,7 @@
                              #uuid "6ec0b4db-6cca-3c7b-b983-5833527283fd",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.5,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -3539,7 +3539,7 @@
                              #uuid "4fdbc5f5-0551-347b-aac9-d8f2859b4a68",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.6,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2838,
@@ -7212,7 +7212,7 @@
                              #uuid "65e03e67-6dd2-37c2-bcc6-5fc01b8f4620"
                              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a"
                              #uuid "f49fab51-1d4d-3849-b943-6d18e3b10a71"
-                             #uuid "6ec0b4db-6cca-3c7b-b983-5833527283fd"
+                             #uuid "4fdbc5f5-0551-347b-aac9-d8f2859b4a68"
                              #uuid "6a4265e9-fdb5-361d-8d97-2ce82c8cb801"
                              #uuid "26121102-4728-3717-97a8-640bdedbea8d"
                              #uuid "91cb3cb8-649c-39ef-8155-15494d1b454e"
@@ -7221,9 +7221,9 @@
                              #uuid "605b29d5-2d5d-30c9-bf02-1eb669804b8b"
                              #uuid "4f6a71be-0b8d-389d-a431-a8e4cbf59e46"
                              #uuid "d8f6900d-5012-3d09-8a9e-d26613e7690f"
+                             #uuid "6ec0b4db-6cca-3c7b-b983-5833527283fd"
                              #uuid "7dfab041-39e9-35d1-8b11-b3fdb49222dd"
                              #uuid "63c5172c-2cbb-310a-aca4-662b40eb7a62"
-                             #uuid "4fdbc5f5-0551-347b-aac9-d8f2859b4a68"
                              #uuid "cbab0e11-2f08-3261-a5be-0d6bd88fba28"
                              #uuid "0070b6cf-8144-303d-9172-acada2b035df"
                              #uuid "69298653-8cb1-3b3d-b161-825d2ce4e613"
@@ -7248,6 +7248,7 @@
                              #uuid "a825e9ee-c858-3b9f-82dc-2c68495f06e4"
                              #uuid "fe261656-74a2-3837-a448-a57f0d1b43bf"
                              #uuid "610c7c4f-043d-3f06-b077-484eac9e7138"
+                             #uuid "c91e5a98-0a9d-3c8f-b565-cee332bda8de"
                              #uuid "182deae1-4ea2-3cb6-a9a3-ff03c832e910"
                              #uuid "1ccde006-de3e-3a74-9c21-27ab77c020b3"
                              #uuid "847843a3-b5a8-3a58-9f2f-f4e12266acc5"
@@ -7255,7 +7256,6 @@
                              #uuid "ebaa10ce-11ea-31ed-a50f-d83872fa311e"
                              #uuid "e5f11979-9a30-30ec-8084-92dd584b1214"
                              #uuid "aa2a14f6-6296-368a-8fab-970e48ba9430"
-                             #uuid "c91e5a98-0a9d-3c8f-b565-cee332bda8de"
                              #uuid "9494bcbd-1f85-37bb-b15a-6ca10d64b159"
                              #uuid "28eb0c35-a26a-3850-b71e-053581f6d64a"
                              #uuid "55b795d7-d8c7-3b09-8d1a-ec5e3c0c5ace"

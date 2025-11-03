@@ -332,7 +332,7 @@
                              #uuid "c91e5a98-0a9d-3c8f-b565-cee332bda8de",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 8.1,
+                             :com.boardgamegeek.boardgame/rating 8.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -805,10 +805,6 @@
                                                                 2661,
                                                                 :name
                                                                 "Push Your Luck"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2820,
-                                                                :name
-                                                                "Semi-Cooperative Game"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2020,
                                                                 :name
@@ -1324,6 +1320,10 @@
                              :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2001,
+                                                                :name
+                                                                "Action Points"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2023,
                                                                 :name
                                                                 "Cooperative Game"}
@@ -1527,7 +1527,7 @@
                              :languages ["cs"],
                              :game/name "Citadels",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/42iW4E-vOumFXRQAiSf-GA__small/img/lxwVwqIO1RkDyyykSDFnpmwbgyI=/fit-in/200x150/filters:strip_icc()/pic3239104.jpg"},
+                             "https://cf.geekdo-images.com/shXqRK7Sfsp-jCLwoN3kqw__small/img/Y_o8GdhShAWME_ZH2c7yTxHJIWk=/fit-in/200x150/filters:strip_icc()/pic636868.jpg"},
                             #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a"
                             {:game/id
                              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a",
@@ -5353,7 +5353,7 @@
                              #uuid "e64a40ce-1e9c-3e3b-94be-a3d33cd4bfb3",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.8,
+                             :com.boardgamegeek.boardgame/rating 6.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2002,
@@ -7077,10 +7077,10 @@
                              #uuid "f441d486-f4fe-3599-a05c-3e2a9db44d72"
                              #uuid "f69b4b89-a1c0-31da-8e14-95eea67408a3"
                              #uuid "c0369449-3628-349a-a853-e01310284635"
-                             #uuid "e64a40ce-1e9c-3e3b-94be-a3d33cd4bfb3"
                              #uuid "976db20c-913d-3df8-a781-4574c78c4a48"
                              #uuid "2da3c827-ccab-3485-9cb9-921b4f1addfa"
                              #uuid "ed2dab37-2f6d-3f1b-9ec5-40cacb2a1714"
+                             #uuid "e64a40ce-1e9c-3e3b-94be-a3d33cd4bfb3"
                              #uuid "455dbea5-74df-3b67-9829-75de15674204"
                              #uuid "56a53916-96df-3787-baa5-686dfce7ee2f"
                              #uuid "3c4ac596-2c34-3f1c-b8c6-82395c9831dd"
@@ -7138,13 +7138,13 @@
                              #uuid "b4f41567-772b-3138-88ba-70d5964ad01b"
                              #uuid "c180dcbb-f5dd-3cdf-acb3-dfe83bc594ec"
                              #uuid "9fa3f01d-ac6e-3690-9837-54da6c87150f"
+                             #uuid "c91e5a98-0a9d-3c8f-b565-cee332bda8de"
                              #uuid "59b85053-a3ac-3c1a-8f29-eaaa3baec4c3"
                              #uuid "182deae1-4ea2-3cb6-a9a3-ff03c832e910"
                              #uuid "e9d7e4f3-6f6a-3f9d-9321-3e41aeda168a"
                              #uuid "e5f11979-9a30-30ec-8084-92dd584b1214"
                              #uuid "21489cfd-6859-3a26-9603-e63a04e4e720"
                              #uuid "aa2a14f6-6296-368a-8fab-970e48ba9430"
-                             #uuid "c91e5a98-0a9d-3c8f-b565-cee332bda8de"
                              #uuid "fa03eb68-8ad8-3a1d-b593-d33dabd89bad"
                              #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08"
                              #uuid "56e4acb7-927c-3c3e-af73-81fcb8add208"

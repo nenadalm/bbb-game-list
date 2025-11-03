@@ -70,6 +70,7 @@ jobs:
         env:
           GOOGLE_SERVICE_ACCOUNT_EMAIL: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_EMAIL }}
           GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
+          BGG_TOKEN: ${{ secrets.BGG_TOKEN }}
         run: |
           cd ./importer/
           clojure -X app.core/create-data :project '"${{ matrix.project }}"'
@@ -80,7 +81,7 @@ jobs:
           path: web/src/app/${{ matrix.project }}_data.cljc
           if-no-files-found: error
           retention-days: 7
-  create-pr:
+  push:
     needs: update
     runs-on: ubuntu-latest
     steps:

@@ -9,11 +9,14 @@
    [app.cache :as cache]
    [app.http.url :as http]))
 
-(def ^:private api-root "https://www.boardgamegeek.com/xmlapi2")
+(def ^:private api-root "https://boardgamegeek.com/xmlapi2")
+
+(def ^:private api-token (System/getenv "BGG_TOKEN"))
 
 (defn- parse-xml* [url]
   (let [response (http/request
                   {:url url
+                   :headers {"Authorization" (str "Bearer " api-token)}
                    :as :stream})]
     (cond
       (= 202 (:status response))

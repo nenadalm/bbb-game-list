@@ -49,7 +49,7 @@
   <body>
     Lists
     <ul>" (str/join "\n" (mapv render-project-item projects)) "</ul>
-    <div class=\"footer\"><p>Version: " (u/app-version) "</p><img src=\"img/powered-by-bgg.svg\"></div>
+    <div class=\"footer\"><p><sup id=\"update-available\" style=\"display: none;\">&#128472;</sup>Version: " (u/app-version) "</p><img src=\"img/powered-by-bgg.svg\"></div>
     <script src=\"" (u/asset "js/cljs_base.js" module-id->output-name) "\"></script>
     <script src=\"" (u/asset "js/app.js" module-id->output-name) "\"></script>
     <script>app.core.init();</script>

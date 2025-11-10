@@ -13673,6 +13673,63 @@
                              "Football Highlights: The Dice Game",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/WyQaxC9djBURuoB3qVNynA__small/img/9J00SHBArronyhV8XJ4kosRSHX0=/fit-in/200x150/filters:strip_icc()/pic6028637.png"},
+                            #uuid "fc966aa2-5795-34dc-8e0b-868b5557fbec"
+                            {:game/id
+                             #uuid "fc966aa2-5795-34dc-8e0b-868b5557fbec",
+                             :com.boardgamegeek.boardgame/min-players
+                             1,
+                             :com.boardgamegeek.boardgame/rating 7.8,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2040,
+                                                                :name
+                                                                "Hand Management"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                3006,
+                                                                :name
+                                                                "Predictive Bid"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2822,
+                                                                :name
+                                                                "Scenario / Mission / Campaign Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2819,
+                                                                :name
+                                                                "Solo / Solitaire Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2009,
+                                                                :name
+                                                                "Trick-taking"}),
+                             :name
+                             "For Northwood! A Solo Trick-Taking Game",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1089,
+                                                                :name
+                                                                "Animals"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1002,
+                                                                :name
+                                                                "Card Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1010,
+                                                                :name
+                                                                "Fantasy"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1120,
+                                                                :name
+                                                                "Print & Play"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/max-players
+                             1,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             15,
+                             :com.boardgamegeek.boardgame/id "334590",
+                             :game/name
+                             "For Northwood! A Solo Trick-Taking Game",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/3MdUGB8YD_jGTDyfbAnX9Q__small/img/c41bbBRd7BC3KKqLFdKb6URXzsA=/fit-in/200x150/filters:strip_icc()/pic6763912.png"},
                             #uuid "77019157-27a1-3008-9fce-2ae005351ccb"
                             {:game/id
                              #uuid "77019157-27a1-3008-9fce-2ae005351ccb",
@@ -43399,6 +43456,7 @@
                              #uuid "6b17f1d4-4d78-3b36-ad3c-c6bf29954dfd"
                              #uuid "532f8c74-c965-3a8b-84a5-bffce453945f"
                              #uuid "be22581f-a4e0-37aa-ab8f-7dc7d7e5956f"
+                             #uuid "fc966aa2-5795-34dc-8e0b-868b5557fbec"
                              #uuid "77019157-27a1-3008-9fce-2ae005351ccb"
                              #uuid "c4edcc25-a755-3d39-a9e4-bb19240eb5b5"
                              #uuid "2ab400bc-b73d-3e75-8b6e-64c2562878c6"
@@ -44972,6 +45030,7 @@
                              #uuid "5a9f1882-0b27-3da7-8d24-b13eda1849af"
                              #uuid "fb51ee1e-0d41-39bc-8144-862f9f46a475"
                              #uuid "43db2a9b-c6b7-310c-a7fd-6873bb6ca7a4"
+                             #uuid "fc966aa2-5795-34dc-8e0b-868b5557fbec"
                              #uuid "390a8b92-a855-31c5-8109-9468dfed0dd1"
                              #uuid "b270a9d6-0b59-358f-9c85-3a94726e665b"
                              #uuid "6f05591c-c7b4-32dd-817d-c41c0d9254d0"
@@ -45318,6 +45377,7 @@
                              #uuid "3325caa9-0053-3e4a-a495-03ae517ddd92"
                              #uuid "4b8fd77f-4c4f-353c-b7cb-ae7f066cad26"
                              #uuid "be22581f-a4e0-37aa-ab8f-7dc7d7e5956f"
+                             #uuid "fc966aa2-5795-34dc-8e0b-868b5557fbec"
                              #uuid "2ab400bc-b73d-3e75-8b6e-64c2562878c6"
                              #uuid "5866bed5-5204-3028-b384-b7472b792ac0"
                              #uuid "07782c22-a88d-3e82-a099-10124a9225a2"
@@ -46205,6 +46265,7 @@
                              #uuid "5efda538-939a-3610-b02a-9145dff33b0d"
                              #uuid "9df1c579-aa18-332f-a0e6-704cf2b2ef3a"
                              #uuid "732f76bc-d4c3-321a-8bed-ee52a9ed87c9"
+                             #uuid "fc966aa2-5795-34dc-8e0b-868b5557fbec"
                              #uuid "2ab400bc-b73d-3e75-8b6e-64c2562878c6"
                              #uuid "c33b138a-1638-37cd-b6ca-eeb7c9a126b4"
                              #uuid "17d89de4-25e8-3876-86c3-9ef10f08cf3e"
@@ -47280,6 +47341,7 @@
                              #uuid "813c39fd-d53b-3512-a656-7c747e1b82bd"
                              #uuid "57ded919-c07c-303b-9b25-fe9cb3fa5063"
                              #uuid "6b17f1d4-4d78-3b36-ad3c-c6bf29954dfd"
+                             #uuid "fc966aa2-5795-34dc-8e0b-868b5557fbec"
                              #uuid "5866bed5-5204-3028-b384-b7472b792ac0"
                              #uuid "e8174208-0e82-3f10-9e40-41b9c05338b7"
                              #uuid "95b57155-f052-38ad-a70a-af6f4184829b"
@@ -48386,6 +48448,7 @@
                              #uuid "528b1733-e726-390d-b834-7bc1de3ccb2a"
                              #uuid "e3bb5645-10ea-3226-b620-14f63f327b83"
                              #uuid "532f8c74-c965-3a8b-84a5-bffce453945f"
+                             #uuid "fc966aa2-5795-34dc-8e0b-868b5557fbec"
                              #uuid "77019157-27a1-3008-9fce-2ae005351ccb"
                              #uuid "07782c22-a88d-3e82-a099-10124a9225a2"
                              #uuid "251c85df-7a85-3370-b0b4-ceba79d9e19f"

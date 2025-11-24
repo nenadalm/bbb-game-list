@@ -499,48 +499,16 @@
                              #uuid "28e54304-62fc-38c9-9b76-058878323d57",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.2,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
                                                                 :name
                                                                 "Cooperative Game"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                2072,
-                                                                :name
-                                                                "Dice Rolling"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2850,
-                                                                :name
-                                                                "Events"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2885,
-                                                                :name
-                                                                "Finale Ending"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2040,
-                                                                :name
-                                                                "Hand Management"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2836,
-                                                                :name
-                                                                "Lose a Turn"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2078,
-                                                                :name
-                                                                "Point to Point Movement"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2028,
                                                                 :name
                                                                 "Role Playing"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2819,
-                                                                :name
-                                                                "Solo / Solitaire Game"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2853,
-                                                                :name
-                                                                "Stat Check Resolution"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2015,
                                                                 :name
@@ -552,10 +520,6 @@
                                                                 :name
                                                                 "Adventure"}
                                    #:com.boardgamegeek.category{:id
-                                                                1046,
-                                                                :name
-                                                                "Fighting"}
-                                   #:com.boardgamegeek.category{:id
                                                                 1024,
                                                                 :name
                                                                 "Horror"}
@@ -564,15 +528,15 @@
                                                                 :name
                                                                 "Novel-based"}),
                              :com.boardgamegeek.boardgame/max-play-time
-                             240,
+                             180,
                              :com.boardgamegeek.boardgame/max-players
                              8,
                              :com.boardgamegeek.boardgame/min-play-time
-                             120,
-                             :com.boardgamegeek.boardgame/id "15987",
+                             180,
+                             :com.boardgamegeek.boardgame/id "34",
                              :game/name "Arkham Horror",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/9cJf4kd_HZQo6NunfJlo9w__small/img/6VzhMMmGOxNTCHQ-8iFdn5vINis=/fit-in/200x150/filters:strip_icc()/pic175966.jpg"},
+                             "https://cf.geekdo-images.com/AhS53CO05pBagyr9EfRazg__small/img/vkAI2JcO2v2Y_pO1Fi5shUGzCxc=/fit-in/200x150/filters:strip_icc()/pic5747491.jpg"},
                             #uuid "667e0ced-a3ec-32f8-946a-b20c0f4325bf"
                             {:name "Atraxa, Grand Unifier",
                              :game/id
@@ -2961,7 +2925,7 @@
                              #uuid "06dfeee1-4208-36aa-86e8-d750140dbeaa",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.7,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -6262,10 +6226,11 @@
                              #uuid "c8f93560-ab90-3e08-af95-140ebb860697"
                              #uuid "7bae0b38-0a96-3ecc-b46e-2fb84ebd8dd8"
                              #uuid "6bdd63a2-940d-3e46-a254-30ccff2b0d49"
+                             #uuid "06dfeee1-4208-36aa-86e8-d750140dbeaa"
                              #uuid "24e29fc0-4246-32b5-8d1a-158e40691c8b"
+                             #uuid "28e54304-62fc-38c9-9b76-058878323d57"
                              #uuid "d99a604c-79ce-3c2e-b6a2-f43488d5d4c3"
                              #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
-                             #uuid "06dfeee1-4208-36aa-86e8-d750140dbeaa"
                              #uuid "63e5002f-f8a6-36bd-81b5-2f817477eecf"
                              #uuid "ae767445-c0ab-3c20-a1bf-d310f7e291ee"
                              #uuid "f4fc95a6-49c7-35b0-a88e-e67baaf858a2"
@@ -6283,7 +6248,6 @@
                              #uuid "1add2eb4-1fca-39b2-a15b-4a7d68571409"
                              #uuid "e1d04b1f-1d94-3006-958a-ee81242dab6d"
                              #uuid "1f6abbcc-6aa7-3fbf-8c11-f5ea47b5cb4d"
-                             #uuid "28e54304-62fc-38c9-9b76-058878323d57"
                              #uuid "69895ff2-b990-3611-827e-f4f7fd32eb8a"
                              #uuid "0b5d8490-cda6-3f85-ac58-70ed3aefe115"
                              #uuid "2ca189f5-8500-3bf3-99b6-ec3203b0c227"
@@ -6769,10 +6733,10 @@
                              #uuid "f7625727-1129-3703-96c0-442c8ac00dae"
                              #uuid "148309a1-2159-3de0-816b-266f7301dd3d"
                              #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08"
-                             #uuid "28e54304-62fc-38c9-9b76-058878323d57"
                              #uuid "bf8d01be-0dae-35e4-a457-a3f4049c8606"
                              #uuid "f944b1ee-72e5-3ea8-832f-4eaf0dde6f09"
                              #uuid "54c50c24-6cf7-35b1-9966-0eddfdef2895"
+                             #uuid "28e54304-62fc-38c9-9b76-058878323d57"
                              #uuid "24e29fc0-4246-32b5-8d1a-158e40691c8b"],
                             :com.boardgamegeek.boardgame/max-play-time
                             [#uuid "667e0ced-a3ec-32f8-946a-b20c0f4325bf"
@@ -6917,9 +6881,9 @@
                              #uuid "0ec4024f-0e85-3ed0-aa2e-5260f718232c"
                              #uuid "f7625727-1129-3703-96c0-442c8ac00dae"
                              #uuid "0071dfa9-ec41-35e2-befc-ecbe183ff272"
+                             #uuid "28e54304-62fc-38c9-9b76-058878323d57"
                              #uuid "bf8d01be-0dae-35e4-a457-a3f4049c8606"
                              #uuid "54c50c24-6cf7-35b1-9966-0eddfdef2895"
                              #uuid "0b0ba83c-ba8f-3c56-8b3e-a2fc3bc7f5a4"
-                             #uuid "28e54304-62fc-38c9-9b76-058878323d57"
                              #uuid "24e29fc0-4246-32b5-8d1a-158e40691c8b"
                              #uuid "e4aa4bf2-7c2c-3f92-9ea4-b86a7a51095c"]}})

@@ -1683,7 +1683,7 @@
                              :languages ["cs"],
                              :game/name "Codenames: Pictures",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/OFSDgRR7lbFF0W3VP4mISw__small/img/wx-QjSj1vQfEZBgQXjgnwPpzyow=/fit-in/200x150/filters:strip_icc()/pic8911187.png"},
+                             "https://cf.geekdo-images.com/TGHPcdYEnD3_QzMohEIrNw__small/img/0bZIFaJEW-3FquBb8jY-SqrrUx8=/fit-in/200x150/filters:strip_icc()/pic9206059.png"},
                             #uuid "dd6f7a14-de47-37f2-bb22-bd37cf04e69b"
                             {:game/id
                              #uuid "dd6f7a14-de47-37f2-bb22-bd37cf04e69b",
@@ -6083,7 +6083,11 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2874,
                                                                 :name
-                                                                "Victory Points as a Resource"}),
+                                                                "Victory Points as a Resource"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2974,
+                                                                :name
+                                                                "Zone of Control"}),
                              :name "Tikal",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -6182,7 +6186,7 @@
                              #uuid "08b6d232-f558-3e55-94ab-cef9ff9f27a7",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.5,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -6724,6 +6728,10 @@
                                                                 :name
                                                                 "Open Drafting"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2813,
+                                                                :name
+                                                                "Rondel"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2819,
                                                                 :name
                                                                 "Solo / Solitaire Game"}
@@ -7111,6 +7119,7 @@
                              #uuid "c56337cc-54ed-3e22-8b76-d1092f67310c"
                              #uuid "e0ac93db-046d-3764-a1e6-36c109df2ec4"
                              #uuid "af81fcd3-6c2c-3080-ac39-0f077b425e0a"
+                             #uuid "08b6d232-f558-3e55-94ab-cef9ff9f27a7"
                              #uuid "fdb07892-a50b-3405-8eb2-8a5429a70ee8"
                              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a"
                              #uuid "53a695cf-9848-3886-83f2-221b8e81c67a"
@@ -7119,7 +7128,6 @@
                              #uuid "7c3801ac-e417-346c-a923-a047750758ea"
                              #uuid "ee251f41-b54c-3c3d-ad55-d9a6adef30ea"
                              #uuid "90a300ed-ea38-3514-b744-0c43440fa4b3"
-                             #uuid "08b6d232-f558-3e55-94ab-cef9ff9f27a7"
                              #uuid "cf1e8f0b-c580-3564-8e6e-e3cc8df2c060"
                              #uuid "d8f6900d-5012-3d09-8a9e-d26613e7690f"
                              #uuid "a83b8f23-d78e-3e62-90eb-d70f7995c982"

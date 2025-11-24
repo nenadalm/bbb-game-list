@@ -658,7 +658,7 @@
                              #uuid "65e03e67-6dd2-37c2-bcc6-5fc01b8f4620",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.5,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -1693,7 +1693,7 @@
                              :com.boardgamegeek.boardgame/id "198773",
                              :game/name "Codenames: Pictures",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/OFSDgRR7lbFF0W3VP4mISw__small/img/wx-QjSj1vQfEZBgQXjgnwPpzyow=/fit-in/200x150/filters:strip_icc()/pic8911187.png"},
+                             "https://cf.geekdo-images.com/TGHPcdYEnD3_QzMohEIrNw__small/img/0bZIFaJEW-3FquBb8jY-SqrrUx8=/fit-in/200x150/filters:strip_icc()/pic9206059.png"},
                             #uuid "dd6f7a14-de47-37f2-bb22-bd37cf04e69b"
                             {:game/id
                              #uuid "dd6f7a14-de47-37f2-bb22-bd37cf04e69b",
@@ -2337,7 +2337,7 @@
                              #uuid "6ec0b4db-6cca-3c7b-b983-5833527283fd",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.6,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -3307,7 +3307,7 @@
                              :com.boardgamegeek.boardgame/id "110327",
                              :game/name "Lords of Waterdeep",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/-hk8f8iGk_DyWyMrfiPBkg__small/img/dBqYOO8uLXAumxUGuYtuiRGQ1Y8=/fit-in/200x150/filters:strip_icc()/pic1116080.jpg"},
+                             "https://cf.geekdo-images.com/DFZlakC9Lv8cB5Co5z3meA__small/img/zioDxFvYNCzSbh09ibB6arS017w=/fit-in/200x150/filters:strip_icc()/pic9230112.jpg"},
                             #uuid "28eb0c35-a26a-3850-b71e-053581f6d64a"
                             {:game/id
                              #uuid "28eb0c35-a26a-3850-b71e-053581f6d64a",
@@ -4967,7 +4967,7 @@
                              #uuid "32369318-5ff3-31ae-957a-36e1241d5aa7",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.7,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2046,
@@ -5010,7 +5010,7 @@
                              #uuid "a18c1cce-9ea0-3890-b126-f74e34f68986",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.8,
+                             :com.boardgamegeek.boardgame/rating 7.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -5381,7 +5381,7 @@
                              #uuid "6c7dc989-f835-391f-9497-6edf763cf295",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 5.6,
+                             :com.boardgamegeek.boardgame/rating 5.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2676,
@@ -6103,6 +6103,10 @@
                                                                 :name
                                                                 "Multi-Use Cards"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2846,
+                                                                :name
+                                                                "Once-Per-Game Abilities"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2041,
                                                                 :name
                                                                 "Open Drafting"}
@@ -6111,9 +6115,17 @@
                                                                 :name
                                                                 "Race"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2948,
+                                                                :name
+                                                                "Resource to Move"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2897,
                                                                 :name
-                                                                "Variable Set-up"}),
+                                                                "Variable Set-up"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2974,
+                                                                :name
+                                                                "Zone of Control"}),
                              :name "Petrichor",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -7202,6 +7214,7 @@
                              #uuid "2dc322b0-ef94-3b68-ad5e-19c30b35d348"
                              #uuid "17a15e54-9f49-32ec-b6fc-a1fdca54da2b"
                              #uuid "ab2c0722-a352-35b9-97a6-fdb65bfbcd43"
+                             #uuid "65e03e67-6dd2-37c2-bcc6-5fc01b8f4620"
                              #uuid "f6358c6d-587f-3ca9-8501-68859005fb86"
                              #uuid "a5fc263e-513f-3a6e-a196-9f328b3892c1"
                              #uuid "e8d2a59c-f315-3860-9608-b04f893cbc93"
@@ -7209,9 +7222,9 @@
                              #uuid "bb315bd3-e4ee-3f82-9350-7ff4bb9c2e54"
                              #uuid "a346b0d6-8cee-35c0-b19d-9cca4d686b76"
                              #uuid "d2c146ec-def1-3163-b6b5-0f4671dce127"
-                             #uuid "65e03e67-6dd2-37c2-bcc6-5fc01b8f4620"
                              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a"
                              #uuid "f49fab51-1d4d-3849-b943-6d18e3b10a71"
+                             #uuid "6ec0b4db-6cca-3c7b-b983-5833527283fd"
                              #uuid "4fdbc5f5-0551-347b-aac9-d8f2859b4a68"
                              #uuid "6a4265e9-fdb5-361d-8d97-2ce82c8cb801"
                              #uuid "26121102-4728-3717-97a8-640bdedbea8d"
@@ -7221,12 +7234,12 @@
                              #uuid "605b29d5-2d5d-30c9-bf02-1eb669804b8b"
                              #uuid "4f6a71be-0b8d-389d-a431-a8e4cbf59e46"
                              #uuid "d8f6900d-5012-3d09-8a9e-d26613e7690f"
-                             #uuid "6ec0b4db-6cca-3c7b-b983-5833527283fd"
                              #uuid "7dfab041-39e9-35d1-8b11-b3fdb49222dd"
                              #uuid "63c5172c-2cbb-310a-aca4-662b40eb7a62"
                              #uuid "cbab0e11-2f08-3261-a5be-0d6bd88fba28"
                              #uuid "0070b6cf-8144-303d-9172-acada2b035df"
                              #uuid "69298653-8cb1-3b3d-b161-825d2ce4e613"
+                             #uuid "32369318-5ff3-31ae-957a-36e1241d5aa7"
                              #uuid "6db1c14d-1110-3bb5-9391-72fab98164d4"
                              #uuid "87bf3f0d-90ba-34e5-8e3a-829a5621d6d0"
                              #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
@@ -7234,17 +7247,16 @@
                              #uuid "805bace7-4667-3eb1-b90b-d680cd215d97"
                              #uuid "28bfd12a-29c7-3b1c-b3b9-2e241ba98ee5"
                              #uuid "da5e5627-3890-3c39-be80-e5d5743f1e06"
-                             #uuid "32369318-5ff3-31ae-957a-36e1241d5aa7"
                              #uuid "2aa26e3d-e0d5-373a-a8d6-19fcf73a5e16"
                              #uuid "99cea7d8-0623-3dac-8661-32d60a1521c5"
                              #uuid "e0bb33b9-20df-33e3-85b3-bb1c1b2eb0d4"
                              #uuid "990158d0-56bc-3e85-be21-a454bd738471"
-                             #uuid "a18c1cce-9ea0-3890-b126-f74e34f68986"
                              #uuid "1cc9be11-1d46-3199-86af-0bbd950d2bab"
                              #uuid "f6b1061e-002a-352d-8600-dde1500b71b9"
                              #uuid "19e95810-b511-372b-9f47-e2b106f8daf6"
                              #uuid "31443f78-5552-3274-a24d-a8e1b221db5e"
                              #uuid "79e6c904-6b30-30a8-92ac-f646dbf937aa"
+                             #uuid "a18c1cce-9ea0-3890-b126-f74e34f68986"
                              #uuid "a825e9ee-c858-3b9f-82dc-2c68495f06e4"
                              #uuid "fe261656-74a2-3837-a448-a57f0d1b43bf"
                              #uuid "610c7c4f-043d-3f06-b077-484eac9e7138"

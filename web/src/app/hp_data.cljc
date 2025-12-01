@@ -11347,6 +11347,10 @@
                                                                 :name
                                                                 "End Game Bonuses"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2846,
+                                                                :name
+                                                                "Once-Per-Game Abilities"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2939,
                                                                 :name
                                                                 "Track Movement"}
@@ -12270,7 +12274,7 @@
                              #uuid "3c1fd801-7f7f-37a7-8609-c31c50b7911d",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 5.9,
+                             :com.boardgamegeek.boardgame/rating 5.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2047,
@@ -13093,6 +13097,7 @@
                              #uuid "83bc6d7a-f0b7-32c4-9654-2c5b4889232b"
                              #uuid "fbbaa2e3-599e-3480-bf8a-64ef97ee61c2"
                              #uuid "ecaa1394-0a12-3a94-b41e-949fe306eccd"
+                             #uuid "3c1fd801-7f7f-37a7-8609-c31c50b7911d"
                              #uuid "b637cb61-ad5a-38ad-a7c2-bb785678af37"
                              #uuid "458d2163-a348-30c3-a4ad-8792fa32645c"
                              #uuid "0c4d773a-4f7d-3480-a72a-f0b466ccd9eb"
@@ -13100,7 +13105,6 @@
                              #uuid "c6093e2b-8b30-3888-bed6-88f58d2ada71"
                              #uuid "6e8ce4f2-3cc4-37b8-9002-721e44843aaf"
                              #uuid "98f21854-baa2-356c-8d3f-bc39eb43f485"
-                             #uuid "3c1fd801-7f7f-37a7-8609-c31c50b7911d"
                              #uuid "477c2070-414c-35f9-be19-d3d3d72b49d2"
                              #uuid "141c9f39-27f9-3e84-b303-58ac1f2e96ac"
                              #uuid "c1fa67fc-99a3-39a4-962b-ba099f84d11c"

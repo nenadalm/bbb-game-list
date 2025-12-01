@@ -126,6 +126,10 @@
                                                                 :name
                                                                 "Action Points"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2080,
+                                                                :name
+                                                                "Area Majority / Influence"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2676,
                                                                 :name
                                                                 "Grid Movement"}
@@ -140,7 +144,11 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2041,
                                                                 :name
-                                                                "Open Drafting"}),
+                                                                "Open Drafting"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2686,
+                                                                :name
+                                                                "Take That"}),
                              :name "Adrenalin",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -5345,7 +5353,7 @@
                              #uuid "6db18798-151e-3a9c-ab21-6d0eec180f1d",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 5.6,
+                             :com.boardgamegeek.boardgame/rating 5.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -5576,10 +5584,10 @@
                              #uuid "c92dfc67-57f3-321b-9b0e-4ebb6c806560"
                              #uuid "922ebe9d-cf67-3bd3-bebd-adeba294f061"
                              #uuid "1f7154ef-1ff4-3563-9a68-23cddb38d9a0"
+                             #uuid "6db18798-151e-3a9c-ab21-6d0eec180f1d"
                              #uuid "c1da2564-45b9-315e-a8fe-4245e852daad"
                              #uuid "050802c0-f2a9-37b7-864e-c5095699a90d"
                              #uuid "8fa5bb75-e6e9-3d77-924a-b5d93b90596e"
-                             #uuid "6db18798-151e-3a9c-ab21-6d0eec180f1d"
                              #uuid "ccf557ca-1a7c-3651-ade8-1c9892ff7a16"
                              #uuid "7e7fdd38-98cc-3f0f-a059-308e820a2013"
                              #uuid "6566b035-8535-3d7d-8318-9c4c18212156"

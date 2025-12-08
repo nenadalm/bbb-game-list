@@ -10606,15 +10606,49 @@
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/CawgoeUEMFS4f14Iix9Exg__small/img/OYsku3__TTw8fiFYEWlhUBT7nIU=/fit-in/200x150/filters:strip_icc()/pic2608713.png"},
                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
-                            {:languages
-                             ["/cs/game-languages/german"
-                              "/cs/game-languages/english"],
-                             :name "Ghost Blitz",
-                             :game/id
+                            {:game/id
                              #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa",
+                             :com.boardgamegeek.boardgame/min-players
+                             2,
+                             :com.boardgamegeek.boardgame/rating 6.7,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2060,
+                                                                :name
+                                                                "Pattern Recognition"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2991,
+                                                                :name
+                                                                "Speed Matching"}),
+                             :name "Duch!",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1032,
+                                                                :name
+                                                                "Action / Dexterity"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1002,
+                                                                :name
+                                                                "Card Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1041,
+                                                                :name
+                                                                "Children's Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1037,
+                                                                :name
+                                                                "Real-time"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             20,
+                             :com.boardgamegeek.boardgame/max-players
+                             8,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             20,
+                             :com.boardgamegeek.boardgame/id "83195",
+                             :languages ["/cs/game-languages/cestina"],
                              :game/name "Ghost Blitz",
-                             :com.boardgamegeek.boardgame/id
-                             "2034769"},
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/tvZTjFnPvt2LrY6NGSbeuQ__small/img/LGtpFjDazqROmznWJaJStSxkIHI=/fit-in/200x150/filters:strip_icc()/pic2034769.jpg"},
                             #uuid "dbc6ed40-d6e2-33c8-96ed-4e5b85c56f2f"
                             {:game/id
                              #uuid "dbc6ed40-d6e2-33c8-96ed-4e5b85c56f2f",
@@ -15554,7 +15588,7 @@
                                                                 2082,
                                                                 :name
                                                                 "Worker Placement"}),
-                             :name "Lost Ruins of Arnak",
+                             :name "Lucktails",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1022,
@@ -19610,7 +19644,8 @@
                                                                 2017,
                                                                 :name
                                                                 "Voting"}),
-                             :name "Ready Set Bet",
+                             :name
+                             "Profanity: A Card Game For Smutty People",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1002,
@@ -19770,7 +19805,7 @@
                                                                 2019,
                                                                 :name
                                                                 "Team-Based Game"}),
-                             :name "Párty trefa",
+                             :name "Rodinná Trefa",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1039,
@@ -22626,7 +22661,7 @@
                                                                 3006,
                                                                 :name
                                                                 "Predictive Bid"}),
-                             :name "Skull",
+                             :name "Skull and Roses",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1023,
@@ -31759,7 +31794,6 @@
                             :com.boardgamegeek.boardgame/rating
                             [#uuid "a16f70e6-6483-3b47-8a93-f82a9168722b"
                              #uuid "da07d263-b681-3ea1-8b68-6a504e73ccb3"
-                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "ce26cd6d-057f-3f8e-b125-d0f30fec6420"
                              #uuid "6c757a0c-4ae5-363d-84f8-46e0a6569976"
                              #uuid "e033fcee-316e-32c8-8bcb-582dec0dfc46"
@@ -32000,6 +32034,7 @@
                              #uuid "b1b7f4bc-2440-32df-812f-bc28dbe11cb7"
                              #uuid "eb9ce38e-9186-383e-8a18-3f574ec0615f"
                              #uuid "ebb7a837-d8f1-3d0c-a149-24e17e4005dc"
+                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "2d8b500e-f9e1-3ea2-a7d1-0927519e3c5f"
                              #uuid "b89d6bd4-4fd0-321f-85a1-f829a425f0c9"
                              #uuid "04117693-97a0-3890-a084-9cf9b13620dd"
@@ -32386,7 +32421,6 @@
                             :com.boardgamegeek.boardgame/min-players
                             [#uuid "a16f70e6-6483-3b47-8a93-f82a9168722b"
                              #uuid "da07d263-b681-3ea1-8b68-6a504e73ccb3"
-                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "ce26cd6d-057f-3f8e-b125-d0f30fec6420"
                              #uuid "6c757a0c-4ae5-363d-84f8-46e0a6569976"
                              #uuid "e033fcee-316e-32c8-8bcb-582dec0dfc46"
@@ -32640,6 +32674,7 @@
                              #uuid "33ef9db6-536f-307e-9b5a-71695627acc0"
                              #uuid "b1c48330-4f0d-3b7d-bb69-b9644919d62f"
                              #uuid "af89834e-3251-3aa9-a464-74b8d24a5091"
+                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "35474b73-b019-37a7-b3d6-ee8eb6df3f8c"
                              #uuid "b1ea21fb-2177-3fed-af81-0a3967e76069"
                              #uuid "bd4049a7-2730-31a1-bbc9-4a077d75facc"
@@ -33013,7 +33048,6 @@
                             :com.boardgamegeek.boardgame/max-players
                             [#uuid "a16f70e6-6483-3b47-8a93-f82a9168722b"
                              #uuid "da07d263-b681-3ea1-8b68-6a504e73ccb3"
-                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "ce26cd6d-057f-3f8e-b125-d0f30fec6420"
                              #uuid "6c757a0c-4ae5-363d-84f8-46e0a6569976"
                              #uuid "e033fcee-316e-32c8-8bcb-582dec0dfc46"
@@ -33556,6 +33590,7 @@
                              #uuid "3ed6a2fa-a80b-3140-9878-53dd29c238b8"
                              #uuid "ebb7a837-d8f1-3d0c-a149-24e17e4005dc"
                              #uuid "b3a0794c-8e53-3490-adc8-9c993a450d0b"
+                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "bd4049a7-2730-31a1-bbc9-4a077d75facc"
                              #uuid "5aa42acb-56e5-3325-acc3-e39be2b450a1"
                              #uuid "81ed0760-1bde-3c0c-bb8b-bfec97603c12"
@@ -33642,7 +33677,6 @@
                              #uuid "a16f70e6-6483-3b47-8a93-f82a9168722b"
                              #uuid "0727c24e-c484-3017-9850-a0e366a7dd42"
                              #uuid "da07d263-b681-3ea1-8b68-6a504e73ccb3"
-                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "dbc6ed40-d6e2-33c8-96ed-4e5b85c56f2f"
                              #uuid "ce26cd6d-057f-3f8e-b125-d0f30fec6420"
                              #uuid "6c757a0c-4ae5-363d-84f8-46e0a6569976"
@@ -33821,6 +33855,7 @@
                              #uuid "68cea2b4-9ca7-3e26-a125-07d2663c3ae5"
                              #uuid "b1c48330-4f0d-3b7d-bb69-b9644919d62f"
                              #uuid "af89834e-3251-3aa9-a464-74b8d24a5091"
+                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "35474b73-b019-37a7-b3d6-ee8eb6df3f8c"
                              #uuid "65b397da-a4ad-3880-b821-4f6f9d01cac1"
                              #uuid "5aa42acb-56e5-3325-acc3-e39be2b450a1"
@@ -34269,7 +34304,6 @@
                              #uuid "a16f70e6-6483-3b47-8a93-f82a9168722b"
                              #uuid "0727c24e-c484-3017-9850-a0e366a7dd42"
                              #uuid "da07d263-b681-3ea1-8b68-6a504e73ccb3"
-                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "dbc6ed40-d6e2-33c8-96ed-4e5b85c56f2f"
                              #uuid "ce26cd6d-057f-3f8e-b125-d0f30fec6420"
                              #uuid "8c890997-098d-36f6-a8b9-05fe145773d3"
@@ -34374,6 +34408,7 @@
                              #uuid "ebe3d298-d25e-3110-8e34-1c079e9455d9"
                              #uuid "ebb7a837-d8f1-3d0c-a149-24e17e4005dc"
                              #uuid "af89834e-3251-3aa9-a464-74b8d24a5091"
+                             #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "bd4049a7-2730-31a1-bbc9-4a077d75facc"
                              #uuid "65b397da-a4ad-3880-b821-4f6f9d01cac1"
                              #uuid "bc4b57d5-55c6-3d77-a3cb-38686b7bc115"

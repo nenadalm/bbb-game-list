@@ -33181,6 +33181,57 @@
                              :game/name "Spaceship Unity: Season 1.1",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/cVlFlWb7PRVa3I-rHVCS2w__small/img/k0birqaxA69XskW2kxpxNGiI_-s=/fit-in/200x150/filters:strip_icc()/pic6972726.jpg"},
+                            #uuid "011cb382-46e3-39fc-9a9c-37f573ab34ef"
+                            {:game/id
+                             #uuid "011cb382-46e3-39fc-9a9c-37f573ab34ef",
+                             :com.boardgamegeek.boardgame/min-players
+                             1,
+                             :com.boardgamegeek.boardgame/rating 8.4,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2080,
+                                                                :name
+                                                                "Area Majority / Influence"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2040,
+                                                                :name
+                                                                "Hand Management"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2007,
+                                                                :name
+                                                                "Pick-up and Deliver"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2082,
+                                                                :name
+                                                                "Worker Placement"}),
+                             :name "Speakeasy",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1021,
+                                                                :name
+                                                                "Economic"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1088,
+                                                                :name
+                                                                "Industry / Manufacturing"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1033,
+                                                                :name
+                                                                "Mafia"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1086,
+                                                                :name
+                                                                "Territory Building"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             180,
+                             :com.boardgamegeek.boardgame/max-players
+                             4,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             50,
+                             :com.boardgamegeek.boardgame/id "375459",
+                             :game/name "Speakeasy",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/Y7vIlh-m_Ugnv0jrUuOW3g__small/img/pTIdvbosIWlLSxorWRMWkUkeSj8=/fit-in/200x150/filters:strip_icc()/pic8165052.jpg"},
                             #uuid "0ef3c7ad-f9bd-3964-afb0-62c38bee7460"
                             {:game/id
                              #uuid "0ef3c7ad-f9bd-3964-afb0-62c38bee7460",
@@ -43961,6 +44012,7 @@
                              #uuid "d2d5cb9d-1faa-3a1e-9c8b-0175fdae6604"
                              #uuid "10d911e5-7941-39b9-be87-c28bfb1114c0"
                              #uuid "1812f1ce-0b21-38fc-a229-95ab45c06d90"
+                             #uuid "011cb382-46e3-39fc-9a9c-37f573ab34ef"
                              #uuid "0ef3c7ad-f9bd-3964-afb0-62c38bee7460"
                              #uuid "6bc5f893-5eeb-33fd-86fe-73e8c61764f9"
                              #uuid "b239de4e-91c1-3ccb-b7c2-db5c2d37d4a1"
@@ -45193,6 +45245,7 @@
                              #uuid "32644dee-4a8b-3424-b063-93643a611b6e"
                              #uuid "1ae1c3ed-8683-3c0f-bf90-4825cca4060a"
                              #uuid "6d729a9e-ee0a-3454-ac72-27d2753d1d74"
+                             #uuid "011cb382-46e3-39fc-9a9c-37f573ab34ef"
                              #uuid "e6f2b917-44b7-3822-8d49-6493a0458968"
                              #uuid "397314e0-31af-3c7f-ba2e-cc1955a324c9"
                              #uuid "5e1fa185-f0de-37e6-bdb7-d950844e10d8"
@@ -45583,6 +45636,7 @@
                              #uuid "01360d05-169e-344c-93b7-3184782b911c"
                              #uuid "b573df33-56dc-3ef3-8447-d3d685dadc55"
                              #uuid "10d911e5-7941-39b9-be87-c28bfb1114c0"
+                             #uuid "011cb382-46e3-39fc-9a9c-37f573ab34ef"
                              #uuid "0e6ae61b-96ea-34fa-b4e9-cdd45a2bd542"
                              #uuid "249d39f7-a5f3-3211-872d-b2ef71a7b196"
                              #uuid "26c546c9-d25c-3085-9e63-aa090a52188e"
@@ -46709,6 +46763,7 @@
                              #uuid "01360d05-169e-344c-93b7-3184782b911c"
                              #uuid "01edd27f-4ecb-31b3-a8d5-c5c8910461b4"
                              #uuid "1812f1ce-0b21-38fc-a229-95ab45c06d90"
+                             #uuid "011cb382-46e3-39fc-9a9c-37f573ab34ef"
                              #uuid "6bc5f893-5eeb-33fd-86fe-73e8c61764f9"
                              #uuid "0e6ae61b-96ea-34fa-b4e9-cdd45a2bd542"
                              #uuid "c241ff4c-ae0e-33a2-803d-39dfd60b3d3f"
@@ -47927,6 +47982,7 @@
                              #uuid "4c3accb5-e037-3034-9ab0-b33660f66502"
                              #uuid "d870dd90-0a48-3af6-b003-b15ac3289fa4"
                              #uuid "cfd8ee46-401b-3693-983f-cfab7671a6cd"
+                             #uuid "011cb382-46e3-39fc-9a9c-37f573ab34ef"
                              #uuid "dc216457-d633-3029-b6c3-a809ffeb6d33"
                              #uuid "323b1ea2-b5f4-3d78-9a10-e59c50de56a2"
                              #uuid "1713679a-10c3-3433-98c7-5fc9654c7e7f"
@@ -49076,6 +49132,7 @@
                              #uuid "1ae1c3ed-8683-3c0f-bf90-4825cca4060a"
                              #uuid "7079890b-bb34-3f48-b263-6220df486355"
                              #uuid "456d479c-8791-3533-bc06-24219803ec40"
+                             #uuid "011cb382-46e3-39fc-9a9c-37f573ab34ef"
                              #uuid "249d39f7-a5f3-3211-872d-b2ef71a7b196"
                              #uuid "39c91e32-abc6-3050-9797-001efaec1a86"
                              #uuid "c7ebab26-eb66-3497-b63d-3312f1035c7c"

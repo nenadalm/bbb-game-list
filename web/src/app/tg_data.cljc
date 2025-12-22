@@ -13177,7 +13177,7 @@
                                                                 2685,
                                                                 :name
                                                                 "Player Elimination"}),
-                             :name "Finska Mini",
+                             :name "Mölkky Minipeli",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1032,
@@ -33063,6 +33063,49 @@
                              :game/name "Space Dragons",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/47A7oUEpu-qwO988YOTkBA__small/img/N6VULco9RdpHfMpXS2Nr9Tc89_4=/fit-in/200x150/filters:strip_icc()/pic5915757.jpg"},
+                            #uuid "b2a108e6-09e2-374f-9df6-86ddd572f4be"
+                            {:game/id
+                             #uuid "b2a108e6-09e2-374f-9df6-86ddd572f4be",
+                             :com.boardgamegeek.boardgame/min-players
+                             1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2875,
+                                                                :name
+                                                                "End Game Bonuses"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2040,
+                                                                :name
+                                                                "Hand Management"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                3099,
+                                                                :name
+                                                                "Multi-Use Cards"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2004,
+                                                                :name
+                                                                "Set Collection"}),
+                             :name "Space Lab",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1002,
+                                                                :name
+                                                                "Card Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1016,
+                                                                :name
+                                                                "Science Fiction"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/max-players
+                             4,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             20,
+                             :com.boardgamegeek.boardgame/id "449974",
+                             :game/name "Space Lab",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/qdUo0pG_u4oN9wLSkl4uCg__small/img/13BF2vxnbHxdxp327ZxlXtSvPXc=/fit-in/200x150/filters:strip_icc()/pic9092169.png"},
                             #uuid "10d911e5-7941-39b9-be87-c28bfb1114c0"
                             {:game/id
                              #uuid "10d911e5-7941-39b9-be87-c28bfb1114c0",
@@ -44010,6 +44053,7 @@
                              #uuid "b573df33-56dc-3ef3-8447-d3d685dadc55"
                              #uuid "01edd27f-4ecb-31b3-a8d5-c5c8910461b4"
                              #uuid "d2d5cb9d-1faa-3a1e-9c8b-0175fdae6604"
+                             #uuid "b2a108e6-09e2-374f-9df6-86ddd572f4be"
                              #uuid "10d911e5-7941-39b9-be87-c28bfb1114c0"
                              #uuid "1812f1ce-0b21-38fc-a229-95ab45c06d90"
                              #uuid "011cb382-46e3-39fc-9a9c-37f573ab34ef"
@@ -45068,6 +45112,7 @@
                              #uuid "56b76a63-e526-3423-bd52-66cba254de06"
                              #uuid "8769712d-6075-3a94-b34f-d8e2ac344e74"
                              #uuid "568da493-2833-3009-ad26-7108e0683081"
+                             #uuid "b2a108e6-09e2-374f-9df6-86ddd572f4be"
                              #uuid "26c546c9-d25c-3085-9e63-aa090a52188e"
                              #uuid "7c3801ac-e417-346c-a923-a047750758ea"
                              #uuid "6a130755-be8d-352f-b47b-6dc976d07388"
@@ -45635,6 +45680,7 @@
                              #uuid "d51ca673-6fb3-38ac-96f7-1f62f1999665"
                              #uuid "01360d05-169e-344c-93b7-3184782b911c"
                              #uuid "b573df33-56dc-3ef3-8447-d3d685dadc55"
+                             #uuid "b2a108e6-09e2-374f-9df6-86ddd572f4be"
                              #uuid "10d911e5-7941-39b9-be87-c28bfb1114c0"
                              #uuid "011cb382-46e3-39fc-9a9c-37f573ab34ef"
                              #uuid "0e6ae61b-96ea-34fa-b4e9-cdd45a2bd542"
@@ -46762,6 +46808,7 @@
                              #uuid "2e994ee0-a8fc-32ef-a229-a0d74edf07cf"
                              #uuid "01360d05-169e-344c-93b7-3184782b911c"
                              #uuid "01edd27f-4ecb-31b3-a8d5-c5c8910461b4"
+                             #uuid "b2a108e6-09e2-374f-9df6-86ddd572f4be"
                              #uuid "1812f1ce-0b21-38fc-a229-95ab45c06d90"
                              #uuid "011cb382-46e3-39fc-9a9c-37f573ab34ef"
                              #uuid "6bc5f893-5eeb-33fd-86fe-73e8c61764f9"
@@ -47654,6 +47701,7 @@
                              #uuid "7a5a773f-a379-386d-a632-b764a09023e7"
                              #uuid "36ba7ec4-b0bb-31cd-b80b-f56507e62ec3"
                              #uuid "01edd27f-4ecb-31b3-a8d5-c5c8910461b4"
+                             #uuid "b2a108e6-09e2-374f-9df6-86ddd572f4be"
                              #uuid "c241ff4c-ae0e-33a2-803d-39dfd60b3d3f"
                              #uuid "7ce4acbd-f5ed-3800-9116-83ec4caff1ea"
                              #uuid "27f0aa7a-f0c9-3d3b-98d8-52ae102ed55a"
@@ -48660,6 +48708,7 @@
                              #uuid "3992d652-f81d-3e86-bd6e-2e685cb351a3"
                              #uuid "0a56738a-0720-3256-821d-a9c0cb16ae63"
                              #uuid "9782c72d-f2c9-3d3e-a4c9-62437997e5a0"
+                             #uuid "b2a108e6-09e2-374f-9df6-86ddd572f4be"
                              #uuid "6bc5f893-5eeb-33fd-86fe-73e8c61764f9"
                              #uuid "c241ff4c-ae0e-33a2-803d-39dfd60b3d3f"
                              #uuid "7ecc8a10-bd56-3f75-93c2-cae1822b117e"

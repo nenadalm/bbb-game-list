@@ -21697,38 +21697,58 @@
                             {:game/id
                              #uuid "c59a448e-a61e-3dad-871d-f3bc7ebe6774",
                              :com.boardgamegeek.boardgame/min-players
-                             2,
-                             :com.boardgamegeek.boardgame/rating 4.9,
+                             3,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
-                                                                2041,
+                                                                2012,
                                                                 :name
-                                                                "Open Drafting"}
+                                                                "Auction / Bidding"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                2015,
+                                                                2919,
                                                                 :name
-                                                                "Variable Player Powers"}),
-                             :name "Skull",
+                                                                "Auction: Turn Order Until Pass"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                3097,
+                                                                :name
+                                                                "Bids As Wagers"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2040,
+                                                                :name
+                                                                "Hand Management"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2685,
+                                                                :name
+                                                                "Player Elimination"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                3006,
+                                                                :name
+                                                                "Predictive Bid"}),
+                             :name "Skull and Roses",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
-                                                                1016,
+                                                                1023,
                                                                 :name
-                                                                "Science Fiction"}
+                                                                "Bluffing"}
                                    #:com.boardgamegeek.category{:id
-                                                                1038,
+                                                                1002,
                                                                 :name
-                                                                "Sports"}),
+                                                                "Card Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1030,
+                                                                :name
+                                                                "Party Game"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              45,
                              :com.boardgamegeek.boardgame/max-players
-                             2,
+                             6,
                              :com.boardgamegeek.boardgame/min-play-time
-                             45,
-                             :com.boardgamegeek.boardgame/id "67466",
+                             15,
+                             :com.boardgamegeek.boardgame/id "92415",
                              :languages ["/cs/game-languages/english"],
                              :game/name "Skull",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/4FvrOFxgPqlGmO56WS08dg__small/img/-DGFjUF0NHZo-6U4lcmE46utf-E=/fit-in/200x150/filters:strip_icc()/pic744864.jpg"},
+                             "https://cf.geekdo-images.com/GVbKORueiHezUaLfVZKlfQ__small/img/SYBZPyB6pEutOcrTDg1KHhjFPR8=/fit-in/200x150/filters:strip_icc()/pic9315848.jpg"},
                             #uuid "0593dc7a-9e1b-3cc3-97bd-a0d0aa042055"
                             {:game/id
                              #uuid "0593dc7a-9e1b-3cc3-97bd-a0d0aa042055",
@@ -30181,7 +30201,6 @@
                              #uuid "35af2b0c-b093-3e74-8ed4-e7589938e8ac"
                              #uuid "1fdd0d64-7a70-3a2d-93b1-bbf278454b32"
                              #uuid "bbf27490-0928-3ada-8589-e585a15b22ad"
-                             #uuid "c59a448e-a61e-3dad-871d-f3bc7ebe6774"
                              #uuid "ec9a79c1-8253-3d39-9f07-8382ba20e59f"
                              #uuid "3a47e770-d479-3cdb-aa0d-ca26c7430b90"
                              #uuid "35474b73-b019-37a7-b3d6-ee8eb6df3f8c"
@@ -30605,6 +30624,7 @@
                              #uuid "f6316a5a-98bb-321b-a89e-1738db93e093"
                              #uuid "900d9ed7-fc3b-326d-afef-d12a491572d0"
                              #uuid "863b84e5-b5c4-3347-a920-d71c4a08a259"
+                             #uuid "c59a448e-a61e-3dad-871d-f3bc7ebe6774"
                              #uuid "d5fd1c48-4bc6-3542-8805-4964fab16e05"
                              #uuid "909ecf8b-651a-376e-b82e-afec49696911"
                              #uuid "106facbb-305a-30f4-afe6-9fe69cfadbdc"
@@ -31172,7 +31192,6 @@
                              #uuid "6e6f4eb8-c896-3609-ae50-49ede7fbf6ad"
                              #uuid "fe57f4f4-dfd9-3a0c-a094-252749004e98"
                              #uuid "23cacdef-82dc-32b9-a8a4-39e224c75d3f"
-                             #uuid "c59a448e-a61e-3dad-871d-f3bc7ebe6774"
                              #uuid "0593dc7a-9e1b-3cc3-97bd-a0d0aa042055"
                              #uuid "d4aeee1d-0282-3a12-b26a-513efbaf3c3a"
                              #uuid "d5fd1c48-4bc6-3542-8805-4964fab16e05"
@@ -31325,6 +31344,7 @@
                              #uuid "2fddd16e-1cc9-3362-9ea4-f5666acdfb05"
                              #uuid "af817d47-9021-3806-800d-7ef8dab08024"
                              #uuid "01f7b705-9b33-3897-969b-343e8a6e682e"
+                             #uuid "c59a448e-a61e-3dad-871d-f3bc7ebe6774"
                              #uuid "82a2aacc-38f9-3d71-94a7-0b91e124eff2"
                              #uuid "6fe19369-f217-3b8c-a477-7fca8a743df4"
                              #uuid "d2d5cb9d-1faa-3a1e-9c8b-0175fdae6604"
@@ -31469,7 +31489,6 @@
                              #uuid "431d180f-b4d4-35f3-8c95-96ad5a7267d6"
                              #uuid "bb7745e6-fe51-351f-843c-5012bd13d334"
                              #uuid "fe57f4f4-dfd9-3a0c-a094-252749004e98"
-                             #uuid "c59a448e-a61e-3dad-871d-f3bc7ebe6774"
                              #uuid "9fa3f01d-ac6e-3690-9837-54da6c87150f"
                              #uuid "9cf42701-85ad-3877-9a0f-cf57a5acf172"
                              #uuid "76b90ad3-1429-3880-9702-20c35fc1c0fe"
@@ -31878,6 +31897,7 @@
                              #uuid "655dd7fb-2048-304d-ac0f-6a354ff76bc2"
                              #uuid "e261ac28-9c39-30db-81d4-e7551f8b4fe6"
                              #uuid "ce0363fc-c19f-3544-882b-fdb32a2e4315"
+                             #uuid "c59a448e-a61e-3dad-871d-f3bc7ebe6774"
                              #uuid "82a2aacc-38f9-3d71-94a7-0b91e124eff2"
                              #uuid "6fe19369-f217-3b8c-a477-7fca8a743df4"
                              #uuid "bdc861dc-6b29-3561-92f7-d53f184e07fc"
@@ -32179,6 +32199,7 @@
                              #uuid "52bfe89c-73d9-3a87-b498-188a2e2f101b"
                              #uuid "9e1a4efa-fad4-375f-8749-c32a13e6adc7"
                              #uuid "f77b4d34-54f4-37eb-8a5b-6d8df9e0f66d"
+                             #uuid "c59a448e-a61e-3dad-871d-f3bc7ebe6774"
                              #uuid "d2d5cb9d-1faa-3a1e-9c8b-0175fdae6604"
                              #uuid "0ef3c7ad-f9bd-3964-afb0-62c38bee7460"
                              #uuid "6bdd63a2-940d-3e46-a254-30ccff2b0d49"
@@ -32517,7 +32538,6 @@
                              #uuid "0572b9d9-f9cd-39a5-951c-0895bb597d20"
                              #uuid "4e6a41b4-aabd-37d9-9d10-9dfd1d11e5c7"
                              #uuid "5b444b22-2047-3124-af08-48687f72a6b5"
-                             #uuid "c59a448e-a61e-3dad-871d-f3bc7ebe6774"
                              #uuid "2e994ee0-a8fc-32ef-a229-a0d74edf07cf"
                              #uuid "bdc861dc-6b29-3561-92f7-d53f184e07fc"
                              #uuid "8ba768ba-5f32-3f6f-80c8-52550f880c9a"

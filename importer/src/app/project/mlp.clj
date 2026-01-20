@@ -1,24 +1,32 @@
 (ns app.project.mlp
   (:require
    [clojure.java.io]
-   [app.project :as p]))
+   [jsonista.core :as j]
+   [app.http.url :as http]))
 
-(def ^:private request-cookie-url "https://search.mlp.cz/cz/#/c_s_ol=")
-(def ^:private games-list-url "https://search.mlp.cz/cz/?action=c_s_ol&navigation=%2Bngeneric4%3A%5E%22hra%22%24n%24%20%2Bngeneric7%3A%5E%22P%22%24n%24")
+(def ^:private games-list-url "https://www.mlp.cz/katalog/api/titul/search?size=24&filter%5Bformat%5D%5Beq%5D=spole%C4%8Densk%C3%A1%20hra&filter%5Bdostupnost%5D%5Beq%5D=pritomne")
 
-(defn- doc->game-list [doc]
-  (.select doc "#katalog-list .titul"))
+(defn- url->json [url]
+  (let [response (http/request
+                  {:url url
+                   :throw-on-error true
+                   :as :stream})]
+    (with-open [xin (:body response)]
+      (j/read-value xin j/keyword-keys-object-mapper))))
 
-(defn- game->game-info [game]
-  {:name (.text (.select game "a[itemprop=name]"))})
+(defn- json->games [json]
+  (mapv
+   (fn [game]
+     (when-let [name (first (get-in game [:_source :nazev]))]
+       {:name name}))
+   (get-in json [:hits :hits])))
 
 (defn games []
-  (let [cookie (p/get-cookie request-cookie-url)]
-    (loop [offset 0
-           games []]
-      (let [url (str games-list-url "&offset=" offset)
-            games* (mapv game->game-info (doc->game-list (p/parse-html cookie url)))
-            cnt (count games*)]
-        (if (< 0 cnt)
-          (recur (+ cnt offset) (into games games*))
-          games)))))
+  (loop [offset 0
+         games []]
+    (let [url (str games-list-url "&from=" offset)
+          games* (json->games (url->json url))
+          cnt (count games*)]
+      (if (< 0 cnt)
+        (recur (+ cnt offset) (into games games*))
+        games))))

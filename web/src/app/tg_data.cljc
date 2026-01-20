@@ -742,6 +742,69 @@
                              "A Game of Thrones: The Board Game (Second Edition)",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/M_7UvwZvuxBVjxdadsa5AA__small/img/ZQ9guRvmMgYfseBC3_xNscMOKKo=/fit-in/200x150/filters:strip_icc()/pic1077906.jpg"},
+                            #uuid "cdbc1179-7b0a-3de9-aad4-bfeded49dc18"
+                            {:game/id
+                             #uuid "cdbc1179-7b0a-3de9-aad4-bfeded49dc18",
+                             :com.boardgamegeek.boardgame/min-players
+                             2,
+                             :com.boardgamegeek.boardgame/rating 7.8,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2875,
+                                                                :name
+                                                                "End Game Bonuses"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2040,
+                                                                :name
+                                                                "Hand Management"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2026,
+                                                                :name
+                                                                "Hexagon Grid"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2902,
+                                                                :name
+                                                                "Income"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2041,
+                                                                :name
+                                                                "Open Drafting"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2892,
+                                                                :name
+                                                                "Roles with Asymmetric Information"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2897,
+                                                                :name
+                                                                "Variable Set-up"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2933,
+                                                                :name
+                                                                "Worker Placement, Different Worker Types"}),
+                             :name "ANTS",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1089,
+                                                                :name
+                                                                "Animals"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1015,
+                                                                :name
+                                                                "Civilization"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1020,
+                                                                :name
+                                                                "Exploration"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             90,
+                             :com.boardgamegeek.boardgame/max-players
+                             4,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             90,
+                             :com.boardgamegeek.boardgame/id "446699",
+                             :game/name "ANTS",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/ow6IajVpCb0MEOEk_Aog8g__small/img/zgF6m8DTPJMypDk-Ha0xV7zMtRw=/fit-in/200x150/filters:strip_icc()/pic8888017.jpg"},
                             #uuid "4ae89b7c-1850-347b-b746-2abedf2c12c6"
                             {:game/id
                              #uuid "4ae89b7c-1850-347b-b746-2abedf2c12c6",
@@ -43421,6 +43484,7 @@
                              #uuid "4f4466ee-8097-3a47-a421-60c075d2edbc"
                              #uuid "9efcadf2-ca94-3a2a-ab5d-3f8d97feab54"
                              #uuid "43771435-28f6-3221-b49b-19e26d73c06f"
+                             #uuid "cdbc1179-7b0a-3de9-aad4-bfeded49dc18"
                              #uuid "d101317f-5da3-34d1-b370-236135bf9974"
                              #uuid "1713679a-10c3-3433-98c7-5fc9654c7e7f"
                              #uuid "a3585d3f-2021-3a48-95c6-9c1c3fc19456"
@@ -45250,6 +45314,7 @@
                              #uuid "99060139-4d5e-36c5-9110-0c35b80fc62b"
                              #uuid "04801d42-daa8-3ac6-9cc8-197e98542b66"
                              #uuid "0d89f0cd-d744-3958-a1a4-171adda8d4c2"
+                             #uuid "cdbc1179-7b0a-3de9-aad4-bfeded49dc18"
                              #uuid "f51d25d3-fc20-349d-b281-2a345ff34f69"
                              #uuid "5a9f1882-0b27-3da7-8d24-b13eda1849af"
                              #uuid "fb51ee1e-0d41-39bc-8144-862f9f46a475"
@@ -45810,6 +45875,7 @@
                              #uuid "242f0de4-174e-36a8-a6d7-77ac1b023ca4"
                              #uuid "65252a5f-02dc-3b06-b1ac-d24fcc132ea3"
                              #uuid "1a25345d-7241-3bb6-8bc7-076e8e5d8c50"
+                             #uuid "cdbc1179-7b0a-3de9-aad4-bfeded49dc18"
                              #uuid "4ae89b7c-1850-347b-b746-2abedf2c12c6"
                              #uuid "f658cb76-a25e-3167-aaff-697c5d2eb4de"
                              #uuid "ab094dfb-4f8a-37a4-8b52-9061ef896d9c"
@@ -46564,6 +46630,7 @@
                              #uuid "9fdae336-161d-3222-abd6-3f64b4b11829"
                              #uuid "65252a5f-02dc-3b06-b1ac-d24fcc132ea3"
                              #uuid "eacd7b54-1c2a-34c6-96a1-f4fa627dddb4"
+                             #uuid "cdbc1179-7b0a-3de9-aad4-bfeded49dc18"
                              #uuid "4ae89b7c-1850-347b-b746-2abedf2c12c6"
                              #uuid "f658cb76-a25e-3167-aaff-697c5d2eb4de"
                              #uuid "c3f0245b-acf9-3eb5-9748-a64e5d5d83ca"
@@ -48204,6 +48271,7 @@
                              #uuid "1d2864e5-c46d-3c17-b6d1-b2a73d160f0e"
                              #uuid "1a25345d-7241-3bb6-8bc7-076e8e5d8c50"
                              #uuid "b7535fdf-ce2c-3b9b-949f-6998ac38c45b"
+                             #uuid "cdbc1179-7b0a-3de9-aad4-bfeded49dc18"
                              #uuid "4ae89b7c-1850-347b-b746-2abedf2c12c6"
                              #uuid "bf1bae05-137f-3598-be0c-3461041d72ed"
                              #uuid "43771435-28f6-3221-b49b-19e26d73c06f"
@@ -49038,6 +49106,7 @@
                              #uuid "ae07d0ed-c54f-3d51-b144-4e462463cce4"
                              #uuid "1d2864e5-c46d-3c17-b6d1-b2a73d160f0e"
                              #uuid "b7535fdf-ce2c-3b9b-949f-6998ac38c45b"
+                             #uuid "cdbc1179-7b0a-3de9-aad4-bfeded49dc18"
                              #uuid "bf1bae05-137f-3598-be0c-3461041d72ed"
                              #uuid "43771435-28f6-3221-b49b-19e26d73c06f"
                              #uuid "3cce5f3e-af76-3098-ba8e-28f7bbba3f92"

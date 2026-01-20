@@ -1377,45 +1377,6 @@
                              :game/name "Dominion",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/j6iQpZ4XkemZP07HNCODBA__small/img/B2u2ghwlmI_qsUtCwuvcbnBcIqU=/fit-in/200x150/filters:strip_icc()/pic394356.jpg"},
-                            #uuid "050802c0-f2a9-37b7-864e-c5095699a90d"
-                            {:game/id
-                             #uuid "050802c0-f2a9-37b7-864e-c5095699a90d",
-                             :com.boardgamegeek.boardgame/min-players
-                             2,
-                             :com.boardgamegeek.boardgame/rating 5.6,
-                             :com.boardgamegeek.boardgame/mechanics
-                             (list #:com.boardgamegeek.mechanic{:id
-                                                                2072,
-                                                                :name
-                                                                "Dice Rolling"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2040,
-                                                                :name
-                                                                "Hand Management"}),
-                             :name "Doktor Hrubec",
-                             :com.boardgamegeek.boardgame/categories
-                             (list #:com.boardgamegeek.category{:id
-                                                                1002,
-                                                                :name
-                                                                "Card Game"}
-                                   #:com.boardgamegeek.category{:id
-                                                                2145,
-                                                                :name
-                                                                "Medical"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1030,
-                                                                :name
-                                                                "Party Game"}),
-                             :com.boardgamegeek.boardgame/max-play-time
-                             40,
-                             :com.boardgamegeek.boardgame/max-players
-                             5,
-                             :com.boardgamegeek.boardgame/min-play-time
-                             40,
-                             :com.boardgamegeek.boardgame/id "147396",
-                             :game/name "Dr. Hrubec",
-                             :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/gTchAU3XxrHcWE7BYhz1hQ__small/img/DjEpfbopnbsvaWOmG5ulQOm0aX4=/fit-in/200x150/filters:strip_icc()/pic1769895.png"},
                             #uuid "ffbd4d36-9e2e-3949-8c47-2403ba1b4e8a"
                             {:game/id
                              #uuid "ffbd4d36-9e2e-3949-8c47-2403ba1b4e8a",
@@ -2580,11 +2541,13 @@
                              :game/name "Mascarade",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/01eKHU6-WKLV9yNwRTqaRg__small/img/mzB5eQQgx0LjYUX3g70m4I-MwOQ=/fit-in/200x150/filters:strip_icc()/pic210884.jpg"},
-                            #uuid "ebc364cb-5bfd-3e17-892b-46eb7466030c"
-                            {:name "Monopoly - GoT, WoW, Gamer",
+                            #uuid "0e7426e5-270d-331c-94fd-09f8380dc1f2"
+                            {:name
+                             "Monopoly - GoT, WoW, Gamer, Friends",
                              :game/id
-                             #uuid "ebc364cb-5bfd-3e17-892b-46eb7466030c",
-                             :game/name "Monopoly - GoT, WoW, Gamer"},
+                             #uuid "0e7426e5-270d-331c-94fd-09f8380dc1f2",
+                             :game/name
+                             "Monopoly - GoT, WoW, Gamer, Friends"},
                             #uuid "6e8ce4f2-3cc4-37b8-9002-721e44843aaf"
                             {:game/id
                              #uuid "6e8ce4f2-3cc4-37b8-9002-721e44843aaf",
@@ -4896,7 +4859,6 @@
                              #uuid "69895ff2-b990-3611-827e-f4f7fd32eb8a"
                              #uuid "0d1b6d3d-ebd1-3c17-b456-ebfda8a15e20"
                              #uuid "b2980c72-2a1a-3e7a-b030-3718ce5491d8"
-                             #uuid "050802c0-f2a9-37b7-864e-c5095699a90d"
                              #uuid "ffbd4d36-9e2e-3949-8c47-2403ba1b4e8a"
                              #uuid "bf515360-5eca-32d5-ac9d-fb620b905619"
                              #uuid "ca30646c-712d-35a2-ad50-a2003177750f"
@@ -4924,7 +4886,7 @@
                              #uuid "f5aef75f-0075-3e43-8fd6-40e5917ccbd1"
                              #uuid "fef80df2-86da-3207-9122-3c2a97d93ede"
                              #uuid "b90c1573-28dd-3818-a02a-5a66ae9b080a"
-                             #uuid "ebc364cb-5bfd-3e17-892b-46eb7466030c"
+                             #uuid "0e7426e5-270d-331c-94fd-09f8380dc1f2"
                              #uuid "6e8ce4f2-3cc4-37b8-9002-721e44843aaf"
                              #uuid "21e5a6d1-545b-34f3-8fa9-838272916ed7"
                              #uuid "9a217965-2908-38f8-8853-e9ee91b394e1"
@@ -4991,7 +4953,7 @@
                              #uuid "aac76683-d1c7-325c-9c38-75c894182dcf"
                              #uuid "83bfa31c-941f-3b97-9ce3-ecd227789f2d"
                              #uuid "fef80df2-86da-3207-9122-3c2a97d93ede"
-                             #uuid "ebc364cb-5bfd-3e17-892b-46eb7466030c"
+                             #uuid "0e7426e5-270d-331c-94fd-09f8380dc1f2"
                              #uuid "b3166d70-9100-3f22-9022-ce4d33c3e18b"
                              #uuid "02151099-9df0-3a2e-9f9f-8e3ec0a4af60"
                              #uuid "fda6fc61-ee87-3f7c-b7a9-6a84368ace75"
@@ -5017,7 +4979,6 @@
                              #uuid "1f7154ef-1ff4-3563-9a68-23cddb38d9a0"
                              #uuid "ccf557ca-1a7c-3651-ade8-1c9892ff7a16"
                              #uuid "c1da2564-45b9-315e-a8fe-4245e852daad"
-                             #uuid "050802c0-f2a9-37b7-864e-c5095699a90d"
                              #uuid "7e7fdd38-98cc-3f0f-a059-308e820a2013"
                              #uuid "6566b035-8535-3d7d-8318-9c4c18212156"
                              #uuid "7773e888-3f4b-385d-a9f4-e7a0b2d97090"
@@ -5109,7 +5070,7 @@
                              #uuid "aac76683-d1c7-325c-9c38-75c894182dcf"
                              #uuid "83bfa31c-941f-3b97-9ce3-ecd227789f2d"
                              #uuid "fef80df2-86da-3207-9122-3c2a97d93ede"
-                             #uuid "ebc364cb-5bfd-3e17-892b-46eb7466030c"
+                             #uuid "0e7426e5-270d-331c-94fd-09f8380dc1f2"
                              #uuid "b3166d70-9100-3f22-9022-ce4d33c3e18b"
                              #uuid "02151099-9df0-3a2e-9f9f-8e3ec0a4af60"
                              #uuid "fda6fc61-ee87-3f7c-b7a9-6a84368ace75"
@@ -5154,7 +5115,6 @@
                              #uuid "1d8df61a-ee67-38d9-8345-514f8f8c6d8d"
                              #uuid "22806fca-d16c-38ed-8bec-c2f2b76d18ce"
                              #uuid "b2980c72-2a1a-3e7a-b030-3718ce5491d8"
-                             #uuid "050802c0-f2a9-37b7-864e-c5095699a90d"
                              #uuid "bf515360-5eca-32d5-ac9d-fb620b905619"
                              #uuid "35af2b0c-b093-3e74-8ed4-e7589938e8ac"
                              #uuid "165261a9-0183-3e53-be82-ccc197c354b8"
@@ -5227,7 +5187,7 @@
                              #uuid "aac76683-d1c7-325c-9c38-75c894182dcf"
                              #uuid "83bfa31c-941f-3b97-9ce3-ecd227789f2d"
                              #uuid "fef80df2-86da-3207-9122-3c2a97d93ede"
-                             #uuid "ebc364cb-5bfd-3e17-892b-46eb7466030c"
+                             #uuid "0e7426e5-270d-331c-94fd-09f8380dc1f2"
                              #uuid "b3166d70-9100-3f22-9022-ce4d33c3e18b"
                              #uuid "02151099-9df0-3a2e-9f9f-8e3ec0a4af60"
                              #uuid "fda6fc61-ee87-3f7c-b7a9-6a84368ace75"
@@ -5283,7 +5243,6 @@
                              #uuid "d82b1470-bb05-3f45-86cb-1e51d8455a3d"
                              #uuid "06e9bd9c-0975-32da-acdf-2b1942d57f1e"
                              #uuid "1d8df61a-ee67-38d9-8345-514f8f8c6d8d"
-                             #uuid "050802c0-f2a9-37b7-864e-c5095699a90d"
                              #uuid "bf515360-5eca-32d5-ac9d-fb620b905619"
                              #uuid "165261a9-0183-3e53-be82-ccc197c354b8"
                              #uuid "aa0f7ad4-eb74-30e8-9824-21bcf181b19c"
@@ -5346,7 +5305,7 @@
                              #uuid "aac76683-d1c7-325c-9c38-75c894182dcf"
                              #uuid "83bfa31c-941f-3b97-9ce3-ecd227789f2d"
                              #uuid "fef80df2-86da-3207-9122-3c2a97d93ede"
-                             #uuid "ebc364cb-5bfd-3e17-892b-46eb7466030c"
+                             #uuid "0e7426e5-270d-331c-94fd-09f8380dc1f2"
                              #uuid "b3166d70-9100-3f22-9022-ce4d33c3e18b"
                              #uuid "02151099-9df0-3a2e-9f9f-8e3ec0a4af60"
                              #uuid "fda6fc61-ee87-3f7c-b7a9-6a84368ace75"
@@ -5415,7 +5374,6 @@
                              #uuid "90a300ed-ea38-3514-b744-0c43440fa4b3"
                              #uuid "95dbca90-3ebf-3ef6-9601-a650c4f9aa3e"
                              #uuid "d99a604c-79ce-3c2e-b6a2-f43488d5d4c3"
-                             #uuid "050802c0-f2a9-37b7-864e-c5095699a90d"
                              #uuid "182deae1-4ea2-3cb6-a9a3-ff03c832e910"
                              #uuid "e5f11979-9a30-30ec-8084-92dd584b1214"
                              #uuid "1d8df61a-ee67-38d9-8345-514f8f8c6d8d"
@@ -5464,7 +5422,7 @@
                              #uuid "aac76683-d1c7-325c-9c38-75c894182dcf"
                              #uuid "83bfa31c-941f-3b97-9ce3-ecd227789f2d"
                              #uuid "fef80df2-86da-3207-9122-3c2a97d93ede"
-                             #uuid "ebc364cb-5bfd-3e17-892b-46eb7466030c"
+                             #uuid "0e7426e5-270d-331c-94fd-09f8380dc1f2"
                              #uuid "b3166d70-9100-3f22-9022-ce4d33c3e18b"
                              #uuid "02151099-9df0-3a2e-9f9f-8e3ec0a4af60"
                              #uuid "fda6fc61-ee87-3f7c-b7a9-6a84368ace75"
@@ -5522,7 +5480,6 @@
                              #uuid "95dbca90-3ebf-3ef6-9601-a650c4f9aa3e"
                              #uuid "cd23e680-b327-30fd-8432-428bdfb50d1a"
                              #uuid "d99a604c-79ce-3c2e-b6a2-f43488d5d4c3"
-                             #uuid "050802c0-f2a9-37b7-864e-c5095699a90d"
                              #uuid "06e9bd9c-0975-32da-acdf-2b1942d57f1e"
                              #uuid "1d8df61a-ee67-38d9-8345-514f8f8c6d8d"
                              #uuid "ffbd4d36-9e2e-3949-8c47-2403ba1b4e8a"

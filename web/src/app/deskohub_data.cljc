@@ -654,7 +654,7 @@
                              #uuid "65e03e67-6dd2-37c2-bcc6-5fc01b8f4620",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.4,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -1279,10 +1279,6 @@
                              :name "Kaskádie",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
-                                                                1009,
-                                                                :name
-                                                                "Abstract Strategy"}
-                                   #:com.boardgamegeek.category{:id
                                                                 1089,
                                                                 :name
                                                                 "Animals"}
@@ -5014,7 +5010,7 @@
                              #uuid "a18c1cce-9ea0-3890-b126-f74e34f68986",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.8,
+                             :com.boardgamegeek.boardgame/rating 7.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -5527,7 +5523,7 @@
                              #uuid "568da493-2833-3009-ad26-7108e0683081",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.5,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2661,
@@ -5809,6 +5805,14 @@
                                                                 2040,
                                                                 :name
                                                                 "Hand Management"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                3101,
+                                                                :name
+                                                                "Ordering"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2661,
+                                                                :name
+                                                                "Push Your Luck"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2823,
                                                                 :name
@@ -7218,7 +7222,6 @@
                              #uuid "9cfc6178-7bb7-3670-9d1d-e74412bd0a23"
                              #uuid "2dc322b0-ef94-3b68-ad5e-19c30b35d348"
                              #uuid "ab2c0722-a352-35b9-97a6-fdb65bfbcd43"
-                             #uuid "65e03e67-6dd2-37c2-bcc6-5fc01b8f4620"
                              #uuid "f6358c6d-587f-3ca9-8501-68859005fb86"
                              #uuid "f49fab51-1d4d-3849-b943-6d18e3b10a71"
                              #uuid "a5fc263e-513f-3a6e-a196-9f328b3892c1"
@@ -7226,14 +7229,15 @@
                              #uuid "548d40ad-9562-3712-a0a0-f072f66b395c"
                              #uuid "6a4265e9-fdb5-361d-8d97-2ce82c8cb801"
                              #uuid "bb315bd3-e4ee-3f82-9350-7ff4bb9c2e54"
+                             #uuid "568da493-2833-3009-ad26-7108e0683081"
                              #uuid "a346b0d6-8cee-35c0-b19d-9cca4d686b76"
                              #uuid "d2c146ec-def1-3163-b6b5-0f4671dce127"
+                             #uuid "65e03e67-6dd2-37c2-bcc6-5fc01b8f4620"
                              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a"
                              #uuid "6ec0b4db-6cca-3c7b-b983-5833527283fd"
                              #uuid "26121102-4728-3717-97a8-640bdedbea8d"
                              #uuid "91cb3cb8-649c-39ef-8155-15494d1b454e"
                              #uuid "5b444b22-2047-3124-af08-48687f72a6b5"
-                             #uuid "568da493-2833-3009-ad26-7108e0683081"
                              #uuid "605b29d5-2d5d-30c9-bf02-1eb669804b8b"
                              #uuid "4f6a71be-0b8d-389d-a431-a8e4cbf59e46"
                              #uuid "d8f6900d-5012-3d09-8a9e-d26613e7690f"
@@ -7256,11 +7260,11 @@
                              #uuid "e0bb33b9-20df-33e3-85b3-bb1c1b2eb0d4"
                              #uuid "990158d0-56bc-3e85-be21-a454bd738471"
                              #uuid "79e6c904-6b30-30a8-92ac-f646dbf937aa"
-                             #uuid "a18c1cce-9ea0-3890-b126-f74e34f68986"
                              #uuid "1cc9be11-1d46-3199-86af-0bbd950d2bab"
                              #uuid "f6b1061e-002a-352d-8600-dde1500b71b9"
                              #uuid "19e95810-b511-372b-9f47-e2b106f8daf6"
                              #uuid "31443f78-5552-3274-a24d-a8e1b221db5e"
+                             #uuid "a18c1cce-9ea0-3890-b126-f74e34f68986"
                              #uuid "a825e9ee-c858-3b9f-82dc-2c68495f06e4"
                              #uuid "fe261656-74a2-3837-a448-a57f0d1b43bf"
                              #uuid "610c7c4f-043d-3f06-b077-484eac9e7138"

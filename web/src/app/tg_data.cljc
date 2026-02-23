@@ -781,7 +781,7 @@
                                                                 2933,
                                                                 :name
                                                                 "Worker Placement, Different Worker Types"}),
-                             :name "ANTS",
+                             :name "Ants",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1089,
@@ -19643,6 +19643,37 @@
                              :game/name "Kotakote",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/lNl2OisWeiZQNevma9JbIQ__small/img/e4p26Ak1j4Bmr6u4dbf_nJZ76z0=/fit-in/200x150/filters:strip_icc()/pic5687923.jpg"},
+                            #uuid "94d31d26-bd6d-376e-a950-2257d5397ca4"
+                            {:game/id
+                             #uuid "94d31d26-bd6d-376e-a950-2257d5397ca4",
+                             :com.boardgamegeek.boardgame/min-players
+                             2,
+                             :com.boardgamegeek.boardgame/rating 7.3,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2023,
+                                                                :name
+                                                                "Cooperative Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                3096,
+                                                                :name
+                                                                "Drawing"}),
+                             :name "Krakel Orakel",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1030,
+                                                                :name
+                                                                "Party Game"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/max-players
+                             8,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/id "419639",
+                             :game/name "Krakel Orakel",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/wZz4qpVEyR_JAN9l-XWqGg__small/img/vkENCDW-LXpXcZs1XrAWk4GRph0=/fit-in/200x150/filters:strip_icc()/pic8157574.jpg"},
                             #uuid "4a9141c6-9e2e-398d-8335-1a81caf7d4b9"
                             {:game/id
                              #uuid "4a9141c6-9e2e-398d-8335-1a81caf7d4b9",
@@ -43922,6 +43953,7 @@
                              #uuid "a5114159-d81c-38df-aca1-5ba34996b2d2"
                              #uuid "6d98a554-acdc-3036-a4ac-033020e7adbd"
                              #uuid "5e9542fa-8caf-36d2-85d9-7e51623785ab"
+                             #uuid "94d31d26-bd6d-376e-a950-2257d5397ca4"
                              #uuid "4a9141c6-9e2e-398d-8335-1a81caf7d4b9"
                              #uuid "69897099-9493-3d43-98c6-73eac826b373"
                              #uuid "ed2baf70-63da-3cbe-9737-466f5a29fe95"
@@ -45177,6 +45209,7 @@
                              #uuid "d6eb0823-dd11-3f46-9fbb-b010bdfadafa"
                              #uuid "2dc322b0-ef94-3b68-ad5e-19c30b35d348"
                              #uuid "843ecaf0-bb25-3a67-af63-f8a4bc3708a3"
+                             #uuid "94d31d26-bd6d-376e-a950-2257d5397ca4"
                              #uuid "2ba9e4a3-1e9f-32b8-9db3-c005c2f08a13"
                              #uuid "6cc16bd7-d92e-384a-be56-229a00aa2686"
                              #uuid "eced8e22-98e3-304a-b1dc-d33a4b8c068a"
@@ -46123,6 +46156,7 @@
                              #uuid "a5114159-d81c-38df-aca1-5ba34996b2d2"
                              #uuid "6d98a554-acdc-3036-a4ac-033020e7adbd"
                              #uuid "5e9542fa-8caf-36d2-85d9-7e51623785ab"
+                             #uuid "94d31d26-bd6d-376e-a950-2257d5397ca4"
                              #uuid "4a9141c6-9e2e-398d-8335-1a81caf7d4b9"
                              #uuid "69897099-9493-3d43-98c6-73eac826b373"
                              #uuid "ed2baf70-63da-3cbe-9737-466f5a29fe95"
@@ -47374,6 +47408,7 @@
                              #uuid "70c60580-d453-30e3-8d22-2bd16106f13f"
                              #uuid "56392de7-3f8b-351c-9805-b28906c6e615"
                              #uuid "2bd856df-4932-3514-ac7d-7f2319d8cbe8"
+                             #uuid "94d31d26-bd6d-376e-a950-2257d5397ca4"
                              #uuid "bd3c8148-cd5b-3d18-a1cb-7b317d58843c"
                              #uuid "0e8f1e83-6a2f-3e60-b086-3b1e50cbff58"
                              #uuid "cdb9785e-e723-341e-933e-9853dce18179"
@@ -47997,6 +48032,7 @@
                              #uuid "7831fa0f-81b4-331e-b8b6-f916c6fb9485"
                              #uuid "f29973cc-4af3-3957-97bc-6d1fd61be8d2"
                              #uuid "e1d04b1f-1d94-3006-958a-ee81242dab6d"
+                             #uuid "94d31d26-bd6d-376e-a950-2257d5397ca4"
                              #uuid "4a9141c6-9e2e-398d-8335-1a81caf7d4b9"
                              #uuid "6f05591c-c7b4-32dd-817d-c41c0d9254d0"
                              #uuid "c3b5e1f7-de11-3645-bb1d-a6c5415b1fa5"
@@ -48835,6 +48871,7 @@
                              #uuid "a28c38ae-6074-398c-b3d2-619dd3bee8b4"
                              #uuid "382d7859-26a7-39df-bc78-8da02110b381"
                              #uuid "e1d04b1f-1d94-3006-958a-ee81242dab6d"
+                             #uuid "94d31d26-bd6d-376e-a950-2257d5397ca4"
                              #uuid "4a9141c6-9e2e-398d-8335-1a81caf7d4b9"
                              #uuid "4d8d0458-8e02-304e-8c22-48af39589e8f"
                              #uuid "bf60676c-d80e-352e-b49d-1a33b3f3bc42"

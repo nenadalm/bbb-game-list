@@ -150,9 +150,18 @@
 (defn list-projects [_]
   (println (j/write-value-as-string (mapv :project (get-projects)))))
 
+(defn- filter-projects [project projects]
+  (let [excluded (set (cond-> ["pnr" ;; zatrolene-hry.cz returns 403 on gh actions
+                               ]
+                        project (conj project)))]
+    (filterv
+     (fn [p]
+       (not (excluded (:project p))))
+     projects)))
+
 (defn create-projects-data [{:keys [project]}]
   (let [projects (get-projects)
-        projects (if project (filterv #(= (:project %) project) projects) projects)]
+        projects (filter-projects project projects)]
     (doseq [project projects]
       (let [games (project->games project)
             target-path (project-data-path project)]
@@ -166,7 +175,7 @@
 
 (defn create-data-from-projects-data [{:keys [project]}]
   (let [projects (get-projects)
-        projects (if project (filterv #(= (:project %) project) projects) projects)]
+        projects (filter-projects project projects)]
     (doseq [project projects]
       (let [games (enrich-games (read-edn (project-data-path project)))]
         (assert-project-games project games)
@@ -174,7 +183,7 @@
 
 (defn create-data [{:keys [project]}]
   (let [projects (get-projects)
-        projects (if project (filterv #(= (:project %) project) projects) projects)]
+        projects (filter-projects project projects)]
     (doseq [project projects]
       (let [games (-> (project->games project)
                       enrich-games)]

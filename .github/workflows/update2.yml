@@ -8,23 +8,33 @@ concurrency:
 jobs:
   create-project-data:
     runs-on: ubuntu-latest
+    env:
+      JAVA_OPTS: '-Dclojure.main.report=stderr'
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-java@v4
         with:
           distribution: 'adopt'
-          java-version: '11'
+          java-version: '25'
       - uses: DeLaGuardo/setup-clojure@master
         with:
-          cli: '1.11.3.1463'
-      - uses: actions/cache@v4
+          cli: '1.12.4.1607'
+      - uses: actions/cache@v5
         with:
           path: '~/.m2'
           key: "${{ runner.os }}-maven-${{ hashFiles('deps.edn') }}"
           restore-keys: |
             ${{ runner.os }}-maven-
-      - run: clojure -X app.core/create-projects-data
+      - uses: actions/cache/restore@v5
+        id: url-cache-restore
+        with:
+          path: './importer/resources/.cache/url'
+          key: "url-${{ matrix.project }}-${{ steps.get-month.outputs.day }}"
+      - run: |
+          cd importer
+          clojure -X app.core/create-projects-data
         env:
+          BGG_TOKEN: ${{ secrets.BGG_TOKEN }}
           GOOGLE_SERVICE_ACCOUNT_EMAIL: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_EMAIL }}
           GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
       - name: Upload project data
@@ -34,18 +44,25 @@ jobs:
           path: importer/target
           if-no-files-found: error
           retention-days: 7
+      - uses: actions/cache/save@v5
+        if: always() && steps.url-cache-restore.outputs.cache-hit != 'true'
+        with:
+          path: './importer/resources/.cache/url'
+          key: ${{ steps.url-cache-restore.outputs.cache-primary-key }}
   create-data-from-project-data:
     needs: create-project-data
     runs-on: ubuntu-latest
+    env:
+      JAVA_OPTS: '-Dclojure.main.report=stderr'
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-java@v4
         with:
           distribution: 'adopt'
-          java-version: '11'
+          java-version: '25'
       - uses: DeLaGuardo/setup-clojure@master
         with:
-          cli: '1.11.3.1463'
+          cli: '1.12.4.1607'
       - uses: actions/cache@v4
         with:
           path: '~/.m2'
@@ -55,12 +72,15 @@ jobs:
       - name: Download data
         uses: actions/download-artifact@v4
         with:
+          name: project-data
           path: importer/target
       - uses: actions/cache@v4
         with:
           path: './importer/resources/.cache/url'
           key: "url-${{ matrix.project }}-${{ steps.get-month.outputs.day }}"
-      - run: clojure -X app.core/create-data-from-projects-data
+      - run: |
+          cd importer/
+          clojure -X app.core/create-data-from-projects-data
         env:
           BGG_TOKEN: ${{ secrets.BGG_TOKEN }}
       - name: Push changes

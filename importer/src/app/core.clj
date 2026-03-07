@@ -21,6 +21,9 @@
   (with-open [r (io/reader f)]
     (edn/read (java.io.PushbackReader. r))))
 
+(defn- get-projects []
+  (read-edn "../projects.edn"))
+
 (defn- enrich-game-with-uuid [game]
   (assoc game :game/id (uuid/from-string (:game/name game))))
 
@@ -99,7 +102,7 @@
         _ (require ns)
         fsym (symbol ns-name "games")
         f @(resolve fsym)]
-    (enrich-games (f))))
+    (f)))
 
 (defn- index-by [f coll]
   (reduce
@@ -131,18 +134,49 @@
   (pp/with-pprint-dispatch clojure-dispatch
     (pp/pprint (list 'def 'game-data (games->db games)))))
 
-(defn list-projects [_]
-  (println (j/write-value-as-string (mapv :project (read-edn "../projects.edn")))))
+(defn- assert-project-games [project games]
+  (when-not (seq games)
+    (throw (ex-info (str "No games found for project \"" (:project project) "\".") {:project (:project project)}))))
 
-(defn create-data [{:keys [project]}]
-  (let [projects (read-edn "../projects.edn")
+(defn- project-data-path [project]
+  (str "target/" (:project project) ".edn"))
+
+(defn- create-project-data-web [project games]
+  (spit
+   (str "../web/src/app/" (:project project) "_data.cljc")
+   (with-out-str
+     (print-games (str "app." (file->ns (:project project)) "-data") games))))
+
+(defn list-projects [_]
+  (println (j/write-value-as-string (mapv :project (get-projects)))))
+
+(defn create-projects-data [{:keys [project]}]
+  (let [projects (get-projects)
         projects (if project (filterv #(= (:project %) project) projects) projects)]
     (doseq [project projects]
-      (let [games-path (str "../web/src/app/" (:project project) "_data.cljc")
-            games (project->games project)]
-        (when-not (seq games)
-          (throw (ex-info (str "No games found for project \"" (:project project) "\".") {:project (:project project)})))
+      (let [games (project->games project)
+            target-path (project-data-path project)]
+        (-> (java.io.File. target-path)
+            (.getParentFile)
+            (.mkdirs))
+        (assert-project-games project games)
         (spit
-         games-path
-         (with-out-str
-           (print-games (str "app." (file->ns (:project project)) "-data") games)))))))
+         target-path
+         (pr-str games))))))
+
+(defn create-data-from-projects-data [{:keys [project]}]
+  (let [projects (get-projects)
+        projects (if project (filterv #(= (:project %) project) projects) projects)]
+    (doseq [project projects]
+      (let [games (enrich-games (read-edn (project-data-path project)))]
+        (assert-project-games project games)
+        (create-project-data-web project games)))))
+
+(defn create-data [{:keys [project]}]
+  (let [projects (get-projects)
+        projects (if project (filterv #(= (:project %) project) projects) projects)]
+    (doseq [project projects]
+      (let [games (-> (project->games project)
+                      enrich-games)]
+        (assert-project-games project games)
+        (create-project-data-web project games)))))

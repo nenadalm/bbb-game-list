@@ -354,7 +354,7 @@
                              #uuid "9850393e-3cf4-31d1-85d8-7b2ccd660162",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2912,
@@ -2197,7 +2197,7 @@
                              #uuid "f63eda5c-aef9-3912-b433-9118facf888d",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 6.5,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -4468,6 +4468,14 @@
                              :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2912,
+                                                                :name
+                                                                "Contracts"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2875,
+                                                                :name
+                                                                "End Game Bonuses"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2041,
                                                                 :name
                                                                 "Open Drafting"}
@@ -5621,7 +5629,7 @@
                              #uuid "6c7dc989-f835-391f-9497-6edf763cf295",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 5.6,
+                             :com.boardgamegeek.boardgame/rating 5.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2676,
@@ -7438,8 +7446,8 @@
                              #uuid "6c7dc989-f835-391f-9497-6edf763cf295"
                              #uuid "6e8ce4f2-3cc4-37b8-9002-721e44843aaf"
                              #uuid "167c5afc-9c99-384c-8d31-b0c225665979"
-                             #uuid "f63eda5c-aef9-3912-b433-9118facf888d"
                              #uuid "f3279fc7-49eb-3ec2-b6c7-5f43be3989c3"
+                             #uuid "f63eda5c-aef9-3912-b433-9118facf888d"
                              #uuid "ce88d87c-215e-304a-8a47-09eb2a62cff8"
                              #uuid "ebe52470-edc4-3691-a597-c4891e04962c"
                              #uuid "5d3eb1ba-6015-37d9-963c-141ab195283d"
@@ -7449,6 +7457,7 @@
                              #uuid "0abf57bc-4358-38db-8266-b532703a34fd"
                              #uuid "81cc0f79-3609-346a-8dde-65ed1c9f3c3a"
                              #uuid "82f39d2c-7691-3894-83aa-e9050bf23f11"
+                             #uuid "9850393e-3cf4-31d1-85d8-7b2ccd660162"
                              #uuid "48309f49-6981-3784-80f4-f8b7cff15c98"
                              #uuid "5b349ead-c3fb-374b-bb6c-47fcc3843355"
                              #uuid "dd6f7a14-de47-37f2-bb22-bd37cf04e69b"
@@ -7457,7 +7466,6 @@
                              #uuid "6c1f7ff8-38a7-36da-97a1-e81977744191"
                              #uuid "428306aa-542d-3710-a0c6-57a60c53adf5"
                              #uuid "d870dd90-0a48-3af6-b003-b15ac3289fa4"
-                             #uuid "9850393e-3cf4-31d1-85d8-7b2ccd660162"
                              #uuid "e02f28a1-7d4d-39f1-aedb-70a978a4f073"
                              #uuid "c7b74e13-dff8-3831-98f4-1d81198c1337"
                              #uuid "69895ff2-b990-3611-827e-f4f7fd32eb8a"

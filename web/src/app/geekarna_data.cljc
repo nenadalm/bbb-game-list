@@ -2142,7 +2142,11 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1010,
                                                                 :name
-                                                                "Fantasy"}),
+                                                                "Fantasy"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1120,
+                                                                :name
+                                                                "Print & Play"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              60,
                              :com.boardgamegeek.boardgame/max-players

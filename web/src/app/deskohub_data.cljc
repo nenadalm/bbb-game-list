@@ -290,9 +290,9 @@
                              :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
-                                                                2689,
+                                                                2838,
                                                                 :name
-                                                                "Action Queue"}
+                                                                "Action Drafting"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2922,
                                                                 :name
@@ -514,6 +514,10 @@
                                                                 2948,
                                                                 :name
                                                                 "Resource to Move"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2686,
+                                                                :name
+                                                                "Take That"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2009,
                                                                 :name
@@ -3320,7 +3324,7 @@
                              #uuid "457af9d0-dff8-3daa-90d9-02dfbef1736f",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.2,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
@@ -4064,6 +4068,10 @@
                                                                 :name
                                                                 "Action Retrieval"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2984,
+                                                                :name
+                                                                "Closed Drafting"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2664,
                                                                 :name
                                                                 "Deck, Bag, and Pool Building"}
@@ -4072,13 +4080,13 @@
                                                                 :name
                                                                 "Hand Management"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                2041,
-                                                                :name
-                                                                "Open Drafting"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2819,
                                                                 :name
-                                                                "Solo / Solitaire Game"}),
+                                                                "Solo / Solitaire Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2082,
+                                                                :name
+                                                                "Worker Placement"}),
                              :name "Obsession",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -5130,7 +5138,7 @@
                              #uuid "cdfbfcac-3bb9-3175-9fbd-7e94e4d70789",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 8.7,
+                             :com.boardgamegeek.boardgame/rating 8.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2840,
@@ -5339,7 +5347,7 @@
                              #uuid "17a15e54-9f49-32ec-b6fc-a1fdca54da2b",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.3,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
@@ -7469,11 +7477,11 @@
                              #uuid "e02f28a1-7d4d-39f1-aedb-70a978a4f073"
                              #uuid "c7b74e13-dff8-3831-98f4-1d81198c1337"
                              #uuid "69895ff2-b990-3611-827e-f4f7fd32eb8a"
-                             #uuid "457af9d0-dff8-3daa-90d9-02dfbef1736f"
                              #uuid "6cb576ec-1372-3583-bab7-df279410f9b2"
+                             #uuid "17a15e54-9f49-32ec-b6fc-a1fdca54da2b"
                              #uuid "9cfc6178-7bb7-3670-9d1d-e74412bd0a23"
                              #uuid "2dc322b0-ef94-3b68-ad5e-19c30b35d348"
-                             #uuid "17a15e54-9f49-32ec-b6fc-a1fdca54da2b"
+                             #uuid "457af9d0-dff8-3daa-90d9-02dfbef1736f"
                              #uuid "ab2c0722-a352-35b9-97a6-fdb65bfbcd43"
                              #uuid "f6358c6d-587f-3ca9-8501-68859005fb86"
                              #uuid "f49fab51-1d4d-3849-b943-6d18e3b10a71"

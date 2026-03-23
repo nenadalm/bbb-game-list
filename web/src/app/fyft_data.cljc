@@ -371,6 +371,10 @@
                                                                 :name
                                                                 "Resource to Move"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2686,
+                                                                :name
+                                                                "Take That"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2009,
                                                                 :name
                                                                 "Trick-taking"}
@@ -726,9 +730,17 @@
                                                                 :name
                                                                 "Closed Drafting"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2912,
+                                                                :name
+                                                                "Contracts"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2040,
                                                                 :name
                                                                 "Hand Management"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2837,
+                                                                :name
+                                                                "Interrupts"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2960,
                                                                 :name
@@ -737,10 +749,6 @@
                                                                 2047,
                                                                 :name
                                                                 "Memory"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2041,
-                                                                :name
-                                                                "Open Drafting"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2020,
                                                                 :name
@@ -2372,7 +2380,7 @@
                              #uuid "4584b35c-868d-36f9-b932-e14bc001202b",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.1,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -2964,7 +2972,7 @@
                              #uuid "c73c60b0-041e-3c17-a45e-f32238f2cb6e",
                              :com.boardgamegeek.boardgame/min-players
                              3,
-                             :com.boardgamegeek.boardgame/rating 6.5,
+                             :com.boardgamegeek.boardgame/rating 6.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2893,
@@ -7183,11 +7191,11 @@
                              #uuid "08060cd2-7b8a-368b-a377-e19d60c63c13"
                              #uuid "2d524242-4e27-370f-a042-49942d61f783"
                              #uuid "532f8c74-c965-3a8b-84a5-bffce453945f"
+                             #uuid "c73c60b0-041e-3c17-a45e-f32238f2cb6e"
                              #uuid "456d479c-8791-3533-bc06-24219803ec40"
                              #uuid "b2fb4a91-154d-38cf-ae41-5e71654070f6"
                              #uuid "3992d652-f81d-3e86-bd6e-2e685cb351a3"
                              #uuid "eaa9b08c-9718-39e9-84e8-e09ccf855ef0"
-                             #uuid "c73c60b0-041e-3c17-a45e-f32238f2cb6e"
                              #uuid "ed2baf70-63da-3cbe-9737-466f5a29fe95"
                              #uuid "a136b6ff-012b-3a9d-8faf-8fd7a5009e28"
                              #uuid "6bdd63a2-940d-3e46-a254-30ccff2b0d49"
@@ -7204,6 +7212,7 @@
                              #uuid "2da3c827-ccab-3485-9cb9-921b4f1addfa"
                              #uuid "ed2dab37-2f6d-3f1b-9ec5-40cacb2a1714"
                              #uuid "455dbea5-74df-3b67-9829-75de15674204"
+                             #uuid "4584b35c-868d-36f9-b932-e14bc001202b"
                              #uuid "56a53916-96df-3787-baa5-686dfce7ee2f"
                              #uuid "3c4ac596-2c34-3f1c-b8c6-82395c9831dd"
                              #uuid "0170915b-1ae2-3680-a63a-684297fdb59f"
@@ -7212,7 +7221,6 @@
                              #uuid "5b349ead-c3fb-374b-bb6c-47fcc3843355"
                              #uuid "dd6f7a14-de47-37f2-bb22-bd37cf04e69b"
                              #uuid "83ad4685-b1e3-3677-911a-6839874b3310"
-                             #uuid "4584b35c-868d-36f9-b932-e14bc001202b"
                              #uuid "d611bfb2-0345-3185-be82-54b27eaa73aa"
                              #uuid "e1d04b1f-1d94-3006-958a-ee81242dab6d"
                              #uuid "446e92f1-5cd2-3512-9ccd-983ef968e692"

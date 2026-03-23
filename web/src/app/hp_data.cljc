@@ -3110,7 +3110,7 @@
                              #uuid "e1d3745d-6aba-36a2-b3b7-2d61e60665cd",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.2,
+                             :com.boardgamegeek.boardgame/rating 6.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2046,
@@ -7572,6 +7572,10 @@
                                                                 :name
                                                                 "Action Points"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2912,
+                                                                :name
+                                                                "Contracts"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2041,
                                                                 :name
                                                                 "Open Drafting"}
@@ -8450,7 +8454,7 @@
                              :com.boardgamegeek.boardgame/id "9220",
                              :game/name "Saboteur",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/0vJwP6NGa7GHPZKC3gplUw__small/img/B3j-is62fP09eHP34uFG_gsxNQs=/fit-in/200x150/filters:strip_icc()/pic3989824.jpg"},
+                             "https://cf.geekdo-images.com/oeN-MHAJKsC2KCI3avKj9w__small/img/y8tkP8BdgOoiErg2macZ1JG847Q=/fit-in/200x150/filters:strip_icc()/pic8679622.jpg"},
                             #uuid "03073139-0dab-349e-a8d2-e3fa11a3b6f3"
                             {:game/id
                              #uuid "03073139-0dab-349e-a8d2-e3fa11a3b6f3",
@@ -9768,7 +9772,7 @@
                              :com.boardgamegeek.boardgame/id "91534",
                              :game/name "Struggle for Catan",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/sgVlSEVdIThWUxgfzkHVEQ__small/img/TW0KmIhsb9qmAE6E7OM3_0fV7iw=/fit-in/200x150/filters:strip_icc()/pic7625877.jpg"},
+                             "https://cf.geekdo-images.com/PVKZVJjQtNS_q39ZG3WihA__small/img/ZKC4c82cUgC37kLSiDCunNHGBY0=/fit-in/200x150/filters:strip_icc()/pic8808925.png"},
                             #uuid "31fb2a2e-c122-385a-b46c-49640a91cf77"
                             {:game/id
                              #uuid "31fb2a2e-c122-385a-b46c-49640a91cf77",
@@ -13154,7 +13158,6 @@
                              #uuid "34fadff6-95df-37e2-8506-3ee70980871b"
                              #uuid "3239ae98-cebb-39ad-b9d7-146053655aa1"
                              #uuid "d29a32f7-a832-3687-b160-1e915d7a1465"
-                             #uuid "e1d3745d-6aba-36a2-b3b7-2d61e60665cd"
                              #uuid "d4d366c3-ef56-36f3-9d46-11c9b253a40c"
                              #uuid "7d486371-bb65-3063-b535-ceba4189d8ed"
                              #uuid "4c03c1c8-385c-3fb9-b528-e10c4245668d"
@@ -13167,6 +13170,7 @@
                              #uuid "070c9dc3-b880-35ed-9c3d-cd55ff519d26"
                              #uuid "9174edea-2d8c-30ee-a424-4c2c72371e18"
                              #uuid "e4a4fe11-ce98-3886-bae8-e8380b05c98e"
+                             #uuid "e1d3745d-6aba-36a2-b3b7-2d61e60665cd"
                              #uuid "0ec60d5c-8917-3f40-b112-a6c42456b59a"
                              #uuid "c3ab8870-b2d0-3f3d-a44a-120ab450ca92"
                              #uuid "53522ad6-7a42-3c5c-8f4a-c9fc089fbbb4"

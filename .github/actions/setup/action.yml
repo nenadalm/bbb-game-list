@@ -13,6 +13,6 @@ runs:
     - uses: actions/cache@v5
       with:
         path: '~/.m2'
-        key: "${{ runner.os }}-maven-${{ hashFiles('deps.edn') }}"
+        key: "${{ runner.os }}-maven-${{ hashFiles('*/deps.edn') }}"
         restore-keys: |
           ${{ runner.os }}-maven-

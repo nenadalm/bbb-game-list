@@ -27,11 +27,16 @@ jobs:
           key: "${{ runner.os }}-maven-${{ hashFiles('deps.edn') }}"
           restore-keys: |
             ${{ runner.os }}-maven-
+      - name: Get month
+        id: get-month
+        run: |
+          echo "day=$(date +%Y-%m)" >> $GITHUB_OUTPUT
+        shell: bash
       - uses: actions/cache/restore@v5
         id: url-cache-restore
         with:
           path: './importer/resources/.cache/url'
-          key: "url-${{ matrix.project }}-${{ steps.get-month.outputs.day }}"
+          key: "url-${{ steps.get-month.outputs.day }}"
       - run: |
           cd importer
           clojure -X app.core/create-projects-data
@@ -76,10 +81,15 @@ jobs:
         with:
           name: project-data
           path: importer/target
+      - name: Get month
+        id: get-month
+        run: |
+          echo "day=$(date +%Y-%m)" >> $GITHUB_OUTPUT
+        shell: bash
       - uses: actions/cache@v4
         with:
           path: './importer/resources/.cache/url'
-          key: "url-${{ matrix.project }}-${{ steps.get-month.outputs.day }}"
+          key: "url-${{ steps.get-month.outputs.day }}"
       - run: |
           cd importer/
           clojure -X app.core/create-data-from-projects-data

@@ -1,0 +1,18 @@
+name: setup
+
+runs:
+  using: composite
+  steps:
+    - uses: actions/setup-java@v5
+      with:
+        distribution: 'adopt'
+        java-version: '25'
+    - uses: DeLaGuardo/setup-clojure@master
+      with:
+        cli: '1.12.4.1618'
+    - uses: actions/cache@v5
+      with:
+        path: '~/.m2'
+        key: "${{ runner.os }}-maven-${{ hashFiles('deps.edn') }}"
+        restore-keys: |
+          ${{ runner.os }}-maven-

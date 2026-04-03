@@ -35,9 +35,15 @@ jobs:
         id: yarn-cache
         with:
           path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
-          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          key: ${{ runner.os }}-yarn-${{ hashFiles('web/yarn.lock') }}
           restore-keys: |
             ${{ runner.os }}-yarn-
+      - uses: actions/cache@v5
+        with:
+          path: web/.shadow-cljs
+          key: ${{ runner.os }}-shadow-cljs-${{ hashFiles('web/shadow-cljs.edn', 'web/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-shadow-cljs-
       - name: Build artifacts
         run: |
           cd web

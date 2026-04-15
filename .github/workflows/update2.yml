@@ -67,7 +67,10 @@ jobs:
         with:
           path: './importer/resources/.cache/url'
           key: "url-${{ steps.get-month.outputs.day }}"
-      - run: |
+      - name: Create data from project data
+        env:
+          BGG_TOKEN: ${{ secrets.BGG_TOKEN }}
+        run: |
           cd importer/
           clojure -X app.core/create-data-from-projects-data
       - name: Push changes

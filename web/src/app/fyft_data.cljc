@@ -3812,7 +3812,7 @@
                              #uuid "2bc85979-1d40-3c94-8a0b-468b75a7d1e4",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 8.3,
+                             :com.boardgamegeek.boardgame/rating 8.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2018,
@@ -3948,7 +3948,7 @@
                              #uuid "6e45d6d6-a4b7-3568-be8a-7ee0a60d86a9",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 8.6,
+                             :com.boardgamegeek.boardgame/rating 8.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2041,
@@ -7277,14 +7277,14 @@
                              #uuid "aa2a14f6-6296-368a-8fab-970e48ba9430"
                              #uuid "fa03eb68-8ad8-3a1d-b593-d33dabd89bad"
                              #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08"
-                             #uuid "56e4acb7-927c-3c3e-af73-81fcb8add208"
                              #uuid "2bc85979-1d40-3c94-8a0b-468b75a7d1e4"
+                             #uuid "56e4acb7-927c-3c3e-af73-81fcb8add208"
                              #uuid "f73b3498-5f4f-3911-8d86-02f4f5b94222"
                              #uuid "f944b1ee-72e5-3ea8-832f-4eaf0dde6f09"
                              #uuid "0e13524e-0d23-310c-a97e-3ef1583014b4"
                              #uuid "7aa28287-0777-3b60-a07e-c9d1b2fefad5"
-                             #uuid "e6f2b917-44b7-3822-8d49-6493a0458968"
                              #uuid "6e45d6d6-a4b7-3568-be8a-7ee0a60d86a9"
+                             #uuid "e6f2b917-44b7-3822-8d49-6493a0458968"
                              #uuid "a36c4731-b4fc-3cfa-b585-4ecf1d09b176"],
                             :com.boardgamegeek.boardgame/min-players
                             [#uuid "26241e99-b112-3a8d-9c7a-935a273f10d1"

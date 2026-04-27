@@ -3796,7 +3796,7 @@
                              #uuid "cbab0e11-2f08-3261-a5be-0d6bd88fba28",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.7,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -7507,6 +7507,7 @@
                              #uuid "bd1d87d3-0c87-35ce-be59-63074aafb4c9"
                              #uuid "7dfab041-39e9-35d1-8b11-b3fdb49222dd"
                              #uuid "63c5172c-2cbb-310a-aca4-662b40eb7a62"
+                             #uuid "cbab0e11-2f08-3261-a5be-0d6bd88fba28"
                              #uuid "0070b6cf-8144-303d-9172-acada2b035df"
                              #uuid "69298653-8cb1-3b3d-b161-825d2ce4e613"
                              #uuid "6db1c14d-1110-3bb5-9391-72fab98164d4"
@@ -7515,7 +7516,6 @@
                              #uuid "805bace7-4667-3eb1-b90b-d680cd215d97"
                              #uuid "28bfd12a-29c7-3b1c-b3b9-2e241ba98ee5"
                              #uuid "da5e5627-3890-3c39-be80-e5d5743f1e06"
-                             #uuid "cbab0e11-2f08-3261-a5be-0d6bd88fba28"
                              #uuid "25273b87-935c-3d50-bc2f-3250d7d59e56"
                              #uuid "32369318-5ff3-31ae-957a-36e1241d5aa7"
                              #uuid "2aa26e3d-e0d5-373a-a8d6-19fcf73a5e16"

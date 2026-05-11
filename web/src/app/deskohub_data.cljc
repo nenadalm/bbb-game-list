@@ -1575,6 +1575,10 @@
                                                                 :name
                                                                 "Adventure"}
                                    #:com.boardgamegeek.category{:id
+                                                                1020,
+                                                                :name
+                                                                "Exploration"}
+                                   #:com.boardgamegeek.category{:id
                                                                 1010,
                                                                 :name
                                                                 "Fantasy"}),
@@ -3906,7 +3910,7 @@
                              #uuid "456d479c-8791-3533-bc06-24219803ec40",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 8.3,
+                             :com.boardgamegeek.boardgame/rating 8.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2018,
@@ -7547,10 +7551,10 @@
                              #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08"
                              #uuid "9a8d8f58-a081-33fa-9ec0-03708b0460cb"
                              #uuid "9d615452-46ed-3b66-b816-f0820f7a71d8"
+                             #uuid "456d479c-8791-3533-bc06-24219803ec40"
                              #uuid "f68e123c-db14-3e0b-a7e7-464a7a13c1c4"
                              #uuid "a9b53967-4ee4-3edc-b22e-2a007b64a755"
                              #uuid "8a414f23-0df6-3021-a743-cff269ac846d"
-                             #uuid "456d479c-8791-3533-bc06-24219803ec40"
                              #uuid "f73b3498-5f4f-3911-8d86-02f4f5b94222"
                              #uuid "0e13524e-0d23-310c-a97e-3ef1583014b4"
                              #uuid "0ec4024f-0e85-3ed0-aa2e-5260f718232c"

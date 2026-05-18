@@ -4102,7 +4102,7 @@
                              :languages ["en"],
                              :game/name "Ticket to Ride: Europe",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/0K1AOciqlMVUWFPLTJSiww__small/img/RDvu2FvsYVVH8icp1VsilUlqUGI=/fit-in/200x150/filters:strip_icc()/pic66668.jpg"},
+                             "https://cf.geekdo-images.com/EQJZDO1Jq8KL-HxmWLwL-Q__small/img/XE-BFNwHZ0NZVko1pCj3gdFaGxY=/fit-in/200x150/filters:strip_icc()/pic9580918.jpg"},
                             #uuid "c777f70d-7ada-3af1-b9a3-1fc046b73436"
                             {:game/id
                              #uuid "c777f70d-7ada-3af1-b9a3-1fc046b73436",

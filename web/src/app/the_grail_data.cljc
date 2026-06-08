@@ -753,6 +753,10 @@
                                                                 :name
                                                                 "Dice Rolling"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2676,
+                                                                :name
+                                                                "Grid Movement"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2026,
                                                                 :name
                                                                 "Hexagon Grid"}
@@ -3189,7 +3193,7 @@
                              #uuid "9b35ef05-2feb-3e25-b2ef-379d47111a53",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 8.0,
+                             :com.boardgamegeek.boardgame/rating 8.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -6291,11 +6295,11 @@
                              #uuid "0ac49038-fe25-3aa3-b33b-ce180b8b84ed"
                              #uuid "f7625727-1129-3703-96c0-442c8ac00dae"
                              #uuid "182deae1-4ea2-3cb6-a9a3-ff03c832e910"
-                             #uuid "9b35ef05-2feb-3e25-b2ef-379d47111a53"
                              #uuid "a7d936b6-1b82-3474-9935-ae596b33f366"
                              #uuid "0071dfa9-ec41-35e2-befc-ecbe183ff272"
                              #uuid "e5f11979-9a30-30ec-8084-92dd584b1214"
                              #uuid "aa2a14f6-6296-368a-8fab-970e48ba9430"
+                             #uuid "9b35ef05-2feb-3e25-b2ef-379d47111a53"
                              #uuid "fa03eb68-8ad8-3a1d-b593-d33dabd89bad"
                              #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08"
                              #uuid "ee1eea0e-7583-3d7b-aff5-526c4139d995"

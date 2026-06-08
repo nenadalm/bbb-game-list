@@ -4616,6 +4616,10 @@
                                                                 :name
                                                                 "Video Game Theme"}
                                    #:com.boardgamegeek.category{:id
+                                                                1019,
+                                                                :name
+                                                                "Wargame"}
+                                   #:com.boardgamegeek.category{:id
                                                                 1049,
                                                                 :name
                                                                 "World War II"}),

@@ -3719,7 +3719,7 @@
                              #uuid "d8a9996a-9dd6-3f02-86c9-f3d3b3fea73a",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.2,
+                             :com.boardgamegeek.boardgame/rating 6.1,
                              :name "Světový film",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -5012,9 +5012,9 @@
                              #uuid "6524398b-036c-370d-b89f-92be8403ef9b"
                              #uuid "91c81e3c-0ede-3c19-a61d-3391680cebb4"
                              #uuid "f5aef75f-0075-3e43-8fd6-40e5917ccbd1"
+                             #uuid "d8a9996a-9dd6-3f02-86c9-f3d3b3fea73a"
                              #uuid "3239ae98-cebb-39ad-b9d7-146053655aa1"
                              #uuid "44de8c27-9942-39ca-997c-57ff932fc882"
-                             #uuid "d8a9996a-9dd6-3f02-86c9-f3d3b3fea73a"
                              #uuid "be6b7059-b2f2-3c52-a4ea-6b7cdd82c02c"
                              #uuid "73bba0c6-77f1-3468-a4ae-f83103e82f9e"
                              #uuid "21ccd3a0-633f-3ac5-9f45-3919c143c3cb"

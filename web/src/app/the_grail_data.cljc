@@ -4520,7 +4520,7 @@
                              #uuid "2c43dc7f-08f4-3ad6-a185-fcd54997b760",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 4.7,
+                             :com.boardgamegeek.boardgame/rating 4.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,

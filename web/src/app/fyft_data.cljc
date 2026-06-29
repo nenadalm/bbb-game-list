@@ -4541,6 +4541,10 @@
                                                                 :name
                                                                 "Exploration"}
                                    #:com.boardgamegeek.category{:id
+                                                                1024,
+                                                                :name
+                                                                "Horror"}
+                                   #:com.boardgamegeek.category{:id
                                                                 1064,
                                                                 :name
                                                                 "Movies / TV / Radio theme"}),

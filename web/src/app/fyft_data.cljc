@@ -3934,7 +3934,7 @@
                              :languages ["en"],
                              :game/name "No Thanks!",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/2P4-gR4xYLnfZtljfc2dRA__small/img/zQE9bdhYVPJbnbO7AOnatF9l5Yw=/fit-in/200x150/filters:strip_icc()/pic2602161.jpg"},
+                             "https://cf.geekdo-images.com/JSAs8aMopjf8P9JXwTMV7w__small/img/j7oqDPsahGkdKQMXbKjYMZ0jmwM=/fit-in/200x150/filters:strip_icc()/pic9005058.png"},
                             #uuid "b9ef8caa-7d7e-33bc-aa37-5ae9ffc5d1d2"
                             {:languages ["cs"],
                              :name
@@ -5159,7 +5159,7 @@
                              #uuid "7ce4acbd-f5ed-3800-9116-83ec4caff1ea",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.6,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -7251,6 +7251,7 @@
                              #uuid "53a695cf-9848-3886-83f2-221b8e81c67a"
                              #uuid "719e0e67-ef80-3db4-85ca-f060202a40d2"
                              #uuid "5b444b22-2047-3124-af08-48687f72a6b5"
+                             #uuid "7ce4acbd-f5ed-3800-9116-83ec4caff1ea"
                              #uuid "7c3801ac-e417-346c-a923-a047750758ea"
                              #uuid "ee251f41-b54c-3c3d-ad55-d9a6adef30ea"
                              #uuid "90a300ed-ea38-3514-b744-0c43440fa4b3"
@@ -7260,7 +7261,6 @@
                              #uuid "e9e59065-5acd-3d1d-876b-8cb866541534"
                              #uuid "50fc1352-f62f-3b32-851f-4bdec9eda627"
                              #uuid "85e81f28-537a-3748-822c-daaecca3b612"
-                             #uuid "7ce4acbd-f5ed-3800-9116-83ec4caff1ea"
                              #uuid "54b7d1a4-f4c9-3dfb-a3cf-e94ce0c9d660"
                              #uuid "449377c8-c54e-333f-a0a5-8ff81f882894"
                              #uuid "43771435-28f6-3221-b49b-19e26d73c06f"

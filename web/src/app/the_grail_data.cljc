@@ -2928,45 +2928,6 @@
                              :game/id
                              #uuid "5f070415-876d-33b7-83e4-205db0a9cf82",
                              :game/name "Lušťovky: expert"},
-                            #uuid "06dfeee1-4208-36aa-86e8-d750140dbeaa"
-                            {:game/id
-                             #uuid "06dfeee1-4208-36aa-86e8-d750140dbeaa",
-                             :com.boardgamegeek.boardgame/min-players
-                             2,
-                             :com.boardgamegeek.boardgame/rating 6.6,
-                             :com.boardgamegeek.boardgame/mechanics
-                             (list #:com.boardgamegeek.mechanic{:id
-                                                                2040,
-                                                                :name
-                                                                "Hand Management"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2661,
-                                                                :name
-                                                                "Push Your Luck"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2004,
-                                                                :name
-                                                                "Set Collection"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2686,
-                                                                :name
-                                                                "Take That"}),
-                             :name "Kreveťák",
-                             :com.boardgamegeek.boardgame/categories
-                             (list #:com.boardgamegeek.category{:id
-                                                                1002,
-                                                                :name
-                                                                "Card Game"}),
-                             :com.boardgamegeek.boardgame/max-play-time
-                             10,
-                             :com.boardgamegeek.boardgame/max-players
-                             6,
-                             :com.boardgamegeek.boardgame/min-play-time
-                             10,
-                             :com.boardgamegeek.boardgame/id "358690",
-                             :game/name "MANTIS",
-                             :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/lEkzT07ZX_iDNBusFDS_jA__small/img/OAi6sxJMeIyuP7ANxhDNRu08wUY=/fit-in/200x150/filters:strip_icc()/pic6811649.png"},
                             #uuid "cdb9785e-e723-341e-933e-9853dce18179"
                             {:game/id
                              #uuid "cdb9785e-e723-341e-933e-9853dce18179",
@@ -3047,6 +3008,45 @@
                              :game/id
                              #uuid "ced5f866-1d53-385c-a826-4bc25407db52",
                              :game/name "Malcolm & Vial Smasher"},
+                            #uuid "05b86bc1-8bf9-368f-a8af-9003ac8e3733"
+                            {:game/id
+                             #uuid "05b86bc1-8bf9-368f-a8af-9003ac8e3733",
+                             :com.boardgamegeek.boardgame/min-players
+                             2,
+                             :com.boardgamegeek.boardgame/rating 6.6,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2040,
+                                                                :name
+                                                                "Hand Management"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2661,
+                                                                :name
+                                                                "Push Your Luck"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2004,
+                                                                :name
+                                                                "Set Collection"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2686,
+                                                                :name
+                                                                "Take That"}),
+                             :name "Kreveťák",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1002,
+                                                                :name
+                                                                "Card Game"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             10,
+                             :com.boardgamegeek.boardgame/max-players
+                             6,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             10,
+                             :com.boardgamegeek.boardgame/id "358690",
+                             :game/name "Mantis",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/lEkzT07ZX_iDNBusFDS_jA__small/img/OAi6sxJMeIyuP7ANxhDNRu08wUY=/fit-in/200x150/filters:strip_icc()/pic6811649.png"},
                             #uuid "733f8445-e50f-3a65-92cd-588111b256a2"
                             {:name "Marneus Calgar",
                              :game/id
@@ -6092,7 +6092,7 @@
                              #uuid "5f070415-876d-33b7-83e4-205db0a9cf82"
                              #uuid "cdb9785e-e723-341e-933e-9853dce18179"
                              #uuid "ced5f866-1d53-385c-a826-4bc25407db52"
-                             #uuid "06dfeee1-4208-36aa-86e8-d750140dbeaa"
+                             #uuid "05b86bc1-8bf9-368f-a8af-9003ac8e3733"
                              #uuid "733f8445-e50f-3a65-92cd-588111b256a2"
                              #uuid "2a77ce80-ba50-3f21-b1ef-a677545b2818"
                              #uuid "0ac49038-fe25-3aa3-b33b-ce180b8b84ed"
@@ -6250,7 +6250,7 @@
                              #uuid "c8f93560-ab90-3e08-af95-140ebb860697"
                              #uuid "7bae0b38-0a96-3ecc-b46e-2fb84ebd8dd8"
                              #uuid "6bdd63a2-940d-3e46-a254-30ccff2b0d49"
-                             #uuid "06dfeee1-4208-36aa-86e8-d750140dbeaa"
+                             #uuid "05b86bc1-8bf9-368f-a8af-9003ac8e3733"
                              #uuid "24e29fc0-4246-32b5-8d1a-158e40691c8b"
                              #uuid "28e54304-62fc-38c9-9b76-058878323d57"
                              #uuid "d99a604c-79ce-3c2e-b6a2-f43488d5d4c3"
@@ -6421,7 +6421,7 @@
                              #uuid "e1d04b1f-1d94-3006-958a-ee81242dab6d"
                              #uuid "c6206e42-65f6-3881-9892-b36dff0b9df4"
                              #uuid "0b5d8490-cda6-3f85-ac58-70ed3aefe115"
-                             #uuid "06dfeee1-4208-36aa-86e8-d750140dbeaa"
+                             #uuid "05b86bc1-8bf9-368f-a8af-9003ac8e3733"
                              #uuid "0ac49038-fe25-3aa3-b33b-ce180b8b84ed"
                              #uuid "9b35ef05-2feb-3e25-b2ef-379d47111a53"
                              #uuid "2ca189f5-8500-3bf3-99b6-ec3203b0c227"
@@ -6582,7 +6582,7 @@
                              #uuid "1add2eb4-1fca-39b2-a15b-4a7d68571409"
                              #uuid "e1d04b1f-1d94-3006-958a-ee81242dab6d"
                              #uuid "c6206e42-65f6-3881-9892-b36dff0b9df4"
-                             #uuid "06dfeee1-4208-36aa-86e8-d750140dbeaa"
+                             #uuid "05b86bc1-8bf9-368f-a8af-9003ac8e3733"
                              #uuid "6e8ce4f2-3cc4-37b8-9002-721e44843aaf"
                              #uuid "2a88531b-d1d3-36e6-9b93-2266c3809d76"
                              #uuid "0170d252-3262-32c6-a950-02dfa5ae3fa8"
@@ -6674,7 +6674,7 @@
                              #uuid "fc4b5160-634a-3e54-b306-97e5771f843c"
                              #uuid "a528cdc2-c5e5-3afb-8043-1cfa5cde859a"
                              #uuid "55ae5d34-67dd-31a1-97f3-34c8d3726737"
-                             #uuid "06dfeee1-4208-36aa-86e8-d750140dbeaa"
+                             #uuid "05b86bc1-8bf9-368f-a8af-9003ac8e3733"
                              #uuid "3da3ce69-4e95-3c15-beec-5d9ec2078260"
                              #uuid "8af65315-b94d-3484-be10-eaf75cc6d55a"
                              #uuid "7bae0b38-0a96-3ecc-b46e-2fb84ebd8dd8"
@@ -6821,7 +6821,7 @@
                              #uuid "b5d236c9-502e-3642-af0d-9b77f15c7843"
                              #uuid "3a03b6fb-7300-3f61-8517-da73f07c6174"
                              #uuid "63860f18-7601-305e-8c01-a540acbccb9e"
-                             #uuid "06dfeee1-4208-36aa-86e8-d750140dbeaa"
+                             #uuid "05b86bc1-8bf9-368f-a8af-9003ac8e3733"
                              #uuid "3da3ce69-4e95-3c15-beec-5d9ec2078260"
                              #uuid "7bae0b38-0a96-3ecc-b46e-2fb84ebd8dd8"
                              #uuid "bb8434ca-528e-3b5f-bfc5-5eebbe2c00a0"

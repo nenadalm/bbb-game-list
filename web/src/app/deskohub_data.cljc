@@ -3737,7 +3737,7 @@
                              #uuid "6a4265e9-fdb5-361d-8d97-2ce82c8cb801",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.4,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3099,
@@ -4288,11 +4288,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 2710,
                                                                 :name
-                                                                "Post-Napoleonic"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1081,
-                                                                :name
-                                                                "Spies / Secret Agents"}),
+                                                                "Post-Napoleonic"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              120,
                              :com.boardgamegeek.boardgame/max-players
@@ -6122,10 +6118,6 @@
                                                                 :name
                                                                 "Animals"}
                                    #:com.boardgamegeek.category{:id
-                                                                1017,
-                                                                :name
-                                                                "Dice"}
-                                   #:com.boardgamegeek.category{:id
                                                                 1035,
                                                                 :name
                                                                 "Medieval"}
@@ -6403,11 +6395,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1020,
                                                                 :name
-                                                                "Exploration"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1031,
-                                                                :name
-                                                                "Racing"}),
+                                                                "Exploration"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              60,
                              :com.boardgamegeek.boardgame/max-players
@@ -7486,6 +7474,7 @@
                              #uuid "17a15e54-9f49-32ec-b6fc-a1fdca54da2b"
                              #uuid "2dc322b0-ef94-3b68-ad5e-19c30b35d348"
                              #uuid "457af9d0-dff8-3daa-90d9-02dfbef1736f"
+                             #uuid "6a4265e9-fdb5-361d-8d97-2ce82c8cb801"
                              #uuid "ab2c0722-a352-35b9-97a6-fdb65bfbcd43"
                              #uuid "f6358c6d-587f-3ca9-8501-68859005fb86"
                              #uuid "f49fab51-1d4d-3849-b943-6d18e3b10a71"
@@ -7493,7 +7482,6 @@
                              #uuid "e8d2a59c-f315-3860-9608-b04f893cbc93"
                              #uuid "548d40ad-9562-3712-a0a0-f072f66b395c"
                              #uuid "088f7a46-b531-3b14-ae5b-dcbb5fc02670"
-                             #uuid "6a4265e9-fdb5-361d-8d97-2ce82c8cb801"
                              #uuid "26121102-4728-3717-97a8-640bdedbea8d"
                              #uuid "bb315bd3-e4ee-3f82-9350-7ff4bb9c2e54"
                              #uuid "568da493-2833-3009-ad26-7108e0683081"

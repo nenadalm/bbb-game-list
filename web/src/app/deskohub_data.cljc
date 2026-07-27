@@ -661,6 +661,10 @@
                              :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                3002,
+                                                                :name
+                                                                "Deduction"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2040,
                                                                 :name
                                                                 "Hand Management"}
@@ -682,6 +686,10 @@
                                                                 1002,
                                                                 :name
                                                                 "Card Game"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1039,
+                                                                :name
+                                                                "Deduction"}
                                    #:com.boardgamegeek.category{:id
                                                                 1024,
                                                                 :name
@@ -1425,7 +1433,7 @@
                              :com.boardgamegeek.boardgame/id "197376",
                              :game/name "Charterstone",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/yKjDaHQiv28iqtzDxfQOZQ__small/img/y0YNU2Bf4W6rNQUXVhhe4tWnU8E=/fit-in/200x150/filters:strip_icc()/pic3322613.jpg"},
+                             "https://cf.geekdo-images.com/ToG_L1KA83024V5qHwfLbQ__small/img/ISH9j-upCHKlXTz9XgV5n71GqRo=/fit-in/200x150/filters:strip_icc()/pic9706762.png"},
                             #uuid "5b349ead-c3fb-374b-bb6c-47fcc3843355"
                             {:game/id
                              #uuid "5b349ead-c3fb-374b-bb6c-47fcc3843355",
@@ -6285,7 +6293,7 @@
                              #uuid "9a8d8f58-a081-33fa-9ec0-03708b0460cb",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 8.0,
+                             :com.boardgamegeek.boardgame/rating 8.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2014,
@@ -7526,7 +7534,6 @@
                              #uuid "c91e5a98-0a9d-3c8f-b565-cee332bda8de"
                              #uuid "182deae1-4ea2-3cb6-a9a3-ff03c832e910"
                              #uuid "1ccde006-de3e-3a74-9c21-27ab77c020b3"
-                             #uuid "9a8d8f58-a081-33fa-9ec0-03708b0460cb"
                              #uuid "847843a3-b5a8-3a58-9f2f-f4e12266acc5"
                              #uuid "c09ad586-8d09-38f9-9f2c-e400662588b2"
                              #uuid "ebaa10ce-11ea-31ed-a50f-d83872fa311e"
@@ -7538,6 +7545,7 @@
                              #uuid "ce3bce3c-c108-384a-a773-76f0186b0a7b"
                              #uuid "2bab8462-e6ca-353e-b915-de7eb50087a2"
                              #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08"
+                             #uuid "9a8d8f58-a081-33fa-9ec0-03708b0460cb"
                              #uuid "9d615452-46ed-3b66-b816-f0820f7a71d8"
                              #uuid "456d479c-8791-3533-bc06-24219803ec40"
                              #uuid "f68e123c-db14-3e0b-a7e7-464a7a13c1c4"

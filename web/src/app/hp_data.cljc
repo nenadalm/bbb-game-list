@@ -1733,7 +1733,7 @@
                              #uuid "a83b8f23-d78e-3e62-90eb-d70f7995c982",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.6,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2999,
@@ -2282,7 +2282,7 @@
                              :com.boardgamegeek.boardgame/id "197376",
                              :game/name "Charterstone",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/yKjDaHQiv28iqtzDxfQOZQ__small/img/y0YNU2Bf4W6rNQUXVhhe4tWnU8E=/fit-in/200x150/filters:strip_icc()/pic3322613.jpg"},
+                             "https://cf.geekdo-images.com/ToG_L1KA83024V5qHwfLbQ__small/img/ISH9j-upCHKlXTz9XgV5n71GqRo=/fit-in/200x150/filters:strip_icc()/pic9706762.png"},
                             #uuid "fdb07892-a50b-3405-8eb2-8a5429a70ee8"
                             {:game/id
                              #uuid "fdb07892-a50b-3405-8eb2-8a5429a70ee8",
@@ -11119,7 +11119,7 @@
                              #uuid "6fa86440-51cf-32e3-9873-a679f7bb54a6",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.4,
+                             :com.boardgamegeek.boardgame/rating 6.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2978,
@@ -13565,7 +13565,6 @@
                              #uuid "3992d652-f81d-3e86-bd6e-2e685cb351a3"
                              #uuid "14a7749e-31ee-3b66-af79-5bf4b407a824"
                              #uuid "9cf42701-85ad-3877-9a0f-cf57a5acf172"
-                             #uuid "6fa86440-51cf-32e3-9873-a679f7bb54a6"
                              #uuid "3869917f-f9bd-38a8-9d4e-09d2c2ef7c7e"
                              #uuid "0746ccba-be89-3d2f-a4b6-af590e489ff0"
                              #uuid "eaa9b08c-9718-39e9-84e8-e09ccf855ef0"
@@ -13578,6 +13577,7 @@
                              #uuid "af817d47-9021-3806-800d-7ef8dab08024"
                              #uuid "7bae0b38-0a96-3ecc-b46e-2fb84ebd8dd8"
                              #uuid "6bdd63a2-940d-3e46-a254-30ccff2b0d49"
+                             #uuid "6fa86440-51cf-32e3-9873-a679f7bb54a6"
                              #uuid "413cd780-9e67-3663-8219-e3ec6b2a957d"
                              #uuid "e2a74414-2984-3c99-84dc-424f782d6a9c"
                              #uuid "48cc9f9b-95f7-32bf-9ae6-be71c7c59b8f"
@@ -13701,6 +13701,7 @@
                              #uuid "d51dd20c-a05f-3ab4-94c7-9020d535e5b3"
                              #uuid "6ea5359e-01a4-3842-8849-43125518289b"
                              #uuid "06c5d6ce-c062-3ac0-bd43-6186b663fc10"
+                             #uuid "a83b8f23-d78e-3e62-90eb-d70f7995c982"
                              #uuid "04131825-c690-3fb4-b915-f0666907e59c"
                              #uuid "fdb07892-a50b-3405-8eb2-8a5429a70ee8"
                              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a"
@@ -13715,7 +13716,6 @@
                              #uuid "90a300ed-ea38-3514-b744-0c43440fa4b3"
                              #uuid "c6bc58ef-d2cc-33ca-8003-67ae15697655"
                              #uuid "4d390101-fc97-388b-b11e-ece5c5f3d615"
-                             #uuid "a83b8f23-d78e-3e62-90eb-d70f7995c982"
                              #uuid "0a4d85e2-2b97-3ffd-a1d4-9ffe55f8f5d1"
                              #uuid "b2980c72-2a1a-3e7a-b030-3718ce5491d8"
                              #uuid "423cb589-88be-336d-ada8-9817b5fe519e"

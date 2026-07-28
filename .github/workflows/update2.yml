@@ -18,13 +18,16 @@ jobs:
       - name: Get month
         id: get-month
         run: |
-          echo "day=$(date +%Y-%m)" >> $GITHUB_OUTPUT
+          echo "month=$(date +%Y-%m)" >> $GITHUB_OUTPUT
+          echo "day=$(date +%d)" >> $GITHUB_OUTPUT
         shell: bash
       - uses: actions/cache/restore@v5
         id: url-cache-restore
         with:
           path: './importer/resources/.cache/url'
-          key: "url-${{ steps.get-month.outputs.day }}"
+          key: "url-${{ steps.get-month.outputs.month }}-${{ steps.get-month.outputs.day }}"
+          restore-keys: |
+            url-${{ steps.get-month.outputs.month }}-
       - name: Create projects data
         env:
           GOOGLE_SERVICE_ACCOUNT_EMAIL: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_EMAIL }}
@@ -61,12 +64,13 @@ jobs:
       - name: Get month
         id: get-month
         run: |
-          echo "day=$(date +%Y-%m)" >> $GITHUB_OUTPUT
+          echo "month=$(date +%Y-%m)" >> $GITHUB_OUTPUT
+          echo "day=$(date +%d)" >> $GITHUB_OUTPUT
         shell: bash
       - uses: actions/cache@v5
         with:
           path: './importer/resources/.cache/url'
-          key: "url-${{ steps.get-month.outputs.day }}"
+          key: "url-${{ steps.get-month.outputs.month }}-${{ steps.get-month.outputs.day }}"
       - name: Create data from project data
         env:
           BGG_TOKEN: ${{ secrets.BGG_TOKEN }}

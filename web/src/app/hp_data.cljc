@@ -393,7 +393,7 @@
                              #uuid "34fadff6-95df-37e2-8506-3ee70980871b",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 6.2,
+                             :com.boardgamegeek.boardgame/rating 6.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
@@ -9636,7 +9636,7 @@
                              #uuid "7ce4acbd-f5ed-3800-9116-83ec4caff1ea",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.5,
+                             :com.boardgamegeek.boardgame/rating 7.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -11119,7 +11119,7 @@
                              #uuid "6fa86440-51cf-32e3-9873-a679f7bb54a6",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.5,
+                             :com.boardgamegeek.boardgame/rating 6.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2978,
@@ -13528,6 +13528,7 @@
                              #uuid "6e8ce4f2-3cc4-37b8-9002-721e44843aaf"
                              #uuid "be88402c-5149-3063-ab79-7e0e257de370"
                              #uuid "98f21854-baa2-356c-8d3f-bc39eb43f485"
+                             #uuid "34fadff6-95df-37e2-8506-3ee70980871b"
                              #uuid "477c2070-414c-35f9-be19-d3d3d72b49d2"
                              #uuid "141c9f39-27f9-3e84-b303-58ac1f2e96ac"
                              #uuid "c1fa67fc-99a3-39a4-962b-ba099f84d11c"
@@ -13539,7 +13540,6 @@
                              #uuid "a710c2c2-dc00-390a-8a08-37a6e643f5d3"
                              #uuid "fc4b5160-634a-3e54-b306-97e5771f843c"
                              #uuid "165261a9-0183-3e53-be82-ccc197c354b8"
-                             #uuid "34fadff6-95df-37e2-8506-3ee70980871b"
                              #uuid "3239ae98-cebb-39ad-b9d7-146053655aa1"
                              #uuid "d29a32f7-a832-3687-b160-1e915d7a1465"
                              #uuid "e1d3745d-6aba-36a2-b3b7-2d61e60665cd"
@@ -13565,6 +13565,7 @@
                              #uuid "3992d652-f81d-3e86-bd6e-2e685cb351a3"
                              #uuid "14a7749e-31ee-3b66-af79-5bf4b407a824"
                              #uuid "9cf42701-85ad-3877-9a0f-cf57a5acf172"
+                             #uuid "6fa86440-51cf-32e3-9873-a679f7bb54a6"
                              #uuid "3869917f-f9bd-38a8-9d4e-09d2c2ef7c7e"
                              #uuid "0746ccba-be89-3d2f-a4b6-af590e489ff0"
                              #uuid "eaa9b08c-9718-39e9-84e8-e09ccf855ef0"
@@ -13577,7 +13578,6 @@
                              #uuid "af817d47-9021-3806-800d-7ef8dab08024"
                              #uuid "7bae0b38-0a96-3ecc-b46e-2fb84ebd8dd8"
                              #uuid "6bdd63a2-940d-3e46-a254-30ccff2b0d49"
-                             #uuid "6fa86440-51cf-32e3-9873-a679f7bb54a6"
                              #uuid "413cd780-9e67-3663-8219-e3ec6b2a957d"
                              #uuid "e2a74414-2984-3c99-84dc-424f782d6a9c"
                              #uuid "48cc9f9b-95f7-32bf-9ae6-be71c7c59b8f"
@@ -13711,7 +13711,6 @@
                              #uuid "4f58ae3c-af6d-3621-9cbe-fa3962eab6a0"
                              #uuid "9eb88ba2-42e3-34d8-9344-188df65d0080"
                              #uuid "d5380d3b-56d5-3783-a863-1af12c39f5c7"
-                             #uuid "7ce4acbd-f5ed-3800-9116-83ec4caff1ea"
                              #uuid "31fb2a2e-c122-385a-b46c-49640a91cf77"
                              #uuid "90a300ed-ea38-3514-b744-0c43440fa4b3"
                              #uuid "c6bc58ef-d2cc-33ca-8003-67ae15697655"
@@ -13720,6 +13719,7 @@
                              #uuid "b2980c72-2a1a-3e7a-b030-3718ce5491d8"
                              #uuid "423cb589-88be-336d-ada8-9817b5fe519e"
                              #uuid "81828b40-f940-3ba2-999a-df65d1ece450"
+                             #uuid "7ce4acbd-f5ed-3800-9116-83ec4caff1ea"
                              #uuid "1735db9b-dbc7-3364-951c-14ef9db058fb"
                              #uuid "cb8144ed-c9ec-3a63-93a2-c2c4c8b3752e"
                              #uuid "ae7bda5b-fa73-3e1b-b30b-c81fd70b93f5"

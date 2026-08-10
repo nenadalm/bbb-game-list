@@ -1178,6 +1178,10 @@
                              :com.boardgamegeek.boardgame/rating 7.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2956,
+                                                                :name
+                                                                "Chaining"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2875,
                                                                 :name
                                                                 "End Game Bonuses"}
@@ -1185,6 +1189,10 @@
                                                                 2026,
                                                                 :name
                                                                 "Hexagon Grid"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2975,
+                                                                :name
+                                                                "Line of Sight"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2041,
                                                                 :name
@@ -1264,6 +1272,10 @@
                                                                 2011,
                                                                 :name
                                                                 "Modular Board"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2915,
+                                                                :name
+                                                                "Negotiation"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2081,
                                                                 :name
@@ -3782,6 +3794,10 @@
                              :name "Molly house",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
+                                                                2726,
+                                                                :name
+                                                                "Age of Reason"}
+                                   #:com.boardgamegeek.category{:id
                                                                 1023,
                                                                 :name
                                                                 "Bluffing"}
@@ -3921,6 +3937,10 @@
                              :com.boardgamegeek.boardgame/rating 8.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2001,
+                                                                :name
+                                                                "Action Points"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2018,
                                                                 :name
                                                                 "Campaign / Battle Card Driven"}
@@ -3952,6 +3972,10 @@
                                                                 2685,
                                                                 :name
                                                                 "Player Elimination"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2822,
+                                                                :name
+                                                                "Scenario / Mission / Campaign Game"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2820,
                                                                 :name
@@ -4871,7 +4895,7 @@
                              #uuid "91cb3cb8-649c-39ef-8155-15494d1b454e",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.5,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -4960,6 +4984,10 @@
                                                                 2911,
                                                                 :name
                                                                 "Ownership"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2035,
+                                                                :name
+                                                                "Roll / Spin and Move"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2004,
                                                                 :name
@@ -5109,6 +5137,10 @@
                                                                 2072,
                                                                 :name
                                                                 "Dice Rolling"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2975,
+                                                                :name
+                                                                "Line of Sight"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2965,
                                                                 :name
@@ -6304,9 +6336,21 @@
                                                                 :name
                                                                 "Card Play Conflict Resolution"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2664,
+                                                                :name
+                                                                "Deck, Bag, and Pool Building"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2040,
                                                                 :name
                                                                 "Hand Management"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2926,
+                                                                :name
+                                                                "Selection Order Bid"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2020,
+                                                                :name
+                                                                "Simultaneous Action Selection"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2015,
                                                                 :name
@@ -7221,7 +7265,11 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2686,
                                                                 :name
-                                                                "Take That"}),
+                                                                "Take That"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2897,
+                                                                :name
+                                                                "Variable Set-up"}),
                              :name "Worms the Board Game",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -7491,6 +7539,7 @@
                              #uuid "548d40ad-9562-3712-a0a0-f072f66b395c"
                              #uuid "088f7a46-b531-3b14-ae5b-dcbb5fc02670"
                              #uuid "26121102-4728-3717-97a8-640bdedbea8d"
+                             #uuid "91cb3cb8-649c-39ef-8155-15494d1b454e"
                              #uuid "bb315bd3-e4ee-3f82-9350-7ff4bb9c2e54"
                              #uuid "568da493-2833-3009-ad26-7108e0683081"
                              #uuid "a346b0d6-8cee-35c0-b19d-9cca4d686b76"
@@ -7499,7 +7548,6 @@
                              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a"
                              #uuid "6ec0b4db-6cca-3c7b-b983-5833527283fd"
                              #uuid "4fdbc5f5-0551-347b-aac9-d8f2859b4a68"
-                             #uuid "91cb3cb8-649c-39ef-8155-15494d1b454e"
                              #uuid "5b444b22-2047-3124-af08-48687f72a6b5"
                              #uuid "605b29d5-2d5d-30c9-bf02-1eb669804b8b"
                              #uuid "4f6a71be-0b8d-389d-a431-a8e4cbf59e46"

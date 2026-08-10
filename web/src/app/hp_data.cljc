@@ -1807,6 +1807,10 @@
                              :com.boardgamegeek.boardgame/rating 7.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2956,
+                                                                :name
+                                                                "Chaining"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2875,
                                                                 :name
                                                                 "End Game Bonuses"}
@@ -1814,6 +1818,10 @@
                                                                 2026,
                                                                 :name
                                                                 "Hexagon Grid"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2975,
+                                                                :name
+                                                                "Line of Sight"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2041,
                                                                 :name
@@ -2046,6 +2054,10 @@
                                                                 2011,
                                                                 :name
                                                                 "Modular Board"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2915,
+                                                                :name
+                                                                "Negotiation"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2081,
                                                                 :name
@@ -5253,7 +5265,11 @@
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2676,
                                                                 :name
-                                                                "Grid Movement"}),
+                                                                "Grid Movement"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2940,
+                                                                :name
+                                                                "Square Grid"}),
                              :name "Jurská sváča",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -5464,6 +5480,10 @@
                                                                 2043,
                                                                 :name
                                                                 "Enclosure"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                3007,
+                                                                :name
+                                                                "Matching"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2041,
                                                                 :name
@@ -5792,6 +5812,10 @@
                                                                 2072,
                                                                 :name
                                                                 "Dice Rolling"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2947,
+                                                                :name
+                                                                "Movement Points"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2661,
                                                                 :name
@@ -9636,7 +9660,7 @@
                              #uuid "7ce4acbd-f5ed-3800-9116-83ec4caff1ea",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.6,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -10569,7 +10593,7 @@
                              #uuid "1f6abbcc-6aa7-3fbf-8c11-f5ea47b5cb4d",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.1,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -13635,6 +13659,7 @@
                              #uuid "01f7b705-9b33-3897-969b-343e8a6e682e"
                              #uuid "2c63539a-a2a5-3415-b3d7-89edc773ac8b"
                              #uuid "018b1acc-9502-34ad-8479-cb3758bba5b5"
+                             #uuid "1f6abbcc-6aa7-3fbf-8c11-f5ea47b5cb4d"
                              #uuid "80180e7b-24e9-3f4c-abf1-de260b3f879b"
                              #uuid "75192d7c-a9bd-321f-8045-dcad38476583"
                              #uuid "057abd33-3d4e-3b86-910f-0222e183f56e"
@@ -13652,7 +13677,6 @@
                              #uuid "d9f32343-726b-3216-b5cf-a0582b8d14bb"
                              #uuid "74e3083f-4bcb-38b4-a7ff-9888df74f0f2"
                              #uuid "5efcd2b8-37bf-3480-8e79-e30354156e35"
-                             #uuid "1f6abbcc-6aa7-3fbf-8c11-f5ea47b5cb4d"
                              #uuid "e02f28a1-7d4d-39f1-aedb-70a978a4f073"
                              #uuid "c7b74e13-dff8-3831-98f4-1d81198c1337"
                              #uuid "69895ff2-b990-3611-827e-f4f7fd32eb8a"
@@ -13711,6 +13735,7 @@
                              #uuid "4f58ae3c-af6d-3621-9cbe-fa3962eab6a0"
                              #uuid "9eb88ba2-42e3-34d8-9344-188df65d0080"
                              #uuid "d5380d3b-56d5-3783-a863-1af12c39f5c7"
+                             #uuid "7ce4acbd-f5ed-3800-9116-83ec4caff1ea"
                              #uuid "31fb2a2e-c122-385a-b46c-49640a91cf77"
                              #uuid "90a300ed-ea38-3514-b744-0c43440fa4b3"
                              #uuid "c6bc58ef-d2cc-33ca-8003-67ae15697655"
@@ -13719,7 +13744,6 @@
                              #uuid "b2980c72-2a1a-3e7a-b030-3718ce5491d8"
                              #uuid "423cb589-88be-336d-ada8-9817b5fe519e"
                              #uuid "81828b40-f940-3ba2-999a-df65d1ece450"
-                             #uuid "7ce4acbd-f5ed-3800-9116-83ec4caff1ea"
                              #uuid "1735db9b-dbc7-3364-951c-14ef9db058fb"
                              #uuid "cb8144ed-c9ec-3a63-93a2-c2c4c8b3752e"
                              #uuid "ae7bda5b-fa73-3e1b-b30b-c81fd70b93f5"

@@ -1478,6 +1478,10 @@
                                                                 :name
                                                                 "Deck, Bag, and Pool Building"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2685,
+                                                                :name
+                                                                "Player Elimination"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2015,
                                                                 :name
                                                                 "Variable Player Powers"}
@@ -2525,6 +2529,10 @@
                                                                 2072,
                                                                 :name
                                                                 "Dice Rolling"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2856,
+                                                                :name
+                                                                "Die Icon Resolution"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2891,
                                                                 :name
@@ -3763,7 +3771,7 @@
                              #uuid "78ad15c7-f60d-3567-9bc1-27bef0f7517a",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.3,
+                             :com.boardgamegeek.boardgame/rating 6.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2023,
@@ -4744,6 +4752,10 @@
                              :com.boardgamegeek.boardgame/rating 7.9,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2956,
+                                                                :name
+                                                                "Chaining"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2875,
                                                                 :name
                                                                 "End Game Bonuses"}
@@ -4751,6 +4763,10 @@
                                                                 2026,
                                                                 :name
                                                                 "Hexagon Grid"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2975,
+                                                                :name
+                                                                "Line of Sight"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2041,
                                                                 :name
@@ -5016,6 +5032,10 @@
                                                                 2011,
                                                                 :name
                                                                 "Modular Board"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2915,
+                                                                :name
+                                                                "Negotiation"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2081,
                                                                 :name
@@ -9085,7 +9105,11 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2897,
                                                                 :name
-                                                                "Variable Set-up"}),
+                                                                "Variable Set-up"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2082,
+                                                                :name
+                                                                "Worker Placement"}),
                              :name "Endless Winter: Paleoamericans",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -12632,7 +12656,7 @@
                              #uuid "08972caa-b2f3-3eac-82b5-e023f13fe1e6",
                              :com.boardgamegeek.boardgame/min-players
                              5,
-                             :com.boardgamegeek.boardgame/rating 5.8,
+                             :com.boardgamegeek.boardgame/rating 5.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2916,
@@ -14537,6 +14561,10 @@
                                                                 :name
                                                                 "Deduction"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2055,
+                                                                :name
+                                                                "Paper-and-Pencil"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2823,
                                                                 :name
                                                                 "Score-and-Reset Game"}),
@@ -15377,7 +15405,7 @@
                              #uuid "8ce06ee2-adee-34f3-aba8-d11632b5bdb2",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.9,
+                             :com.boardgamegeek.boardgame/rating 6.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2082,
@@ -15411,6 +15439,10 @@
                                                                 2043,
                                                                 :name
                                                                 "Enclosure"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                3007,
+                                                                :name
+                                                                "Matching"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2041,
                                                                 :name
@@ -16529,7 +16561,7 @@
                              #uuid "88465ed6-c98e-3695-9106-84b5a779bebc",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.6,
+                             :com.boardgamegeek.boardgame/rating 6.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
@@ -16866,6 +16898,10 @@
                                                                 2072,
                                                                 :name
                                                                 "Dice Rolling"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2947,
+                                                                :name
+                                                                "Movement Points"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2661,
                                                                 :name
@@ -20646,6 +20682,10 @@
                                                                 :name
                                                                 "Dice Rolling"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2011,
+                                                                :name
+                                                                "Modular Board"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2870,
                                                                 :name
                                                                 "Re-rolling and Locking"}
@@ -22103,6 +22143,10 @@
                              :name "Roll For It!",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
+                                                                1002,
+                                                                :name
+                                                                "Card Game"}
+                                   #:com.boardgamegeek.category{:id
                                                                 1017,
                                                                 :name
                                                                 "Dice"}),
@@ -25092,7 +25136,7 @@
                              #uuid "0ef3c7ad-f9bd-3964-afb0-62c38bee7460",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2014,
@@ -27882,7 +27926,7 @@
                              #uuid "1f6abbcc-6aa7-3fbf-8c11-f5ea47b5cb4d",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.1,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -29022,7 +29066,7 @@
                              #uuid "f3f1fedb-8b4b-34db-9549-d8e205c09bc9",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.9,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2838,
@@ -30764,6 +30808,10 @@
                              :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2841,
+                                                                :name
+                                                                "Command Cards"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2664,
                                                                 :name
                                                                 "Deck, Bag, and Pool Building"}
@@ -31013,7 +31061,7 @@
                              #uuid "2e3b07bd-7c5c-30e9-8f37-a2597897ab96",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.7,
+                             :com.boardgamegeek.boardgame/rating 6.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -33728,6 +33776,7 @@
                              #uuid "fb48a85b-84e9-312b-985b-de09b2c0b29f"
                              #uuid "434949a6-89e3-3ba2-8e67-412edc26c71f"
                              #uuid "dbc6ed40-d6e2-33c8-96ed-4e5b85c56f2f"
+                             #uuid "08972caa-b2f3-3eac-82b5-e023f13fe1e6"
                              #uuid "7e669d27-7faf-3da4-8f29-a5f580ef939f"
                              #uuid "58fb7a8c-d0f1-36b0-b1f5-b7091fbb0ba0"
                              #uuid "431d180f-b4d4-35f3-8c95-96ad5a7267d6"
@@ -33740,7 +33789,6 @@
                              #uuid "fef46e50-63ce-3dc7-8b8a-e64fa474241d"
                              #uuid "06f02042-ed2e-321d-8dfe-bcae21cb322e"
                              #uuid "4a210b03-8a44-3d9a-9d31-775480bebeb4"
-                             #uuid "08972caa-b2f3-3eac-82b5-e023f13fe1e6"
                              #uuid "5915a81b-221d-3aa3-a64a-78a9a04a1200"
                              #uuid "b90c1573-28dd-3818-a02a-5a66ae9b080a"
                              #uuid "dcd9522b-375c-3622-ac79-412f7a5c6e2f"
@@ -33780,6 +33828,7 @@
                              #uuid "ec6653ed-e1ae-32eb-b08f-37d1be83807b"
                              #uuid "8733c12a-4b84-36db-a610-3a7b7964554e"
                              #uuid "3c213740-1920-3b32-acb4-a2877cd7aa17"
+                             #uuid "78ad15c7-f60d-3567-9bc1-27bef0f7517a"
                              #uuid "0df24345-d25d-360a-813e-13c31e55f060"
                              #uuid "e1d3745d-6aba-36a2-b3b7-2d61e60665cd"
                              #uuid "951e1e39-aaee-343e-a65e-6a27c8538c96"
@@ -33805,7 +33854,6 @@
                              #uuid "7a51eb3c-d160-3393-b631-9ae87020b9db"
                              #uuid "9e638769-cea3-3302-ad66-52b732cdbe2e"
                              #uuid "2bded185-da51-3430-9462-fa200b501c28"
-                             #uuid "78ad15c7-f60d-3567-9bc1-27bef0f7517a"
                              #uuid "f5420b61-5e19-313e-8af2-cf5be82c637b"
                              #uuid "f442518c-c10d-3657-95ec-f4a0709a8f8a"
                              #uuid "8ff4b8ab-16a4-36fd-bd85-8db7a695238e"
@@ -33905,7 +33953,6 @@
                              #uuid "d9ff8a5f-72de-3a40-99bd-301e426485bd"
                              #uuid "cd7ef35f-d987-38bd-b123-4270688637ad"
                              #uuid "d94472e2-8880-369b-b2f2-d1d3b83960c6"
-                             #uuid "88465ed6-c98e-3695-9106-84b5a779bebc"
                              #uuid "bf9aed91-b2e4-396c-b6c1-0195db8ee736"
                              #uuid "d8ac8dc4-6760-3f12-96c2-e3420b291781"
                              #uuid "05b86bc1-8bf9-368f-a8af-9003ac8e3733"
@@ -33924,6 +33971,7 @@
                              #uuid "a3b26383-bee2-3c93-996b-c5fc83f12b68"
                              #uuid "98205fa8-31bb-366a-bc9a-34ee54eed0b2"
                              #uuid "89e7d319-ef83-3fca-bdfb-bbfb7ea8b1e3"
+                             #uuid "2e3b07bd-7c5c-30e9-8f37-a2597897ab96"
                              #uuid "d16c21f3-2311-301f-961f-893154326362"
                              #uuid "4c75b84b-9de0-3946-a3e6-e81fc9009a6f"
                              #uuid "629e0d23-6bd7-35bc-abe5-da52d8053d16"
@@ -33950,6 +33998,7 @@
                              #uuid "04117693-97a0-3890-a084-9cf9b13620dd"
                              #uuid "a2008070-14f7-3ef4-b245-e2d68cc00b65"
                              #uuid "b934a68e-f1d0-3352-b170-afb9fa2103da"
+                             #uuid "88465ed6-c98e-3695-9106-84b5a779bebc"
                              #uuid "bf872173-47bf-3140-9c89-3a8fe3e8fdea"
                              #uuid "314a8106-847d-3cbb-babe-a36b8ee15564"
                              #uuid "f51a5570-62a6-3e9a-971f-503f480b4fbd"
@@ -33965,7 +34014,6 @@
                              #uuid "134c5416-16b9-3118-a547-774f6df7bbcd"
                              #uuid "aacb653d-e587-34a7-a360-4c3956b4f677"
                              #uuid "63e5002f-f8a6-36bd-81b5-2f817477eecf"
-                             #uuid "2e3b07bd-7c5c-30e9-8f37-a2597897ab96"
                              #uuid "57153155-cc42-3c05-8286-785a35ed3749"
                              #uuid "44ca4f9f-417c-3200-b21f-4ae33fae9646"
                              #uuid "ab094dfb-4f8a-37a4-8b52-9061ef896d9c"
@@ -33985,6 +34033,7 @@
                              #uuid "aff8862a-8fba-39a6-86f4-ef02a3a228f9"
                              #uuid "f54a3493-468c-3242-b3bc-a8c69487fd15"
                              #uuid "40ff6344-d899-3b32-b854-07ebb0c8b6b6"
+                             #uuid "8ce06ee2-adee-34f3-aba8-d11632b5bdb2"
                              #uuid "ce26cd6d-057f-3f8e-b125-d0f30fec6420"
                              #uuid "d329373e-c6d7-31fd-bede-9a10daa7d237"
                              #uuid "e9261875-2cfa-39a4-84b7-17f7bf97c22a"
@@ -34021,7 +34070,6 @@
                              #uuid "97b52c4a-e93f-3ce8-b62f-60f30b492701"
                              #uuid "1b2a1ef5-4042-3ba6-826b-7d8fe796f7ba"
                              #uuid "22b3df14-e100-33a6-a098-e396cb523d6a"
-                             #uuid "8ce06ee2-adee-34f3-aba8-d11632b5bdb2"
                              #uuid "0f670043-be4f-39e4-9be3-aa9cb0d6bd5e"
                              #uuid "6060d975-55ab-3687-a5b2-5ff67a9dea5f"
                              #uuid "d212ce7f-dc23-37d1-9628-334b5a2a2b2f"
@@ -34079,6 +34127,7 @@
                              #uuid "2c63539a-a2a5-3415-b3d7-89edc773ac8b"
                              #uuid "993f217f-ae0d-33c1-b31d-a68fe56c11fe"
                              #uuid "018b1acc-9502-34ad-8479-cb3758bba5b5"
+                             #uuid "1f6abbcc-6aa7-3fbf-8c11-f5ea47b5cb4d"
                              #uuid "bf9bf9b2-2886-3710-a8cd-2ab56ce77646"
                              #uuid "d3618491-81dd-3a64-9350-03f0051fc678"
                              #uuid "ebb89386-c539-37db-b4a7-972b931256f7"
@@ -34116,11 +34165,11 @@
                              #uuid "b7ef96e9-33f1-3f65-9f90-b57a72f045bc"
                              #uuid "834adc20-ac9a-3ffa-b2ba-61ba879c382d"
                              #uuid "106facbb-305a-30f4-afe6-9fe69cfadbdc"
+                             #uuid "0ef3c7ad-f9bd-3964-afb0-62c38bee7460"
                              #uuid "6c1f7ff8-38a7-36da-97a1-e81977744191"
                              #uuid "690ca260-b444-3f13-8ad4-11cdf03eba10"
                              #uuid "4634a6e0-4966-34e2-9444-6dc29ae74e70"
                              #uuid "27d7c429-d5af-3a2f-8c6d-a14c6c951d67"
-                             #uuid "1f6abbcc-6aa7-3fbf-8c11-f5ea47b5cb4d"
                              #uuid "d8b44a4f-28ae-353d-adeb-b3fd26fc143b"
                              #uuid "a4c71b2c-5d3a-37c3-8bba-9e4707f01715"
                              #uuid "2d7c2d23-5fac-3ff4-8aac-33c2ce47eb1c"
@@ -34146,7 +34195,6 @@
                              #uuid "c59a448e-a61e-3dad-871d-f3bc7ebe6774"
                              #uuid "d5fd1c48-4bc6-3542-8805-4964fab16e05"
                              #uuid "909ecf8b-651a-376e-b82e-afec49696911"
-                             #uuid "0ef3c7ad-f9bd-3964-afb0-62c38bee7460"
                              #uuid "cb4c3448-07c8-36e6-8cbd-28f45339be1d"
                              #uuid "313301c9-98e1-30e4-9325-e04b7d8820b3"
                              #uuid "4c229496-53e3-3b6c-8a5e-3aeeb0bfa53e"
@@ -34289,6 +34337,7 @@
                              #uuid "efc126d9-50ea-3cf6-97fd-6f8bc0ee7db8"
                              #uuid "595f02eb-d247-3d88-95e4-06800f89e71a"
                              #uuid "76cd1156-774e-33f6-95aa-5bc8622b3b28"
+                             #uuid "f3f1fedb-8b4b-34db-9549-d8e205c09bc9"
                              #uuid "074edbaf-ed58-3f43-ad67-8af6ba4fcefe"
                              #uuid "0b19c10a-bb77-3af8-aa4d-afff0d8b7fbe"
                              #uuid "d82b1470-bb05-3f45-86cb-1e51d8455a3d"
@@ -34297,7 +34346,6 @@
                              #uuid "3980f7ea-079b-3741-a713-8494f6bcbb9a"
                              #uuid "f7625727-1129-3703-96c0-442c8ac00dae"
                              #uuid "9fa3f01d-ac6e-3690-9837-54da6c87150f"
-                             #uuid "f3f1fedb-8b4b-34db-9549-d8e205c09bc9"
                              #uuid "21489cfd-6859-3a26-9603-e63a04e4e720"
                              #uuid "c91e5a98-0a9d-3c8f-b565-cee332bda8de"
                              #uuid "3b9fc7b4-1edc-3a62-8564-de22c0eebcd4"

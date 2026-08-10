@@ -953,6 +953,10 @@
                                                                 :name
                                                                 "Modular Board"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2915,
+                                                                :name
+                                                                "Negotiation"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2081,
                                                                 :name
                                                                 "Network and Route Building"}
@@ -2224,9 +2228,17 @@
                                                                 :name
                                                                 "Modular Board"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2947,
+                                                                :name
+                                                                "Movement Points"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 3099,
                                                                 :name
                                                                 "Multi-Use Cards"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2965,
+                                                                :name
+                                                                "Multiple Maps"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2851,
                                                                 :name
@@ -2235,6 +2247,10 @@
                                                                 2846,
                                                                 :name
                                                                 "Once-Per-Game Abilities"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2685,
+                                                                :name
+                                                                "Player Elimination"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2028,
                                                                 :name
@@ -2343,13 +2359,29 @@
                                                                 :name
                                                                 "Hexagon Grid"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2824,
+                                                                :name
+                                                                "Legacy Game"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2975,
                                                                 :name
                                                                 "Line of Sight"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2947,
+                                                                :name
+                                                                "Movement Points"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 3099,
                                                                 :name
                                                                 "Multi-Use Cards"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2965,
+                                                                :name
+                                                                "Multiple Maps"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2851,
+                                                                :name
+                                                                "Narrative Choice / Paragraph"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2846,
                                                                 :name
@@ -3490,7 +3522,7 @@
                              #uuid "ce164ec5-d7aa-3247-b9f2-cfb37eb595eb",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.6,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
@@ -5264,7 +5296,7 @@
                              #uuid "1f6abbcc-6aa7-3fbf-8c11-f5ea47b5cb4d",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.1,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -6265,13 +6297,13 @@
                              #uuid "34a554d0-0c92-34d1-b7e8-78b92ecd459e"
                              #uuid "cdb9785e-e723-341e-933e-9853dce18179"
                              #uuid "018b1acc-9502-34ad-8479-cb3758bba5b5"
+                             #uuid "1f6abbcc-6aa7-3fbf-8c11-f5ea47b5cb4d"
                              #uuid "28c2cb01-e41c-3944-b218-03462db20697"
                              #uuid "48309f49-6981-3784-80f4-f8b7cff15c98"
                              #uuid "85574f84-6988-3f70-bc40-ac7e3a7a33d1"
                              #uuid "5b349ead-c3fb-374b-bb6c-47fcc3843355"
                              #uuid "1add2eb4-1fca-39b2-a15b-4a7d68571409"
                              #uuid "e1d04b1f-1d94-3006-958a-ee81242dab6d"
-                             #uuid "1f6abbcc-6aa7-3fbf-8c11-f5ea47b5cb4d"
                              #uuid "69895ff2-b990-3611-827e-f4f7fd32eb8a"
                              #uuid "0b5d8490-cda6-3f85-ac58-70ed3aefe115"
                              #uuid "2ca189f5-8500-3bf3-99b6-ec3203b0c227"
@@ -6284,12 +6316,12 @@
                              #uuid "088f7a46-b531-3b14-ae5b-dcbb5fc02670"
                              #uuid "568da493-2833-3009-ad26-7108e0683081"
                              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a"
+                             #uuid "ce164ec5-d7aa-3247-b9f2-cfb37eb595eb"
                              #uuid "0170d252-3262-32c6-a950-02dfa5ae3fa8"
                              #uuid "d5380d3b-56d5-3783-a863-1af12c39f5c7"
                              #uuid "7c3801ac-e417-346c-a923-a047750758ea"
                              #uuid "b2980c72-2a1a-3e7a-b030-3718ce5491d8"
                              #uuid "abc5edec-2835-3550-b622-c491cdafdb5e"
-                             #uuid "ce164ec5-d7aa-3247-b9f2-cfb37eb595eb"
                              #uuid "ae7bda5b-fa73-3e1b-b30b-c81fd70b93f5"
                              #uuid "0b0ba83c-ba8f-3c56-8b3e-a2fc3bc7f5a4"
                              #uuid "449377c8-c54e-333f-a0a5-8ff81f882894"

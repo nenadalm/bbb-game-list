@@ -727,6 +727,10 @@
                                                                 :name
                                                                 "Modular Board"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2915,
+                                                                :name
+                                                                "Negotiation"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2081,
                                                                 :name
                                                                 "Network and Route Building"}

@@ -1750,6 +1750,10 @@
                                                                 :name
                                                                 "American West"}
                                    #:com.boardgamegeek.category{:id
+                                                                1023,
+                                                                :name
+                                                                "Bluffing"}
+                                   #:com.boardgamegeek.category{:id
                                                                 1046,
                                                                 :name
                                                                 "Fighting"}
@@ -1896,7 +1900,7 @@
                              #uuid "83ad4685-b1e3-3677-911a-6839874b3310",
                              :com.boardgamegeek.boardgame/min-players
                              4,
-                             :com.boardgamegeek.boardgame/rating 7.0,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3002,
@@ -7227,7 +7231,6 @@
                              #uuid "e64a40ce-1e9c-3e3b-94be-a3d33cd4bfb3"
                              #uuid "2da3c827-ccab-3485-9cb9-921b4f1addfa"
                              #uuid "ed2dab37-2f6d-3f1b-9ec5-40cacb2a1714"
-                             #uuid "83ad4685-b1e3-3677-911a-6839874b3310"
                              #uuid "455dbea5-74df-3b67-9829-75de15674204"
                              #uuid "4584b35c-868d-36f9-b932-e14bc001202b"
                              #uuid "56a53916-96df-3787-baa5-686dfce7ee2f"
@@ -7237,6 +7240,7 @@
                              #uuid "85574f84-6988-3f70-bc40-ac7e3a7a33d1"
                              #uuid "5b349ead-c3fb-374b-bb6c-47fcc3843355"
                              #uuid "dd6f7a14-de47-37f2-bb22-bd37cf04e69b"
+                             #uuid "83ad4685-b1e3-3677-911a-6839874b3310"
                              #uuid "d611bfb2-0345-3185-be82-54b27eaa73aa"
                              #uuid "e1d04b1f-1d94-3006-958a-ee81242dab6d"
                              #uuid "446e92f1-5cd2-3512-9ccd-983ef968e692"

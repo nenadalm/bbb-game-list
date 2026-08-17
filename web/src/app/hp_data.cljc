@@ -2874,6 +2874,10 @@
                                                                 :name
                                                                 "American West"}
                                    #:com.boardgamegeek.category{:id
+                                                                1023,
+                                                                :name
+                                                                "Bluffing"}
+                                   #:com.boardgamegeek.category{:id
                                                                 1046,
                                                                 :name
                                                                 "Fighting"}
@@ -7064,7 +7068,7 @@
                              #uuid "0ede70a4-23b7-3ee1-8390-f63cb64fa118",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.5,
+                             :com.boardgamegeek.boardgame/rating 6.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2072,
@@ -8335,7 +8339,7 @@
                              #uuid "d78a1701-177a-38ae-bfbc-cceb9f1eb63a",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 8.1,
+                             :com.boardgamegeek.boardgame/rating 8.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2664,
@@ -13585,6 +13589,7 @@
                              #uuid "08060cd2-7b8a-368b-a377-e19d60c63c13"
                              #uuid "7e153c29-583c-3f68-85d8-1ed02112af37"
                              #uuid "e1430e4c-80e9-31f8-9ecf-0ed7fd002067"
+                             #uuid "0ede70a4-23b7-3ee1-8390-f63cb64fa118"
                              #uuid "ae69fd52-b2d7-301f-b531-4cd3c89a269f"
                              #uuid "3992d652-f81d-3e86-bd6e-2e685cb351a3"
                              #uuid "14a7749e-31ee-3b66-af79-5bf4b407a824"
@@ -13598,7 +13603,6 @@
                              #uuid "bd4049a7-2730-31a1-bbc9-4a077d75facc"
                              #uuid "351afc22-dc4d-3e49-83dc-43cee54bd244"
                              #uuid "4e734e9c-177f-37f2-8df6-2eddace65994"
-                             #uuid "0ede70a4-23b7-3ee1-8390-f63cb64fa118"
                              #uuid "af817d47-9021-3806-800d-7ef8dab08024"
                              #uuid "7bae0b38-0a96-3ecc-b46e-2fb84ebd8dd8"
                              #uuid "6bdd63a2-940d-3e46-a254-30ccff2b0d49"
@@ -13770,10 +13774,10 @@
                              #uuid "f7625727-1129-3703-96c0-442c8ac00dae"
                              #uuid "a825e9ee-c858-3b9f-82dc-2c68495f06e4"
                              #uuid "c91e5a98-0a9d-3c8f-b565-cee332bda8de"
+                             #uuid "d78a1701-177a-38ae-bfbc-cceb9f1eb63a"
                              #uuid "e5fc03ae-0add-3d05-b452-d24b636171dd"
                              #uuid "e5f11979-9a30-30ec-8084-92dd584b1214"
                              #uuid "aa2a14f6-6296-368a-8fab-970e48ba9430"
-                             #uuid "d78a1701-177a-38ae-bfbc-cceb9f1eb63a"
                              #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08"
                              #uuid "f944b1ee-72e5-3ea8-832f-4eaf0dde6f09"
                              #uuid "0e13524e-0d23-310c-a97e-3ef1583014b4"

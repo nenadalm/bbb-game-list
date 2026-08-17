@@ -4279,6 +4279,10 @@
                                                                 :name
                                                                 "Scenario / Mission / Campaign Game"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                3138,
+                                                                :name
+                                                                "Single Play"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2027,
                                                                 :name
                                                                 "Storytelling"}),

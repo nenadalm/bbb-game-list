@@ -658,7 +658,7 @@
                              #uuid "65e03e67-6dd2-37c2-bcc6-5fc01b8f4620",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.5,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3002,
@@ -1760,6 +1760,10 @@
                                                                 :name
                                                                 "American West"}
                                    #:com.boardgamegeek.category{:id
+                                                                1023,
+                                                                :name
+                                                                "Bluffing"}
+                                   #:com.boardgamegeek.category{:id
                                                                 1046,
                                                                 :name
                                                                 "Fighting"}
@@ -1925,6 +1929,10 @@
                                                                 1017,
                                                                 :name
                                                                 "Dice"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1010,
+                                                                :name
+                                                                "Fantasy"}
                                    #:com.boardgamegeek.category{:id
                                                                 1045,
                                                                 :name
@@ -5336,7 +5344,7 @@
                              #uuid "17a15e54-9f49-32ec-b6fc-a1fdca54da2b",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.2,
+                             :com.boardgamegeek.boardgame/rating 7.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2012,
@@ -7519,6 +7527,7 @@
                              #uuid "dd6f7a14-de47-37f2-bb22-bd37cf04e69b"
                              #uuid "54b141a9-4bee-378e-b867-fd1d4729f014"
                              #uuid "db6d2f3a-d731-3ddd-9e97-4b857d9ac065"
+                             #uuid "17a15e54-9f49-32ec-b6fc-a1fdca54da2b"
                              #uuid "6c1f7ff8-38a7-36da-97a1-e81977744191"
                              #uuid "428306aa-542d-3710-a0c6-57a60c53adf5"
                              #uuid "d870dd90-0a48-3af6-b003-b15ac3289fa4"
@@ -7527,11 +7536,11 @@
                              #uuid "69895ff2-b990-3611-827e-f4f7fd32eb8a"
                              #uuid "9cfc6178-7bb7-3670-9d1d-e74412bd0a23"
                              #uuid "6cb576ec-1372-3583-bab7-df279410f9b2"
-                             #uuid "17a15e54-9f49-32ec-b6fc-a1fdca54da2b"
                              #uuid "2dc322b0-ef94-3b68-ad5e-19c30b35d348"
                              #uuid "457af9d0-dff8-3daa-90d9-02dfbef1736f"
                              #uuid "6a4265e9-fdb5-361d-8d97-2ce82c8cb801"
                              #uuid "ab2c0722-a352-35b9-97a6-fdb65bfbcd43"
+                             #uuid "65e03e67-6dd2-37c2-bcc6-5fc01b8f4620"
                              #uuid "f6358c6d-587f-3ca9-8501-68859005fb86"
                              #uuid "f49fab51-1d4d-3849-b943-6d18e3b10a71"
                              #uuid "a5fc263e-513f-3a6e-a196-9f328b3892c1"
@@ -7544,7 +7553,6 @@
                              #uuid "568da493-2833-3009-ad26-7108e0683081"
                              #uuid "a346b0d6-8cee-35c0-b19d-9cca4d686b76"
                              #uuid "d2c146ec-def1-3163-b6b5-0f4671dce127"
-                             #uuid "65e03e67-6dd2-37c2-bcc6-5fc01b8f4620"
                              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a"
                              #uuid "6ec0b4db-6cca-3c7b-b983-5833527283fd"
                              #uuid "4fdbc5f5-0551-347b-aac9-d8f2859b4a68"

@@ -6839,7 +6839,11 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1094,
                                                                 :name
-                                                                "Educational"}),
+                                                                "Educational"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1084,
+                                                                :name
+                                                                "Environmental"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              70,
                              :com.boardgamegeek.boardgame/max-players

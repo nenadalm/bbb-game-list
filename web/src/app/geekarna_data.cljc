@@ -385,7 +385,7 @@
                              #uuid "d533541e-b96f-321a-bd42-08b9ee56f416",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 5.2,
+                             :com.boardgamegeek.boardgame/rating 5.1,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2014,
@@ -4575,7 +4575,11 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1094,
                                                                 :name
-                                                                "Educational"}),
+                                                                "Educational"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1084,
+                                                                :name
+                                                                "Environmental"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              70,
                              :com.boardgamegeek.boardgame/max-players

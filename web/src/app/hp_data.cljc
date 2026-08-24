@@ -60,7 +60,7 @@
                              #uuid "9f321448-364f-355a-8a85-ad031a80aa0c",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.4,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2018,
@@ -2907,7 +2907,7 @@
                              #uuid "61db47da-c8ae-3e03-bc67-ee1b65ecd8f6",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 6.6,
+                             :com.boardgamegeek.boardgame/rating 6.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -3091,7 +3091,7 @@
                              #uuid "b8b0fd7a-104b-3981-8114-1003c63e6017",
                              :com.boardgamegeek.boardgame/min-players
                              4,
-                             :com.boardgamegeek.boardgame/rating 7.4,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2892,
@@ -4874,6 +4874,10 @@
                              :name "Horníci impéria",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
+                                                                1002,
+                                                                :name
+                                                                "Card Game"}
+                                   #:com.boardgamegeek.category{:id
                                                                 1015,
                                                                 :name
                                                                 "Civilization"}
@@ -12661,7 +12665,11 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1094,
                                                                 :name
-                                                                "Educational"}),
+                                                                "Educational"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1084,
+                                                                :name
+                                                                "Environmental"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              70,
                              :com.boardgamegeek.boardgame/max-players
@@ -13599,6 +13607,7 @@
                              #uuid "0746ccba-be89-3d2f-a4b6-af590e489ff0"
                              #uuid "eaa9b08c-9718-39e9-84e8-e09ccf855ef0"
                              #uuid "dca1df6f-0d07-3c90-bedf-dd4f86caf822"
+                             #uuid "61db47da-c8ae-3e03-bc67-ee1b65ecd8f6"
                              #uuid "041adda1-1192-3361-8525-64b2ec1d80f4"
                              #uuid "bd4049a7-2730-31a1-bbc9-4a077d75facc"
                              #uuid "351afc22-dc4d-3e49-83dc-43cee54bd244"
@@ -13611,7 +13620,6 @@
                              #uuid "48cc9f9b-95f7-32bf-9ae6-be71c7c59b8f"
                              #uuid "4051cae7-fb70-3a36-95fc-e3c3a11e991a"
                              #uuid "350c0005-7a4e-3243-9b0c-ac54dff86da9"
-                             #uuid "61db47da-c8ae-3e03-bc67-ee1b65ecd8f6"
                              #uuid "e29fbec4-4c71-3519-8e93-582b67df86f4"
                              #uuid "cea0708e-9ebc-3fdf-b81f-ace3b0f3f138"
                              #uuid "c99cde22-b6f1-33af-8b53-93e358341985"
@@ -13694,9 +13702,11 @@
                              #uuid "6d08650d-46f6-38b6-ad1c-5910684afba1"
                              #uuid "8b9e9d5e-6d45-3a59-9c0f-80ee1d8cef85"
                              #uuid "38af37ce-841a-38a4-a7e4-c543267b49f1"
+                             #uuid "9f321448-364f-355a-8a85-ad031a80aa0c"
                              #uuid "3217ce01-8eac-3c72-9a4b-b8d875d52613"
                              #uuid "414bbf5b-1083-3275-9983-4133937db58b"
                              #uuid "648ffc7a-6dd1-39e8-a7f5-7ecb69cc4066"
+                             #uuid "b8b0fd7a-104b-3981-8114-1003c63e6017"
                              #uuid "77019157-27a1-3008-9fce-2ae005351ccb"
                              #uuid "33ef9db6-536f-307e-9b5a-71695627acc0"
                              #uuid "90b4a79a-a31a-3cfc-be15-cdac927b726b"
@@ -13711,10 +13721,8 @@
                              #uuid "039128b4-9d27-3393-9744-2cc0a740cd09"
                              #uuid "c3fa9226-9cf9-3afa-8844-dff274cc446d"
                              #uuid "e9d6b4db-5d87-34f0-950a-294e10a38f57"
-                             #uuid "9f321448-364f-355a-8a85-ad031a80aa0c"
                              #uuid "06e9bd9c-0975-32da-acdf-2b1942d57f1e"
                              #uuid "c56337cc-54ed-3e22-8b76-d1092f67310c"
-                             #uuid "b8b0fd7a-104b-3981-8114-1003c63e6017"
                              #uuid "251c85df-7a85-3370-b0b4-ceba79d9e19f"
                              #uuid "5726e9d6-5727-3ba1-85a5-770ecaed567c"
                              #uuid "548d40ad-9562-3712-a0a0-f072f66b395c"

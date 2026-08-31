@@ -1352,6 +1352,10 @@
                                                                 :name
                                                                 "Die Icon Resolution"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2676,
+                                                                :name
+                                                                "Grid Movement"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2026,
                                                                 :name
                                                                 "Hexagon Grid"}
@@ -1985,7 +1989,11 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2035,
                                                                 :name
-                                                                "Roll / Spin and Move"}),
+                                                                "Roll / Spin and Move"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2939,
+                                                                :name
+                                                                "Track Movement"}),
                              :name "Ponorka",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -2779,6 +2787,10 @@
                                                                 2664,
                                                                 :name
                                                                 "Deck, Bag, and Pool Building"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2824,
+                                                                :name
+                                                                "Legacy Game"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2822,
                                                                 :name
@@ -5531,6 +5543,10 @@
                              :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2839,
+                                                                :name
+                                                                "Action Retrieval"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2912,
                                                                 :name
                                                                 "Contracts"}
@@ -5542,6 +5558,10 @@
                                                                 2875,
                                                                 :name
                                                                 "End Game Bonuses"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2914,
+                                                                :name
+                                                                "Increase Value of Unchosen Resources"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2004,
                                                                 :name

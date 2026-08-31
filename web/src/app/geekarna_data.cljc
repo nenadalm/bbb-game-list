@@ -648,7 +648,7 @@
                              #uuid "a746daa4-3b3b-3641-8d2a-2960040d29b5",
                              :com.boardgamegeek.boardgame/min-players
                              4,
-                             :com.boardgamegeek.boardgame/rating 5.8,
+                             :com.boardgamegeek.boardgame/rating 5.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -1251,6 +1251,10 @@
                                                                 2876,
                                                                 :name
                                                                 "Race"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2020,
+                                                                :name
+                                                                "Simultaneous Action Selection"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2038,
                                                                 :name
@@ -2077,6 +2081,10 @@
                                                                 2664,
                                                                 :name
                                                                 "Deck, Bag, and Pool Building"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2824,
+                                                                :name
+                                                                "Legacy Game"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2822,
                                                                 :name
@@ -3671,6 +3679,10 @@
                              :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2839,
+                                                                :name
+                                                                "Action Retrieval"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2912,
                                                                 :name
                                                                 "Contracts"}
@@ -3682,6 +3694,10 @@
                                                                 2875,
                                                                 :name
                                                                 "End Game Bonuses"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2914,
+                                                                :name
+                                                                "Increase Value of Unchosen Resources"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2004,
                                                                 :name
@@ -5008,9 +5024,9 @@
                              #uuid "ccf557ca-1a7c-3651-ade8-1c9892ff7a16"
                              #uuid "c1da2564-45b9-315e-a8fe-4245e852daad"
                              #uuid "7e7fdd38-98cc-3f0f-a059-308e820a2013"
+                             #uuid "a746daa4-3b3b-3641-8d2a-2960040d29b5"
                              #uuid "6566b035-8535-3d7d-8318-9c4c18212156"
                              #uuid "cd23e680-b327-30fd-8432-428bdfb50d1a"
-                             #uuid "a746daa4-3b3b-3641-8d2a-2960040d29b5"
                              #uuid "016a3787-7fcd-3c9a-a430-826e242fcbe1"
                              #uuid "b90c1573-28dd-3818-a02a-5a66ae9b080a"
                              #uuid "7773e888-3f4b-385d-a9f4-e7a0b2d97090"

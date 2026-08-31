@@ -116,6 +116,10 @@
                                                                 :name
                                                                 "Alliances"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2080,
+                                                                :name
+                                                                "Area Majority / Influence"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2046,
                                                                 :name
                                                                 "Area Movement"}
@@ -1859,6 +1863,10 @@
                                                                 :name
                                                                 "Race"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2020,
+                                                                :name
+                                                                "Simultaneous Action Selection"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2038,
                                                                 :name
                                                                 "Singing"}
@@ -2122,6 +2130,14 @@
                                                                 :name
                                                                 "Dice Rolling"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2850,
+                                                                :name
+                                                                "Events"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2007,
+                                                                :name
+                                                                "Pick-up and Deliver"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2078,
                                                                 :name
                                                                 "Point to Point Movement"}
@@ -2144,7 +2160,11 @@
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2015,
                                                                 :name
-                                                                "Variable Player Powers"}),
+                                                                "Variable Player Powers"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2897,
+                                                                :name
+                                                                "Variable Set-up"}),
                              :name "Eldritch Horror",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
@@ -3059,7 +3079,7 @@
                              #uuid "7dfab041-39e9-35d1-8b11-b3fdb49222dd",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.6,
+                             :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2013,
@@ -3184,7 +3204,7 @@
                              #uuid "63c5172c-2cbb-310a-aca4-662b40eb7a62",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.6,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -7563,14 +7583,13 @@
                              #uuid "d2c146ec-def1-3163-b6b5-0f4671dce127"
                              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a"
                              #uuid "6ec0b4db-6cca-3c7b-b983-5833527283fd"
+                             #uuid "7dfab041-39e9-35d1-8b11-b3fdb49222dd"
                              #uuid "4fdbc5f5-0551-347b-aac9-d8f2859b4a68"
                              #uuid "5b444b22-2047-3124-af08-48687f72a6b5"
                              #uuid "605b29d5-2d5d-30c9-bf02-1eb669804b8b"
                              #uuid "4f6a71be-0b8d-389d-a431-a8e4cbf59e46"
                              #uuid "d8f6900d-5012-3d09-8a9e-d26613e7690f"
                              #uuid "bd1d87d3-0c87-35ce-be59-63074aafb4c9"
-                             #uuid "7dfab041-39e9-35d1-8b11-b3fdb49222dd"
-                             #uuid "63c5172c-2cbb-310a-aca4-662b40eb7a62"
                              #uuid "cbab0e11-2f08-3261-a5be-0d6bd88fba28"
                              #uuid "0070b6cf-8144-303d-9172-acada2b035df"
                              #uuid "69298653-8cb1-3b3d-b161-825d2ce4e613"
@@ -7580,6 +7599,7 @@
                              #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
                              #uuid "805bace7-4667-3eb1-b90b-d680cd215d97"
                              #uuid "28bfd12a-29c7-3b1c-b3b9-2e241ba98ee5"
+                             #uuid "63c5172c-2cbb-310a-aca4-662b40eb7a62"
                              #uuid "da5e5627-3890-3c39-be80-e5d5743f1e06"
                              #uuid "25273b87-935c-3d50-bc2f-3250d7d59e56"
                              #uuid "2aa26e3d-e0d5-373a-a8d6-19fcf73a5e16"

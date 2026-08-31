@@ -1514,6 +1514,10 @@
                                                                 :name
                                                                 "Race"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2020,
+                                                                :name
+                                                                "Simultaneous Action Selection"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2038,
                                                                 :name
                                                                 "Singing"}
@@ -2469,6 +2473,10 @@
                                                                 2664,
                                                                 :name
                                                                 "Deck, Bag, and Pool Building"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2824,
+                                                                :name
+                                                                "Legacy Game"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2822,
                                                                 :name
@@ -4723,6 +4731,10 @@
                              :com.boardgamegeek.boardgame/rating 7.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2839,
+                                                                :name
+                                                                "Action Retrieval"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2912,
                                                                 :name
                                                                 "Contracts"}
@@ -4734,6 +4746,10 @@
                                                                 2875,
                                                                 :name
                                                                 "End Game Bonuses"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2914,
+                                                                :name
+                                                                "Increase Value of Unchosen Resources"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2004,
                                                                 :name

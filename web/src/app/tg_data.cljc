@@ -24149,6 +24149,32 @@
                              "Mosaic: A Story of Civilization",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/hRym3ngIdndJT2hhOURjMw__small/img/XWJj-SqoPA1eh6u7KUY1j3nSEA8=/fit-in/200x150/filters:strip_icc()/pic7414594.jpg"},
+                            #uuid "33a6957c-6a60-396d-9bec-20ef0989fc2a"
+                            {:game/id
+                             #uuid "33a6957c-6a60-396d-9bec-20ef0989fc2a",
+                             :com.boardgamegeek.boardgame/min-players
+                             1,
+                             :com.boardgamegeek.boardgame/rating 7.1,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2041,
+                                                                :name
+                                                                "Open Drafting"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2940,
+                                                                :name
+                                                                "Square Grid"}),
+                             :name "Mozaïk",
+                             :com.boardgamegeek.boardgame/max-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/max-players
+                             4,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             30,
+                             :com.boardgamegeek.boardgame/id "460015",
+                             :game/name "Mozaïk",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/iGlVpbf1ncP6vRNyxAebRw__small/img/m-w8Yp7ZVCnDCGAGlG5_SCX_N6Y=/fit-in/200x150/filters:strip_icc()/pic9277970.jpg"},
                             #uuid "f5d99f8f-98f7-3c77-8360-1ad0e1e2141c"
                             {:game/id
                              #uuid "f5d99f8f-98f7-3c77-8360-1ad0e1e2141c",
@@ -45254,6 +45280,7 @@
                              #uuid "f99eb1ab-b22f-3ad8-be01-6560d35d334b"
                              #uuid "ab43436a-ccec-3cc4-aa00-671d00e8b1af"
                              #uuid "e00bea06-b165-3de6-bd14-3b6264ca095e"
+                             #uuid "33a6957c-6a60-396d-9bec-20ef0989fc2a"
                              #uuid "f5d99f8f-98f7-3c77-8360-1ad0e1e2141c"
                              #uuid "a136b6ff-012b-3a9d-8faf-8fd7a5009e28"
                              #uuid "ca40f782-4c29-3312-9055-cd877a45ce98"
@@ -46350,6 +46377,7 @@
                              #uuid "f909880a-375a-3af0-957e-28c4a09bf83e"
                              #uuid "51d46464-461c-397f-96f4-f33e59b79c59"
                              #uuid "09c4a456-2631-3d14-b4d0-2f8ae99427b4"
+                             #uuid "33a6957c-6a60-396d-9bec-20ef0989fc2a"
                              #uuid "5d307230-a218-3fde-9af7-05a7412e9c34"
                              #uuid "37c8022e-5e8b-3c80-ad5e-52dc040d1bc2"
                              #uuid "77a40be2-d1ee-324b-8ff0-df7bac2ecaa4"
@@ -47076,6 +47104,7 @@
                              #uuid "eced8e22-98e3-304a-b1dc-d33a4b8c068a"
                              #uuid "4fdbc5f5-0551-347b-aac9-d8f2859b4a68"
                              #uuid "7e76977f-ea16-34cb-a94a-1b4dd61df74b"
+                             #uuid "33a6957c-6a60-396d-9bec-20ef0989fc2a"
                              #uuid "f5d99f8f-98f7-3c77-8360-1ad0e1e2141c"
                              #uuid "5e1fa185-f0de-37e6-bdb7-d950844e10d8"
                              #uuid "fa2fd892-142d-3689-96a1-29ff3fd04fa2"
@@ -48199,6 +48228,7 @@
                              #uuid "9dd5d0d8-0c6e-3f7f-95fa-aa698ceff84a"
                              #uuid "7e76977f-ea16-34cb-a94a-1b4dd61df74b"
                              #uuid "23013ef9-a654-340f-bf84-f9679e90ea94"
+                             #uuid "33a6957c-6a60-396d-9bec-20ef0989fc2a"
                              #uuid "ca40f782-4c29-3312-9055-cd877a45ce98"
                              #uuid "04e8ca48-5ffe-31d2-9e4e-3cd1a59616a4"
                              #uuid "6de2d947-5379-351e-8015-c1bc84a64883"
@@ -49339,6 +49369,7 @@
                              #uuid "72cc7688-edee-3cd3-86df-07c4b9a7b0d0"
                              #uuid "7e76977f-ea16-34cb-a94a-1b4dd61df74b"
                              #uuid "23013ef9-a654-340f-bf84-f9679e90ea94"
+                             #uuid "33a6957c-6a60-396d-9bec-20ef0989fc2a"
                              #uuid "ca40f782-4c29-3312-9055-cd877a45ce98"
                              #uuid "e3ff49f1-3a4e-3be2-9c80-51385adc499c"
                              #uuid "04e8ca48-5ffe-31d2-9e4e-3cd1a59616a4"
@@ -50193,6 +50224,7 @@
                              #uuid "7e76977f-ea16-34cb-a94a-1b4dd61df74b"
                              #uuid "23013ef9-a654-340f-bf84-f9679e90ea94"
                              #uuid "ab43436a-ccec-3cc4-aa00-671d00e8b1af"
+                             #uuid "33a6957c-6a60-396d-9bec-20ef0989fc2a"
                              #uuid "e3ff49f1-3a4e-3be2-9c80-51385adc499c"
                              #uuid "04e8ca48-5ffe-31d2-9e4e-3cd1a59616a4"
                              #uuid "6de2d947-5379-351e-8015-c1bc84a64883"

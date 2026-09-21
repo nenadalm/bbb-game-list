@@ -36382,6 +36382,37 @@
                              "Suspects: Claire Harper, Eternal Investigator",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/APSq50IuZEkZRldX20VrlQ__small/img/B6CfePHdEJIj6DNFgBaGPHYaZ9M=/fit-in/200x150/filters:strip_icc()/pic7491553.png"},
+                            #uuid "a6a08538-0508-311b-98cb-28db844a7073"
+                            {:game/id
+                             #uuid "a6a08538-0508-311b-98cb-28db844a7073",
+                             :com.boardgamegeek.boardgame/min-players
+                             2,
+                             :com.boardgamegeek.boardgame/rating 6.9,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2661,
+                                                                :name
+                                                                "Push Your Luck"}),
+                             :name "Sweeet",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1089,
+                                                                :name
+                                                                "Animals"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1002,
+                                                                :name
+                                                                "Card Game"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             10,
+                             :com.boardgamegeek.boardgame/max-players
+                             5,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             10,
+                             :com.boardgamegeek.boardgame/id "452538",
+                             :game/name "Sweeet",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/WmzUeEeZF7K0wVws9Ub4Kg__small/img/5aTu1coqmyCSPzr5HqmifJRAubI=/fit-in/200x150/filters:strip_icc()/pic9056615.jpg"},
                             #uuid "731e3754-ac8f-3cc0-b230-7a4db3a9f946"
                             {:game/id
                              #uuid "731e3754-ac8f-3cc0-b230-7a4db3a9f946",
@@ -45586,6 +45617,7 @@
                              #uuid "b75fb235-a7bb-3775-bb8c-6dbdee414209"
                              #uuid "1a0552ad-d7e9-34ab-8219-07d421fe44a7"
                              #uuid "314bd01a-1b7d-35f3-8fd4-0ef6961af80f"
+                             #uuid "a6a08538-0508-311b-98cb-28db844a7073"
                              #uuid "731e3754-ac8f-3cc0-b230-7a4db3a9f946"
                              #uuid "2a5b5627-05c4-3b18-9d05-af8b629909df"
                              #uuid "0554b10e-1ad7-393e-86f8-f7209b43db28"
@@ -46289,6 +46321,7 @@
                              #uuid "b573df33-56dc-3ef3-8447-d3d685dadc55"
                              #uuid "b2a108e6-09e2-374f-9df6-86ddd572f4be"
                              #uuid "10d911e5-7941-39b9-be87-c28bfb1114c0"
+                             #uuid "a6a08538-0508-311b-98cb-28db844a7073"
                              #uuid "e8a532bb-f585-3696-aa3f-66916f52ed0a"
                              #uuid "fe45ab98-72df-3f8e-9c67-c204a60482da"
                              #uuid "d1e0ff14-93c9-3b59-bf10-ca25972c5299"
@@ -47617,6 +47650,7 @@
                              #uuid "aa8e6739-88dc-3a78-afe2-13ab530eaed8"
                              #uuid "99a5171b-604b-3566-81a2-6df0c0357b8b"
                              #uuid "9c1aa793-3c9a-3190-b5ef-1dff0efdce0a"
+                             #uuid "a6a08538-0508-311b-98cb-28db844a7073"
                              #uuid "2a5b5627-05c4-3b18-9d05-af8b629909df"
                              #uuid "1e78ea48-893a-3f8e-91e2-01c9ff0e706e"
                              #uuid "629b05e7-b56f-3cc6-abdb-53ba49914e03"
@@ -48530,6 +48564,7 @@
                              #uuid "b590a0b6-c7ba-3d03-aa28-36367e68bb34"
                              #uuid "a1677222-3d0a-3cd1-82b9-754285d227fc"
                              #uuid "aa8e6739-88dc-3a78-afe2-13ab530eaed8"
+                             #uuid "a6a08538-0508-311b-98cb-28db844a7073"
                              #uuid "0554b10e-1ad7-393e-86f8-f7209b43db28"
                              #uuid "5efcd2b8-37bf-3480-8e79-e30354156e35"
                              #uuid "6a0aee82-c981-3d54-a38a-92361da50a1e"
@@ -49016,6 +49051,7 @@
                              #uuid "8af65315-b94d-3484-be10-eaf75cc6d55a"
                              #uuid "832d7205-4e08-3bc8-a876-72b09e429681"
                              #uuid "ce8dd5c2-578b-3d06-9036-8d40d3b7fea7"
+                             #uuid "a6a08538-0508-311b-98cb-28db844a7073"
                              #uuid "0554b10e-1ad7-393e-86f8-f7209b43db28"
                              #uuid "1e78ea48-893a-3f8e-91e2-01c9ff0e706e"
                              #uuid "673e378d-2e86-3238-a90b-a18823ffa077"
@@ -49985,6 +50021,7 @@
                              #uuid "fefb21c4-5026-3352-a417-b0c68197066e"
                              #uuid "ae6c3a75-c3fe-324f-9b6d-f9dd40f1898a"
                              #uuid "65651e4a-2784-338e-910a-800b9c593d51"
+                             #uuid "a6a08538-0508-311b-98cb-28db844a7073"
                              #uuid "0554b10e-1ad7-393e-86f8-f7209b43db28"
                              #uuid "eeaf3fba-4ccc-3b7d-8165-2939e8bf2613"
                              #uuid "c92dfc67-57f3-321b-9b0e-4ebb6c806560"

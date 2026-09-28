@@ -15070,6 +15070,109 @@
                              #uuid "1078d68b-5f58-3efb-998a-a4ef8bdbb07f",
                              :game/name "Gaia Project: The Lost Fleet",
                              :com.boardgamegeek.boardgame/id "396802"},
+                            #uuid "8a414f23-0df6-3021-a743-cff269ac846d"
+                            {:game/id
+                             #uuid "8a414f23-0df6-3021-a743-cff269ac846d",
+                             :com.boardgamegeek.boardgame/min-players
+                             1,
+                             :com.boardgamegeek.boardgame/rating 8.3,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2001,
+                                                                :name
+                                                                "Action Points"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2883,
+                                                                :name
+                                                                "Connections"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2875,
+                                                                :name
+                                                                "End Game Bonuses"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2040,
+                                                                :name
+                                                                "Hand Management"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2902,
+                                                                :name
+                                                                "Income"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2900,
+                                                                :name
+                                                                "Market"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2011,
+                                                                :name
+                                                                "Modular Board"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                3099,
+                                                                :name
+                                                                "Multi-Use Cards"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2041,
+                                                                :name
+                                                                "Open Drafting"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2004,
+                                                                :name
+                                                                "Set Collection"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2819,
+                                                                :name
+                                                                "Solo / Solitaire Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2939,
+                                                                :name
+                                                                "Track Movement"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2897,
+                                                                :name
+                                                                "Variable Set-up"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2874,
+                                                                :name
+                                                                "Victory Points as a Resource"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2082,
+                                                                :name
+                                                                "Worker Placement"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2933,
+                                                                :name
+                                                                "Worker Placement, Different Worker Types"}),
+                             :name "Galactic Cruise",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                2650,
+                                                                :name
+                                                                "Aviation / Flight"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1021,
+                                                                :name
+                                                                "Economic"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1088,
+                                                                :name
+                                                                "Industry / Manufacturing"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1016,
+                                                                :name
+                                                                "Science Fiction"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1113,
+                                                                :name
+                                                                "Space Exploration"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             150,
+                             :com.boardgamegeek.boardgame/max-players
+                             4,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             90,
+                             :com.boardgamegeek.boardgame/id "391137",
+                             :game/name "Galactic Cruise",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/l-LMcklO683dyVlnRZS3mg__small/img/8usx0HfsTXTpE2kklVRMtJGAwFY=/fit-in/200x150/filters:strip_icc()/pic7556818.jpg"},
                             #uuid "33ef9db6-536f-307e-9b5a-71695627acc0"
                             {:game/id
                              #uuid "33ef9db6-536f-307e-9b5a-71695627acc0",
@@ -45119,6 +45222,7 @@
                              #uuid "e8174208-0e82-3f10-9e40-41b9c05338b7"
                              #uuid "32644dee-4a8b-3424-b063-93643a611b6e"
                              #uuid "1078d68b-5f58-3efb-998a-a4ef8bdbb07f"
+                             #uuid "8a414f23-0df6-3021-a743-cff269ac846d"
                              #uuid "33ef9db6-536f-307e-9b5a-71695627acc0"
                              #uuid "251c85df-7a85-3370-b0b4-ceba79d9e19f"
                              #uuid "9ecf0011-c0af-37eb-a590-f247005f0399"
@@ -46794,6 +46898,7 @@
                              #uuid "a9b53967-4ee4-3edc-b22e-2a007b64a755"
                              #uuid "11bac57e-7c50-37c5-881a-bd52d9c63c05"
                              #uuid "32644dee-4a8b-3424-b063-93643a611b6e"
+                             #uuid "8a414f23-0df6-3021-a743-cff269ac846d"
                              #uuid "f944b1ee-72e5-3ea8-832f-4eaf0dde6f09"
                              #uuid "0e13524e-0d23-310c-a97e-3ef1583014b4"
                              #uuid "819efde6-2ea1-3725-b2b9-fcb7e45051e7"
@@ -47079,6 +47184,7 @@
                              #uuid "1532d4fc-219c-34e0-ad5e-972261b3de21"
                              #uuid "5a02a655-36e4-312d-92fe-d65320bd276f"
                              #uuid "32644dee-4a8b-3424-b063-93643a611b6e"
+                             #uuid "8a414f23-0df6-3021-a743-cff269ac846d"
                              #uuid "745762e3-77d3-38cf-9287-c85681b42f9b"
                              #uuid "397314e0-31af-3c7f-ba2e-cc1955a324c9"
                              #uuid "d623875f-27a4-3b37-bf37-7dc2c7f0f7a1"
@@ -48174,6 +48280,7 @@
                              #uuid "07782c22-a88d-3e82-a099-10124a9225a2"
                              #uuid "e8174208-0e82-3f10-9e40-41b9c05338b7"
                              #uuid "32644dee-4a8b-3424-b063-93643a611b6e"
+                             #uuid "8a414f23-0df6-3021-a743-cff269ac846d"
                              #uuid "33ef9db6-536f-307e-9b5a-71695627acc0"
                              #uuid "251c85df-7a85-3370-b0b4-ceba79d9e19f"
                              #uuid "67125d63-725c-3112-bd72-378e1f7a692d"
@@ -49744,6 +49851,7 @@
                              #uuid "db1f4ab5-845d-3f61-a83d-5df13e0c2397"
                              #uuid "73e5d0f5-fdaa-3c18-8283-30354f069036"
                              #uuid "bfe4f9ac-312a-3ba5-b00d-a83cc2c20c6b"
+                             #uuid "8a414f23-0df6-3021-a743-cff269ac846d"
                              #uuid "745762e3-77d3-38cf-9287-c85681b42f9b"
                              #uuid "dd61c3dc-259e-3c43-b22e-89409499b669"
                              #uuid "35abef5c-5e6a-3b5a-92ea-01743e1be438"
@@ -50756,6 +50864,7 @@
                              #uuid "83ad4685-b1e3-3677-911a-6839874b3310"
                              #uuid "b5b2db78-9f1e-382a-8d7c-b30a4ae9549d"
                              #uuid "32644dee-4a8b-3424-b063-93643a611b6e"
+                             #uuid "8a414f23-0df6-3021-a743-cff269ac846d"
                              #uuid "e5c528dd-2ba9-3a89-ac17-c427f0c00414"
                              #uuid "6f05591c-c7b4-32dd-817d-c41c0d9254d0"
                              #uuid "4fdbc5f5-0551-347b-aac9-d8f2859b4a68"

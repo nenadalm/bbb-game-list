@@ -4613,9 +4613,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "50381",
-                             :languages
-                             ["/cs/game-languages/cestina"
-                              "/cs/game-languages/english"],
+                             :languages ["/cs/game-languages/english"],
                              :game/name "Cards Against Humanity",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/nYLrPiI9gnvlrwOrKQ4_CA__small/img/fIhQLjWueNPYZhCZ_LzjAIhPm5U=/fit-in/200x150/filters:strip_icc()/pic2909692.jpg"},
@@ -5649,7 +5647,7 @@
                                                                 2027,
                                                                 :name
                                                                 "Storytelling"}),
-                             :name "Chronicles of crime",
+                             :name "Chronicles of Crime",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1022,
@@ -5670,7 +5668,6 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "239188",
-                             :languages ["/cs/game-languages/english"],
                              :game/name "Chronicles of Crime",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/1BMyuEwK0zV9005oYinYLw__small/img/QFzbDlFGzK3yRZNLnRr4YzHwEuY=/fit-in/200x150/filters:strip_icc()/pic4317519.jpg"},
@@ -8333,6 +8330,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "422019",
+                             :languages ["/cs/game-languages/english"],
                              :game/name "Duck & Cover",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/u6FSdD7Whz3YO0D4R96jKQ__small/img/81ye49Leb_0w7UvEBSLX5daaUEI=/fit-in/200x150/filters:strip_icc()/pic8403387.png"},
@@ -8355,7 +8353,7 @@
                                                                 2009,
                                                                 :name
                                                                 "Trick-taking"}),
-                             :name "Duel for Cardia",
+                             :name "Duel o město Cardia",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1002,
@@ -8372,7 +8370,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "447243",
-                             :languages ["/cs/game-languages/english"],
+                             :languages ["/cs/game-languages/cestina"],
                              :game/name "Duel for Cardia",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/e-Xx7mz_tgisEx2Aq4Wa6w__small/img/ie98O_KC7v3m_jSXZpYd1vqmd_I=/fit-in/200x150/filters:strip_icc()/pic8910865.png"},
@@ -10473,7 +10471,7 @@
                                                                 2082,
                                                                 :name
                                                                 "Worker Placement"}),
-                             :name "Flamecraft",
+                             :name "Drací v Práci",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1089,
@@ -11642,7 +11640,7 @@
                                                                 2991,
                                                                 :name
                                                                 "Speed Matching"}),
-                             :name "Duch!",
+                             :name "Ghost Blitz",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1032,
@@ -11667,7 +11665,9 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "83195",
-                             :languages ["/cs/game-languages/cestina"],
+                             :languages
+                             ["/cs/game-languages/german"
+                              "/cs/game-languages/english"],
                              :game/name "Ghost Blitz",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/tvZTjFnPvt2LrY6NGSbeuQ__small/img/LGtpFjDazqROmznWJaJStSxkIHI=/fit-in/200x150/filters:strip_icc()/pic2034769.jpg"},
@@ -14411,7 +14411,7 @@
                                                                 2020,
                                                                 :name
                                                                 "Simultaneous Action Selection"}),
-                             :name "Joking Hazard",
+                             :name "Joking hazard",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1002,
@@ -14463,7 +14463,7 @@
                                                                 2017,
                                                                 :name
                                                                 "Voting"}),
-                             :name "Judge your friends",
+                             :name "Judge Your Friends",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1039,
@@ -15479,9 +15479,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              45,
                              :com.boardgamegeek.boardgame/id "437245",
-                             :languages
-                             ["/cs/game-languages/english"
-                              "/cs/game-languages/french"],
+                             :languages ["/cs/game-languages/english"],
                              :game/name "Kingdom Crossing",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/QQikkHAYbLyf2IGC5tz0Fg__small/img/MOU9raZyQKJlM78wwqEenLpmRso=/fit-in/200x150/filters:strip_icc()/pic8660175.jpg"},
@@ -16313,6 +16311,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "224766",
+                             :languages ["/cs/game-languages/english"],
                              :game/name "Landmarks",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/47fslS0uqlpm84eNtowk1Q__small/img/fxW1EOZ6sYScJ2d3I9tVFVwOqGY=/fit-in/200x150/filters:strip_icc()/pic3539114.jpg"},
@@ -18636,7 +18635,7 @@
                                                                 2004,
                                                                 :name
                                                                 "Set Collection"}),
-                             :name "My Shelfie",
+                             :name "Moje knihovnička",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1009,
@@ -18649,7 +18648,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "366456",
-                             :languages ["/cs/game-languages/english"],
+                             :languages ["/cs/game-languages/cestina"],
                              :game/name "My Shelfie",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Sgg2B7kxtx8fFXz_2mPefA__small/img/LxzvxmsMMitAzuv2nP3m0ko2Cus=/fit-in/200x150/filters:strip_icc()/pic7193695.png"},
@@ -20993,7 +20992,9 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "565",
-                             :languages ["/cs/game-languages/english"],
+                             :languages
+                             ["/cs/game-languages/english"
+                              "/cs/game-languages/cestina"],
                              :game/name "Port Royal",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/YieNLWVLKMERmrEosQsKOA__small/img/Vd8kb9AT204KNdE5GXBBK7JQL7g=/fit-in/200x150/filters:strip_icc()/pic248213.jpg"},
@@ -21120,7 +21121,7 @@
                                                                 2020,
                                                                 :name
                                                                 "Simultaneous Action Selection"}),
-                             :name "Co tě žere",
+                             :name "Prey Another Day",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1089,
@@ -21145,7 +21146,6 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "234260",
-                             :languages ["/cs/game-languages/cestina"],
                              :game/name "Prey Another Day",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/pfEw73TNwLWHNKwssoI4mg__small/img/uMR-GcpC7W6uJHQW3XZtU0w5Y7U=/fit-in/200x150/filters:strip_icc()/pic7615075.jpg"},
@@ -21819,7 +21819,7 @@
                                                                 2004,
                                                                 :name
                                                                 "Set Collection"}),
-                             :name "Red 7",
+                             :name "Red7",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1002,
@@ -23470,9 +23470,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              90,
                              :com.boardgamegeek.boardgame/id "320",
-                             :languages
-                             ["/cs/game-languages/english"
-                              "/cs/game-languages/cestina"],
+                             :languages ["/cs/game-languages/english"],
                              :game/name "Scrabble",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/mVmmntn2oQd0PfFrWBvwIQ__small/img/RUmuGCB40FQH0en0R2nrcsSO7DE=/fit-in/200x150/filters:strip_icc()/pic404651.jpg"},
@@ -24194,9 +24192,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              20,
                              :com.boardgamegeek.boardgame/id "196379",
-                             :languages
-                             ["/cs/game-languages/english"
-                              "/cs/game-languages/cestina"],
+                             :languages ["/cs/game-languages/english"],
                              :game/name "Shit Happens",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/-DIfXIDpTWS7m3J9yg87oQ__small/img/SB8g7W1Zh3o4V9M1o1s4xMpGgTU=/fit-in/200x150/filters:strip_icc()/pic3943080.jpg"},
@@ -25378,8 +25374,8 @@
                              30,
                              :com.boardgamegeek.boardgame/id "148228",
                              :languages
-                             ["/cs/game-languages/cestina"
-                              "/cs/game-languages/english"],
+                             ["/cs/game-languages/english"
+                              "/cs/game-languages/cestina"],
                              :game/name "Splendor",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/vNFe4JkhKAERzi4T0Ntwpw__small/img/KKU_42Uswt4tKCpf1zY5kTzgr-g=/fit-in/200x150/filters:strip_icc()/pic8234167.png"},
@@ -25483,8 +25479,10 @@
                              15,
                              :com.boardgamegeek.boardgame/id "63268",
                              :languages
-                             ["/cs/game-languages/english"
-                              "/cs/game-languages/cestina"],
+                             ["/cs/game-languages/cestina"
+                              "/cs/game-languages/english"
+                              "/cs/game-languages/german"
+                              "/cs/game-languages/russian"],
                              :game/name "Spot it!",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/hqDT4HbEb2eNCyMOeiGj-g__small/img/ZNgW2QhLjYpVltWHy3LyJqstnow=/fit-in/200x150/filters:strip_icc()/pic6477003.png"},
@@ -25715,7 +25713,7 @@
                                                                 2017,
                                                                 :name
                                                                 "Voting"}),
-                             :name "Spyfall",
+                             :name "Superšpión",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1023,
@@ -25744,7 +25742,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "166384",
-                             :languages ["/cs/game-languages/english"],
+                             :languages ["/cs/game-languages/cestina"],
                              :game/name "Spyfall",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Ehx72XRdSeQHISVXcZVnHg__small/img/sPJVWjzGcEpiseZGdoD6HNR9nRI=/fit-in/200x150/filters:strip_icc()/pic2453926.jpg"},
@@ -30811,7 +30809,7 @@
                                                                 2686,
                                                                 :name
                                                                 "Take That"}),
-                             :name "Uno",
+                             :name "UNO",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1002,
@@ -31232,7 +31230,7 @@
                                                                 2686,
                                                                 :name
                                                                 "Take That"}),
-                             :name "Unstable Unicorns",
+                             :name "Labilní Jednorožci",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1002,
@@ -31253,6 +31251,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "234190",
+                             :languages ["/cs/game-languages/cestina"],
                              :game/name "Unstable Unicorns",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/8_5xvpsrrX5JVzO7eBLSgw__small/img/fV4UWCHC1ImGFUN7lcJju9K8_zo=/fit-in/200x150/filters:strip_icc()/pic3912914.jpg"},
@@ -31513,7 +31512,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              60,
                              :com.boardgamegeek.boardgame/id "194690",
-                             :languages ["/cs/game-languages/cestina"],
+                             :languages ["/cs/game-languages/english"],
                              :game/name "Viral",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/NeZO7t39b9_PM4juLEluSw__small/img/k6HQegk6BmEj3fuVF1bcRA8jFoY=/fit-in/200x150/filters:strip_icc()/pic3399864.jpg"},
@@ -32721,7 +32720,7 @@
                                                                 2009,
                                                                 :name
                                                                 "Trick-taking"}),
-                             :name "Zero to Hero",
+                             :name "Zero to hero",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1009,
@@ -32742,6 +32741,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "423307",
+                             :languages ["/cs/game-languages/english"],
                              :game/name "Zero to Hero",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/3foBQLGxAAvcCfjBte831g__small/img/SO0GYx-Erota8-TpFvhDCED7yrI=/fit-in/200x150/filters:strip_icc()/pic8273642.png"},

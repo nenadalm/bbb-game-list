@@ -543,11 +543,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1113,
                                                                 :name
-                                                                "Space Exploration"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1019,
-                                                                :name
-                                                                "Wargame"}),
+                                                                "Space Exploration"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              120,
                              :com.boardgamegeek.boardgame/max-players
@@ -577,6 +573,10 @@
                                                                 2850,
                                                                 :name
                                                                 "Events"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                3139,
+                                                                :name
+                                                                "Expiring Actions"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2978,
                                                                 :name
@@ -662,7 +662,7 @@
                              #uuid "65e03e67-6dd2-37c2-bcc6-5fc01b8f4620",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.5,
+                             :com.boardgamegeek.boardgame/rating 7.4,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 3002,
@@ -725,10 +725,6 @@
                              :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
-                                                                2956,
-                                                                :name
-                                                                "Chaining"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2875,
                                                                 :name
                                                                 "End Game Bonuses"}
@@ -992,6 +988,10 @@
                              :com.boardgamegeek.boardgame/rating 8.6,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2001,
+                                                                :name
+                                                                "Action Points"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2956,
                                                                 :name
                                                                 "Chaining"}
@@ -2182,11 +2182,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1093,
                                                                 :name
-                                                                "Novel-based"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1097,
-                                                                :name
-                                                                "Travel"}),
+                                                                "Novel-based"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              240,
                              :com.boardgamegeek.boardgame/max-players
@@ -3204,7 +3200,7 @@
                              #uuid "63c5172c-2cbb-310a-aca4-662b40eb7a62",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.6,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2080,
@@ -4934,10 +4930,6 @@
                                                                 :name
                                                                 "Multi-Use Cards"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                2081,
-                                                                :name
-                                                                "Network and Route Building"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2007,
                                                                 :name
                                                                 "Pick-up and Deliver"}
@@ -5000,10 +4992,6 @@
                                                                 2900,
                                                                 :name
                                                                 "Market"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                3099,
-                                                                :name
-                                                                "Multi-Use Cards"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2041,
                                                                 :name
@@ -6353,7 +6341,7 @@
                              #uuid "9a8d8f58-a081-33fa-9ec0-03708b0460cb",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 8.1,
+                             :com.boardgamegeek.boardgame/rating 8.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2014,
@@ -6722,10 +6710,6 @@
                              "Through the Ages: A New Story of Civilization",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
-                                                                1002,
-                                                                :name
-                                                                "Card Game"}
-                                   #:com.boardgamegeek.category{:id
                                                                 1015,
                                                                 :name
                                                                 "Civilization"}
@@ -7220,10 +7204,6 @@
                                                                 :name
                                                                 "Hand Management"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                2846,
-                                                                :name
-                                                                "Once-Per-Game Abilities"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2041,
                                                                 :name
                                                                 "Open Drafting"}
@@ -7568,6 +7548,7 @@
                              #uuid "457af9d0-dff8-3daa-90d9-02dfbef1736f"
                              #uuid "6a4265e9-fdb5-361d-8d97-2ce82c8cb801"
                              #uuid "ab2c0722-a352-35b9-97a6-fdb65bfbcd43"
+                             #uuid "65e03e67-6dd2-37c2-bcc6-5fc01b8f4620"
                              #uuid "f6358c6d-587f-3ca9-8501-68859005fb86"
                              #uuid "f49fab51-1d4d-3849-b943-6d18e3b10a71"
                              #uuid "a5fc263e-513f-3a6e-a196-9f328b3892c1"
@@ -7580,7 +7561,6 @@
                              #uuid "568da493-2833-3009-ad26-7108e0683081"
                              #uuid "a346b0d6-8cee-35c0-b19d-9cca4d686b76"
                              #uuid "d2c146ec-def1-3163-b6b5-0f4671dce127"
-                             #uuid "65e03e67-6dd2-37c2-bcc6-5fc01b8f4620"
                              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a"
                              #uuid "6ec0b4db-6cca-3c7b-b983-5833527283fd"
                              #uuid "4fdbc5f5-0551-347b-aac9-d8f2859b4a68"
@@ -7590,7 +7570,6 @@
                              #uuid "d8f6900d-5012-3d09-8a9e-d26613e7690f"
                              #uuid "bd1d87d3-0c87-35ce-be59-63074aafb4c9"
                              #uuid "7dfab041-39e9-35d1-8b11-b3fdb49222dd"
-                             #uuid "63c5172c-2cbb-310a-aca4-662b40eb7a62"
                              #uuid "cbab0e11-2f08-3261-a5be-0d6bd88fba28"
                              #uuid "0070b6cf-8144-303d-9172-acada2b035df"
                              #uuid "69298653-8cb1-3b3d-b161-825d2ce4e613"
@@ -7600,6 +7579,7 @@
                              #uuid "582d2648-b634-3370-a31e-bef979dab3f3"
                              #uuid "805bace7-4667-3eb1-b90b-d680cd215d97"
                              #uuid "28bfd12a-29c7-3b1c-b3b9-2e241ba98ee5"
+                             #uuid "63c5172c-2cbb-310a-aca4-662b40eb7a62"
                              #uuid "da5e5627-3890-3c39-be80-e5d5743f1e06"
                              #uuid "25273b87-935c-3d50-bc2f-3250d7d59e56"
                              #uuid "2aa26e3d-e0d5-373a-a8d6-19fcf73a5e16"
@@ -7618,6 +7598,7 @@
                              #uuid "c91e5a98-0a9d-3c8f-b565-cee332bda8de"
                              #uuid "182deae1-4ea2-3cb6-a9a3-ff03c832e910"
                              #uuid "1ccde006-de3e-3a74-9c21-27ab77c020b3"
+                             #uuid "9a8d8f58-a081-33fa-9ec0-03708b0460cb"
                              #uuid "847843a3-b5a8-3a58-9f2f-f4e12266acc5"
                              #uuid "c09ad586-8d09-38f9-9f2c-e400662588b2"
                              #uuid "ebaa10ce-11ea-31ed-a50f-d83872fa311e"
@@ -7629,7 +7610,6 @@
                              #uuid "ce3bce3c-c108-384a-a773-76f0186b0a7b"
                              #uuid "2bab8462-e6ca-353e-b915-de7eb50087a2"
                              #uuid "ba290158-1610-3e16-94fa-7dedd0ef5e08"
-                             #uuid "9a8d8f58-a081-33fa-9ec0-03708b0460cb"
                              #uuid "9d615452-46ed-3b66-b816-f0820f7a71d8"
                              #uuid "456d479c-8791-3533-bc06-24219803ec40"
                              #uuid "f68e123c-db14-3e0b-a7e7-464a7a13c1c4"

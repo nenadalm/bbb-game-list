@@ -48,7 +48,7 @@
                              :com.boardgamegeek.boardgame/id "130048",
                              :game/name "Activity: Gold Edition",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/PMgcOyRK6XVYnB1MFuhZEw__small/img/4PuGmZpC-8Lzl58glxKZPto7OXc=/fit-in/200x150/filters:strip_icc()/pic2243901.jpg"},
+                             "https://cf.geekdo-images.com/NvQtVid6dLEIqAPJdunbyw__small/img/B_KF2Ij-WtjKigknrdiuy3LI-lg=/fit-in/200x150/filters:strip_icc()/pic9812306.jpg"},
                             #uuid "abe1a4aa-bcd0-3440-8bb5-a57f0dcc37ac"
                             {:game/id
                              #uuid "abe1a4aa-bcd0-3440-8bb5-a57f0dcc37ac",
@@ -475,7 +475,7 @@
                              #uuid "922ebe9d-cf67-3bd3-bebd-adeba294f061",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 5.4,
+                             :com.boardgamegeek.boardgame/rating 5.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2002,
@@ -4558,10 +4558,6 @@
                                                                 2040,
                                                                 :name
                                                                 "Hand Management"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2846,
-                                                                :name
-                                                                "Once-Per-Game Abilities"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2041,
                                                                 :name

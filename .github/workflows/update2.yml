@@ -13,7 +13,7 @@ jobs:
     env:
       JAVA_OPTS: '-Dclojure.main.report=stderr'
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
       - uses: ./.github/actions/setup
       - name: Get month
         id: get-month
@@ -42,7 +42,7 @@ jobs:
     env:
       JAVA_OPTS: '-Dclojure.main.report=stderr'
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
       - uses: ./.github/actions/setup
       - name: Download data
         uses: actions/download-artifact@v8
@@ -55,7 +55,7 @@ jobs:
           echo "month=$(date +%Y-%m)" >> $GITHUB_OUTPUT
           echo "day=$(date +%d)" >> $GITHUB_OUTPUT
         shell: bash
-      - uses: actions/cache/restore@v5
+      - uses: actions/cache/restore@v6
         id: url-cache-restore
         with:
           path: './importer/resources/.cache/url'
@@ -68,7 +68,7 @@ jobs:
         run: |
           cd importer/
           clojure -X app.core/create-data-from-projects-data
-      - uses: actions/cache/save@v5
+      - uses: actions/cache/save@v6
         if: always() && steps.url-cache-restore.outputs.cache-hit != 'true'
         with:
           path: './importer/resources/.cache/url'

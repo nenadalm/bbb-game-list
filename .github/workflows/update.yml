@@ -11,7 +11,7 @@ jobs:
     outputs:
       projects: ${{ steps.get-projects.outputs.projects }}
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
       - uses: ./.github/actions/setup
       - name: Get projects
         id: get-projects
@@ -29,14 +29,14 @@ jobs:
           # zatrolene-hry.cz returns 403 on gh actions
           - project: pnr
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
       - uses: ./.github/actions/setup
       - name: Get month
         id: get-month
         run: |
           echo "day=$(date +%Y-%m)" >> $GITHUB_OUTPUT
         shell: bash
-      - uses: actions/cache@v5
+      - uses: actions/cache@v6
         with:
           path: './importer/resources/.cache/url'
           key: "url-${{ matrix.project }}-${{ steps.get-month.outputs.day }}"
@@ -59,7 +59,7 @@ jobs:
     needs: update
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
       - name: Download data
         uses: actions/download-artifact@v8
         with:

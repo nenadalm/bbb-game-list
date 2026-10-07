@@ -1,11 +1,11 @@
-(ns app.bbb-core
+(ns app.bbb-vrsovice-core
   (:require
    [re-frame.core :as re-frame]
    [reagent.dom :as reagent-dom]
    [app.config :as config]
    [app.views :as views]
    [app.events :as events]
-   [app.bbb-data :as data]))
+   [app.bbb-vrsovice-data :as data]))
 
 (defn- dev-setup []
   (when config/debug?
@@ -13,7 +13,7 @@
 
 (defn mount-root []
   (re-frame/clear-subscription-cache!)
-  (reagent-dom/render [views/app {:source-label "bohemiaboardsandbrews.com"
+  (reagent-dom/render [views/app {:source-label "bohemiaboardsandbrews.com/vrsovice"
                                   :source-url "https://www.bohemiaboardsandbrews.com/knihovna-her"}]
                       (.getElementById js/document "app")))
 

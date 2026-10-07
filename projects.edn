@@ -1,7 +1,11 @@
-[{:title "Games - Bohemia boards and brews"
+[{:title "Games - Bohemia boards and brews (Vršovice)"
   :description "List of games at Bohemia boards and brews."
-  :project "bbb"
-  :label "bohemiaboardsandbrews.com"}
+  :project "bbb_palmovka"
+  :label "bohemiaboardsandbrews.com/palmovka"}
+ {:title "Games - Bohemia boards and brews (Palmovka)"
+  :description "List of games at Bohemia boards and brews."
+  :project "bbb_vrsovice"
+  :label "bohemiaboardsandbrews.com/vrsovice"}
  {:title "Games - Deskohub"
   :description "List of games at Deskohub."
   :project "deskohub"

@@ -4,8 +4,10 @@
 
  :builds
  {:app {:modules {:cljs_base {}
-                  :bbb_app {:entries [app.bbb-core]
-                            :depends-on #{:cljs_base}}
+                  :bbb_palmovka_app {:entries [app.bbb-palmovka-core]
+                                     :depends-on #{:cljs_base}}
+                  :bbb_vrsovice_app {:entries [app.bbb-vrsovice-core]
+                                     :depends-on #{:cljs_base}}
                   :deskohub_app {:entries [app.deskohub-core]
                                  :depends-on #{:cljs_base}}
                   :fyft_app {:entries [app.fyft-core]

@@ -151,13 +151,18 @@
   (println (j/write-value-as-string (mapv :project (get-projects)))))
 
 (defn- filter-projects [project projects]
-  (let [excluded (set (cond-> ["pnr" ;; zatrolene-hry.cz returns 403 on gh actions
-                               ]
-                        project (conj project)))]
-    (filterv
-     (fn [p]
-       (not (excluded (:project p))))
-     projects)))
+  (let [excluded (hash-set
+                  "pnr" ;; zatrolene-hry.cz returns 403 on gh actions
+                  )]
+    (if project
+      (filterv
+       (fn [p]
+         (= project (:project p)))
+       projects)
+      (filterv
+       (fn [p]
+         (not (excluded (:project p))))
+       projects))))
 
 (defn create-projects-data [{:keys [project]}]
   (let [projects (get-projects)

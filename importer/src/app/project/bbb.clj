@@ -1,17 +1,17 @@
 (ns app.project.bbb
   (:require
-   [clojure.string]
+   [clojure.string :as str]
    [clojure.java.io]
    [app.project :as p]))
 
 (def ^:private games-list-url "https://www.bohemiaboardsandbrews.com/knihovna-her")
 
 (def ^:private language->code
-  {"/game-languages/cestina" "cs"
-   "/game-languages/english" "en"
-   "/game-languages/french" "fr"
-   "/game-languages/german" "de"
-   "/game-languages/russian" "ru"})
+  {"/cs/game-languages/cestina" "cs"
+   "/cs/game-languages/english" "en"
+   "/cs/game-languages/french" "fr"
+   "/cs/game-languages/german" "de"
+   "/cs/game-languages/russian" "ru"})
 
 (defn- doc->next-page [doc]
   (when-let [href (not-empty (.attr (.select doc ".w-pagination-next") "href"))]
@@ -43,12 +43,21 @@
               (language->code language language))))
      (.select info-doc "[fs-cmsnest-collection=languages] a"))))
 
+(defn- game->locations [game]
+  (into
+   #{}
+   (map (fn [el]
+          (str/trim (.text el))))
+   (.select game "[fs-cmsfilter-field=location]")))
+
 (defn- game->game-info [game]
-  (let [languages (not-empty (game->languages game))]
+  (let [languages (not-empty (game->languages game))
+        locations (not-empty (game->locations game))]
     (cond->
-     {:name (game->name game)
-      :com.boardgamegeek.boardgame/id (game->id game)}
-      languages (assoc :languages languages))))
+        {:name (game->name game)
+         :com.boardgamegeek.boardgame/id (game->id game)}
+        languages (assoc :languages languages)
+        locations (assoc :locations locations))))
 
 (defn games []
   (loop [url games-list-url

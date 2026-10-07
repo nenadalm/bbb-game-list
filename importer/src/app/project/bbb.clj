@@ -54,10 +54,10 @@
   (let [languages (not-empty (game->languages game))
         locations (not-empty (game->locations game))]
     (cond->
-        {:name (game->name game)
-         :com.boardgamegeek.boardgame/id (game->id game)}
-        languages (assoc :languages languages)
-        locations (assoc :locations locations))))
+     {:name (game->name game)
+      :com.boardgamegeek.boardgame/id (game->id game)}
+      languages (assoc :languages languages)
+      locations (assoc :locations locations))))
 
 (defn games []
   (loop [url games-list-url

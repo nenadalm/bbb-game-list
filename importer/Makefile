@@ -2,3 +2,7 @@
 test:
 	clojure -M:cljfmt check
 	clojure -M:clj-kondo
+
+.PHONY: fix
+fix:
+	clojure -M:cljfmt fix

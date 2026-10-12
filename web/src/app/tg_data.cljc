@@ -941,6 +941,45 @@
                              :game/name "Abyss",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/O9nPs9wrCghDF4izqFtoGQ__small/img/v2bPSjIYCfD7ekFGQswrRLwkonY=/fit-in/200x150/filters:strip_icc()/pic1965255.jpg"},
+                            #uuid "fd23eebc-21f3-3bc0-ad4c-e5ed44993a1d"
+                            {:game/id
+                             #uuid "fd23eebc-21f3-3bc0-ad4c-e5ed44993a1d",
+                             :com.boardgamegeek.boardgame/min-players
+                             1,
+                             :com.boardgamegeek.boardgame/rating 7.5,
+                             :com.boardgamegeek.boardgame/mechanics
+                             (list #:com.boardgamegeek.mechanic{:id
+                                                                2023,
+                                                                :name
+                                                                "Cooperative Game"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2040,
+                                                                :name
+                                                                "Hand Management"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2819,
+                                                                :name
+                                                                "Solo / Solitaire Game"}),
+                             :name "Ace of Spades",
+                             :com.boardgamegeek.boardgame/categories
+                             (list #:com.boardgamegeek.category{:id
+                                                                1055,
+                                                                :name
+                                                                "American West"}
+                                   #:com.boardgamegeek.category{:id
+                                                                1002,
+                                                                :name
+                                                                "Card Game"}),
+                             :com.boardgamegeek.boardgame/max-play-time
+                             45,
+                             :com.boardgamegeek.boardgame/max-players
+                             2,
+                             :com.boardgamegeek.boardgame/min-play-time
+                             40,
+                             :com.boardgamegeek.boardgame/id "429861",
+                             :game/name "Ace of Spades",
+                             :com.boardgamegeek.boardgame/thumbnail
+                             "https://cf.geekdo-images.com/m6Do-APgKAZXZvH5UaWoCQ__small/img/ncloDo0PHRQAp0I5N4QZp7b36MM=/fit-in/200x150/filters:strip_icc()/pic8773199.jpg"},
                             #uuid "323b1ea2-b5f4-3d78-9a10-e59c50de56a2"
                             {:game/id
                              #uuid "323b1ea2-b5f4-3d78-9a10-e59c50de56a2",
@@ -44989,6 +45028,7 @@
                              #uuid "d2c146ec-def1-3163-b6b5-0f4671dce127"
                              #uuid "4ae89b7c-1850-347b-b746-2abedf2c12c6"
                              #uuid "f658cb76-a25e-3167-aaff-697c5d2eb4de"
+                             #uuid "fd23eebc-21f3-3bc0-ad4c-e5ed44993a1d"
                              #uuid "323b1ea2-b5f4-3d78-9a10-e59c50de56a2"
                              #uuid "9289c959-31a0-36c2-b234-2b5c62206d8e"
                              #uuid "9f98920b-8cb0-37ec-8d51-669877717dd9"
@@ -46760,6 +46800,7 @@
                              #uuid "1ee29179-682e-386d-8843-0187c3d52a93"
                              #uuid "4c3accb5-e037-3034-9ab0-b33660f66502"
                              #uuid "d2c146ec-def1-3163-b6b5-0f4671dce127"
+                             #uuid "fd23eebc-21f3-3bc0-ad4c-e5ed44993a1d"
                              #uuid "c3f0245b-acf9-3eb5-9748-a64e5d5d83ca"
                              #uuid "52666523-7b49-34f0-aa87-c130e8f25a41"
                              #uuid "f4d96621-0b6d-3344-afb7-3e790ea3f651"
@@ -47153,6 +47194,7 @@
                              #uuid "ee8cbdce-4ac4-30f3-80ec-81af61580389"
                              #uuid "5efda538-939a-3610-b02a-9145dff33b0d"
                              #uuid "eacd7b54-1c2a-34c6-96a1-f4fa627dddb4"
+                             #uuid "fd23eebc-21f3-3bc0-ad4c-e5ed44993a1d"
                              #uuid "9f98920b-8cb0-37ec-8d51-669877717dd9"
                              #uuid "c3f0245b-acf9-3eb5-9748-a64e5d5d83ca"
                              #uuid "adcdd4a3-2e0e-3be4-b71d-7ec36117aab3"
@@ -48167,6 +48209,7 @@
                              #uuid "9f321448-364f-355a-8a85-ad031a80aa0c"
                              #uuid "955b40d3-9ad1-3926-8c69-e53d0ab8326b"
                              #uuid "aa2a14f6-6296-368a-8fab-970e48ba9430"
+                             #uuid "fd23eebc-21f3-3bc0-ad4c-e5ed44993a1d"
                              #uuid "c3d75f41-0a9b-3ae4-a6bc-05786684d61e"
                              #uuid "3217ce01-8eac-3c72-9a4b-b8d875d52613"
                              #uuid "f4d96621-0b6d-3344-afb7-3e790ea3f651"
@@ -49670,6 +49713,7 @@
                              #uuid "ff06ba4c-17be-35c6-8a0f-a32efafee47c"
                              #uuid "51d46464-461c-397f-96f4-f33e59b79c59"
                              #uuid "9f321448-364f-355a-8a85-ad031a80aa0c"
+                             #uuid "fd23eebc-21f3-3bc0-ad4c-e5ed44993a1d"
                              #uuid "9f98920b-8cb0-37ec-8d51-669877717dd9"
                              #uuid "3cce5f3e-af76-3098-ba8e-28f7bbba3f92"
                              #uuid "68fd8869-3367-3cf1-a4d2-0d59625e87e4"
@@ -50557,6 +50601,7 @@
                              #uuid "1dae3b27-dca3-38c3-aba4-a146347190f9"
                              #uuid "dae098c1-5f0d-34de-b89b-5ba806e2394c"
                              #uuid "2ca189f5-8500-3bf3-99b6-ec3203b0c227"
+                             #uuid "fd23eebc-21f3-3bc0-ad4c-e5ed44993a1d"
                              #uuid "adcdd4a3-2e0e-3be4-b71d-7ec36117aab3"
                              #uuid "cf2fd2ba-1605-386f-8dd7-76ad0be4e361"
                              #uuid "315d240a-a53b-32a7-b131-db1836c44a17"

@@ -18,10 +18,6 @@
   :description "List of games at Geekárna."
   :project "geekarna"
   :label "geekarna.cz"}
- {:title "Games - Herní prostor"
-  :description "List of games at Herní prostor."
-  :project "hp"
-  :label "herniprostor.cz"}
  {:title "Games - Municipal Library of Prague"
   :description "List of games at Municipal Library of Prague"
   :project "mlp"

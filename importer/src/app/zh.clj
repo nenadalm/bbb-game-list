@@ -19,10 +19,11 @@
   (u/retry 3 0 parse-html*))
 
 (defn- cache-url [url content]
-  (cache/store (u/sha1 (str url)) (.outerHTML content)))
+  (cache/store (u/sha1 (str url)) (str content)))
 
 (defn- load-url [url]
-  (Jsoup/parse (cache/load (u/sha1 (str url)))))
+  (some-> (cache/load (u/sha1 (str url)))
+          Jsoup/parse))
 
 (defn parse-cached-html [url]
   (if-let [data (load-url url)]

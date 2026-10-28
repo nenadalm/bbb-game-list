@@ -481,10 +481,6 @@
                                                                 :name
                                                                 "Animals"}
                                    #:com.boardgamegeek.category{:id
-                                                                1002,
-                                                                :name
-                                                                "Card Game"}
-                                   #:com.boardgamegeek.category{:id
                                                                 1084,
                                                                 :name
                                                                 "Environmental"}),
@@ -540,7 +536,7 @@
                              :com.boardgamegeek.boardgame/id "34",
                              :game/name "Arkham Horror",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/AhS53CO05pBagyr9EfRazg__small/img/vkAI2JcO2v2Y_pO1Fi5shUGzCxc=/fit-in/200x150/filters:strip_icc()/pic5747491.jpg"},
+                             "https://cf.geekdo-images.com/ptf7zHFv4Q6W2-DCUIeEuQ__small/img/0u0I5GU299aP1isYPSgUFCv5bMs=/fit-in/200x150/filters:strip_icc()/pic309648.jpg"},
                             #uuid "667e0ced-a3ec-32f8-946a-b20c0f4325bf"
                             {:name "Atraxa, Grand Unifier",
                              :game/id
@@ -783,10 +779,6 @@
                                                                 :name
                                                                 "Collectible Components"}
                                    #:com.boardgamegeek.category{:id
-                                                                1046,
-                                                                :name
-                                                                "Fighting"}
-                                   #:com.boardgamegeek.category{:id
                                                                 1047,
                                                                 :name
                                                                 "Miniatures"}
@@ -1022,6 +1014,10 @@
                              :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                3140,
+                                                                :name
+                                                                "Algorithmic Resolution"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 3004,
                                                                 :name
                                                                 "Deck Construction"}
@@ -1145,7 +1141,7 @@
                              :com.boardgamegeek.boardgame/id "478",
                              :game/name "Citadels",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/shXqRK7Sfsp-jCLwoN3kqw__small/img/Y_o8GdhShAWME_ZH2c7yTxHJIWk=/fit-in/200x150/filters:strip_icc()/pic636868.jpg"},
+                             "https://cf.geekdo-images.com/42iW4E-vOumFXRQAiSf-GA__small/img/lxwVwqIO1RkDyyykSDFnpmwbgyI=/fit-in/200x150/filters:strip_icc()/pic3239104.jpg"},
                             #uuid "cbeff7e7-e8d0-3c89-93db-dc4d79071bb9"
                             {:name "Civilizace",
                              :game/id
@@ -1554,7 +1550,7 @@
                              :com.boardgamegeek.boardgame/max-play-time
                              30,
                              :com.boardgamegeek.boardgame/max-players
-                             6,
+                             8,
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "39856",
@@ -2712,11 +2708,7 @@
                                    #:com.boardgamegeek.category{:id
                                                                 1090,
                                                                 :name
-                                                                "Pirates"}
-                                   #:com.boardgamegeek.category{:id
-                                                                1031,
-                                                                :name
-                                                                "Racing"}),
+                                                                "Pirates"}),
                              :com.boardgamegeek.boardgame/max-play-time
                              60,
                              :com.boardgamegeek.boardgame/max-players
@@ -2966,7 +2958,7 @@
                              :com.boardgamegeek.boardgame/id "129622",
                              :game/name "Love Letter",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/T1ltXwapFUtghS9A7_tf4g__small/img/GtNX7gCmGpw39Tr6JApWC3Aga5U=/fit-in/200x150/filters:strip_icc()/pic1401448.jpg"},
+                             "https://cf.geekdo-images.com/JT_06u5Eung6jueDM3kvpA__small/img/VUGQpV9kneYLvkYYk24dxWWxtjI=/fit-in/200x150/filters:strip_icc()/pic9868049.jpg"},
                             #uuid "5f070415-876d-33b7-83e4-205db0a9cf82"
                             {:name "Lušťovky: expert",
                              :game/id
@@ -3963,7 +3955,7 @@
                              #uuid "148309a1-2159-3de0-816b-266f7301dd3d",
                              :com.boardgamegeek.boardgame/min-players
                              3,
-                             :com.boardgamegeek.boardgame/rating 7.8,
+                             :com.boardgamegeek.boardgame/rating 7.7,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2838,
@@ -4799,7 +4791,7 @@
                              #uuid "caaf8098-6de6-3e85-8a72-40cf404abc7e",
                              :com.boardgamegeek.boardgame/min-players
                              4,
-                             :com.boardgamegeek.boardgame/rating 5.6,
+                             :com.boardgamegeek.boardgame/rating 5.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2891,
@@ -6279,8 +6271,8 @@
                              #uuid "2c43dc7f-08f4-3ad6-a185-fcd54997b760"
                              #uuid "c6206e42-65f6-3881-9892-b36dff0b9df4"
                              #uuid "6e6f4eb8-c896-3609-ae50-49ede7fbf6ad"
-                             #uuid "59f822bc-aa8e-319b-9e63-eb00919b367a"
                              #uuid "caaf8098-6de6-3e85-8a72-40cf404abc7e"
+                             #uuid "59f822bc-aa8e-319b-9e63-eb00919b367a"
                              #uuid "ecfc2dff-e568-310a-a7db-c6d3724cfde2"
                              #uuid "893f9904-93ce-3d3e-bca6-e64d55c0386c"
                              #uuid "6e8ce4f2-3cc4-37b8-9002-721e44843aaf"
@@ -6627,7 +6619,6 @@
                              #uuid "ae767445-c0ab-3c20-a1bf-d310f7e291ee"
                              #uuid "fc4b5160-634a-3e54-b306-97e5771f843c"
                              #uuid "104f4887-a6bd-328c-bbca-6b51911b4a05"
-                             #uuid "69895ff2-b990-3611-827e-f4f7fd32eb8a"
                              #uuid "a528cdc2-c5e5-3afb-8043-1cfa5cde859a"
                              #uuid "c8f93560-ab90-3e08-af95-140ebb860697"
                              #uuid "34a554d0-0c92-34d1-b7e8-78b92ecd459e"
@@ -6652,6 +6643,7 @@
                              #uuid "85574f84-6988-3f70-bc40-ac7e3a7a33d1"
                              #uuid "5b349ead-c3fb-374b-bb6c-47fcc3843355"
                              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a"
+                             #uuid "69895ff2-b990-3611-827e-f4f7fd32eb8a"
                              #uuid "ae0615cd-5ce7-35f2-853a-1aae65d8eaaa"
                              #uuid "cdb9785e-e723-341e-933e-9853dce18179"
                              #uuid "6e6f4eb8-c896-3609-ae50-49ede7fbf6ad"

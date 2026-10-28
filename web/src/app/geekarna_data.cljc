@@ -222,7 +222,7 @@
                              :com.boardgamegeek.boardgame/id "34",
                              :game/name "Arkham Horror",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/AhS53CO05pBagyr9EfRazg__small/img/vkAI2JcO2v2Y_pO1Fi5shUGzCxc=/fit-in/200x150/filters:strip_icc()/pic5747491.jpg"},
+                             "https://cf.geekdo-images.com/ptf7zHFv4Q6W2-DCUIeEuQ__small/img/0u0I5GU299aP1isYPSgUFCv5bMs=/fit-in/200x150/filters:strip_icc()/pic309648.jpg"},
                             #uuid "53864df3-c437-38a7-98e2-b49af714b876"
                             {:game/id
                              #uuid "53864df3-c437-38a7-98e2-b49af714b876",
@@ -1288,7 +1288,7 @@
                              :com.boardgamegeek.boardgame/max-play-time
                              30,
                              :com.boardgamegeek.boardgame/max-players
-                             6,
+                             8,
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "39856",
@@ -4000,7 +4000,7 @@
                              :com.boardgamegeek.boardgame/max-play-time
                              60,
                              :com.boardgamegeek.boardgame/max-players
-                             2,
+                             4,
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "77423",
@@ -5248,7 +5248,6 @@
                              #uuid "81828b40-f940-3ba2-999a-df65d1ece450"
                              #uuid "08566061-0e66-3540-af70-abf304ca9507"
                              #uuid "3992d652-f81d-3e86-bd6e-2e685cb351a3"
-                             #uuid "5cf82140-5ac1-32d4-a0fb-0cdc0068e8b4"
                              #uuid "3d1f92a5-65d3-31a6-9880-236e33c49bf3"
                              #uuid "53864df3-c437-38a7-98e2-b49af714b876"
                              #uuid "3e302b86-f47c-3d22-9b4d-c253439d9970"
@@ -5276,6 +5275,7 @@
                              #uuid "7c3801ac-e417-346c-a923-a047750758ea"
                              #uuid "69f37529-89a4-388b-92b7-e169374ca82a"
                              #uuid "be6b7059-b2f2-3c52-a4ea-6b7cdd82c02c"
+                             #uuid "5cf82140-5ac1-32d4-a0fb-0cdc0068e8b4"
                              #uuid "73bba0c6-77f1-3468-a4ae-f83103e82f9e"
                              #uuid "d34ed6b2-3b28-3d34-85a9-b7b89604e86a"
                              #uuid "4d390101-fc97-388b-b11e-ece5c5f3d615"
@@ -5300,7 +5300,6 @@
                              #uuid "95dbca90-3ebf-3ef6-9601-a650c4f9aa3e"
                              #uuid "13d1736e-1583-3651-b1fe-12dc754ba2b0"
                              #uuid "d533541e-b96f-321a-bd42-08b9ee56f416"
-                             #uuid "69895ff2-b990-3611-827e-f4f7fd32eb8a"
                              #uuid "35af2b0c-b093-3e74-8ed4-e7589938e8ac"
                              #uuid "6e8ce4f2-3cc4-37b8-9002-721e44843aaf"
                              #uuid "21e5a6d1-545b-34f3-8fa9-838272916ed7"
@@ -5318,6 +5317,7 @@
                              #uuid "28e54304-62fc-38c9-9b76-058878323d57"
                              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a"
                              #uuid "489b3ae2-2c96-3502-b825-0636379da46e"
+                             #uuid "69895ff2-b990-3611-827e-f4f7fd32eb8a"
                              #uuid "ca30646c-712d-35a2-ad50-a2003177750f"
                              #uuid "7637a637-6058-32ec-b2bf-3795a79d68bc"
                              #uuid "f5aef75f-0075-3e43-8fd6-40e5917ccbd1"

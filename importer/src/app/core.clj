@@ -151,9 +151,7 @@
   (println (j/write-value-as-string (mapv :project (get-projects)))))
 
 (defn- filter-projects [project projects]
-  (let [excluded (hash-set
-                  "pnr" ;; zatrolene-hry.cz returns 403 on gh actions
-                  )]
+  (let [excluded (hash-set)]
     (if project
       (filterv
        (fn [p]

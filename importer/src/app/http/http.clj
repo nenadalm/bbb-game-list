@@ -33,9 +33,15 @@
       :headers - header map
       :body - string
       :as - :stream
+      :proxy - java.net.Proxy. Doesn't support socks proxy (https://bugs.openjdk.org/browse/JDK-8214516)
       :throw-on-error - boolean"
   [opts]
   (let [client (-> (java.net.http.HttpClient/newBuilder)
+                   (.proxy (if-let [proxyj (:proxy opts)]
+                             (proxy [java.net.ProxySelector] []
+                               (select [uri] (java.util.Collections/singletonList proxyj))
+                               (connectionFailed [uri sa ioe]))
+                             (java.net.ProxySelector/getDefault)))
                    (.build))
         request (-> (java.net.http.HttpRequest/newBuilder)
                     (.uri (java.net.URI/create (:url opts)))

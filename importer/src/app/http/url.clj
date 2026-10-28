@@ -46,10 +46,13 @@
       :headers - header map
       :body - string
       :as - :stream
+      :proxy - java.net.Proxy.
       :throw-on-error - boolean"
   [opts]
   (let [url (let [u (:url opts)] (if (string? u) (java.net.URL. u) u))
-        conn (.openConnection url)]
+        conn (if-let [proxy (:proxy opts)]
+               (.openConnection url proxy)
+               (.openConnection url))]
     (.setRequestMethod conn (:method opts "GET"))
     (doseq [[k v] (:headers opts)]
       (.setRequestProperty conn k v))

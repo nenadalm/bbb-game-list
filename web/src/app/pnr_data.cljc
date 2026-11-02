@@ -339,6 +339,10 @@
                                                                 :name
                                                                 "Events"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                2914,
+                                                                :name
+                                                                "Increase Value of Unchosen Resources"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2871,
                                                                 :name
                                                                 "Kill Steal"}
@@ -510,10 +514,6 @@
                                                                 2041,
                                                                 :name
                                                                 "Open Drafting"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2876,
-                                                                :name
-                                                                "Race"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2004,
                                                                 :name
@@ -10424,7 +10424,7 @@
                              :com.boardgamegeek.boardgame/max-play-time
                              70,
                              :com.boardgamegeek.boardgame/max-players
-                             2,
+                             7,
                              :com.boardgamegeek.boardgame/min-play-time
                              40,
                              :com.boardgamegeek.boardgame/id "366161",
@@ -12047,7 +12047,6 @@
                              #uuid "1f6abbcc-6aa7-3fbf-8c11-f5ea47b5cb4d"
                              #uuid "bf9bf9b2-2886-3710-a8cd-2ab56ce77646"
                              #uuid "796d7bd5-b63e-3115-8d6c-5d889694a7be"
-                             #uuid "0c86876d-01a3-3928-9aa1-97e7df37deca"
                              #uuid "f8283731-6cf2-3086-8140-494037314bf5"
                              #uuid "3a1acd2a-f48b-3114-b132-42b7b94aa4eb"
                              #uuid "0ec4024f-0e85-3ed0-aa2e-5260f718232c"
@@ -12188,6 +12187,7 @@
                              #uuid "eaa9b08c-9718-39e9-84e8-e09ccf855ef0"
                              #uuid "2ca189f5-8500-3bf3-99b6-ec3203b0c227"
                              #uuid "9a217965-2908-38f8-8853-e9ee91b394e1"
+                             #uuid "0c86876d-01a3-3928-9aa1-97e7df37deca"
                              #uuid "28e54304-62fc-38c9-9b76-058878323d57"
                              #uuid "5af4832c-3c6d-3e4b-883d-4fbba7190317"
                              #uuid "5b349ead-c3fb-374b-bb6c-47fcc3843355"

@@ -602,10 +602,6 @@
                                                                 :name
                                                                 "Open Drafting"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                2876,
-                                                                :name
-                                                                "Race"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2004,
                                                                 :name
                                                                 "Set Collection"}
@@ -5131,7 +5127,7 @@
                              #uuid "cdfbfcac-3bb9-3175-9fbd-7e94e4d70789",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 8.6,
+                             :com.boardgamegeek.boardgame/rating 8.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2840,
@@ -7599,8 +7595,8 @@
                              #uuid "0e13524e-0d23-310c-a97e-3ef1583014b4"
                              #uuid "0ec4024f-0e85-3ed0-aa2e-5260f718232c"
                              #uuid "a158211f-0874-3785-acb0-5523c375c109"
-                             #uuid "e6f2b917-44b7-3822-8d49-6493a0458968"
                              #uuid "cdfbfcac-3bb9-3175-9fbd-7e94e4d70789"
+                             #uuid "e6f2b917-44b7-3822-8d49-6493a0458968"
                              #uuid "964e44f0-9422-3d3b-b076-5eb4092e304a"],
                             :com.boardgamegeek.boardgame/min-players
                             [#uuid "c603a175-4569-3510-ad49-bd6e8e9a0c88"

@@ -443,10 +443,6 @@
                                                                 :name
                                                                 "Open Drafting"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                2876,
-                                                                :name
-                                                                "Race"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2004,
                                                                 :name
                                                                 "Set Collection"}
@@ -5369,6 +5365,10 @@
                                                                 2841,
                                                                 :name
                                                                 "Command Cards"}
+                                   #:com.boardgamegeek.mechanic{:id
+                                                                2843,
+                                                                :name
+                                                                "Follow"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2902,
                                                                 :name

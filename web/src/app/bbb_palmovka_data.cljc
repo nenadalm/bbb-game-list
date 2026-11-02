@@ -3522,10 +3522,6 @@
                              :name "Města",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
-                                                                1009,
-                                                                :name
-                                                                "Abstract Strategy"}
-                                   #:com.boardgamegeek.category{:id
                                                                 1029,
                                                                 :name
                                                                 "City Building"}),
@@ -5860,7 +5856,7 @@
                                                                 2082,
                                                                 :name
                                                                 "Worker Placement"}),
-                             :name "Drací v Práci",
+                             :name "Flamecraft",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1089,
@@ -6808,6 +6804,10 @@
                              :name "Krajina Zvířat",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
+                                                                1009,
+                                                                :name
+                                                                "Abstract Strategy"}
+                                   #:com.boardgamegeek.category{:id
                                                                 1089,
                                                                 :name
                                                                 "Animals"}
@@ -7499,10 +7499,6 @@
                              :name "Istanbul",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
-                                                                1052,
-                                                                :name
-                                                                "Arabian"}
-                                   #:com.boardgamegeek.category{:id
                                                                 1021,
                                                                 :name
                                                                 "Economic"}),
@@ -7522,7 +7518,7 @@
                              #uuid "198c5935-64ce-3f5d-b551-ed1c5cc12e43",
                              :com.boardgamegeek.boardgame/min-players
                              4,
-                             :com.boardgamegeek.boardgame/rating 6.3,
+                             :com.boardgamegeek.boardgame/rating 6.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2866,
@@ -10183,7 +10179,7 @@
                              #uuid "f51a5570-62a6-3e9a-971f-503f480b4fbd",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 6.6,
+                             :com.boardgamegeek.boardgame/rating 6.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2040,
@@ -10201,7 +10197,7 @@
                                                                 2686,
                                                                 :name
                                                                 "Take That"}),
-                             :name "Pigeon Explosion",
+                             :name "Holubomby",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1089,
@@ -10222,7 +10218,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "434443",
-                             :languages ["en"],
+                             :languages ["cs"],
                              :game/name "Pigeon Explosion",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/tJAkyZbZ1ehY2RYS3tqoCw__small/img/A2qreCbg1NjkG-F9m0ipjTT7DkE=/fit-in/200x150/filters:strip_icc()/pic8587788.jpg"},
@@ -10452,7 +10448,7 @@
                                                                 2020,
                                                                 :name
                                                                 "Simultaneous Action Selection"}),
-                             :name "Prey Another Day",
+                             :name "Co tě žere",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1089,
@@ -10477,7 +10473,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "234260",
-                             :languages ["cs" "en"],
+                             :languages ["cs"],
                              :game/name "Prey Another Day",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/pfEw73TNwLWHNKwssoI4mg__small/img/uMR-GcpC7W6uJHQW3XZtU0w5Y7U=/fit-in/200x150/filters:strip_icc()/pic7615075.jpg"},
@@ -10689,7 +10685,7 @@
                              #uuid "74e3083f-4bcb-38b4-a7ff-9888df74f0f2",
                              :com.boardgamegeek.boardgame/min-players
                              1,
-                             :com.boardgamegeek.boardgame/rating 7.1,
+                             :com.boardgamegeek.boardgame/rating 7.0,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2999,
@@ -12854,7 +12850,7 @@
                                                                 2017,
                                                                 :name
                                                                 "Voting"}),
-                             :name "Superšpión",
+                             :name "Spyfall",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1023,
@@ -12883,7 +12879,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              15,
                              :com.boardgamegeek.boardgame/id "166384",
-                             :languages ["cs"],
+                             :languages ["en"],
                              :game/name "Spyfall",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/Ehx72XRdSeQHISVXcZVnHg__small/img/sPJVWjzGcEpiseZGdoD6HNR9nRI=/fit-in/200x150/filters:strip_icc()/pic2453926.jpg"},
@@ -14360,10 +14356,6 @@
                              :name "Tokaido Duo",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
-                                                                1115,
-                                                                :name
-                                                                "Religious"}
-                                   #:com.boardgamegeek.category{:id
                                                                 1097,
                                                                 :name
                                                                 "Travel"}),
@@ -14611,7 +14603,7 @@
                                                                 2020,
                                                                 :name
                                                                 "Simultaneous Action Selection"}),
-                             :name "Trial by Trolley",
+                             :name "Komu zvoní tramvaj",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
                                                                 1118,
@@ -14628,7 +14620,7 @@
                              :com.boardgamegeek.boardgame/min-play-time
                              30,
                              :com.boardgamegeek.boardgame/id "282171",
-                             :languages ["en"],
+                             :languages ["cs"],
                              :game/name "Trial by Trolley",
                              :com.boardgamegeek.boardgame/thumbnail
                              "https://cf.geekdo-images.com/r1GDaTzdNoSz2gcZELRFng__small/img/EHxVkr3rv0ag28bTD4nAzDgKklI=/fit-in/200x150/filters:strip_icc()/pic4835109.png"},
@@ -14738,6 +14730,10 @@
                              :name "Tsuro",
                              :com.boardgamegeek.boardgame/categories
                              (list #:com.boardgamegeek.category{:id
+                                                                1009,
+                                                                :name
+                                                                "Abstract Strategy"}
+                                   #:com.boardgamegeek.category{:id
                                                                 1010,
                                                                 :name
                                                                 "Fantasy"}),
@@ -16388,6 +16384,7 @@
                              #uuid "e1d3745d-6aba-36a2-b3b7-2d61e60665cd"
                              #uuid "951e1e39-aaee-343e-a65e-6a27c8538c96"
                              #uuid "c9e680a4-40fb-3a3e-bc38-6556dd90712b"
+                             #uuid "198c5935-64ce-3f5d-b551-ed1c5cc12e43"
                              #uuid "647e229b-c07b-3419-a641-254ed8b96dbd"
                              #uuid "9b6f89e9-4d1f-3225-bb98-6f002cd93509"
                              #uuid "5a156002-5793-338e-9399-def9bfd7eca6"
@@ -16404,7 +16401,6 @@
                              #uuid "f5420b61-5e19-313e-8af2-cf5be82c637b"
                              #uuid "f442518c-c10d-3657-95ec-f4a0709a8f8a"
                              #uuid "8ff4b8ab-16a4-36fd-bd85-8db7a695238e"
-                             #uuid "198c5935-64ce-3f5d-b551-ed1c5cc12e43"
                              #uuid "db6d2f3a-d731-3ddd-9e97-4b857d9ac065"
                              #uuid "77933845-adf8-3758-a686-a08ea46f015e"
                              #uuid "8af65315-b94d-3484-be10-eaf75cc6d55a"
@@ -16431,6 +16427,7 @@
                              #uuid "7661b115-96d9-3de1-822f-75673088403e"
                              #uuid "6de2d947-5379-351e-8015-c1bc84a64883"
                              #uuid "df4c4520-3102-33f1-9a51-ee304c193f23"
+                             #uuid "f51a5570-62a6-3e9a-971f-503f480b4fbd"
                              #uuid "043b00f5-14de-3bb6-a7b6-0124f6d06aba"
                              #uuid "af817d47-9021-3806-800d-7ef8dab08024"
                              #uuid "645ab7f6-09eb-3401-988d-97cd930668c1"
@@ -16445,7 +16442,6 @@
                              #uuid "d8ac8dc4-6760-3f12-96c2-e3420b291781"
                              #uuid "05b86bc1-8bf9-368f-a8af-9003ac8e3733"
                              #uuid "07f37b38-2b05-392e-91fd-d4e76cc7fbf0"
-                             #uuid "f51a5570-62a6-3e9a-971f-503f480b4fbd"
                              #uuid "d99bf95b-4ad1-33ee-a7ea-d22937416cb1"
                              #uuid "e5279fe2-9e7a-313b-9b5d-e2d1f6a1e8db"
                              #uuid "e261ac28-9c39-30db-81d4-e7551f8b4fe6"
@@ -16517,6 +16513,7 @@
                              #uuid "b755730e-e213-3b2e-8031-c6800e3e5a06"
                              #uuid "b75229d9-66a3-3ee4-86f4-e1e5f353d9a4"
                              #uuid "99dffa93-d6fc-38fd-bd70-9cd7b38f2301"
+                             #uuid "74e3083f-4bcb-38b4-a7ff-9888df74f0f2"
                              #uuid "9e1a4efa-fad4-375f-8749-c32a13e6adc7"
                              #uuid "afebfaaf-e838-3b24-b2f8-8013fae2210c"
                              #uuid "01f7b705-9b33-3897-969b-343e8a6e682e"
@@ -16535,7 +16532,6 @@
                              #uuid "9b6a16bf-d509-345b-b432-9d3fdace9fef"
                              #uuid "301d8cba-da8a-326f-98dd-59b5a7e57868"
                              #uuid "54b141a9-4bee-378e-b867-fd1d4729f014"
-                             #uuid "74e3083f-4bcb-38b4-a7ff-9888df74f0f2"
                              #uuid "0ef3c7ad-f9bd-3964-afb0-62c38bee7460"
                              #uuid "4634a6e0-4966-34e2-9444-6dc29ae74e70"
                              #uuid "cc6d3c9f-7a71-39c8-abd4-59a9b3ebf30b"

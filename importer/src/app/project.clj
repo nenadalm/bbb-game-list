@@ -1,4 +1,13 @@
 (ns app.project
+  "Each project can provide following info about games:
+
+  required:
+    :name - name of the game
+
+  optional
+    :languages - vector of available languages (cs, en, ...)
+    :com.boardgamegeek.boardgame/id - id on boardgamegeek.com
+    :thumbnail - photo of the game box"
   (:require
    [app.util :as u]
    [app.http.url :as http])

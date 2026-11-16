@@ -165,14 +165,13 @@
      (take 1))
     names)))
 
-(defn find-game
-  "Returns game with keys `:id`, `:type`, `:name` or `nil`."
+(defn find-games
+  "Returns vector of games with keys `:id`, `:type`, `:name` or `nil` if no games found"
   [name]
   (let [pn (possible-names name)]
-    (first
-     (or
-      (first-result #(some-game-result (search-game-exact %)) pn)
-      (first-result #(one-game-result (search-game-non-exact %) %) pn)))))
+    (or
+     (first-result #(some-game-result (search-game-exact %)) pn)
+     (first-result #(one-game-result (search-game-non-exact %) %) pn))))
 
 (defn- non-zero [x]
   (if (= 0 x) nil x))

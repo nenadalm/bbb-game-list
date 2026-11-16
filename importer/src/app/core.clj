@@ -27,16 +27,16 @@
 (defn- enrich-game-with-uuid [game]
   (assoc game :game/id (uuid/from-string (:game/name game))))
 
-(defn- enrich-game-with-id [game]
+(defn- enrich-game-with-ids [game]
   (if (:com.boardgamegeek.boardgame/id game)
     game
-    (let [found-game (or (some-> (:cz.zatrolene-hry.boardgame/url game)
-                                 zh/game-name
-                                 bgg/find-game)
-                         (bgg/find-game (:name game)))
-          id (:id found-game)]
+    (let [found-games (or (some-> (:cz.zatrolene-hry.boardgame/url game)
+                                  zh/game-name
+                                  bgg/find-games)
+                          (bgg/find-games (:name game)))
+          ids (when found-games (mapv :id found-games))]
       (cond-> game
-        id (assoc :com.boardgamegeek.boardgame/id id)))))
+        ids (assoc :com.boardgamegeek.boardgame/ids ids)))))
 
 (defn- enrich-game-with-name [game]
   (assoc game :game/name (or (:com.boardgamegeek.boardgame/name game) (:name game))))
@@ -72,12 +72,15 @@
     game))
 
 (defn- enrich-games [games]
-  (let [games-with-id (mapv enrich-game-with-id games)
+  (let [games-with-ids (mapv enrich-game-with-ids games)
         bgg-ids (into #{}
                       (comp
-                       (map :com.boardgamegeek.boardgame/id)
+                       (mapcat (fn [game]
+                                 (conj
+                                  (:com.boardgamegeek.boardgame/ids game [])
+                                  (:com.boardgamegeek.boardgame/id game))))
                        (filter some?))
-                      games-with-id)
+                      games-with-ids)
         id->bgg-game (into {}
                            (comp
                             (map (fn [bgg-game]
@@ -85,13 +88,21 @@
                            (bgg/games-details bgg-ids))]
     (mapv
      (fn [game]
-       (-> (merge game (id->bgg-game (:com.boardgamegeek.boardgame/id game)))
+       (-> (if-let [id (:com.boardgamegeek.boardgame/id game)]
+             (merge game (id->bgg-game id))
+             (if-let [;; todo: match games by thumbnails (instead of taking first match)
+                      matched-id (first (:com.boardgamegeek.boardgame/ids game))]
+               (merge
+                game
+                {:com.boardgamegeek.boardgame/id matched-id}
+                (id->bgg-game matched-id))
+               game))
            enrich-game-with-name
            enrich-game-with-uuid
            sort-game-categories
            sort-game-mechanics
            frontend-game))
-     games-with-id)))
+     games-with-ids)))
 
 (defn- file->ns [s]
   (str/replace s "_" "-"))

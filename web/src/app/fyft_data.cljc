@@ -406,13 +406,13 @@
                              :languages ["en"],
                              :game/name "Arcs",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/XWImAu_3RK61wbzcKboVdA__small/img/Ry-6KHwNgERWadyxs1X1_P3dMvY=/fit-in/200x150/filters:strip_icc()/pic8145530.png"},
+                             nil},
                             #uuid "b4f41567-772b-3138-88ba-70d5964ad01b"
                             {:game/id
                              #uuid "b4f41567-772b-3138-88ba-70d5964ad01b",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.9,
+                             :com.boardgamegeek.boardgame/rating 7.8,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2875,
@@ -2407,6 +2407,10 @@
                                                                 :name
                                                                 "Hand Management"}
                                    #:com.boardgamegeek.mechanic{:id
+                                                                3000,
+                                                                :name
+                                                                "Hot Potato"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2685,
                                                                 :name
                                                                 "Player Elimination"}
@@ -2678,10 +2682,6 @@
                                                                 2664,
                                                                 :name
                                                                 "Deck, Bag, and Pool Building"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2824,
-                                                                :name
-                                                                "Legacy Game"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2822,
                                                                 :name
@@ -4665,7 +4665,7 @@
                              :languages ["en"],
                              :game/name "Secret Hitler",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/rAQ3hIXoH6xDcj41v9iqCg__small/img/xA2T7PiwN3Z8pwAksicoCOA1tf0=/fit-in/200x150/filters:strip_icc()/pic5164305.jpg"},
+                             "https://cf.geekdo-images.com/NSHhYZa7alkBYHqKzVwSIQ__small/img/xW_9KATDskdCSjcujBF_Injx5Rk=/fit-in/200x150/filters:strip_icc()/pic9911416.jpg"},
                             #uuid "155f8e1b-669d-370f-8f14-bb7b05145fe4"
                             {:languages ["en"],
                              :name "Shit Happens A Game to Die For",
@@ -7198,8 +7198,8 @@
                              #uuid "f34c07d8-a2a8-3a10-8e63-5059a3e9e35c"
                              #uuid "249d39f7-a5f3-3211-872d-b2ef71a7b196"
                              #uuid "99060139-4d5e-36c5-9110-0c35b80fc62b"
-                             #uuid "54c50c24-6cf7-35b1-9966-0eddfdef2895"
                              #uuid "b4f41567-772b-3138-88ba-70d5964ad01b"
+                             #uuid "54c50c24-6cf7-35b1-9966-0eddfdef2895"
                              #uuid "c180dcbb-f5dd-3cdf-acb3-dfe83bc594ec"
                              #uuid "e9d7e4f3-6f6a-3f9d-9321-3e41aeda168a"
                              #uuid "9fa3f01d-ac6e-3690-9837-54da6c87150f"

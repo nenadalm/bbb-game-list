@@ -403,6 +403,10 @@
                              :com.boardgamegeek.boardgame/rating 8.5,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
+                                                                2924,
+                                                                :name
+                                                                "Auction: Dutch"}
+                                   #:com.boardgamegeek.mechanic{:id
                                                                 2912,
                                                                 :name
                                                                 "Contracts"}
@@ -2469,10 +2473,6 @@
                                                                 2664,
                                                                 :name
                                                                 "Deck, Bag, and Pool Building"}
-                                   #:com.boardgamegeek.mechanic{:id
-                                                                2824,
-                                                                :name
-                                                                "Legacy Game"}
                                    #:com.boardgamegeek.mechanic{:id
                                                                 2822,
                                                                 :name

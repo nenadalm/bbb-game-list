@@ -2082,10 +2082,6 @@
                                                                 :name
                                                                 "Deck, Bag, and Pool Building"}
                                    #:com.boardgamegeek.mechanic{:id
-                                                                2824,
-                                                                :name
-                                                                "Legacy Game"}
-                                   #:com.boardgamegeek.mechanic{:id
                                                                 2822,
                                                                 :name
                                                                 "Scenario / Mission / Campaign Game"}
@@ -3418,7 +3414,7 @@
                              :com.boardgamegeek.boardgame/id "188834",
                              :game/name "Secret Hitler",
                              :com.boardgamegeek.boardgame/thumbnail
-                             "https://cf.geekdo-images.com/rAQ3hIXoH6xDcj41v9iqCg__small/img/xA2T7PiwN3Z8pwAksicoCOA1tf0=/fit-in/200x150/filters:strip_icc()/pic5164305.jpg"},
+                             "https://cf.geekdo-images.com/NSHhYZa7alkBYHqKzVwSIQ__small/img/xW_9KATDskdCSjcujBF_Injx5Rk=/fit-in/200x150/filters:strip_icc()/pic9911416.jpg"},
                             #uuid "01f7b705-9b33-3897-969b-343e8a6e682e"
                             {:game/id
                              #uuid "01f7b705-9b33-3897-969b-343e8a6e682e",
@@ -3875,7 +3871,7 @@
                              #uuid "69f37529-89a4-388b-92b7-e169374ca82a",
                              :com.boardgamegeek.boardgame/min-players
                              2,
-                             :com.boardgamegeek.boardgame/rating 7.4,
+                             :com.boardgamegeek.boardgame/rating 7.3,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2001,
@@ -4128,7 +4124,7 @@
                              #uuid "c777f70d-7ada-3af1-b9a3-1fc046b73436",
                              :com.boardgamegeek.boardgame/min-players
                              4,
-                             :com.boardgamegeek.boardgame/rating 7.1,
+                             :com.boardgamegeek.boardgame/rating 7.2,
                              :com.boardgamegeek.boardgame/mechanics
                              (list #:com.boardgamegeek.mechanic{:id
                                                                 2891,
@@ -5071,21 +5067,21 @@
                              #uuid "9a217965-2908-38f8-8853-e9ee91b394e1"
                              #uuid "01f7b705-9b33-3897-969b-343e8a6e682e"
                              #uuid "48309f49-6981-3784-80f4-f8b7cff15c98"
-                             #uuid "c777f70d-7ada-3af1-b9a3-1fc046b73436"
                              #uuid "ea2abdf4-a5ae-3c18-be7b-bd2db0068ddb"
                              #uuid "09e5f433-97a3-3ad6-9b68-bdf13de8b8fa"
                              #uuid "0727c24e-c484-3017-9850-a0e366a7dd42"
                              #uuid "69895ff2-b990-3611-827e-f4f7fd32eb8a"
                              #uuid "aa23ea23-6fb1-3cf5-a359-aa1378577495"
+                             #uuid "c777f70d-7ada-3af1-b9a3-1fc046b73436"
                              #uuid "d34ed6b2-3b28-3d34-85a9-b7b89604e86a"
                              #uuid "22806fca-d16c-38ed-8bec-c2f2b76d18ce"
                              #uuid "33ef9db6-536f-307e-9b5a-71695627acc0"
                              #uuid "c0755e4b-2acc-34dc-8e23-68825e95b8dc"
+                             #uuid "69f37529-89a4-388b-92b7-e169374ca82a"
                              #uuid "bc6235a4-d8ed-3225-86d0-ce30fcb2da6a"
                              #uuid "06e9bd9c-0975-32da-acdf-2b1942d57f1e"
                              #uuid "0d1b6d3d-ebd1-3c17-b456-ebfda8a15e20"
                              #uuid "568da493-2833-3009-ad26-7108e0683081"
-                             #uuid "69f37529-89a4-388b-92b7-e169374ca82a"
                              #uuid "24a04d97-a632-349a-b9b1-bb49af1a096a"
                              #uuid "d5380d3b-56d5-3783-a863-1af12c39f5c7"
                              #uuid "5b444b22-2047-3124-af08-48687f72a6b5"

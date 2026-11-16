@@ -29,7 +29,7 @@
 
 (defn- game->id [game]
   (let [href (-> game
-                 (.select ".content-card")
+                 (.select ".content-card .button")
                  (.attr "href"))]
     (second (re-find #"/(\d+)/" href))))
 

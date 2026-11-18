@@ -62,12 +62,16 @@ jobs:
           key: "url-${{ steps.get-month.outputs.month }}-${{ steps.get-month.outputs.day }}"
           restore-keys: |
             url-${{ steps.get-month.outputs.month }}-
+      - name: Install opencv
+        run: |
+          sudo apt update
+          sudo apt install --no-install-recommends libopencv-java
       - name: Create data from project data
         env:
           BGG_TOKEN: ${{ secrets.BGG_TOKEN }}
         run: |
           cd importer/
-          clojure -X app.core/create-data-from-projects-data
+          clojure -Sdeps deps.ubuntu.edn -X app.core/create-data-from-projects-data
       - uses: actions/cache/save@v6
         if: always() && steps.url-cache-restore.outputs.cache-hit != 'true'
         with:

@@ -2,6 +2,12 @@
 
 Downloads game list from various sites and enriches it with data from https://boardgamegeek.com/
 
+## requirements
+
+```shell
+dnf install --setopt=install_weak_deps=False opencv-java
+```
+
 ## Import data
 
 First you need to have [cli-tools](https://clojure.org/guides/getting_started#_installation_on_linux) installed. Then run following script to put game data into data.cljs.

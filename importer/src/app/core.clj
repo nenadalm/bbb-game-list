@@ -9,7 +9,8 @@
    [clojure.edn :as edn]
    [clojure.string :as str]
    [clojure.java.io :as io]
-   [jsonista.core :as j]))
+   [jsonista.core :as j]
+   [app.opencv :as opencv]))
 
 (defn- tap [x]
   (binding [*out* *err*]
@@ -71,16 +72,31 @@
             #(sort-by (comp clojure.string/lower-case :com.boardgamegeek.category/name) %))
     game))
 
+(defn- extract-bgg-ids [games]
+  (into #{}
+        (comp
+         (mapcat (fn [game]
+                   (conj
+                    (:com.boardgamegeek.boardgame/ids game [])
+                    (:com.boardgamegeek.boardgame/id game))))
+         (filter some?))
+        games))
+
+(defn- best-match [game possible-bgg-games]
+  (or
+   (let [game-image (opencv/url->image (:thumbnail game))]
+     (some
+      (fn [possible-match]
+        (when (opencv/same?
+               game-image
+               (opencv/url->image (:com.boardgamegeek.boardgame/thumbnail possible-match)))
+          possible-match))
+      possible-bgg-games))
+   (first possible-bgg-games)))
+
 (defn- enrich-games [games]
   (let [games-with-ids (mapv enrich-game-with-ids games)
-        bgg-ids (into #{}
-                      (comp
-                       (mapcat (fn [game]
-                                 (conj
-                                  (:com.boardgamegeek.boardgame/ids game [])
-                                  (:com.boardgamegeek.boardgame/id game))))
-                       (filter some?))
-                      games-with-ids)
+        bgg-ids (extract-bgg-ids games-with-ids)
         id->bgg-game (into {}
                            (comp
                             (map (fn [bgg-game]
@@ -90,12 +106,11 @@
      (fn [game]
        (-> (if-let [id (:com.boardgamegeek.boardgame/id game)]
              (merge game (id->bgg-game id))
-             (if-let [;; todo: match games by thumbnails (instead of taking first match)
-                      matched-id (first (:com.boardgamegeek.boardgame/ids game))]
+             (if-let [matched-id (first (:com.boardgamegeek.boardgame/ids game))]
                (merge
                 game
                 {:com.boardgamegeek.boardgame/id matched-id}
-                (id->bgg-game matched-id))
+                (best-match game (mapv id->bgg-game (:com.boardgamegeek.boardgame/ids game))))
                game))
            enrich-game-with-name
            enrich-game-with-uuid

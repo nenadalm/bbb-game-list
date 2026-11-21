@@ -5,7 +5,6 @@
    [org.opencv.imgcodecs Imgcodecs]
    [org.opencv.imgproc Imgproc]
    [org.opencv.features2d ORB DescriptorMatcher]
-   [org.opencv.highgui HighGui]
    [java.util ArrayList]))
 
 (clojure.lang.RT/loadLibrary Core/NATIVE_LIBRARY_NAME)
@@ -84,11 +83,6 @@
 (defn same? [image1 image2]
   (when (and image1 image2)
     (< 10 (homography-inliers image1 image2))))
-
-(defn- show-image [mat]
-  (HighGui/imshow "image" mat)
-  (HighGui/waitKey)
-  (HighGui/destroyAllWindows))
 
 (comment
   ;; bgg-path

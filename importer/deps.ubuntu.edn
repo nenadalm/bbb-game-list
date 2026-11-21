@@ -1,3 +1,0 @@
-{:deps {org.opencv/opencv {:local/root "/usr/share/java/opencv.jar"}}
- :aliases
- {:opencv {:jvm-opts ["-Djava.library.path=/usr/lib/jni"]}}}
